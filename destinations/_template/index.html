@@ -6,6 +6,7 @@
   <!-- TODO: replace CITY / COUNTRY / MONTH YEAR -->
   <title>CITY Month YYYY · Family Itineraries</title>
   <meta name="description" content="Itinerary for CITY, COUNTRY — Month YYYY.">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
   <link rel="stylesheet" href="../../assets/css/style.css">
 </head>
 <body>
@@ -36,6 +37,7 @@
         <li><a href="#flights">Flights</a></li>
         <li><a href="#accommodation">Accommodation</a></li>
         <li><a href="#days">Day-by-day</a></li>
+        <li><a href="#map">Map</a></li>
         <li><a href="#bookings">Bookings to make</a></li>
         <li><a href="#budget">Budget</a></li>
         <li><a href="#practical">Practical info</a></li>
@@ -89,7 +91,14 @@
       </details>
     </section>
 
-    <!-- 6. Bookings to make -->
+    <!-- 6. Map: markers come from pois.js in this folder -->
+    <section id="map">
+      <h2>🗺️ Map</h2>
+      <div data-trip-map></div>
+      <noscript><p>The map needs JavaScript. Use the Google Maps links in the day-by-day plan.</p></noscript>
+    </section>
+
+    <!-- 7. Bookings to make -->
     <section id="bookings">
       <h2>✅ Bookings to make</h2>
       <ul class="checklist">
@@ -99,7 +108,7 @@
       </ul>
     </section>
 
-    <!-- 7. Budget -->
+    <!-- 8. Budget -->
     <section id="budget">
       <h2>💰 Budget</h2>
       <div class="table-wrap"><table>
@@ -114,7 +123,7 @@
       </table></div>
     </section>
 
-    <!-- 8. Practical info -->
+    <!-- 9. Practical info -->
     <section id="practical">
       <h2>ℹ️ Practical info</h2>
       <ul>
@@ -127,7 +136,7 @@
       </ul>
     </section>
 
-    <!-- 9. Emergency info (public numbers only — no personal data) -->
+    <!-- 10. Emergency info (public numbers only — no personal data) -->
     <section id="emergency">
       <h2>🚑 Emergency info</h2>
       <ul>
@@ -138,7 +147,7 @@
       </ul>
     </section>
 
-    <!-- 10. Packing notes (trip-specific additions to docs/packing-list.md) -->
+    <!-- 11. Packing notes (trip-specific additions to docs/packing-list.md) -->
     <section id="packing">
       <h2>🎒 Packing notes</h2>
       <p>Base list: <a href="../../docs/packing-list.md">docs/packing-list.md</a>. Extras for this trip:</p>
@@ -150,5 +159,8 @@
     <div class="container"><a href="../../index.html">← Back to all trips</a> · Last updated: YYYY-MM-DD</div>
   </footer>
   <script src="../../assets/js/main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="pois.js"></script>
+  <script src="../../assets/js/map.js"></script>
 </body>
 </html>

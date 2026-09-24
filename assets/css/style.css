@@ -11,6 +11,17 @@
   --accent-contrast: #ffffff;
   --link: #0b6b63;
 
+  /* Map marker colours, one per itinerary day */
+  --day-1: #2563eb;
+  --day-2: #16a34a;
+  --day-3: #db2777;
+  --day-4: #ea580c;
+  --day-5: #7c3aed;
+  --day-6: #0891b2;
+  --day-7: #ca8a04;
+  --day-opt: #6b7280;
+  --day-base: #1f2328;
+
   --status-idea: #6b7280;
   --status-planning: #b45309;
   --status-booked: #15803d;
@@ -39,6 +50,7 @@
     --status-booked: #4ade80;
     --status-completed: #9ca3af;
     --shadow: none;
+    --day-base: #e8e6e1;
   }
 }
 
@@ -57,6 +69,7 @@
   --status-booked: #4ade80;
   --status-completed: #9ca3af;
   --shadow: none;
+  --day-base: #e8e6e1;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -267,6 +280,101 @@ details.day .day-body ul { padding-left: 20px; }
   padding: 16px 0 32px;
 }
 
+/* ---------- Trip map ---------- */
+
+.map-toggle {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.map-toggle button {
+  font: inherit;
+  font-size: 0.9rem;
+  padding: 6px 14px;
+  border: 0;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+.map-toggle button[aria-pressed="true"] {
+  background: var(--accent);
+  color: var(--accent-contrast);
+  font-weight: 600;
+}
+
+.map-canvas {
+  height: 420px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--surface-2);
+}
+@media (max-width: 520px) { .map-canvas { height: 360px; } }
+.map-canvas[hidden] { display: none; }
+.map-google iframe { width: 100%; height: 100%; border: 0; display: block; }
+.map-setup { padding: 16px; overflow-y: auto; height: 100%; }
+.map-setup ol { padding-left: 20px; }
+.map-fallback { padding: 16px; color: var(--muted); }
+
+.map-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  margin: 10px 0 4px;
+  font-size: 0.9rem;
+}
+.map-legend[hidden] { display: none; }
+.legend-item { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+.legend-item input { margin: 0; }
+
+.map-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; }
+.btn-small {
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 4px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+.btn-small:hover { border-color: var(--accent); }
+.btn-small[hidden] { display: none; }
+.map-hint { color: var(--muted); font-size: 0.85rem; margin: 4px 0 0; }
+
+/* Marker pins (Leaflet divIcon). Colour comes from the day tokens above. */
+.poi-pin {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  color: #fff;
+  font: 700 13px/1 var(--font);
+  background: var(--day-opt);
+}
+.poi-pin.legend-pin { width: 14px; height: 14px; border-width: 1px; box-shadow: none; }
+.poi-1 { background: var(--day-1); }
+.poi-2 { background: var(--day-2); }
+.poi-3 { background: var(--day-3); }
+.poi-4 { background: var(--day-4); }
+.poi-5 { background: var(--day-5); }
+.poi-6 { background: var(--day-6); }
+.poi-7 { background: var(--day-7); }
+.poi-opt { background: var(--day-opt); }
+.poi-base { background: var(--day-base); color: var(--bg); font-size: 14px; }
+
+/* Leaflet popups follow the site theme */
+.leaflet-container { font-family: var(--font); }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface); color: var(--text); }
+.leaflet-popup-content { line-height: 1.5; }
+.popup-day { color: var(--muted); font-size: 0.85rem; }
+
 /* ---------- Print ---------- */
 
 @media print {
@@ -274,7 +382,7 @@ details.day .day-body ul { padding-left: 20px; }
     --bg: #fff; --surface: #fff; --surface-2: #f4f4f4;
     --text: #000; --muted: #444; --border: #ccc; --link: #000;
   }
-  .site-header, .toc, .no-print { display: none !important; }
+  .site-header, .toc, .no-print, .map-toggle, .map-hint { display: none !important; }
   details.day { break-inside: avoid; box-shadow: none; }
   details.day > summary::before { content: ""; }
   a { text-decoration: none; }
