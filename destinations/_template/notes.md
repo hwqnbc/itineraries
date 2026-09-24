@@ -1,7 +1,6 @@
 # CITY, COUNTRY — Month YYYY
 
-Participants: default-family
-Status: Idea
+<!-- Participants and status live in trip.md (front matter), not here. -->
 
 ## Trip-specific overrides
 Changes to the participant profile for this trip only (e.g. someone else joins, an injury, a must-do).

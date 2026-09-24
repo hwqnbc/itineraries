@@ -1,7 +1,6 @@
 # Taipei, Taiwan — June 2027
 
-Participants: default-family
-Status: Planning
+<!-- Participants and status live in trip.md (front matter), not here. -->
 
 ## Trip-specific overrides
 - None yet.
@@ -19,6 +18,7 @@ Status: Planning
 | 2026-09-23 | First draft: 6 days, animals and theme parks | Matches the child's interests |
 | 2026-09-24 | Added trip map (pois.js) with Google My Maps toggle | Plan by location; optional Google map for phone use |
 | 2026-09-24 | Notes, packing list and profile published as HTML pages | Easier to read than raw markdown |
+| 2026-09-24 | Trip page moved to trip.md (generated at deploy) | Markdown is the single source for agents |
 
 ## Open questions
 - Exact dates and length of the trip?

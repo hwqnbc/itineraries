@@ -5,30 +5,24 @@
    ```bash
    cp -r destinations/_template destinations/seoul-2028-04
    ```
-3. **Fill in `notes.md` first:**
-   - Set `Participants:` to a profile in `docs/participants/`. Create a new profile if the group is different.
-   - Add any trip-specific overrides.
-   - Set `Status:`.
-4. **Edit `index.html`:**
-   - Replace every `CITY`, `COUNTRY`, `Month YYYY` and flag placeholder, including in `<title>` and the breadcrumb.
-   - Set the status badge class and text.
-   - Fill in the sections. Leave unknowns as `TBD` and mark changeable facts with `<span class="verify"></span>`.
-   - Update **Last updated** in the footer.
+3. **Edit `trip.md`:**
+   - Fill in the front matter: `title`, `short`, `flag`, `status`, `start`, `dates`, `card`, `tagline`, `participants`, `updated`. See `docs/conventions.md`.
+   - Set `participants:` to a profile in `docs/participants/`. Create a new profile if the group is different.
+   - Fill in the sections, keeping every `{#id}`. Leave unknowns as `TBD`, and mark changeable facts with `{verify}`.
+   - Write one `### Day N · Theme` per day, and link places with `[Place](map:)`.
+4. **Edit `notes.md`:** trip-specific overrides to the profile, research, and the decisions log.
 5. **Edit `pois.js`:**
    - Set `title` and `slug` (the folder name), and the short `days` titles.
    - Add a place for every stop in the day-by-day plan, plus the hotel area and airport.
    - Optional: once the plan is stable, create a Google My Map from the KML download and paste its embed URL into `myMapsEmbedUrl`.
-6. **Add a card to the home page** (`index.html` at the repo root) under **Upcoming**, sorted soonest-first. Copy an existing `<a class="trip-card">` block.
-7. **Check:**
-   - Build and serve: `python3 tools/build.py --check && python3 -m http.server 8000 -d _site`, then visit http://localhost:8000.
-   - The "Planning notes" link opens the generated notes page.
-   - The 🏠 Home button works.
-   - The card on the home page opens the new page.
+6. **Build and check:**
+   - `python3 tools/build.py --check && python3 -m http.server 8000 -d _site`, then visit http://localhost:8000.
+   - The new trip's card appears on the home page (it's generated) and opens the page.
+   - The 🏠 Home button, the "Planning notes" link and the participants link work.
    - The map shows every marker, and the legend toggles work.
    - Nothing scrolls sideways on a phone-sized window.
-8. **Commit** with a message like `Add Seoul April 2028 itinerary`.
+7. **Commit** with a message like `Add Seoul April 2028 itinerary`.
 
 ## When a trip is finished
-- Change the status to **Completed** on the page and on its card.
-- Move the card from **Upcoming** to **Past** on the home page.
+- Set `status: completed` in `trip.md`. The card moves to **Past** automatically.
 - Add a short "What worked / what we'd change" note to its `notes.md`. It feeds into the participant profile for future trips.

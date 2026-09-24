@@ -5,58 +5,87 @@ These rules keep every trip page consistent. `CLAUDE.md` gives the short version
 ## Folder & file naming
 - Destination folders go in `destinations/` and are named `<city>-<YYYY>-<MM>` in lowercase with hyphens. Examples: `taipei-2027-06`, `tokyo-2028-12`. Use the start month.
 - Each destination folder holds:
-  - `index.html`: the itinerary page (always this name)
-  - `notes.md`: participants, overrides, research, decisions, open questions
+  - `trip.md`: the itinerary (becomes `index.html`)
+  - `notes.md`: overrides, research, decisions, open questions (becomes `notes.html`)
   - `pois.js`: places shown on the trip map (see **Trip map** below)
   - `img/` (optional): images for this trip only, compressed to under 300 KB each
-- Shared files go in `assets/`: `css/style.css`, `js/main.js`, `img/`.
+- Shared files go in `assets/`: `css/style.css`, `js/main.js`, `js/map.js`, `img/`.
 - Docs go in `docs/`. Participant profiles go in `docs/participants/`.
 
-## Generated pages
-The site is built by `tools/build.py` (run automatically on every push to `main`). Markdown stays the source; these files become HTML pages with the site header, Home button and styles:
+## How the site is built
+`tools/build.py` runs on every push to `main` (and locally with `python3 tools/build.py --check`). It copies the static files into `_site/` and generates:
 
 | Source | Published page | Linked from |
 |--------|----------------|-------------|
+| `destinations/<trip>/trip.md` | `destinations/<trip>/index.html` + a card on the home page | Home page |
+| `destinations/<trip>/notes.md` | `destinations/<trip>/notes.html` | The trip's "📝 Planning notes" link |
 | `docs/packing-list.md` | `docs/packing-list.html` | Each trip's Packing notes |
 | `docs/participants/<name>.md` | `docs/participants/<name>.html` | Each trip's Participants line |
-| `destinations/<trip>/notes.md` | `destinations/<trip>/notes.html` | Each trip's "Planning notes" link |
 
-- `- [ ]` items become tickable checkboxes, remembered in the viewer's browser.
-- A line `Participants: <name>` in notes.md becomes a link to that profile.
-- Raw `.md` files, `tools/`, `CLAUDE.md`, `README.md` and `destinations/_template/` are **not** published.
-- To add another generated page, add it to `pages_to_generate()` in `tools/build.py`.
+Every generated page shares `tools/templates/page.html`: the header with the 🏠 Home button, breadcrumb, stylesheet and footer.
+
+Raw `.md` files, `tools/`, `CLAUDE.md`, `README.md`, `docs/conventions.md`, `docs/new-destination.md`, `docs/participants/README.md` and `destinations/_template/` are **not** published.
+
+To add another kind of generated page, add it to `doc_pages()` in `tools/build.py`.
+
+## trip.md format
+
+### Front matter
+```yaml
+---
+title: Taipei, Taiwan            # page heading and card title
+short: Taipei June 2027          # breadcrumb, browser tab, notes page title
+flag: 🇹🇼
+status: planning                 # idea | planning | booked | completed
+start: 2027-06                   # YYYY-MM or YYYY-MM-DD — sorts the home cards
+dates: June 2027 · exact dates TBD (6-day draft)   # shown on the trip page
+card: June 2027 · 6 days (draft) # shown on the home card
+tagline: Zoo, farm animals & theme parks           # optional, shown on the home card
+participants: default-family     # a file in docs/participants/
+updated: 2026-09-24              # footer "Last updated"
+---
+```
+Values are plain text on one line. A `# comment` after a value is ignored.
+
+### Body
+- Text before the first `##` is the **lede**. Its first paragraph is styled as the intro, and a `> blockquote` becomes the callout box.
+- Then these sections, **in this order**, each with its id:
+
+| # | Heading (emoji optional) | id |
+|---|--------------------------|----|
+| 1 | `## 👪 Who's going` | `{#whos-going}` |
+| 2 | `## ✈️ Flights` | `{#flights}` |
+| 3 | `## 🏨 Accommodation` | `{#accommodation}` |
+| 4 | `## 🗓️ Day-by-day` | `{#days}` |
+| 5 | `## 🗺️ Map` | `{#map}` |
+| 6 | `## ✅ Bookings to make` | `{#bookings}` |
+| 7 | `## 💰 Budget` | `{#budget}` |
+| 8 | `## ℹ️ Practical info` | `{#practical}` |
+| 9 | `## 🚑 Emergency info` | `{#emergency}` |
+| 10 | `## 🎒 Packing notes` | `{#packing}` |
+
+- The build fails with a clear message if a section is missing, out of order, or unknown. Write `TBD` rather than deleting one.
+- The build adds the h1, status badge, dates, participants link, Planning notes link, contents list and footer. Don't write them yourself.
+- **Day-by-day:** one `### Day N · Theme` per day. Each becomes a collapsible day, with Day 1 open. Any other `###` (e.g. `### Swap-in options`) stays a normal heading.
+- **Map:** the section body can stay empty. The build inserts the map when the trip has a `pois.js`.
+
+### Shorthands (all generated pages)
+| Write | Get |
+|-------|-----|
+| `{verify}` | The orange VERIFY chip |
+| `[Taipei Zoo](map:)` | Google Maps search for "Taipei Zoo" |
+| `[Xpark](map:Xpark+Taoyuan)` | Google Maps search for "Xpark Taoyuan" |
+| `- [ ] Book flights` | Tickable checkbox, remembered in the viewer's browser |
+| `[Base packing list](../../docs/packing-list.md)` | A link to the generated `.html` page |
 
 ## Links
-- Link to generated pages by their `.html` name (e.g. `../../docs/packing-list.html`), never to the `.md`.
-- Use **relative links only**, e.g. `../../index.html`. Never use a leading `/`, which breaks on GitHub Pages project sites and when a file is opened locally.
-- In the day-by-day plan, link places to Google Maps with `https://www.google.com/maps/search/?api=1&query=<Place+Name>`. The only map on a page is the shared trip map (below).
+- Link to other docs by their `.md` path; the build rewrites these links to `.html`.
+- Use **relative links only**, e.g. `../../docs/packing-list.md`. Never use a leading `/`, which breaks on GitHub Pages project sites. `--check` fails on absolute or broken links.
+- Link places with the `map:` shorthand. The only embedded map on a page is the shared trip map.
 - External links go to official sites where possible.
 
-## Destination page structure
-Every destination page starts from `destinations/_template/index.html` and keeps:
-1. The **header** with the `🏠 Home` button (`../../index.html`) and a breadcrumb. **Required.**
-2. These sections, with these ids, in this order:
-
-| # | Section | id |
-|---|---------|----|
-| 1 | Overview & dates (h1, status, dates, participants) | `overview` |
-| 2 | Who's going | `whos-going` |
-| 3 | Flights | `flights` |
-| 4 | Accommodation | `accommodation` |
-| 5 | Day-by-day (one `<details class="day">` per day) | `days` |
-| 6 | Map (`<div data-trip-map>`) | `map` |
-| 7 | Bookings to make (`ul.checklist`) | `bookings` |
-| 8 | Budget | `budget` |
-| 9 | Practical info | `practical` |
-| 10 | Emergency info | `emergency` |
-| 11 | Packing notes | `packing` |
-
-3. A footer with "← Back to all trips" and a **Last updated** date.
-
-Leave a section as "TBD" rather than deleting it.
-
 ## Trip map
-- Every trip page has a **Map** section rendered by `assets/js/map.js`, using the places in that trip's `pois.js`.
+- The **Map** section is rendered by `assets/js/map.js`, using the places in that trip's `pois.js`.
 - Each place in `pois.js` has `name`, `lat`, `lng`, `type`, and usually `day` and `note`:
   - `day: 1`, `2`, … puts the marker in that day's colour (days 1–7 have colours).
   - `day: "opt"` is for swap-in options (grey ★).
@@ -67,24 +96,24 @@ Leave a section as "TBD" rather than deleting it.
 - **Google My Maps toggle:** the map has a *Google My Maps* tab. To use it, press *Download KML*, import the file into Google My Maps, share the map publicly, and paste its embed URL into `myMapsEmbedUrl` in `pois.js`. The Google map is maintained by hand, so re-import the KML after big changes.
 
 ## Trip status
-Use exactly one of the following on both the trip page and its card in `index.html`:
+Set `status:` in `trip.md`. The badge on the page and on the home card, and whether the card sits under Upcoming or Past, all follow from it.
 
-| Status | Class | Meaning |
-|--------|-------|---------|
-| Idea | `status-idea` | Just an idea, nothing decided |
-| Planning | `status-planning` | Dates or route being worked out |
-| Booked | `status-booked` | Flights and hotels booked |
-| Completed | `status-completed` | Trip done; card moves to **Past** |
+| Status | Meaning |
+|--------|---------|
+| `idea` | Just an idea, nothing decided |
+| `planning` | Dates or route being worked out |
+| `booked` | Flights and hotels booked |
+| `completed` | Trip done; the card moves to **Past** |
 
 ## Content rules
-- Mark any fact that could change (opening days, prices, transport times, festival dates, entry rules) with `<span class="verify"></span>` until it has been checked.
+- Mark any fact that could change (opening days, prices, transport times, festival dates, entry rules) with `{verify}` until it has been checked.
 - Don't invent prices. Use `TBD` until there's a real quote.
 - Plan around the trip's participant profile and follow its **Planning rules**.
 - No personal or sensitive data (see `docs/participants/README.md`).
 
 ## Styling
-- All styling lives in `assets/css/style.css` (apart from the Leaflet library CSS, loaded from cdnjs). Don't put `<style>` blocks or inline styles in pages.
+- All styling lives in `assets/css/style.css` (apart from the Leaflet library CSS, loaded from cdnjs). The page layout lives in `tools/templates/page.html`. Don't put `<style>` blocks or inline styles in markdown.
 - Colours are CSS variables on `:root`, with a dark mode. Use the variables.
-- Design mobile-first: the page must not scroll sideways at 375 px wide. Wrap tables in `.table-wrap`.
+- Design mobile-first: pages must not scroll sideways at 375 px wide. The build wraps tables so they scroll inside themselves.
 - Map marker colours are the `--day-1` … `--day-7`, `--day-opt` and `--day-base` variables.
 - Printing: navigation is hidden and every day expands (handled by `assets/js/main.js`).

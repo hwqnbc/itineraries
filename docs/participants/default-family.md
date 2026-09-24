@@ -1,6 +1,6 @@
 # Profile: default-family
 
-The default group for trips unless a trip's `notes.md` says otherwise.
+The default group for trips unless a trip's `trip.md` names a different profile.
 
 ## Members
 | Role | Age group | Notes |
