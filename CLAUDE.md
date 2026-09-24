@@ -48,4 +48,6 @@ pip install -r tools/requirements.txt       # once
 python3 tools/build.py --check              # build _site/ and fail on broken links
 python3 -m http.server 8000 -d _site        # then open http://localhost:8000
 ```
+Don't publish Artifact/preview copies of the site. Check changes with the local build and browser, and view the result on GitHub Pages (https://hwqnbc.github.io/itineraries/).
+
 Always run the build with `--check` before pushing; CI runs the same command and won't deploy if it fails. Check that the Home button works, that the card on the home page opens the page, and that nothing scrolls sideways at phone width.
