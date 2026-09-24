@@ -21,6 +21,7 @@ These rules keep every trip page consistent. `CLAUDE.md` gives the short version
 | `destinations/<trip>/notes.md` | `destinations/<trip>/notes.html` | The trip's "📝 Planning notes" link |
 | `docs/packing-list.md` | `docs/packing-list.html` | Each trip's Packing notes |
 | `docs/participants/<name>.md` | `docs/participants/<name>.html` | Each trip's Participants line |
+| `docs/countries/<country>.md` | `docs/countries/<country>.html` | Each trip's "🌦️ Seasons & holidays" link (`country:`) |
 
 Every generated page shares `tools/templates/page.html`: the header with the 🏠 Home button, breadcrumb, stylesheet and footer.
 
@@ -42,6 +43,7 @@ dates: June 2027 · exact dates TBD (6-day draft)   # shown on the trip page
 card: June 2027 · 6 days (draft) # shown on the home card
 tagline: Zoo, farm animals & theme parks           # optional, shown on the home card
 participants: default-family     # a file in docs/participants/
+country: taiwan                  # optional: a file in docs/countries/
 updated: 2026-09-24              # footer "Last updated"
 ---
 ```
@@ -122,6 +124,12 @@ These apply to every trip, whoever is travelling. A participant profile can add 
   - Add a `- **Luggage:** …` bullet saying which option is used.
   - If the arrangement needs booking (car, forwarding service, locker), add it to **Bookings to make**.
 - **Rental cars abroad:** check the licence rules, such as whether an International Driving Permit is needed {verify}. A car with driver avoids this, and also helps on move days.
+
+### Choosing dates: country guides
+- Each country has one guide in `docs/countries/<country>.md`: seasons at a glance, month by month, public and school holidays for the coming year, seasonal things for kids, and basics.
+- Before fixing a trip's dates, check the guide for weather, typhoon/monsoon seasons and holiday crowds. If the guide doesn't exist yet, create it from `docs/countries/_template.md`.
+- Holiday dates and seasonal openings change every year, so mark them {verify}, and update the holiday table for each new year.
+- Set `country:` in `trip.md`, and the trip page links to the guide.
 
 ## Content rules
 - Mark any fact that could change (opening days, prices, transport times, festival dates, entry rules) with `{verify}` until it has been checked.

@@ -8,6 +8,7 @@ dates: DD Mon – DD Mon YYYY (N days)
 card: Month YYYY · N days
 tagline: One-line hook for the home page card
 participants: default-family # a file in docs/participants/
+country: COUNTRY             # optional: a file in docs/countries/ (seasons & holidays)
 updated: YYYY-MM-DD
 ---
 One or two sentences on what this trip is about.

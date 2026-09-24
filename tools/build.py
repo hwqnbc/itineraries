@@ -7,6 +7,7 @@ Markdown is the source of truth; this script turns it into the website:
 - destinations/<trip>/notes.md  -> destinations/<trip>/notes.html ("Planning notes")
 - docs/packing-list.md          -> docs/packing-list.html
 - docs/participants/<name>.md   -> docs/participants/<name>.html
+- docs/countries/<country>.md   -> docs/countries/<country>.html (linked via trip.md `country:`)
 - index.html (home page)        -> trip cards filled in from each trip.md
 
 Static files (assets/, pois.js, images) are copied as they are. Raw .md files,
@@ -212,6 +213,12 @@ def render_trip(trip) -> str:
     meta_row.append(f"<span>👪 Participants: {who}</span>")
     if has_notes:
         meta_row.append('<span>📝 <a href="notes.html">Planning notes</a></span>')
+    if meta.get("country"):
+        if not (ROOT / "docs/countries" / f"{meta['country']}.md").exists():
+            raise BuildError(f"{trip['src'].relative_to(ROOT)}: country '{meta['country']}' "
+                             f"has no docs/countries/{meta['country']}.md")
+        guide = rel_link(Path("docs/countries") / f"{meta['country']}.html", out_rel)
+        meta_row.append(f'<span>🌦️ <a href="{guide}">Seasons &amp; holidays</a></span>')
 
     lede = md_to_html(trip["preamble"]) if trip["preamble"].strip() else ""
     lede = lede.replace("<p>", '<p class="lede">', 1)
@@ -299,6 +306,9 @@ def doc_pages():
     yield ROOT / "docs/packing-list.md", Path("docs/packing-list.html"), "doc"
     for md in sorted((ROOT / "docs/participants").glob("*.md")):
         if md.name.lower() != "readme.md":
+            yield md, md.relative_to(ROOT).with_suffix(".html"), "doc"
+    for md in sorted((ROOT / "docs/countries").glob("*.md")):
+        if not md.name.startswith("_"):
             yield md, md.relative_to(ROOT).with_suffix(".html"), "doc"
     for md in sorted((ROOT / "destinations").glob("*/notes.md")):
         if md.parent.name != "_template":

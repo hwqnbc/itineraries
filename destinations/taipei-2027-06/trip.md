@@ -8,6 +8,7 @@ dates: June 2027 · exact dates TBD (6-day draft)
 card: June 2027 · 6 days (draft)
 tagline: Zoo, farm animals & theme parks
 participants: default-family
+country: taiwan
 updated: 2026-09-24
 ---
 A kid-first trip built around animals and theme parks: pandas at Taipei Zoo, a gondola ride, a safari theme park, bottle-feeding calves on a farm and an aquarium on the way home.

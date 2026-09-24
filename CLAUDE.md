@@ -17,6 +17,7 @@ docs/conventions.md            Full rules (trip.md format, naming, status, styli
 docs/new-destination.md        Step-by-step checklist for adding a trip
 docs/packing-list.md           Base packing list → packing-list.html
 docs/participants/             One profile per travelling group → <name>.html
+docs/countries/                One guide per country: seasons, holidays, basics → <country>.html
 tools/build.py                 Builds _site/ from the markdown (and validates it)
 tools/templates/page.html      Shared page shell (header, Home button, footer) for every generated page
 .github/workflows/pages.yml    On push to main: build.py --check, then deploy _site/ to Pages
@@ -29,12 +30,13 @@ tools/templates/page.html      Shared page shell (header, Home button, footer) f
 | `destinations/<trip>/notes.md` | `destinations/<trip>/notes.html` ("Planning notes") |
 | `docs/packing-list.md` | `docs/packing-list.html` |
 | `docs/participants/<name>.md` | `docs/participants/<name>.html` (not README.md) |
+| `docs/countries/<country>.md` | `docs/countries/<country>.html` (not `_template.md`) |
 
 **Never** hand-write or commit those `.html` files, and never commit `_site/`. Raw `.md` files, `CLAUDE.md`, README, `docs/conventions.md`, `tools/` and `destinations/_template/` are not published. To change the look of every page, edit `tools/templates/page.html` or `assets/css/style.css`.
 
 ## Rules (see docs/conventions.md for the full version)
 1. **New trip = copy `destinations/_template/`** and follow `docs/new-destination.md`. Never write a trip page in HTML.
-2. **`trip.md` front matter** needs `title, short, flag, status, start, dates, card, participants, updated` (`tagline` is optional). `status` is one of `idea | planning | booked | completed`. The home card, the status badge and the Upcoming/Past grouping all come from it, so there's nothing else to keep in sync.
+2. **`trip.md` front matter** needs `title, short, flag, status, start, dates, card, participants, updated`. `tagline` is optional; so is `country`, which names a `docs/countries/` guide and adds a "Seasons & holidays" link. When planning a trip or choosing its dates, read the country guide; if there isn't one, create it from `docs/countries/_template.md`. `status` is one of `idea | planning | booked | completed`. The home card, the status badge and the Upcoming/Past grouping all come from it, so there's nothing else to keep in sync.
 3. **Keep the `## Heading {#id}` sections in this order:** whos-going, flights, accommodation, days, map, bookings, budget, practical, emergency, packing. The build fails if one is missing or out of order. Write `TBD` rather than deleting a section.
 4. **Day-by-day:** each day is `### Day N · Theme` under `{#days}`. Any other `###` (e.g. "Swap-in options") stays a normal heading.
 5. **Shorthands:**
@@ -49,6 +51,9 @@ tools/templates/page.html      Shared page shell (header, Home button, footer) f
 10. **Styling lives only in `assets/css/style.css`** (the Leaflet library CSS from cdnjs is the one exception). Use the CSS variables. The layout is mobile-first and must not scroll sideways at 375px.
 11. **Keep `pois.js` in sync with the day-by-day plan.** Every place in the plan gets a marker with the matching `day`; swap-in options use `day: "opt"`; the hotel and airport have no `day`. Coordinates are approximate, and Google Maps links search by name.
 12. When making meaningful changes, update `updated:` in `trip.md` and add a row to the decisions log in `notes.md`.
+
+## Plans (plan mode)
+Keep plans short and about the current change only: what changes, which files, how it's checked. Write the plan file fresh each time; don't carry over earlier plans or repeat rules already in this file.
 
 ## Checking changes
 ```bash
