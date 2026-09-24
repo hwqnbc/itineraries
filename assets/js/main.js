@@ -12,3 +12,19 @@ window.addEventListener("afterprint", function () {
     d.open = d.dataset.wasOpen === "1";
   });
 });
+
+// Remember ticked checklist items (generated md pages) in this browser only.
+(function () {
+  var boxes = document.querySelectorAll("li.task input[type=checkbox]");
+  if (!boxes.length) return;
+  var key = "checklist:" + location.pathname;
+  var saved = {};
+  try { saved = JSON.parse(localStorage.getItem(key) || "{}"); } catch (e) { saved = {}; }
+  boxes.forEach(function (box, i) {
+    if (Object.prototype.hasOwnProperty.call(saved, i)) box.checked = saved[i];
+    box.addEventListener("change", function () {
+      saved[i] = box.checked;
+      try { localStorage.setItem(key, JSON.stringify(saved)); } catch (e) { /* ignore */ }
+    });
+  });
+})();

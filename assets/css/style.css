@@ -375,6 +375,22 @@ details.day .day-body ul { padding-left: 20px; }
 .leaflet-popup-content { line-height: 1.5; }
 .popup-day { color: var(--muted); font-size: 0.85rem; }
 
+/* ---------- Generated pages (from markdown) ---------- */
+
+.prose h1 + p, .prose h1 + ul { margin-top: 0; }
+.prose code {
+  background: var(--surface-2);
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-size: 0.9em;
+}
+.prose pre { background: var(--surface-2); border-radius: 8px; padding: 12px; overflow-x: auto; }
+.prose pre code { padding: 0; background: none; }
+li.task { list-style: none; margin-left: -20px; }
+li.task label { display: inline-flex; align-items: flex-start; gap: 8px; cursor: pointer; }
+li.task input { margin-top: 0.35em; accent-color: var(--accent); width: 18px; height: 18px; flex: none; }
+li.task label:has(input:checked) { color: var(--muted); text-decoration: line-through; }
+
 /* ---------- Print ---------- */
 
 @media print {

@@ -6,15 +6,18 @@ Holiday planning pages for our family trips. There's a home page listing every t
 
 ## View locally
 ```bash
-python3 -m http.server 8000
+pip install -r tools/requirements.txt      # once
+python3 tools/build.py --check             # builds _site/
+python3 -m http.server 8000 -d _site
 ```
-Then open http://localhost:8000. You can also open `index.html` directly in a browser.
+Then open http://localhost:8000.
 
 ## Publish with GitHub Pages
-1. Go to the repo on GitHub → **Settings → Pages**.
-2. Under **Build and deployment**, set **Source** to *Deploy from a branch*.
-3. Choose the branch (`main`) and the folder `/ (root)`, then save.
-4. After a minute or two the site is live at `https://<username>.github.io/itineraries/`.
+Every push to `main` runs `.github/workflows/pages.yml`, which builds the site (turning the markdown docs into HTML pages) and deploys it.
+
+One-time setup: repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
+The site is live at https://hwqnbc.github.io/itineraries/.
 
 > GitHub Pages sites are public, even if the repo is private on a paid plan. Keep personal details out (see `docs/participants/README.md`).
 
@@ -24,3 +27,4 @@ Then open http://localhost:8000. You can also open `index.html` directly in a br
 - `docs/new-destination.md`: how to add a trip
 - `docs/participants/`: who's travelling and their preferences
 - `docs/packing-list.md`: base packing list
+- `tools/build.py`: builds the site; markdown docs become HTML pages

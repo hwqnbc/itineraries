@@ -20,7 +20,8 @@
    - Optional: once the plan is stable, create a Google My Map from the KML download and paste its embed URL into `myMapsEmbedUrl`.
 6. **Add a card to the home page** (`index.html` at the repo root) under **Upcoming**, sorted soonest-first. Copy an existing `<a class="trip-card">` block.
 7. **Check:**
-   - Open the page locally (`python3 -m http.server`, then visit http://localhost:8000).
+   - Build and serve: `python3 tools/build.py --check && python3 -m http.server 8000 -d _site`, then visit http://localhost:8000.
+   - The "Planning notes" link opens the generated notes page.
    - The 🏠 Home button works.
    - The card on the home page opens the new page.
    - The map shows every marker, and the legend toggles work.

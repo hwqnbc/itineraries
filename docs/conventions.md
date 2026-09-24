@@ -12,7 +12,22 @@ These rules keep every trip page consistent. `CLAUDE.md` gives the short version
 - Shared files go in `assets/`: `css/style.css`, `js/main.js`, `img/`.
 - Docs go in `docs/`. Participant profiles go in `docs/participants/`.
 
+## Generated pages
+The site is built by `tools/build.py` (run automatically on every push to `main`). Markdown stays the source; these files become HTML pages with the site header, Home button and styles:
+
+| Source | Published page | Linked from |
+|--------|----------------|-------------|
+| `docs/packing-list.md` | `docs/packing-list.html` | Each trip's Packing notes |
+| `docs/participants/<name>.md` | `docs/participants/<name>.html` | Each trip's Participants line |
+| `destinations/<trip>/notes.md` | `destinations/<trip>/notes.html` | Each trip's "Planning notes" link |
+
+- `- [ ]` items become tickable checkboxes, remembered in the viewer's browser.
+- A line `Participants: <name>` in notes.md becomes a link to that profile.
+- Raw `.md` files, `tools/`, `CLAUDE.md`, `README.md` and `destinations/_template/` are **not** published.
+- To add another generated page, add it to `pages_to_generate()` in `tools/build.py`.
+
 ## Links
+- Link to generated pages by their `.html` name (e.g. `../../docs/packing-list.html`), never to the `.md`.
 - Use **relative links only**, e.g. `../../index.html`. Never use a leading `/`, which breaks on GitHub Pages project sites and when a file is opened locally.
 - In the day-by-day plan, link places to Google Maps with `https://www.google.com/maps/search/?api=1&query=<Place+Name>`. The only map on a page is the shared trip map (below).
 - External links go to official sites where possible.

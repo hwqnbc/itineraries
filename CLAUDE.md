@@ -17,7 +17,17 @@ docs/conventions.md            Full rules (naming, sections, status, styling)
 docs/new-destination.md        Step-by-step checklist for adding a trip
 docs/packing-list.md           Base packing list
 docs/participants/             One profile per travelling group (default-family.md)
+tools/build.py                 Builds _site/: copies the site + turns md docs into HTML pages
+.github/workflows/pages.yml    On push to main: build.py --check, then deploy _site/ to Pages
 ```
+
+## Markdown is the source, HTML is generated
+These markdown files become pages on the site at deploy time:
+- `docs/packing-list.md` → `docs/packing-list.html`
+- `docs/participants/<name>.md` → `docs/participants/<name>.html` (not README.md)
+- `destinations/<trip>/notes.md` → `destinations/<trip>/notes.html` ("Planning notes")
+
+Edit the `.md`. **Never** hand-write or commit those `.html` files, and never commit `_site/`. From pages, link to the `.html` name. Other `.md` files (CLAUDE.md, README, conventions, participants README) and `destinations/_template/` are not published.
 
 ## Rules (see docs/conventions.md for the full version)
 1. **New trip = copy `destinations/_template/`.** Never start a page from scratch. Follow `docs/new-destination.md`.
@@ -34,6 +44,8 @@ docs/participants/             One profile per travelling group (default-family.
 
 ## Checking changes
 ```bash
-python3 -m http.server 8000   # then open http://localhost:8000
+pip install -r tools/requirements.txt       # once
+python3 tools/build.py --check              # build _site/ and fail on broken links
+python3 -m http.server 8000 -d _site        # then open http://localhost:8000
 ```
-Check that the Home button works, that the card on the home page opens the page, and that nothing scrolls sideways at phone width.
+Always run the build with `--check` before pushing; CI runs the same command and won't deploy if it fails. Check that the Home button works, that the card on the home page opens the page, and that nothing scrolls sideways at phone width.
