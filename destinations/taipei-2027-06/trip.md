@@ -34,11 +34,12 @@ Base yourselves in central Taipei close to an MRT station. Good areas are around
 |--------|-------|------|-------|
 | Nights 1–3 | TBD | Central Taipei | Family/triple room |
 | Night 4 | Option: Leofoo Resort Guanxi | Hsinchu County | Saves driving back; some rooms reportedly overlook the safari {verify} |
-| Night 5 | TBD | Central Taipei or near Taoyuan | Staying near HSR Taoyuan makes the final day easy |
+| Night 5 | TBD | Near HSR Taoyuan (recommended) | The Day 5 drive ends here, and Day 6 is then a short hop to Xpark and the airport with luggage |
 
 ## 🗓️ Day-by-day {#days}
 
-### Day 1 · Arrive & settle in
+### Day 1 · Arrive & settle in 🧳
+- **Luggage:** Go straight to the hotel by Airport MRT, and don't plan anything big before check-in.
 - **Arrive:** TPE → Airport MRT → hotel. Buy EasyCards at the airport or a convenience store.
 - **Afternoon:** Rest and have a quiet look around the hotel's neighbourhood.
 - **Evening:** If everyone still has energy, try an easy night market: [Raohe Street Night Market](map:Raohe+Street+Night+Market+Taipei).
@@ -54,17 +55,20 @@ Base yourselves in central Taipei close to an MRT station. Good areas are around
 - **Afternoon:** Somewhere indoors and air-conditioned to escape the heat: [National Taiwan Science Education Center](map:) or the [Taipei Astronomical Museum](map:), both nearby.
 - **Evening:** [Shilin Night Market](map:), just down the road.
 
-### Day 4 · Leofoo Village Theme Park & safari 🦒
+### Day 4 · Leofoo Village Theme Park & safari 🦒 🧳
+- **Luggage:** Check out of the Taipei hotel; the bags ride in the charter car for Days 4–5, so the theme park day works. Without a car, either make Leofoo a day trip from Taipei (no hotel change) or drop the bags at the resort first and ask it to hold them {verify}.
 - **Getting there:** About 1–1.5 hours from Taipei. Options are a private driver or car charter (easiest with a child and luggage), or HSR to Hsinchu plus a shuttle bus {verify}.
 - **All day:** [Leofoo Village Theme Park](map:), which combines theme-park rides with a drive-through African safari area. Check the height limits on rides and whether there are animal-feeding sessions {verify}.
 - **Evening:** Stay the night at the on-site resort (option) instead of going back to Taipei.
 
-### Day 5 · Farm day: bottle-feed calves 🐄
+### Day 5 · Farm day: bottle-feed calves 🐄 🧳
+- **Luggage:** Check out of Leofoo; the bags stay in the charter car all day. End the drive at the Night 5 hotel near HSR Taoyuan.
 - **Morning:** Drive to [Flying Cow Ranch (飛牛牧場)](map:Flying+Cow+Ranch+Miaoli) in Tongxiao, Miaoli. There's calf bottle-feeding, sheep and ducks, and fresh milk treats. The drive from Leofoo takes roughly 1–1.5 hours {verify}.
 - **Afternoon:** Drive back north (about 2 hours). It's a long day, so aim to be at the hotel by early evening.
 - **Evening:** An easy dinner near the hotel.
 
-### Day 6 · Xpark aquarium → fly home 🐧
+### Day 6 · Xpark aquarium → fly home 🐧 🧳
+- **Luggage:** This is the one move day without a car. Check out of the hotel near HSR Taoyuan, and leave the bags at the HSR Taoyuan station left-luggage or at Xpark's lockers {verify} (check the size limits for big suitcases). If neither works, extend the car charter to Day 6 or skip Xpark.
 - **Morning:** [Xpark](map:Xpark+Taoyuan) aquarium next to HSR Taoyuan station, which has penguins, jellyfish and a big tank. It's close to the airport. Book timed tickets and check whether there is luggage storage {verify}.
 - **Lunch:** At Gloria Outlets next door.
 - **Afternoon:** Airport MRT or taxi to TPE, arriving 3 hours before the flight.
@@ -81,7 +85,8 @@ Base yourselves in central Taipei close to an MRT station. Good areas are around
 - [ ] Flights to TPE
 - [ ] Taipei hotel (family/triple room)
 - [ ] Leofoo tickets and resort night (optional)
-- [ ] Car charter or driver for Days 4–5
+- [ ] Car charter or driver for Days 4–5, with room for 3 people plus all the luggage
+- [ ] Day 6 luggage: confirm storage at HSR Taoyuan station or Xpark, or extend the charter
 - [ ] Xpark timed tickets
 - [ ] Travel insurance
 - [ ] Mobile data (eSIM or airport SIM)
@@ -106,6 +111,7 @@ Base yourselves in central Taipei close to an MRT station. Good areas are around
 - **Power plugs:** Type A/B, 110 V. You may need an adapter.
 - **Time zone:** UTC+8, with no daylight saving.
 - **Getting around:** An EasyCard works on the MRT, buses, and in convenience stores. The MRT is clean and easy with kids.
+- **Rental car:** Foreign drivers need an International Driving Permit {verify}. Booking a car with a driver avoids this, and also handles the luggage on move days.
 
 ## 🚑 Emergency info {#emergency}
 - Police: **110**

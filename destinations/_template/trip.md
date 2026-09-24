@@ -31,7 +31,8 @@ One or two sentences on what this trip is about.
 
 ## 🗓️ Day-by-day {#days}
 
-### Day 1 · Theme
+### Day 1 · Arrive 🧳
+- **Luggage:** straight to the hotel first (arrival is always a move day; see "Move days" in docs/conventions.md).
 - **Morning:** [Place name](map:) …
 - **Afternoon:** …
 - **Evening:** …

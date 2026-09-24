@@ -22,7 +22,8 @@ window.TRIP_MAP = {
   },
   pois: [
     { name: "Taoyuan International Airport (TPE)", type: "airport", lat: 25.0797, lng: 121.2342 },
-    { name: "Taipei Main Station", type: "hotel", note: "Suggested hotel area (Airport MRT)", lat: 25.0478, lng: 121.5170 },
+    { name: "Taipei Main Station", type: "hotel", note: "Nights 1–3: suggested hotel area (Airport MRT)", lat: 25.0478, lng: 121.5170 },
+    { name: "HSR Taoyuan Station", type: "hotel", note: "Night 5: suggested hotel area; left-luggage for Day 6", lat: 25.0129, lng: 121.2150 },
 
     { day: 1, name: "Raohe Street Night Market", type: "food", note: "Easy first-night market", lat: 25.0510, lng: 121.5775 },
 

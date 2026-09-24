@@ -10,6 +10,7 @@
    - Set `participants:` to a profile in `docs/participants/`. Create a new profile if the group is different.
    - Fill in the sections, keeping every `{#id}`. Leave unknowns as `TBD`, and mark changeable facts with `{verify}`.
    - Write one `### Day N · Theme` per day, and link places with `[Place](map:)`.
+   - On every **move day** (a hotel change, arrival or departure), end the heading with 🧳, add a `- **Luggage:**` bullet, and don't plan a theme park or all-day outing unless there's a car or a confirmed luggage option. See "Planning rules (all trips)" in `docs/conventions.md`.
 4. **Edit `notes.md`:** trip-specific overrides to the profile, research, and the decisions log.
 5. **Edit `pois.js`:**
    - Set `title` and `slug` (the folder name), and the short `days` titles.
@@ -20,6 +21,7 @@
    - The new trip's card appears on the home page (it's generated) and opens the page.
    - The 🏠 Home button, the "Planning notes" link and the participants link work.
    - The map shows every marker, and the legend toggles work.
+   - Every move day shows 🧳 and has a Luggage line.
    - Nothing scrolls sideways on a phone-sized window.
 7. **Commit** with a message like `Add Seoul April 2028 itinerary`.
 

@@ -19,6 +19,7 @@
 | 2026-09-24 | Added trip map (pois.js) with Google My Maps toggle | Plan by location; optional Google map for phone use |
 | 2026-09-24 | Notes, packing list and profile published as HTML pages | Easier to read than raw markdown |
 | 2026-09-24 | Trip page moved to trip.md (generated at deploy) | Markdown is the single source for agents |
+| 2026-09-24 | Move days marked 🧳 with a luggage plan; Night 5 near HSR Taoyuan | Luggage makes car-less theme-park days a hassle |
 
 ## Open questions
 - Exact dates and length of the trip?

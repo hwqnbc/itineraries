@@ -105,6 +105,24 @@ Set `status:` in `trip.md`. The badge on the page and on the home card, and whet
 | `booked` | Flights and hotels booked |
 | `completed` | Trip done; the card moves to **Past** |
 
+## Planning rules (all trips)
+These apply to every trip, whoever is travelling. A participant profile can add more rules of its own.
+
+### Move days and luggage
+- A **move day** is any day with a hotel check-out, a check-in somewhere else, or an airport arrival or departure. Assume the whole group's luggage comes along.
+- **With a rental car or a charter/driver** that day, the luggage stays in the car and normal sightseeing is fine. Check that the car fits the group *and* its luggage.
+- **Without a car**, pick one of these and write it down:
+  1. **The hotel holds the bags** after check-out, and you collect them later. Only works if the route passes back by that hotel.
+  2. **Luggage forwarding or delivery** to the next hotel, the same day {verify}.
+  3. **Lockers or left-luggage** at a station or at the attraction {verify}. Check the size limits for big suitcases.
+  4. **Keep the day light:** move first, then only do things near the new hotel.
+- Never plan a theme park or an all-day outing on a car-less move day unless option 1, 2 or 3 is confirmed.
+- **On the page:**
+  - End the day heading with 🧳, e.g. `### Day 4 · Leofoo & safari 🦒 🧳`.
+  - Add a `- **Luggage:** …` bullet saying which option is used.
+  - If the arrangement needs booking (car, forwarding service, locker), add it to **Bookings to make**.
+- **Rental cars abroad:** check the licence rules, such as whether an International Driving Permit is needed {verify}. A car with driver avoids this, and also helps on move days.
+
 ## Content rules
 - Mark any fact that could change (opening days, prices, transport times, festival dates, entry rules) with `{verify}` until it has been checked.
 - Don't invent prices. Use `TBD` until there's a real quote.

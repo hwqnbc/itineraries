@@ -43,11 +43,12 @@ tools/templates/page.html      Shared page shell (header, Home button, footer) f
    - `- [ ] item` becomes a tickable checkbox.
    - Link other docs by their `.md` path; the build rewrites the links to `.html`.
 6. **Plan for the trip's participant profile.** Read `participants:` in `trip.md`, the profile in `docs/participants/`, and any overrides in `notes.md`. Follow the profile's Planning rules.
-7. **Mark changeable facts** (opening days, prices, festival dates, entry rules, travel times) with `{verify}`. Never invent prices.
-8. **No sensitive data:** no passport numbers, full names, dates of birth, phone numbers, addresses or booking references. The site is public.
-9. **Styling lives only in `assets/css/style.css`** (the Leaflet library CSS from cdnjs is the one exception). Use the CSS variables. The layout is mobile-first and must not scroll sideways at 375px.
-10. **Keep `pois.js` in sync with the day-by-day plan.** Every place in the plan gets a marker with the matching `day`; swap-in options use `day: "opt"`; the hotel and airport have no `day`. Coordinates are approximate, and Google Maps links search by name.
-11. When making meaningful changes, update `updated:` in `trip.md` and add a row to the decisions log in `notes.md`.
+7. **Move days (all trips):** any day with a hotel check-out, a new check-in, or a flight means carrying luggage. Unless a car or driver is booked, don't plan a theme park or all-day outing that day without a confirmed luggage option (hotel holds bags, forwarding service, or lockers). Mark the day heading with 🧳 and add a `- **Luggage:**` bullet. See "Planning rules (all trips)" in docs/conventions.md.
+8. **Mark changeable facts** (opening days, prices, festival dates, entry rules, travel times) with `{verify}`. Never invent prices.
+9. **No sensitive data:** no passport numbers, full names, dates of birth, phone numbers, addresses or booking references. The site is public.
+10. **Styling lives only in `assets/css/style.css`** (the Leaflet library CSS from cdnjs is the one exception). Use the CSS variables. The layout is mobile-first and must not scroll sideways at 375px.
+11. **Keep `pois.js` in sync with the day-by-day plan.** Every place in the plan gets a marker with the matching `day`; swap-in options use `day: "opt"`; the hotel and airport have no `day`. Coordinates are approximate, and Google Maps links search by name.
+12. When making meaningful changes, update `updated:` in `trip.md` and add a row to the decisions log in `notes.md`.
 
 ## Checking changes
 ```bash
