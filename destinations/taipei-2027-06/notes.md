@@ -7,6 +7,7 @@
 
 ## Research & options
 - **Dates:** Decide whether to include the Dragon Boat Festival long weekend (around 9 June 2027, needs checking). It brings crowds, but the boat races are fun.
+- **Alternative destination:** Bali is drafted as an option ([Bali planning notes](../bali-2027-06/notes.md) has a Bali vs Taipei comparison). The destination isn't decided yet.
 - **June or December?** Undecided; the dates on the trip page stay June for now. See the [Taiwan seasons guide](../../docs/countries/taiwan.md).
 
   | | June 2027 | December 2027 |
@@ -30,6 +31,7 @@
 | 2026-09-24 | Trip page moved to trip.md (generated at deploy) | Markdown is the single source for agents |
 | 2026-09-24 | Move days marked 🧳 with a luggage plan; Night 5 near HSR Taoyuan | Luggage makes car-less theme-park days a hassle |
 | 2026-09-24 | Added Taiwan seasons guide and a June vs December comparison; dates unchanged | Considering a December trip |
+| 2026-09-25 | Bali drafted as an alternative destination | Destination not decided yet |
 
 ## Open questions
 - Exact dates and length of the trip?
