@@ -8,6 +8,7 @@
 3. **Edit `trip.md`:**
    - Fill in the front matter: `title`, `short`, `flag`, `status`, `start`, `dates`, `card`, `tagline`, `participants`, `updated`. See `docs/conventions.md`.
    - Set `participants:` to a profile in `docs/participants/`. Create a new profile if the group is different.
+   - Set `currency:` to the local ISO code (e.g. `JPY`) to get the SGD converter.
    - Set `country:` to a guide in `docs/countries/` (create one from `_template.md` if needed), and check it for seasons and holidays before fixing dates.
    - Fill in the sections, keeping every `{#id}`. Leave unknowns as `TBD`, and mark changeable facts with `{verify}`.
    - Write one `### Day N · Theme` per day, and link places with `[Place](map:)`.

@@ -8,6 +8,7 @@ index.html                     Home page shell; trip cards are filled in by the 
 assets/css/style.css           The ONLY stylesheet (tokens, dark mode, print)
 assets/js/main.js              Shared JS (expands days when printing, remembers ticked checkboxes)
 assets/js/map.js               Shared trip map (Leaflet/OSM + Google My Maps toggle + KML export)
+assets/js/fx.js                Currency converter (SGD ⇄ local, live daily rate, cached for offline)
 destinations/_template/        Copy this to start a new trip (not published)
 destinations/<city>-<YYYY>-<MM>/
   trip.md                      The itinerary (front matter + sections) → index.html
@@ -36,7 +37,7 @@ tools/templates/page.html      Shared page shell (header, Home button, footer) f
 
 ## Rules (see docs/conventions.md for the full version)
 1. **New trip = copy `destinations/_template/`** and follow `docs/new-destination.md`. Never write a trip page in HTML.
-2. **`trip.md` front matter** needs `title, short, flag, status, start, dates, card, participants, updated`. `tagline` is optional; so is `country`, which names a `docs/countries/` guide and adds a "Seasons & holidays" link. When planning a trip or choosing its dates, read the country guide; if there isn't one, create it from `docs/countries/_template.md`. `status` is one of `idea | planning | booked | completed`. The home card, the status badge and the Upcoming/Past grouping all come from it, so there's nothing else to keep in sync.
+2. **`trip.md` front matter** needs `title, short, flag, status, start, dates, card, participants, updated`. `tagline` is optional; so is `currency` (the local ISO code, e.g. `TWD`), which adds an SGD ⇄ local converter at the top of Practical info (the home currency is `HOME_CURRENCY` in `tools/build.py`); and so is `country`, which names a `docs/countries/` guide and adds a "Seasons & holidays" link. When planning a trip or choosing its dates, read the country guide; if there isn't one, create it from `docs/countries/_template.md`. `status` is one of `idea | planning | booked | completed`. The home card, the status badge and the Upcoming/Past grouping all come from it, so there's nothing else to keep in sync.
 3. **Keep the `## Heading {#id}` sections in this order:** whos-going, flights, accommodation, days, map, bookings, budget, practical, emergency, packing. The build fails if one is missing or out of order. Write `TBD` rather than deleting a section.
 4. **Day-by-day:** each day is `### Day N · Theme` under `{#days}`. Any other `###` (e.g. "Swap-in options") stays a normal heading.
 5. **Shorthands:**

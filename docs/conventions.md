@@ -44,10 +44,13 @@ card: June 2027 · 6 days (draft) # shown on the home card
 tagline: Zoo, farm animals & theme parks           # optional, shown on the home card
 participants: default-family     # a file in docs/participants/
 country: taiwan                  # optional: a file in docs/countries/
+currency: TWD                    # optional: local ISO currency code → SGD converter
 updated: 2026-09-24              # footer "Last updated"
 ---
 ```
 Values are plain text on one line. A `# comment` after a value is ignored.
+
+With `currency:` set, the build adds a **💱 currency converter** at the top of **Practical info**. It converts both ways between SGD (`HOME_CURRENCY` in `tools/build.py`) and the local currency, and includes a quick-reference table of common amounts. The rate is a daily mid-market rate from ExchangeRate-API, fetched in the browser and saved there, so it still works offline on the trip (it's shown with its date). Don't write exchange rates into the markdown; they go stale.
 
 ### Body
 - Text before the first `##` is the **lede**. Its first paragraph is styled as the intro, and a `> blockquote` becomes the callout box.

@@ -403,6 +403,39 @@ li.task label { display: inline-flex; align-items: flex-start; gap: 8px; cursor:
 li.task input { margin-top: 0.35em; accent-color: var(--accent); width: 18px; height: 18px; flex: none; }
 li.task label:has(input:checked) { color: var(--muted); text-decoration: line-through; }
 
+/* ---------- Currency converter (assets/js/fx.js) ---------- */
+
+.fx {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 14px 16px;
+  margin: 8px 0 16px;
+}
+.fx-rate { margin-bottom: 10px; }
+.fx-when { color: var(--muted); font-size: 0.9rem; }
+.fx-row { display: flex; align-items: flex-end; gap: 8px; }
+.fx-field { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 4px; font-size: 0.85rem; font-weight: 600; color: var(--muted); }
+.fx-field input {
+  width: 100%;
+  font: inherit;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+.fx-field input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.fx-swap { padding-bottom: 10px; color: var(--muted); font-size: 1.2rem; }
+.fx-table { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 12px; }
+.fx-table table { font-size: 0.9rem; }
+.fx-table td:last-child, .fx-table th:last-child { text-align: right; }
+.fx-source { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
+@media (max-width: 420px) { .fx-table { grid-template-columns: 1fr; } }
+
 /* ---------- Print ---------- */
 
 @media print {

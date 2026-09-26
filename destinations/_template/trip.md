@@ -9,6 +9,7 @@ card: Month YYYY · N days
 tagline: One-line hook for the home page card
 participants: default-family # a file in docs/participants/
 country: COUNTRY             # optional: a file in docs/countries/ (seasons & holidays)
+currency: XXX                # optional: local currency ISO code (e.g. TWD); adds an SGD converter
 updated: YYYY-MM-DD
 ---
 One or two sentences on what this trip is about.

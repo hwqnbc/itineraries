@@ -51,6 +51,8 @@ SECTIONS = ["whos-going", "flights", "accommodation", "days", "map", "bookings",
             "budget", "practical", "emergency", "packing"]
 
 LEAFLET = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/"
+# The travellers' own currency: every trip with `currency:` gets a converter to/from it
+HOME_CURRENCY = "SGD"
 VERIFY_TOKEN = "@@VERIFY@@"
 
 
@@ -157,6 +159,10 @@ def load_trip(src: Path):
     meta["status"] = meta["status"].lower()
     if meta["status"] not in STATUSES:
         raise BuildError(f"{rel}: status must be one of {', '.join(STATUSES)} (got {meta['status']!r})")
+    if meta.get("currency"):
+        meta["currency"] = meta["currency"].upper()
+        if not re.fullmatch(r"[A-Z]{3}", meta["currency"]):
+            raise BuildError(f"{rel}: currency must be a 3-letter ISO code such as TWD (got {meta['currency']!r})")
 
     # Split into the preamble (lede) and "## Heading {#id}" sections
     parts = re.split(r"^##\s+(.+?)\s*$", body, flags=re.M)
@@ -239,6 +245,11 @@ def render_trip(trip) -> str:
             inner += ('\n<div data-trip-map></div>\n<noscript><p>The map needs JavaScript. '
                       'Use the Google Maps links in the day-by-day plan.</p></noscript>'
                       if has_map else '\n<p class="empty">No map yet — add a pois.js to this trip.</p>')
+        elif sid == "practical" and meta.get("currency") and meta["currency"] != HOME_CURRENCY:
+            inner = (f'<h3>💱 Currency: {HOME_CURRENCY} ⇄ {meta["currency"]}</h3>\n'
+                     f'<div class="fx" data-fx data-home="{HOME_CURRENCY}" data-local="{meta["currency"]}">'
+                     f'<noscript><p>The converter needs JavaScript.</p></noscript></div>\n'
+                     + md_to_html(content))
         else:
             inner = md_to_html(content)
         body.append(f'<section id="{sid}">\n<h2>{esc(heading)}</h2>\n{inner}\n</section>')
@@ -250,6 +261,8 @@ def render_trip(trip) -> str:
         scripts = (f'  <script src="{LEAFLET}leaflet.min.js"></script>\n'
                    '  <script src="pois.js"></script>\n'
                    '  <script src="../../assets/js/map.js"></script>\n')
+    if meta.get("currency") and meta["currency"] != HOME_CURRENCY:
+        scripts += '  <script src="../../assets/js/fx.js"></script>\n'
 
     return render(
         out_rel,

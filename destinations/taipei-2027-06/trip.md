@@ -9,7 +9,8 @@ card: June 2027 · 6 days (draft)
 tagline: Zoo, farm animals & theme parks
 participants: default-family
 country: taiwan
-updated: 2026-09-24
+currency: TWD
+updated: 2026-09-26
 ---
 A kid-first trip built around animals and theme parks: pandas at Taipei Zoo, a gondola ride, a safari theme park, bottle-feeding calves on a farm and an aquarium on the way home.
 
