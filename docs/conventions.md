@@ -142,6 +142,12 @@ These apply to every trip, whoever is travelling. A participant profile can add 
 - Holiday dates and seasonal openings change every year, so mark them {verify}, and update the holiday table for each new year.
 - Set `country:` in `trip.md`, and the trip page links to the guide.
 
+### Driving trips: hotel parking and traffic
+- When a trip uses a car, **choose hotels for parking and traffic**, not only location. Prefer hotels with an on-site car park (check the cost per night and the height limit) and quick highway access.
+- Avoid congested city-centre hotels (e.g. KLCC, Bukit Bintang) as a driving base. For city-centre days, leave the car at the hotel and use taxis or ride-hailing.
+- Plan drives outside the local rush hours and note them in Practical info. Add a morning buffer on busy days, e.g. border crossings in school holidays.
+- **Overland trips:** compare driving with the train or coach in the `{#flights}` section (the heading can be "Getting there"), and say which places are reachable only by car.
+
 ## Content rules
 - Mark any fact that could change (opening days, prices, transport times, festival dates, entry rules) with `{verify}` until it has been checked.
 - Don't invent prices. Use `TBD` until there's a real quote.
