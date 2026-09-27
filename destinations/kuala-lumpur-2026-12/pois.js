@@ -1,6 +1,5 @@
 // Places for the trip map (assets/js/map.js). See docs/conventions.md → Trip map.
 // Coordinates are approximate — Google Maps links search by name.
-// Space and Time Cube (Day 3) is not on the map yet: add it once its location is confirmed.
 
 window.TRIP_MAP = {
   title: "KL December 2026",
@@ -9,9 +8,9 @@ window.TRIP_MAP = {
   days: {
     1: "Travel to KL",
     2: "Aquaria & Petrosains",
-    3: "Space and Time Cube",
+    3: "Space & Time Cube",
     4: "Farm",
-    5: "FRIM & Paya Indah",
+    5: "Monkeys Canopy",
     6: "Home"
   },
   pois: [
@@ -25,13 +24,14 @@ window.TRIP_MAP = {
     { day: 2, name: "Aquaria KLCC", type: "animals", note: "Underwater tunnel; feeding times", lat: 3.1535, lng: 101.7128 },
     { day: 2, name: "Petrosains, The Discovery Centre", type: "museum", note: "Hands-on science centre in Suria KLCC", query: "Petrosains The Discovery Centre", lat: 3.1580, lng: 101.7119 },
 
+    { day: 3, name: "Space & Time Cube", type: "museum", note: "Immersive 3D experience in Lot 10 Shopping Centre, Bukit Bintang", query: "Space and Time Cube Lot 10 Kuala Lumpur", lat: 3.1466, lng: 101.7121 },
     { day: 3, name: "KL Forest Eco Park", type: "sight", note: "Optional city canopy walk; monkeys", lat: 3.1510, lng: 101.7030 },
 
     { day: 4, name: "Farm In The City", type: "animals", note: "Petting and feeding farm — MRT nearby or Grab", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
 
-    { day: 5, name: "FRIM Canopy Walkway", type: "sight", note: "Forest canopy walk; monkeys often seen; go early", query: "FRIM Canopy Walkway Kepong", lat: 3.2360, lng: 101.6330 },
-    { day: 5, name: "Paya Indah Wetlands", type: "animals", note: "Hippos, crocodiles, birds — car recommended (Grab back unreliable)", query: "Paya Indah Wetlands Dengkil", lat: 2.8700, lng: 101.6180 },
+    { day: 5, name: "Monkeys Canopy Resort", type: "theme-park", note: "Splash Zone, Dino Desert, Enchanted Forest, Playland — check Grab back", query: "Monkeys Canopy Resort Sungai Long", lat: 3.0460, lng: 101.8030 },
 
+    { day: "opt", name: "Paya Indah Wetlands", type: "animals", note: "Hippos, crocodiles, birds — car recommended (Grab back unreliable)", query: "Paya Indah Wetlands Dengkil", lat: 2.8700, lng: 101.6180 },
     { day: "opt", name: "KL Bird Park", type: "animals", note: "No-car alternative for Day 5", lat: 3.1430, lng: 101.6880 },
     { day: "opt", name: "Zoo Negara", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
     { day: "opt", name: "Deerland Park", type: "animals", note: "Car only: feed and pet deer", query: "Deerland Park Lanchang", lat: 3.5000, lng: 102.2000 },

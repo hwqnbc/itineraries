@@ -6,13 +6,13 @@ status: idea
 start: 2026-12
 dates: December 2026 (tentative) · 6-day draft
 card: Dec 2026 · 6 days (idea)
-tagline: Aquaria, Petrosains, Space and Time Cube, petting farm — by car or ETS
+tagline: Aquaria, Petrosains, Space & Time Cube, petting farm, Monkeys Canopy — by car or ETS
 participants: default-family
 country: malaysia
 currency: MYR
-updated: 2026-09-27
+updated: 2026-09-28
 ---
-A short overland trip from Singapore built on your shortlist: **Aquaria KLCC**, **Petrosains Discovery Centre**, **Space and Time Cube** and **Farm In The City**. Most of it is in the city and easy by Grab or train. A car only matters for the two nature extras, the **FRIM canopy walk** and **Paya Indah Wetlands**, which are hard to get a Grab back from.
+A short overland trip from Singapore built on your shortlist: **Aquaria KLCC**, **Petrosains Discovery Centre**, **Space & Time Cube**, **Farm In The City** and the **Monkeys Canopy Resort** theme parks. Most of it is easy by Grab or train. A car matters for **Paya Indah Wetlands**, which is hard to get a Grab back from, and makes Monkeys Canopy (on a hill in Sungai Long) simpler.
 
 > Idea stage. Anything marked {verify} (opening times, feeding sessions, train times, entry rules, Grab availability) must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
@@ -28,11 +28,11 @@ No flights: this trip goes overland.
 |---|---|---|
 | Journey | About 350 km on the North–South Expressway, 3.5–4.5 hours without jams {verify} | About 4.5–5 hours {verify}, plus getting to JB Sentral |
 | Causeway | You cross by bus or taxi and collect the rental car in JB. Renting a Malaysian car avoids the VEP needed for Singapore cars {verify} | Same crossing, by bus or taxi to JB Sentral. The RTS Link (Woodlands ↔ Bukit Chagar) is due around end-2026 {verify} and would make this much easier |
-| Shortlist | Aquaria, Petrosains and Space and Time Cube are in the city, so the car stays parked. Farm In The City is 30–40 minutes' drive | All four shortlist places by Grab or train. Farm In The City has an MRT station nearby {verify}, and Grab back is easy |
-| Extras | **FRIM canopy walk** and **Paya Indah Wetlands** by car, with no worry about getting back | FRIM by Grab is possible, but check that Grab pickup works there {verify}. Paya Indah is remote, so Grab back is unreliable: skip it or hire a driver for half a day |
+| Shortlist | Aquaria, Petrosains and Space & Time Cube are in the city, so the car stays parked. Farm In The City and Monkeys Canopy are 30–45 minutes' drive | City places by Grab or train. Farm In The City has an MRT station nearby {verify}, and Grab back is easy. **Monkeys Canopy** by Grab: fine there; check how quickly a Grab back arrives from the hilltop resort {verify} |
+| Extras | **Paya Indah Wetlands** by car, with no worry about getting back | Paya Indah is remote, so Grab back is unreliable: skip it or hire a driver for half a day |
 | Hotel | A hotel with **its own car park and quick highway access** near the city, e.g. Bangsar South or Mid Valley. Avoid KLCC and Bukit Bintang with a car | Near **KL Sentral** (the ETS arrives there), or KLCC for walking to Aquaria and Petrosains |
 
-**Recommendation:** the shortlist works well **without a car**, so **ETS + Grab** is the easier choice unless you really want Paya Indah. **Drive** if the two nature extras matter. Either way, park the car for the city days and use Grab.
+**Recommendation:** the shortlist mostly works **without a car**, so **ETS + Grab** is the easier choice, as long as a Grab back from Monkeys Canopy is easy {verify}. **Drive** if you want Paya Indah, or don't want to depend on Grab at the resort. Either way, park the car for the city days and use Grab.
 
 ## 🏨 Accommodation {#accommodation}
 One base for all 5 nights means only two move days (arrival and departure).
@@ -41,6 +41,7 @@ One base for all 5 nights means only two move days (arrival and departure).
 |--------|-------|------|-------|
 | Nights 1–5 (ETS) | TBD | KL Sentral or KLCC | KL Sentral: walk off the train, then LRT, monorail or Grab to KLCC in about 15 minutes {verify}. KLCC: walk to Aquaria and Petrosains |
 | Nights 1–5 (drive) | TBD | Bangsar South or Mid Valley | Hotel car park (check the nightly cost and height limit) {verify}; quick highway access; 10–20 minutes to KLCC by Grab |
+| Option: 1 night | Monkeys Canopy Resort | Sungai Long, Cheras | Stay the night of Day 5 to avoid the trip back. But that adds two move days, so it only makes sense with a car |
 
 ## 🗓️ Day-by-day {#days}
 
@@ -57,9 +58,9 @@ One base for all 5 nights means only two move days (arrival and departure).
 - **Afternoon:** [Petrosains, The Discovery Centre](map:Petrosains+The+Discovery+Centre) in Suria KLCC, a hands-on science centre {verify}. Both are indoors, so they're perfect for December's afternoon storms.
 - **Getting back:** Grab is easy from KLCC, though queues build during storms and at 5–8pm.
 
-### Day 3 · Space and Time Cube 🚀
-- **Getting there:** Grab (location to confirm) {verify}.
-- **Morning:** [Space and Time Cube](map:Space+and+Time+Cube+Kuala+Lumpur), on your shortlist. Check its opening hours, age suitability, and whether to book a time slot {verify}.
+### Day 3 · Space & Time Cube 🚀
+- **Getting there:** Grab or monorail to Bukit Bintang. It's in **Lot 10 Shopping Centre**.
+- **Morning:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur), an immersive, naked-eye 3D experience with themed zones and LED walls and floors. Plan on about 1–2 hours. It opens daily, 10am–10pm {verify}. Book tickets online.
 - **Afternoon:** Rest at the hotel and pool.
 - **Optional:** [KL Forest Eco Park](map:KL+Forest+Eco+Park) canopy walk in the city (no car needed; monkeys are common) {verify}. Go early or late, when it's cooler.
 - **Getting back:** Grab.
@@ -70,19 +71,20 @@ One base for all 5 nights means only two move days (arrival and departure).
 - **Afternoon:** Back to the hotel to rest.
 - **Getting back:** Grab is easy in Seri Kembangan {verify}.
 
-### Day 5 · Nature day: FRIM canopy & Paya Indah 🦛
-- **This day works best by car.** Without one, swap in KL Bird Park (see swap-ins).
-- **Morning:** [FRIM Canopy Walkway](map:FRIM+Canopy+Walkway+Kepong), Kepong, about 30 minutes from the city {verify}. It's a forest walk high in the trees, where monkeys are often seen. Go early; check the opening days, age or height rules, and whether it's open after maintenance {verify}.
-- **Afternoon (drive only):** [Paya Indah Wetlands](map:Paya+Indah+Wetlands+Dengkil), Dengkil, about 1 hour south {verify}. It has lakes, birds, crocodiles and **hippos**, with feeding times to check {verify}. It's remote, so Grab back is unreliable; with a car there's no problem.
-- **Tip:** doing both is a full day; if that feels like too much, pick one. Paya Indah is near KLIA and the highway south, so it could also fit on Day 6 on the way home.
+### Day 5 · Monkeys Canopy Resort 🦕
+- **Getting there:** Grab or drive, about 30–45 minutes to Sungai Long, Cheras {verify}. Go at opening.
+- **All day:** [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long), a hilltop resort with several parks: **Monkeys Splash Zone** (indoor water park), **Dino Desert** (dinosaur park), **Enchanted Forest** (immersive indoor forest), **Safari Escape Playland**, and the **Conquer** indoor extreme park {verify}. Check which parks the ticket covers, and the height and age limits for an 8-year-old {verify}.
+- **Midday:** Lunch at the resort, with an indoor break in the Enchanted Forest or Playland.
+- **Getting back:** by car, no problem. **By Grab:** check how long pickups take at the resort before relying on it {verify}. Order the ride before the kids are tired, or ask the resort desk for a taxi.
 
 ### Day 6 · Home 🧳
 - **Luggage:** **Drive:** bags in the car. **ETS:** walk or Grab to KL Sentral with the bags.
-- **Morning:** Leave after the morning rush (about 9:30am). **Drive option:** stop at Paya Indah on the way south, or at Melaka for lunch.
+- **Morning:** Leave after the morning rush (about 9:30am). **Drive option:** a short stop at Paya Indah on the way south (it lengthens the transfer day), or Melaka for lunch.
 - **Afternoon:** Return the car in JB (or take the ETS to JB Sentral), then cross back. Weekday afternoons are usually quieter than Sunday evenings {verify}.
 
 ### Swap-in options
-- **[KL Bird Park](map:KL+Bird+Park):** a big free-flight aviary with feeding sessions {verify}, easy by Grab. A good Day 5 without a car.
+- **[Paya Indah Wetlands](map:Paya+Indah+Wetlands+Dengkil)** (car recommended), Dengkil, about 1 hour south: lakes, birds, crocodiles and **hippos**, with feeding times to check {verify}. It's remote, so Grab back is unreliable. It could replace the Day 4 afternoon, or be a stop on Day 6.
+- **[KL Bird Park](map:KL+Bird+Park):** a big free-flight aviary with feeding sessions {verify}, easy by Grab.
 - **[Zoo Negara](map:Zoo+Negara):** the national zoo {verify}, on KL's edge. Grab there is fine; check that Grab back works at closing time.
 - **[Deerland Park](map:Deerland+Park+Lanchang)** (car only, about 1.5 hours east): feed and pet deer {verify}.
 - **[Batu Caves](map:Batu+Caves):** colourful steps and cheeky monkeys (hold on to your snacks). Avoid Thaipusam.
@@ -91,14 +93,14 @@ One base for all 5 nights means only two move days (arrival and departure).
 ## 🗺️ Map {#map}
 
 ## ✅ Bookings to make {#bookings}
-- [ ] Decide: drive or ETS (drive only if Paya Indah and FRIM matter)
+- [ ] Decide: drive or ETS (drive if Paya Indah matters, or to avoid relying on Grab at Monkeys Canopy)
 - [ ] **If driving:** JB car rental that allows driving to KL, a Touch 'n Go card with credit, and a hotel with its own car park (check the cost and height limit)
 - [ ] **If ETS:** ETS tickets JB Sentral ⇄ KL Sentral (they sell out in holidays {verify}), and a KL Sentral or KLCC hotel
 - [ ] Hotel, 5 nights (family room, pool)
 - [ ] Aquaria KLCC and Petrosains tickets
-- [ ] Space and Time Cube: confirm the location, opening hours and time slot
+- [ ] Space & Time Cube tickets (Lot 10)
 - [ ] Farm In The City tickets
-- [ ] FRIM Canopy Walkway: check it's open and whether it needs booking
+- [ ] Monkeys Canopy tickets: check which parks are included, and the height limits
 - [ ] Travel insurance (check that it covers driving in Malaysia, if driving)
 - [ ] Check entry: passports, and whether the Malaysia Digital Arrival Card is needed {verify}
 
@@ -109,16 +111,17 @@ One base for all 5 nights means only two move days (arrival and departure).
 | Hotel parking (if driving) | TBD | |
 | Accommodation (5 nights) | TBD | |
 | Aquaria KLCC + Petrosains | TBD | |
-| Space and Time Cube | TBD | |
+| Space & Time Cube | TBD | |
 | Farm In The City | TBD | |
-| FRIM + Paya Indah | TBD | |
+| Monkeys Canopy | TBD | |
+| Paya Indah (if driving) | TBD | |
 | Grab rides | TBD | |
 | Food | TBD | |
 
 ## ℹ️ Practical info {#practical}
-- **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Do outdoor places (the farm, FRIM, Paya Indah) in the morning, and keep indoor ones (Aquaria, Petrosains, Space and Time Cube) for the afternoons.
+- **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Do outdoor places (the farm, Paya Indah, Dino Desert) in the morning, and keep indoor ones (Aquaria, Petrosains, Space & Time Cube, Splash Zone) for the afternoons.
 - **Crowds:** Singapore and Malaysian school holidays: the Causeway and the attractions are busiest at weekends and around Christmas and New Year.
-- **Grab:** easy in the city and suburbs. Queues and surge prices build during storms and rush hour. At remote places (Paya Indah, sometimes FRIM) cars may be scarce for the return {verify}, so check before relying on it.
+- **Grab:** easy in the city and suburbs. Queues and surge prices build during storms and rush hour. At remote or hilltop places (Paya Indah, possibly Monkeys Canopy) cars may be slow to arrive for the return {verify}, so check before relying on it.
 - **Traffic in KL:** avoid driving at about 7–9:30am and 5–8pm on weekdays. Friday evenings and rain make it worse.
 - **Driving:** left-hand traffic, like Singapore. Tolls use Touch 'n Go or RFID {verify}.
 - **Power plugs:** Type G, 240 V, the same as Singapore. No adapter needed.
@@ -133,7 +136,8 @@ One base for all 5 nights means only two move days (arrival and departure).
 [Base packing list](../../docs/packing-list.md), plus these extras for this trip:
 
 - Compact umbrellas for afternoon storms
-- Insect repellent and closed shoes for FRIM and Paya Indah
+- Swimwear, towels and a change of clothes for Monkeys Splash Zone
+- Insect repellent and closed shoes for the farm and Paya Indah
 - Hand sanitiser and wipes for the petting farm
 - If driving: car phone mount and charger, Touch 'n Go card, a child booster seat (ask the rental company) {verify}
 - Snack bag for the long drive or train ride
