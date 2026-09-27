@@ -1,3 +1,7 @@
+---
+timezone: Region/City      # IANA time zone, e.g. Asia/Tokyo (live clock vs Singapore)
+clock_city: City
+---
 # COUNTRY: seasons & holidays
 
 Reusable guide for every trip to COUNTRY. Trips link here with `country: <file-name>` in `trip.md`.

@@ -1,3 +1,7 @@
+---
+timezone: Asia/Makassar          # IANA time zone for the live clock
+clock_city: Bali
+---
 # Indonesia (Bali): seasons & holidays
 
 Reusable guide for trips to Indonesia, currently written for **Bali**. Other islands have similar seasons, but their holidays and customs differ.

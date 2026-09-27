@@ -28,3 +28,42 @@ window.addEventListener("afterprint", function () {
     });
   });
 })();
+
+// Live local-vs-home clocks: <span data-clock data-tz data-city data-home-tz data-home-city>.
+// Uses the browser's own time-zone data, so it works offline and handles daylight saving.
+(function () {
+  var clocks = document.querySelectorAll("[data-clock]");
+  if (!clocks.length || !window.Intl) return;
+
+  function timeIn(tz, date) {
+    return date.toLocaleTimeString(undefined, { timeZone: tz, hour: "2-digit", minute: "2-digit" });
+  }
+  // Minutes ahead of UTC for a time zone at a given moment
+  function offsetMin(tz, date) {
+    var p = {};
+    new Intl.DateTimeFormat("en-US", { timeZone: tz, hourCycle: "h23", year: "numeric", month: "2-digit",
+      day: "2-digit", hour: "2-digit", minute: "2-digit" }).formatToParts(date)
+      .forEach(function (x) { p[x.type] = x.value; });
+    return Math.round((Date.UTC(p.year, p.month - 1, p.day, p.hour, p.minute) - date.getTime()) / 60000);
+  }
+  function diffText(mins, home) {
+    if (mins === 0) return "same time as " + home;
+    var h = Math.abs(mins) / 60;
+    var amount = (h % 1 === 0 ? h : h.toFixed(1)) + (h === 1 ? " hour " : " hours ");
+    return amount + (mins > 0 ? "ahead of " : "behind ") + home;
+  }
+
+  function tick() {
+    var now = new Date();
+    clocks.forEach(function (c) {
+      try {
+        var d = c.dataset;
+        var diff = offsetMin(d.tz, now) - offsetMin(d.homeTz, now);
+        c.innerHTML = "🕒 " + d.city + " <strong>" + timeIn(d.tz, now) + "</strong> · " +
+          d.homeCity + " " + timeIn(d.homeTz, now) + ' <span class="clock-diff">(' + diffText(diff, d.homeCity) + ")</span>";
+      } catch (e) { /* unknown time zone: leave the placeholder */ }
+    });
+  }
+  tick();
+  setInterval(tick, 30000);
+})();

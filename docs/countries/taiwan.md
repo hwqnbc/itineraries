@@ -1,3 +1,7 @@
+---
+timezone: Asia/Taipei          # IANA time zone for the live clock
+clock_city: Taipei
+---
 # Taiwan: seasons & holidays
 
 Reusable guide for every trip to Taiwan. Weather figures are typical ranges for **northern Taiwan (Taipei)** unless noted. The south (Kaohsiung, Kenting) is warmer and drier in winter.

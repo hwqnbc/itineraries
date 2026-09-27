@@ -53,6 +53,8 @@ SECTIONS = ["whos-going", "flights", "accommodation", "days", "map", "bookings",
 LEAFLET = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/"
 # The travellers' own currency: every trip with `currency:` gets a converter to/from it
 HOME_CURRENCY = "SGD"
+# ...and their home time zone, for the local-vs-home clocks
+HOME_TZ, HOME_CITY = "Asia/Singapore", "Singapore"
 VERIFY_TOKEN = "@@VERIFY@@"
 
 
@@ -225,6 +227,9 @@ def render_trip(trip) -> str:
                              f"has no docs/countries/{meta['country']}.md")
         guide = rel_link(Path("docs/countries") / f"{meta['country']}.html", out_rel)
         meta_row.append(f'<span>🌦️ <a href="{guide}">Seasons &amp; holidays</a></span>')
+        clock = clock_html(country_meta(meta["country"]))
+        if clock:
+            meta_row.append(clock)
 
     lede = md_to_html(trip["preamble"]) if trip["preamble"].strip() else ""
     lede = lede.replace("<p>", '<p class="lede">', 1)
@@ -328,8 +333,33 @@ def doc_pages():
             yield md, md.relative_to(ROOT).with_suffix(".html"), "notes"
 
 
+def country_meta(name: str) -> dict:
+    """Front matter of docs/countries/<name>.md (timezone, clock_city)."""
+    src = ROOT / "docs/countries" / f"{name}.md"
+    if not src.read_text(encoding="utf-8").startswith("---"):
+        return {}
+    meta, _ = parse_front_matter(src)
+    tz = meta.get("timezone", "")
+    if tz and not re.fullmatch(r"[A-Za-z_]+(/[A-Za-z_+-]+)+", tz):
+        raise BuildError(f"{src.relative_to(ROOT)}: timezone must be an IANA name like Asia/Taipei (got {tz!r})")
+    return meta
+
+
+def clock_html(meta: dict) -> str:
+    """Live local-vs-home clock (filled in by assets/js/main.js)."""
+    if not meta.get("timezone"):
+        return ""
+    return (f'<span class="clock" data-clock data-tz="{esc(meta["timezone"])}" '
+            f'data-city="{esc(meta.get("clock_city", ""))}" data-home-tz="{HOME_TZ}" '
+            f'data-home-city="{HOME_CITY}">🕒 {esc(meta.get("clock_city", ""))} time</span>')
+
+
 def render_doc(src: Path, out_rel: Path, kind: str, trips_by_dir) -> str:
     text = src.read_text(encoding="utf-8")
+    clock = ""
+    if src.parent == ROOT / "docs/countries" and text.startswith("---"):
+        cmeta, text = parse_front_matter(src)
+        clock = clock_html(country_meta(src.stem))
     # "Participants: default-family" → link to that profile page
     def link_profile(m):
         target = profile_link(m.group(1), out_rel)
@@ -354,7 +384,8 @@ def render_doc(src: Path, out_rel: Path, kind: str, trips_by_dir) -> str:
 
     src_rel = src.relative_to(ROOT).as_posix()
     return render(out_rel, title=esc(page_title), description=esc(page_title), crumb=crumb,
-                  main_class="prose", body=md_to_html(text),
+                  main_class="prose",
+                  body=md_to_html(text).replace("</h1>", f'</h1>\n<p class="meta">{clock}</p>', 1) if clock else md_to_html(text),
                   footer=f"{footer} · Generated from <code>{esc(src_rel)}</code>", source=src_rel)
 
 

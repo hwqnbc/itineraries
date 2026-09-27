@@ -403,6 +403,11 @@ li.task label { display: inline-flex; align-items: flex-start; gap: 8px; cursor:
 li.task input { margin-top: 0.35em; accent-color: var(--accent); width: 18px; height: 18px; flex: none; }
 li.task label:has(input:checked) { color: var(--muted); text-decoration: line-through; }
 
+/* ---------- Local vs home clock (assets/js/main.js) ---------- */
+
+.clock strong { color: var(--text); }
+.clock-diff { color: var(--muted); }
+
 /* ---------- Currency converter (assets/js/fx.js) ---------- */
 
 .fx {

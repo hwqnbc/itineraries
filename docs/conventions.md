@@ -129,6 +129,14 @@ These apply to every trip, whoever is travelling. A participant profile can add 
 - **Rental cars abroad:** check the licence rules, such as whether an International Driving Permit is needed {verify}. A car with driver avoids this, and also helps on move days.
 
 ### Choosing dates: country guides
+- Each guide starts with a small front matter block:
+  ```yaml
+  ---
+  timezone: Asia/Taipei    # IANA time zone name
+  clock_city: Taipei       # name shown on the clock
+  ---
+  ```
+  It adds a live **🕒 local vs Singapore clock** to the guide and to every trip that uses that `country:`. The clock uses the browser's time-zone data, so it works offline and handles daylight saving. For countries with several time zones (e.g. Indonesia), use the zone of the area the guide covers.
 - Each country has one guide in `docs/countries/<country>.md`: seasons at a glance, month by month, public and school holidays for the coming year, seasonal things for kids, and basics.
 - Before fixing a trip's dates, check the guide for weather, typhoon/monsoon seasons and holiday crowds. If the guide doesn't exist yet, create it from `docs/countries/_template.md`.
 - Holiday dates and seasonal openings change every year, so mark them {verify}, and update the holiday table for each new year.
