@@ -16,7 +16,7 @@
 4. **Edit `notes.md`:** trip-specific overrides to the profile, research, and the decisions log.
 5. **Edit `pois.js`:**
    - Set `title` and `slug` (the folder name), and the short `days` titles.
-   - Add a place for every stop in the day-by-day plan, plus the hotel area and airport.
+   - Add a place for every stop in the day-by-day plan, plus the hotel area and the airport or station you arrive at in that city. Give far-away optional stops `fit: false`.
    - Optional: once the plan is stable, create a Google My Map from the KML download and paste its embed URL into `myMapsEmbedUrl`.
 6. **Build and check:**
    - `python3 tools/build.py --check && python3 -m http.server 8000 -d _site`, then visit http://localhost:8000.

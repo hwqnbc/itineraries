@@ -95,7 +95,8 @@ With `currency:` set, the build adds a **💱 currency converter** at the top of
 - Each place in `pois.js` has `name`, `lat`, `lng`, `type`, and usually `day` and `note`:
   - `day: 1`, `2`, … puts the marker in that day's colour (days 1–7 have colours).
   - `day: "opt"` is for swap-in options (grey ★).
-  - No `day` is for the hotel area and the airport (🏨 / ✈).
+  - No `day` is for the hotel area and the arrival point: `type: "airport"` shows ✈, `type: "station"` shows 🚆, anything else 🏨. Only add airports or stations you actually use in that city (e.g. no Singapore or JB points on a KL map).
+  - `fit: false` keeps a far-away optional stop on the map (e.g. a lunch stop on the drive), but **Fit to shown** ignores it, so the map zooms nicely on the city.
   - `query` is optional search text for the Google Maps link, if the name alone is ambiguous.
 - **Routes (optional):** walking paths or other routes can be drawn as lines with a `routes` list in `pois.js`:
   ```js

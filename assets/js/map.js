@@ -28,7 +28,7 @@
 
   function pinText(poi) {
     var key = groupKey(poi);
-    if (key === "base") return poi.type === "airport" ? "✈" : "🏨";
+    if (key === "base") return poi.type === "airport" ? "✈" : poi.type === "station" ? "🚆" : "🏨";
     if (key === "opt") return "★";
     return key;
   }
@@ -104,7 +104,8 @@
         iconAnchor: [14, 14],
         popupAnchor: [0, -14]
       });
-      L.marker([poi.lat, poi.lng], { icon: icon, title: poi.name, keyboard: true })
+      // fit: false keeps far-away optional stops on the map without zooming "Fit to shown" out to them
+      L.marker([poi.lat, poi.lng], { icon: icon, title: poi.name, keyboard: true, noFit: poi.fit === false })
         .bindPopup(
           "<strong>" + esc(poi.name) + "</strong><br>" +
           '<span class="popup-day">' + esc(groupLabel(key)) + "</span>" +
@@ -149,7 +150,14 @@
 
   function fitAll() {
     if (!map) return;
-    var bounds = allLayer.getBounds();
+    var bounds = L.latLngBounds([]);
+    allLayer.eachLayer(function (group) {
+      group.eachLayer(function (layer) {
+        if (layer.options.noFit) return;
+        if (layer.getLatLng) bounds.extend(layer.getLatLng());
+        else if (layer.getBounds) bounds.extend(layer.getBounds());
+      });
+    });
     if (bounds.isValid()) map.fitBounds(bounds, { padding: [24, 24] });
     else map.setView(cfg.center || [0, 0], cfg.zoom || 2);
   }
