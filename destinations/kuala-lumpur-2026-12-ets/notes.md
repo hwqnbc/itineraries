@@ -33,7 +33,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | Planetarium Negara | No: flat price | Shows about RM12 adult / RM8 child; the gallery is free {verify} | Day 3 · Wed 2 Dec (open; closed Mon & public holidays) |
 | Space & Time Cube | Not found {verify} | — | Day 3 · Wed 2 Dec |
 | Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 4 · Thu 3 Dec (open; closed Tuesdays in term time) |
-| KidZania KL | **Yes, likely**: weekday off-peak vs weekend / holiday peak {verify} | Longer hours at weekends and in holidays | Day 5 · Fri 4 Dec ✅ weekday (ETS plan) |
+| KidZania KL | **Dynamic pricing**: cheaper the **earlier you book**, even for school-holiday dates (you found) | Adults pay too but have nothing to do; no re-entry, no outside food. **Might be dropped** | Day 5 · Fri 4 Dec (ETS plan) |
 | Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Day 5 · Fri 4 Dec (drive plan) |
 | Paya Indah Wetlands | Not found {verify} | Closed Tuesdays except school and public holidays | Day 4 · Thu 3 Dec (drive plan) |
 | Hotels, ETS, car rental | Usually dearer at weekends and in school holidays {verify} | Nights Mon–Fri are the cheapest part of this window | Nights 1–5 · Mon–Fri |
@@ -65,9 +65,11 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-09-28 | KidZania has no re-entry: lunch inside, The Curve only after | Theme-park re-entry rule |
 | 2026-09-28 | KidZania: no outside food, so breakfast before and meals inside (budget row added) | You confirmed |
 | 2026-09-28 | Proposed dates Mon 30 Nov – Sat 5 Dec (before Malaysian school holidays); peak-pricing table added | Pay off-peak prices; all attraction days on term-time weekdays |
+| 2026-09-28 | KidZania under review (dynamic pricing: book early; adults pay with nothing to do; no re-entry). Day 5 alternatives added: Zoo Negara, KL Bird Park + Butterfly Park, Batu Caves | Your findings |
 
 ## Open questions
 - ETS or drive?
+- Keep KidZania (book as early as possible) or swap Day 5 for Zoo Negara / Bird Park / Batu Caves?
 - Which Monkeys Canopy parks to do, if driving?
 - Make sure the Planetarium day (Day 3) isn't a Monday or a public holiday (e.g. 25 Dec). KidZania is open daily.
 - Confirm dates: proposed Mon 30 Nov – Sat 5 Dec 2026. Check Aquaria and KidZania peak calendars, and the farm's one-day pass page, for those dates.

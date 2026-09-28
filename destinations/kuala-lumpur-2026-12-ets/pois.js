@@ -25,6 +25,7 @@ window.TRIP_MAP = {
     { day: 3, name: "KL Forest Eco Park", type: "sight", note: "Optional canopy walk; monkeys", lat: 3.1510, lng: 101.7030 },
     { day: 4, name: "Farm In The City", type: "animals", note: "Petting and feeding farm — go at opening", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
     { day: 5, name: "KidZania Kuala Lumpur", type: "theme-park", note: "Curve NX, Mutiara Damansara — MRT Kajang Line; open daily", query: "KidZania Kuala Lumpur Curve NX", lat: 3.1580, lng: 101.6110 },
+    { day: "opt", name: "KL Butterfly Park", type: "animals", note: "Day 5 alternative: next to KL Bird Park", query: "KL Butterfly Park", lat: 3.1440, lng: 101.6865 },
     { day: "opt", name: "KL Bird Park", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
     { day: "opt", name: "Zoo Negara", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
     { day: "opt", name: "Batu Caves", type: "sight", note: "Steps and monkeys; avoid Thaipusam", lat: 3.2379, lng: 101.6840 }

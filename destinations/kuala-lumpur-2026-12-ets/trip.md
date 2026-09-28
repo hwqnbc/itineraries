@@ -92,6 +92,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Getting back:** Grab is easy in Seri Kembangan {verify}.
 
 ### Day 5 · Fri 4 Dec · KidZania Kuala Lumpur 👩‍🚒
+- **Under review:** You might drop KidZania. It has **dynamic pricing** (cheaper the earlier you book, even for holiday dates), there's **no re-entry**, and **adults pay but have nothing to do**. If it's dropped, use one of the *Day 5 alternatives* below.
 - **Getting there:** **MRT Kajang Line** from Bukit Bintang straight to **Mutiara Damansara** station (same line, no change), about 30–40 minutes {verify}, then a short walk to Curve NX. Or Grab, about 30–45 minutes.
 - **Day:** [KidZania Kuala Lumpur](map:KidZania+Kuala+Lumpur+Curve+NX) at **Curve NX, Mutiara Damansara**. It's a kid-sized city where children try real jobs (firefighter, pilot, doctor, chef) and earn "kidZos"; an 8-year-old can do most activities without a parent inside {verify}. **Open daily**, Mondays included; check the hours for your date on the [KidZania general info page](https://www.kidzania.com.my/generalinfo). Book tickets online and arrive at opening, because popular jobs queue up in December.
 - **Re-entry:** **Not allowed.** Once you leave KidZania, you can't come back in, and children can't make temporary exits {verify}. Plan the whole visit inside: eat lunch there, and use its rest areas for breaks.
@@ -100,6 +101,12 @@ Travel times are rough and from general knowledge {verify}.
 - **Getting back:** MRT from Mutiara Damansara, or Grab, which is easy to book at the mall {verify}.
 - **Food:** After KidZania, an early dinner or coffee in **The Curve** or **IKEA** next door {verify}.
 - **Shopping:** **The Curve** mall next door, **after** KidZania (with no re-entry, don't step out mid-visit).
+
+### Day 5 alternatives (if KidZania is dropped)
+Each is easy by Grab or train from Bukit Bintang, and adults enjoy it too:
+- **[Zoo Negara](map:Zoo+Negara) (national zoo):** a full animal day, which is your son's top interest. Grab takes about 25–35 minutes {verify}; check that a Grab back is easy at closing. Check re-entry and outside-food rules, and the ticket prices {verify}.
+- **[KL Bird Park](map:KL+Bird+Park) + [KL Butterfly Park](map:KL+Butterfly+Park):** a half day in the Lake Gardens, with bird-feeding sessions {verify}. The afternoon is free for the pool, or for shopping at Pavilion.
+- **[Batu Caves](map:Batu+Caves):** the rainbow steps and cheeky monkeys, reachable by KTM Komuter from KL Sentral {verify}. A half day, and free to enter the main cave {verify}.
 
 ### Day 6 · Sat 5 Dec · KL → Singapore by ETS 🧳
 - **Luggage:** Grab to KL Sentral with the bags, then the ETS to JB Sentral.
