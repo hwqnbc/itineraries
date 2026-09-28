@@ -10,7 +10,7 @@ assets/js/main.js              Shared JS (expands days when printing, remembers 
 assets/js/map.js               Shared trip map (Leaflet/OSM + Google My Maps toggle + KML export)
 assets/js/fx.js                Currency converter (SGD ⇄ local, live daily rate, cached for offline)
 destinations/_template/        Copy this to start a new trip (not published)
-destinations/<city>-<YYYY>-<MM>/
+destinations/<city>-<YYYY>-<MM>[-<variant>]/   (variant: e.g. -ets / -drive for alternative plans of one trip)
   trip.md                      The itinerary (front matter + sections) → index.html
   notes.md                     Participants, overrides, research, decisions → notes.html
   pois.js                      Map markers (places, day, coordinates)

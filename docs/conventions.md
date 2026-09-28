@@ -4,6 +4,7 @@ These rules keep every trip page consistent. `CLAUDE.md` gives the short version
 
 ## Folder & file naming
 - Destination folders go in `destinations/` and are named `<city>-<YYYY>-<MM>` in lowercase with hyphens. Examples: `taipei-2027-06`, `tokyo-2028-12`. Use the start month.
+- **Two versions of one trip** (e.g. by train vs by car): give each its own folder with a short suffix, `<city>-<YYYY>-<MM>-<variant>` (e.g. `kuala-lumpur-2026-12-ets` and `kuala-lumpur-2026-12-drive`). Each version is a complete plan of its own. Put the side-by-side comparison in **one** version's `notes.md`, and link both versions to each other and to that comparison from the lede callout. Link another trip with its `trip.md` path (the build turns it into that trip's page).
 - Each destination folder holds:
   - `trip.md`: the itinerary (becomes `index.html`)
   - `notes.md`: overrides, research, decisions, open questions (becomes `notes.html`)

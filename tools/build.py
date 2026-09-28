@@ -107,6 +107,9 @@ def md_to_html(text: str) -> str:
     body = re.sub(r'(<li class="task"><label>.*?)(</li>)', r"\1</label>\2", body, flags=re.S)
     # Tables scroll inside themselves on phones
     body = body.replace("<table>", '<div class="table-wrap"><table>').replace("</table>", "</table></div>")
+    # Links to another trip's trip.md → that trip's page (index.html)
+    body = re.sub(r'href="(?!https?:|mailto:|#)((?:[^"]*/)?)trip\.md(#[^"]*)?"',
+                  lambda m: f'href="{m.group(1)}index.html{m.group(2) or ""}"', body)
     # Relative links to .md → the generated .html
     body = re.sub(r'href="(?!https?:|mailto:|#)([^"]+?)\.md(#[^"]*)?"',
                   lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"', body)

@@ -1,0 +1,49 @@
+# Kuala Lumpur — December 2026: Drive vs ETS
+
+<!-- Participants and status live in trip.md (front matter), not here.
+     This file holds the shared Drive vs ETS comparison for both KL versions. -->
+
+Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)**. Same shortlist, same 6 days.
+
+## Drive vs ETS
+
+| | 🚆 ETS (Bukit Bintang base) | 🚗 Drive (Mid Valley / Bangsar South base) |
+|---|---|---|
+| Journey | Causeway bus/RTS, then ETS JB Sentral → KL Sentral, about 4.5–5 hours {verify} | Causeway bus/RTS, then drive from JB, about 3.5–4.5 hours without jams {verify} |
+| Causeway | Same crossing either way; the RTS Link (due around end-2026 {verify}) would help both | Same |
+| City days (Aquaria, Petrosains, Space & Time Cube) | **Walk** via the KLCC–Bukit Bintang walkway and Lot 10 | Grab (car stays parked) |
+| Farm In The City | Grab, or MRT + a short Grab {verify} | Drive 20–30 minutes |
+| Monkeys Canopy | Grab there; check pickup times for the return {verify} | Drive; no waiting |
+| Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 4 afternoon |
+| Legoland on the way home | Not practical | Possible as an extra day |
+| Hotel | Bukit Bintang: cheaper than KLCC, more mid-range choice {verify} | Must have a car park and highway access; parking costs extra {verify} |
+| Stress | No driving, parking or traffic | KL traffic at 7–9:30am and 5–8pm; parking at the hotel |
+| Costs to compare | ETS ×3 return + Grab | Rental + fuel + tolls + parking + Grab on city days |
+
+**Summary:** the shortlist works fully by ETS, and the walkable Bukit Bintang base makes the city days easy. Driving adds Paya Indah (and optionally Legoland) and removes the Grab worry at Monkeys Canopy, but brings traffic and parking.
+
+## Research & options
+- **Shortlist (from you):** Aquaria KLCC, Petrosains Discovery Centre, Space & Time Cube (Lot 10, Bukit Bintang), Farm In The City, Monkeys Canopy Resort (Sungai Long, Cheras). **Not going:** Genting, Sunway Lagoon.
+- **Grab rule:** a place is fine without a car as long as a Grab back to the hotel is easy to book. That's true in the city and suburbs; not at Paya Indah, and worth checking at the Monkeys Canopy hilltop {verify}.
+- **KLCC vs Bukit Bintang hotels:** Bukit Bintang generally costs less for a similar standard and has far more mid-range choice; KLCC is mostly upscale {verify}. The covered **KLCC–Bukit Bintang walkway** (about 1.2 km, Pavilion ↔ Convention Centre) links them, so a Bukit Bintang base loses little.
+- **Monkeys Canopy Resort** (monkeyscanopy.com): Monkeys Splash Zone (indoor water park), Dino Desert, Enchanted Forest, Safari Escape Playland, Conquer indoor extreme park, and go-karts. One listing shows about RM38 per child and RM50 per adult, with a 2+2 family deal {verify}, but check what it includes.
+- **Space & Time Cube:** Lot 10 Shopping Centre, Bukit Bintang. Immersive, naked-eye 3D; allow 1–2 hours; open daily 10am–10pm {verify}.
+
+## Decisions log
+| Date | Decision | Why |
+|------|----------|-----|
+| 2026-09-27 | First draft: KL, December 2026, 6 days, drive-first with an ETS version | Considering drive vs ETS |
+| 2026-09-27 | Rebuilt around the shortlist; dropped Genting and Sunway Lagoon | Your shortlist; Grab back must be easy |
+| 2026-09-28 | "Monkey canopy" is Monkeys Canopy Resort → Day 5; Space & Time Cube located at Lot 10 | Your links |
+| 2026-09-28 | Split into two separate plans (ETS and drive); comparison moved here; ETS base moved to Bukit Bintang | Easier to read each plan on its own; Bukit Bintang is cheaper and walkable to KLCC |
+
+## Open questions
+- ETS or drive?
+- Which Monkeys Canopy parks to do (one ticket or several)?
+- Exact dates: weekdays avoid the worst Causeway and attraction crowds.
+
+## Sources
+- KLCC–Bukit Bintang walkway and area comparison: kualalumpurcity.my/bukit-bintang-vs-klcc/, travelfoodexpert.com/bukit-bintang-vs-klcc/
+- Monkeys Canopy — https://monkeyscanopy.com
+- Space & Time Cube Malaysia — https://spaceandtimecube.com.my/
+- KTM ETS — official KTM Berhad website (check the timetable and JB Sentral services)
