@@ -66,6 +66,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-09-28 | KidZania: no outside food, so breakfast before and meals inside (budget row added) | You confirmed |
 | 2026-09-28 | Proposed dates Mon 30 Nov – Sat 5 Dec (before Malaysian school holidays); peak-pricing table added | Pay off-peak prices; all attraction days on term-time weekdays |
 | 2026-09-28 | KidZania under review (dynamic pricing: book early; adults pay with nothing to do; no re-entry). Day 5 alternatives added: Zoo Negara, KL Bird Park + Butterfly Park, Batu Caves | Your findings |
+| 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
 
 ## Open questions
 - ETS or drive?

@@ -421,6 +421,7 @@ details.day .day-body ul { padding-left: 20px; }
 .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface); color: var(--text); }
 .leaflet-popup-content { line-height: 1.5; }
 .popup-day { color: var(--muted); font-size: 0.85rem; }
+.popup-time { font-size: 0.85rem; }
 
 /* ---------- Generated pages (from markdown) ---------- */
 

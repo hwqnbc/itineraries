@@ -65,36 +65,36 @@ Travel times are rough and from general knowledge {verify}.
 - **Morning:** Cross early (before 7am) because of December queues {verify}, then take the ETS from JB Sentral.
 - **Afternoon:** Arrive at KL Sentral, Grab to Bukit Bintang, and check in.
 - **Evening:** An easy walk around Pavilion and Bukit Bintang.
-- **Food:** **Jalan Alor** street food, a short walk from Pavilion, or one of Pavilion's cafés {verify}.
+- **Food:** **Jalan Alor** street food (⏱ 1–1.5 h), a short walk from Pavilion, or one of Pavilion's cafés {verify}.
 - **Shopping:** **Pavilion KL**, next to the hotel area, has clothes and accessories for a first look {verify}.
 
 ### Day 2 · Tue 1 Dec · Walk to KLCC: Aquaria & Petrosains 🐠
 - **Getting there:** Walk the **KLCC–Bukit Bintang walkway** (about 20–25 minutes at a child's pace; covered, so no rain or heat).
-- **Morning:** [Aquaria KLCC](map:), with its underwater tunnel and feeding times {verify}. Go at opening.
+- **Morning:** [Aquaria KLCC](map:) (⏱ 2–3 h), with its underwater tunnel and feeding times {verify}. Go at opening.
 - **Midday:** Lunch in Suria KLCC.
-- **Afternoon:** [Petrosains, The Discovery Centre](map:Petrosains+The+Discovery+Centre) in Suria KLCC, a hands-on science centre {verify}.
-- **Evening:** KLCC Park playground and the fountain show at dusk. Walk back, or Grab if he's tired.
+- **Afternoon:** [Petrosains, The Discovery Centre](map:Petrosains+The+Discovery+Centre) (⏱ 2–3 h) in Suria KLCC, a hands-on science centre {verify}.
+- **Evening:** KLCC Park (⏱ about 1 h) playground and the fountain show at dusk. Walk back, or Grab if he's tired.
 - **Food:** Suria KLCC has plenty of restaurants and cafés for lunch and a coffee break {verify}.
 - **Shopping:** Suria KLCC's fashion and accessories floors are right there. One adult can browse while the other takes him to the KLCC Park playground.
 
 ### Day 3 · Wed 2 Dec · Planetarium & Space & Time Cube 🪐🚀
-- **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Bukit Bintang {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
+- **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium; ⏱ 1.5–2 h, including a dome show) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Bukit Bintang {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
 - **Midday:** Lunch, then rest and pool at the hotel.
-- **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) in **Lot 10**, Bukit Bintang (walk from the hotel), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Allow 1–2 hours. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
-- **Optional:** [KL Bird Park](map:KL+Bird+Park) is right next to the planetarium in the same gardens (see swap-ins), or the [KL Forest Eco Park](map:KL+Forest+Eco+Park) canopy walk {verify}.
+- **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) (⏱ 1–2 h) in **Lot 10**, Bukit Bintang (walk from the hotel), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
+- **Optional:** [KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h) is right next to the planetarium in the same gardens (see swap-ins), or the [KL Forest Eco Park](map:KL+Forest+Eco+Park) (⏱ 1–1.5 h) canopy walk {verify}.
 - **Food:** Dinner at **Lot 10 Hutong**, a food court of well-known hawker stalls in Lot 10's basement {verify}, or the **Jalan Alor** street-food lane, a short walk away.
 - **Shopping:** **Lot 10, Pavilion and Fahrenheit88** sit side by side, so there's plenty of clothes and accessories within a few minutes' walk {verify}.
 
 ### Day 4 · Thu 3 Dec · Farm In The City 🐐
 - **Getting there:** Grab (about 30–45 minutes), or the MRT to a station near the farm plus a short Grab {verify}.
-- **Morning:** [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. **Closed on Tuesdays in term time**, i.e. before Malaysia's school holidays start after 5 Dec (it opens on Tuesdays in school and public holidays) {verify}, so don't move this day to a Tuesday. Go at opening, before it gets hot.
+- **Morning:** [Farm In The City](map:Farm+In+The+City+Seri+Kembangan) (⏱ 3–4 h), a hands-on petting and feeding farm {verify}. **Closed on Tuesdays in term time**, i.e. before Malaysia's school holidays start after 5 Dec (it opens on Tuesdays in school and public holidays) {verify}, so don't move this day to a Tuesday. Go at opening, before it gets hot.
 - **Afternoon:** Back to the hotel to rest.
 - **Getting back:** Grab is easy in Seri Kembangan {verify}.
 
 ### Day 5 · Fri 4 Dec · KidZania Kuala Lumpur 👩‍🚒
 - **Under review:** You might drop KidZania. It has **dynamic pricing** (cheaper the earlier you book, even for holiday dates), there's **no re-entry**, and **adults pay but have nothing to do**. If it's dropped, use one of the *Day 5 alternatives* below.
 - **Getting there:** **MRT Kajang Line** from Bukit Bintang straight to **Mutiara Damansara** station (same line, no change), about 30–40 minutes {verify}, then a short walk to Curve NX. Or Grab, about 30–45 minutes.
-- **Day:** [KidZania Kuala Lumpur](map:KidZania+Kuala+Lumpur+Curve+NX) at **Curve NX, Mutiara Damansara**. It's a kid-sized city where children try real jobs (firefighter, pilot, doctor, chef) and earn "kidZos"; an 8-year-old can do most activities without a parent inside {verify}. **Open daily**, Mondays included; check the hours for your date on the [KidZania general info page](https://www.kidzania.com.my/generalinfo). Book tickets online and arrive at opening, because popular jobs queue up in December.
+- **Day:** [KidZania Kuala Lumpur](map:KidZania+Kuala+Lumpur+Curve+NX) (⏱ 5–6 h) at **Curve NX, Mutiara Damansara**. It's a kid-sized city where children try real jobs (firefighter, pilot, doctor, chef) and earn "kidZos"; an 8-year-old can do most activities without a parent inside {verify}. **Open daily**, Mondays included; check the hours for your date on the [KidZania general info page](https://www.kidzania.com.my/generalinfo). Book tickets online and arrive at opening, because popular jobs queue up in December.
 - **Re-entry:** **Not allowed.** Once you leave KidZania, you can't come back in, and children can't make temporary exits {verify}. Plan the whole visit inside: eat lunch there, and use its rest areas for breaks.
 - **Outside food:** **Not allowed.** Eat a good breakfast before going in, and budget for lunch and snacks at KidZania's own outlets. If he has dietary needs, ask KidZania about exceptions in advance {verify}.
 - **Midday:** Lunch inside KidZania.
@@ -104,9 +104,9 @@ Travel times are rough and from general knowledge {verify}.
 
 ### Day 5 alternatives (if KidZania is dropped)
 Each is easy by Grab or train from Bukit Bintang, and adults enjoy it too:
-- **[Zoo Negara](map:Zoo+Negara) (national zoo):** a full animal day, which is your son's top interest. Grab takes about 25–35 minutes {verify}; check that a Grab back is easy at closing. Check re-entry and outside-food rules, and the ticket prices {verify}.
-- **[KL Bird Park](map:KL+Bird+Park) + [KL Butterfly Park](map:KL+Butterfly+Park):** a half day in the Lake Gardens, with bird-feeding sessions {verify}. The afternoon is free for the pool, or for shopping at Pavilion.
-- **[Batu Caves](map:Batu+Caves):** the rainbow steps and cheeky monkeys, reachable by KTM Komuter from KL Sentral {verify}. A half day, and free to enter the main cave {verify}.
+- **[Zoo Negara](map:Zoo+Negara) (national zoo; ⏱ 3–4 h):** a full animal day, which is your son's top interest. Grab takes about 25–35 minutes {verify}; check that a Grab back is easy at closing. Check re-entry and outside-food rules, and the ticket prices {verify}.
+- **[KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h) + [KL Butterfly Park](map:KL+Butterfly+Park) (⏱ about 1 h):** a half day in the Lake Gardens, with bird-feeding sessions {verify}. The afternoon is free for the pool, or for shopping at Pavilion.
+- **[Batu Caves](map:Batu+Caves) (⏱ 1–1.5 h):** the rainbow steps and cheeky monkeys, reachable by KTM Komuter from KL Sentral {verify}. A half day, and free to enter the main cave {verify}.
 
 ### Day 6 · Sat 5 Dec · KL → Singapore by ETS 🧳
 - **Luggage:** Grab to KL Sentral with the bags, then the ETS to JB Sentral.
@@ -115,9 +115,9 @@ Each is easy by Grab or train from Bukit Bintang, and adults enjoy it too:
 - **Afternoon:** Arrive at JB Sentral and cross home. Weekday afternoons are usually quieter than Sunday evenings {verify}.
 
 ### Swap-in options
-- **[KL Bird Park](map:KL+Bird+Park):** a big free-flight aviary with feeding sessions {verify}, easy by Grab.
-- **[Zoo Negara](map:Zoo+Negara):** the national zoo {verify}. Grab there is fine; check that Grab back works at closing time.
-- **[Batu Caves](map:Batu+Caves):** colourful steps and cheeky monkeys, reachable by KTM Komuter from KL Sentral {verify}. Avoid Thaipusam.
+- **[KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h):** a big free-flight aviary with feeding sessions {verify}, easy by Grab.
+- **[Zoo Negara](map:Zoo+Negara) (⏱ 3–4 h):** the national zoo {verify}. Grab there is fine; check that Grab back works at closing time.
+- **[Batu Caves](map:Batu+Caves) (⏱ 1–1.5 h):** colourful steps and cheeky monkeys, reachable by KTM Komuter from KL Sentral {verify}. Avoid Thaipusam.
 - **Car-only places** (Monkeys Canopy Resort, Paya Indah Wetlands, Deerland, Legoland on the way home) are in the **[drive version](../kuala-lumpur-2026-12-drive/trip.md)**.
 
 ## 🗺️ Map {#map}

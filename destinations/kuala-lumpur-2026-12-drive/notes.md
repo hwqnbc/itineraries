@@ -23,6 +23,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-09-28 | Monkeys Canopy re-entry to check; plan to stay in until confirmed | Theme-park re-entry rule |
 | 2026-09-28 | Monkeys Canopy outside-food rule to check | Outside-food rule |
 | 2026-09-28 | Proposed dates Mon 30 Nov – Sat 5 Dec (see the peak-pricing table in the ETS notes) | Off-peak weekday prices |
+| 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
 
 ## Open questions
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)

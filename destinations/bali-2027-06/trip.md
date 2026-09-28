@@ -41,11 +41,11 @@ Split the stay between the beach and the hills: Sanur first, because it's close 
 
 ### Day 1 · Arrive, Sanur beach 🧳
 - **Luggage:** Hotel transfer, or Grab/Gojek from the airport's official ride-hailing pickup point {verify}, straight to the Sanur hotel. No driver needed.
-- **Afternoon:** Pool time and a walk along the Sanur beach path. The sea is calm inside the reef.
+- **Afternoon:** Pool time and a walk along the Sanur beach path (⏱ 1–2 h). The sea is calm inside the reef.
 - **Evening:** An early dinner by the beach.
 
 ### Day 2 · Bali Safari Park 🦓
-- **Morning:** [Bali Safari Park](map:Bali+Safari+Park+Gianyar) (Taman Safari Bali), about 40 minutes from Sanur. Start with the Safari Journey tram through the big-animal areas, then find the scheduled feeding and animal-encounter sessions {verify}.
+- **Morning:** [Bali Safari Park](map:Bali+Safari+Park+Gianyar) (Taman Safari Bali; ⏱ 4–6 h, Night Safari 2–3 h more), about 40 minutes from Sanur. Start with the Safari Journey tram through the big-animal areas, then find the scheduled feeding and animal-encounter sessions {verify}.
 - **Re-entry:** Check whether a same-day hand stamp or wristband lets you out and back in {verify}. If not, plan to stay in and have lunch in the park.
 - **Outside food:** Check whether you may bring your own food and drinks {verify}. If not, eat a proper breakfast first and budget for meals inside.
 - **Midday:** Lunch in the park, then the Fun Zone (kids' rides and water play) {verify}.
@@ -53,7 +53,7 @@ Split the stay between the beach and the hills: Sanur first, because it's close 
 - **Evening:** Back to Sanur for a rest. **Optional:** the Night Safari, a late evening that's worth it only if he's still full of energy {verify}.
 
 ### Day 3 · Waterbom Bali 🌊
-- **All day:** [Waterbom Bali](map:Waterbom+Bali+Kuta) in Kuta, a highly rated water park. There are slides sorted by height and a kids' area {verify}. Go at opening, and rent a shaded lounger to use as a base.
+- **All day:** [Waterbom Bali](map:Waterbom+Bali+Kuta) (⏱ 4–6 h) in Kuta, a highly rated water park. There are slides sorted by height and a kids' area {verify}. Go at opening, and rent a shaded lounger to use as a base.
 - **Re-entry:** Check the same-day re-entry rules {verify}. Plan lunch and breaks inside the park, since going back to Sanur mid-day would take most of the afternoon.
 - **Outside food:** Check whether you may bring your own food and drinks {verify}. If not, eat a proper breakfast first and budget for meals inside.
 - **Transport:** 📱 **Grab/Gojek both ways.** Kuta is busy, so app cars are easy to find {verify}. No driver needed.
@@ -61,27 +61,27 @@ Split the stay between the beach and the hills: Sanur first, because it's close 
 
 ### Day 4 · Bali Zoo on the way to Ubud 🦧 🧳
 - **Luggage:** Check out of the Sanur hotel; the bags stay in the hired car while we're at the zoo, and it drives on to Ubud afterwards.
-- **Morning:** [Bali Zoo](map:Bali+Zoo+Singapadu) in Singapadu, about 30 minutes from Sanur. Book **Breakfast with Orangutans** {verify}, then do the keeper talks and feeding sessions {verify}. Skip the elephant rides.
+- **Morning:** [Bali Zoo](map:Bali+Zoo+Singapadu) (⏱ 3–4 h, including the breakfast) in Singapadu, about 30 minutes from Sanur. Book **Breakfast with Orangutans** {verify}, then do the keeper talks and feeding sessions {verify}. Skip the elephant rides.
 - **Afternoon:** Drive on to Ubud (about 30 minutes), check in, and have pool time.
 - **Transport:** 🚗 **Driver.** It's a move day with luggage, and Singapadu has few app cars for a pickup {verify}.
 
 ### Day 5 · Bedugul: farm animals & treetop ropes 🐑
-- **Morning:** Drive into the cool highlands, about 1.5 hours {verify}. [Bali Farm House](map:Bali+Farm+House+Bedugul) has sheep, rabbits and other farm animals to feed {verify}.
+- **Morning:** Drive into the cool highlands, about 1.5 hours {verify}. [Bali Farm House](map:Bali+Farm+House+Bedugul) (⏱ 1–1.5 h) has sheep, rabbits and other farm animals to feed {verify}.
 - **Midday:** Lunch in Bedugul; bring a light jacket, because the highlands are cooler.
 - **Transport:** 🚗 **Driver.** Bedugul is remote, 1.5 hours from Ubud, and a Grab back is unlikely {verify}.
-- **Afternoon:** [Bali Treetop Adventure Park](map:Bali+Treetop+Adventure+Park+Bedugul), with rope courses graded by age and height {verify}. Drive back to Ubud.
+- **Afternoon:** [Bali Treetop Adventure Park](map:Bali+Treetop+Adventure+Park+Bedugul) (⏱ 2–3 h), with rope courses graded by age and height {verify}. Drive back to Ubud.
 
 ### Day 6 · Rice terraces → fly home 🧳
 - **Luggage:** Check out of the Ubud hotel; the hired car takes us and the bags to the airport.
-- **Morning:** A short visit to the [Tegallalang Rice Terraces](map:Tegallalang+Rice+Terrace), or a quiet Ubud café morning.
+- **Morning:** A short visit to the [Tegallalang Rice Terraces](map:Tegallalang+Rice+Terrace) (⏱ 1–1.5 h), or a quiet Ubud café morning.
 - **Afternoon:** Drive to DPS, leaving at least 2 hours plus a traffic buffer {verify}.
 - **Transport:** 🚗 **Driver.** It's a move day with luggage, and Tegallalang and central Ubud are local-transport pickup zones where Grab/Gojek pickups aren't allowed {verify}.
 
 ### Swap-in options
-- **[Ubud Monkey Forest](map:Sacred+Monkey+Forest+Sanctuary+Ubud):** hundreds of monkeys. Don't feed them, and put away hats, sunglasses and snacks, because they grab. Hold hands with the child {verify}. Central Ubud is a no-app-pickup zone, so walk from your hotel or use the hotel's driver {verify}.
-- **[Turtle Conservation and Education Center](map:Turtle+Conservation+and+Education+Center+Serangan)** on Serangan, near Sanur: see baby turtles; hatchling releases are seasonal {verify}. It's near Sanur; Grab both ways should be fine {verify}.
-- **[Bali Butterfly Park](map:Bali+Butterfly+Park+Tabanan):** a calm, shaded half-day.
-- **[Uluwatu Temple](map:Uluwatu+Temple) Kecak fire dance at sunset:** an evening show; watch the temple monkeys here too. After the late show, app pickups are hard at the temple, so use a driver {verify}.
+- **[Ubud Monkey Forest](map:Sacred+Monkey+Forest+Sanctuary+Ubud) (⏱ 1–1.5 h):** hundreds of monkeys. Don't feed them, and put away hats, sunglasses and snacks, because they grab. Hold hands with the child {verify}. Central Ubud is a no-app-pickup zone, so walk from your hotel or use the hotel's driver {verify}.
+- **[Turtle Conservation and Education Center](map:Turtle+Conservation+and+Education+Center+Serangan) (⏱ 45 min–1 h)** on Serangan, near Sanur: see baby turtles; hatchling releases are seasonal {verify}. It's near Sanur; Grab both ways should be fine {verify}.
+- **[Bali Butterfly Park](map:Bali+Butterfly+Park+Tabanan) (⏱ 1–1.5 h):** a calm, shaded half-day.
+- **[Uluwatu Temple](map:Uluwatu+Temple) Kecak fire dance at sunset (⏱ 2–3 h, including the 1-hour Kecak show):** an evening show; watch the temple monkeys here too. After the late show, app pickups are hard at the temple, so use a driver {verify}.
 - **Rainy-day backup:** a hotel pool day, or a cooking class for kids {verify}.
 
 ## 🗺️ Map {#map}

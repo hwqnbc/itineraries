@@ -62,38 +62,38 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 ### Day 1 · Mon 30 Nov · Singapore → JB → drive to KL 🧳
 - **Luggage:** Carry it across the Causeway to the rental pickup in JB; after that it stays in the car.
 - **Morning:** Cross early (before 7am), because December weekends have long queues {verify}. Collect the car and load a Touch 'n Go card.
-- **Midday:** Break halfway for lunch, either at a highway rest stop or a short detour into [Melaka](map:Jonker+Street+Melaka) {verify}.
+- **Midday:** Break halfway for lunch, either at a highway rest stop or a short detour into [Melaka](map:Jonker+Street+Melaka) (⏱ 1.5–2 h) {verify}.
 - **Afternoon:** Check in at Mid Valley or Bangsar South before 5pm, then pool time.
 - **Food:** If you stop in Melaka, try its **chicken rice balls** and **cendol** on or near Jonker Street {verify}.
 - **Shopping:** Jonker Street's shops and stalls have accessories and small souvenirs {verify}.
 
 ### Day 2 · Tue 1 Dec · Aquaria & Petrosains (car stays parked) 🐠
 - **Getting there:** Grab to KLCC, about 15–20 minutes; there's no need to find parking in the city.
-- **Morning:** [Aquaria KLCC](map:), with its underwater tunnel and feeding times {verify}. Go at opening.
+- **Morning:** [Aquaria KLCC](map:) (⏱ 2–3 h), with its underwater tunnel and feeding times {verify}. Go at opening.
 - **Midday:** Lunch in Suria KLCC.
-- **Afternoon:** [Petrosains, The Discovery Centre](map:Petrosains+The+Discovery+Centre), a hands-on science centre {verify}.
-- **Evening:** KLCC Park and the fountain show, then Grab back.
+- **Afternoon:** [Petrosains, The Discovery Centre](map:Petrosains+The+Discovery+Centre) (⏱ 2–3 h), a hands-on science centre {verify}.
+- **Evening:** KLCC Park (⏱ about 1 h) and the fountain show, then Grab back.
 - **Food:** Suria KLCC has plenty of restaurants and cafés for lunch and a coffee break {verify}.
 - **Shopping:** Suria KLCC's fashion and accessories floors are right there. One adult can browse while the other takes him to the KLCC Park playground.
 
 ### Day 3 · Wed 2 Dec · Planetarium & Space & Time Cube (car stays parked) 🪐🚀
-- **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Mid Valley {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
+- **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium; ⏱ 1.5–2 h, including a dome show) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Mid Valley {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
 - **Midday:** Lunch, then rest and pool at the hotel.
-- **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) in **Lot 10**, Bukit Bintang (Grab), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Allow 1–2 hours. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
-- **Optional:** [KL Bird Park](map:KL+Bird+Park) is right next to the planetarium in the same gardens {verify}.
+- **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) (⏱ 1–2 h) in **Lot 10**, Bukit Bintang (Grab), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
+- **Optional:** [KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h) is right next to the planetarium in the same gardens {verify}, or the [KL Forest Eco Park](map:KL+Forest+Eco+Park) (⏱ 1–1.5 h) canopy walk {verify}.
 - **Food:** Dinner at **Lot 10 Hutong**, a food court of well-known hawker stalls in Lot 10's basement {verify}, or the **Jalan Alor** street-food lane, a short walk away.
 - **Shopping:** **Lot 10, Pavilion and Fahrenheit88** sit side by side, so there's plenty of clothes and accessories within a few minutes' walk {verify}.
 
 ### Day 4 · Thu 3 Dec · Farm In The City & Paya Indah Wetlands 🐐🦛
-- **Morning:** Drive about 20–30 minutes to [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. **Closed on Tuesdays in term time**, i.e. before Malaysia's school holidays start after 5 Dec (it opens on Tuesdays in school and public holidays) {verify}, so don't move this day to a Tuesday. Go at opening, before it gets hot.
+- **Morning:** Drive about 20–30 minutes to [Farm In The City](map:Farm+In+The+City+Seri+Kembangan) (⏱ 3–4 h), a hands-on petting and feeding farm {verify}. **Closed on Tuesdays in term time**, i.e. before Malaysia's school holidays start after 5 Dec (it opens on Tuesdays in school and public holidays) {verify}, so don't move this day to a Tuesday. Go at opening, before it gets hot.
 - **Midday:** Lunch nearby, and a rest in the car's air-conditioning.
-- **Afternoon:** Drive about 40 minutes on to [Paya Indah Wetlands](map:Paya+Indah+Wetlands+Dengkil), Dengkil. It has lakes, birds, crocodiles and **hippos**, with feeding times to check {verify}. It's remote; this is why the car matters. It also **closes on Tuesdays** except in school and public holidays {verify}.
+- **Afternoon:** Drive about 40 minutes on to [Paya Indah Wetlands](map:Paya+Indah+Wetlands+Dengkil) (⏱ 2–3 h), Dengkil. It has lakes, birds, crocodiles and **hippos**, with feeding times to check {verify}. It's remote; this is why the car matters. It also **closes on Tuesdays** except in school and public holidays {verify}.
 - **Evening:** Drive back before about 5pm, or wait until after 8pm {verify}.
 - **Food & shopping:** Back at base, **Mid Valley Megamall** and **The Gardens Mall** have restaurants, cafés and fashion shopping, all indoors and linked to the hotels {verify}. It's an easy evening after a long outdoor day.
 
 ### Day 5 · Fri 4 Dec · Monkeys Canopy Resort 🦕
 - **Getting there:** Drive about 30–40 minutes to Sungai Long, Cheras {verify}. The resort has parking {verify}. Go at opening.
-- **All day:** [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long), a hilltop resort with several parks: **Monkeys Splash Zone** (indoor water park), **Dino Desert**, **Enchanted Forest**, **Safari Escape Playland** and the **Conquer** indoor extreme park {verify}. Check which parks the ticket covers, and the height limits {verify}.
+- **All day:** [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long) (⏱ 4–6 h), a hilltop resort with several parks: **Monkeys Splash Zone** (indoor water park), **Dino Desert**, **Enchanted Forest**, **Safari Escape Playland** and the **Conquer** indoor extreme park {verify}. Check which parks the ticket covers, and the height limits {verify}.
 - **Re-entry:** Not yet confirmed; check whether the wristband or ticket allows leaving and coming back the same day {verify}. Until then, plan to stay in: have lunch at the resort, and use the car only if re-entry is allowed.
 - **Outside food:** Check whether you may bring your own food and drinks {verify}. If not, eat a proper breakfast first and budget for meals inside.
 - **Getting back:** Drive; there's no need to wait for a Grab on the hilltop.
@@ -105,11 +105,11 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 - **Afternoon:** Return the car in JB and cross back. Weekday afternoons are usually quieter than Sunday evenings {verify}.
 
 ### Swap-in options
-- **[Legoland Malaysia](map:Legoland+Malaysia)** in JB: add a 7th day, with a night in JB on the way home. Keep it off the long-drive day.
-- **[Deerland Park](map:Deerland+Park+Lanchang)** (about 1.5 hours east): feed and pet deer {verify}. Could replace Paya Indah.
-- **[Zoo Negara](map:Zoo+Negara):** the national zoo {verify}, with parking on site.
-- **[KL Bird Park](map:KL+Bird+Park):** a big free-flight aviary {verify}, by Grab.
-- **[Batu Caves](map:Batu+Caves):** steps and monkeys. Avoid Thaipusam.
+- **[Legoland Malaysia](map:Legoland+Malaysia) (⏱ full day, 6–8 h)** in JB: add a 7th day, with a night in JB on the way home. Keep it off the long-drive day.
+- **[Deerland Park](map:Deerland+Park+Lanchang) (⏱ 1.5–2 h)** (about 1.5 hours east): feed and pet deer {verify}. Could replace Paya Indah.
+- **[Zoo Negara](map:Zoo+Negara) (⏱ 3–4 h):** the national zoo {verify}, with parking on site.
+- **[KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h):** a big free-flight aviary {verify}, by Grab.
+- **[Batu Caves](map:Batu+Caves) (⏱ 1–1.5 h):** steps and monkeys. Avoid Thaipusam.
 
 ## 🗺️ Map {#map}
 

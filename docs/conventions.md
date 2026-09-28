@@ -97,6 +97,7 @@ With `currency:` set, the build adds a **💱 currency converter** at the top of
   - `day: "opt"` is for swap-in options (grey ★).
   - No `day` is for the hotel area and the arrival point: `type: "airport"` shows ✈, `type: "station"` shows 🚆, anything else 🏨. Only add airports or stations you actually use in that city (e.g. no Singapore or JB points on a KL map).
   - `fit: false` keeps a far-away optional stop on the map (e.g. a lunch stop on the drive), but **Fit to shown** ignores it, so the map zooms nicely on the city.
+  - `time` is the typical visit length for our family, e.g. `"2–3 h"`, shown in the popup as "⏱ Typical visit". Write the same time in `trip.md` (below).
   - `query` is optional search text for the Google Maps link, if the name alone is ambiguous.
 - **Routes (optional):** walking paths or other routes can be drawn as lines with a `routes` list in `pois.js`:
   ```js
@@ -181,6 +182,11 @@ These apply to every trip, whoever is travelling. A participant profile can add 
 - Before fixing dates, check whether the main attractions charge **peak prices** in local school holidays, public holidays or at weekends. Note the result in the trip's notes (a small table per place).
 - Where it saves money, put attraction days on **term-time weekdays**, and check the opening days too (e.g. Monday closures). If a place costs the same year-round, it doesn't constrain the dates.
 - Write the weekday and date in each day heading once the dates are proposed, e.g. `### Day 2 · Tue 1 Dec · Aquaria`.
+
+### Typical time at each place
+- After each place in the day-by-day plan, write its typical visit length for the family: `[Taipei Zoo](map:) (⏱ 3–4 h)`. Use the same value as `time` in `pois.js`.
+- It's a planning estimate at a child's pace, including meals and breaks inside; it doesn't include travel. Add up a day's times plus travel to check it isn't overloaded (the profile's "at most 2 big activities a day").
+- A place's own advice ("allow 2 hours", show lengths) that could change still gets `{verify}`.
 
 ### Getting back without a car
 - If the trip doesn't book a car or driver for every day, check for each place whether a **ride back to the hotel** (Grab, Gojek, taxi or train) is easy to get. Watch for remote places and local no-app-pickup zones.

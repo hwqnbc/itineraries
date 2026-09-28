@@ -10,7 +10,7 @@ tagline: Zoo, farm animals & theme parks
 participants: default-family
 country: taiwan
 currency: TWD
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 A kid-first trip built around animals and theme parks: pandas at Taipei Zoo, a gondola ride, a safari theme park, bottle-feeding calves on a farm and an aquarium on the way home.
 
@@ -44,44 +44,44 @@ Base yourselves in central Taipei close to an MRT station. Good areas are around
 - **Luggage:** Go straight to the hotel by Airport MRT, and don't plan anything big before check-in.
 - **Arrive:** TPE → Airport MRT → hotel. Buy EasyCards at the airport or a convenience store.
 - **Afternoon:** Rest and have a quiet look around the hotel's neighbourhood.
-- **Evening:** If everyone still has energy, try an easy night market: [Raohe Street Night Market](map:Raohe+Street+Night+Market+Taipei).
+- **Evening:** If everyone still has energy, try an easy night market: [Raohe Street Night Market](map:Raohe+Street+Night+Market+Taipei) (⏱ 1–1.5 h).
 
 ### Day 2 · Taipei Zoo & Maokong Gondola 🐼
-- **Morning:** [Taipei Zoo](map:) (MRT Brown Line, Taipei Zoo station). Arrive at opening, when the animals are more active and it's cooler. See the giant pandas, the Formosan animals area, penguins, and the children's zoo area.
+- **Morning:** [Taipei Zoo](map:) (⏱ 3–4 h; MRT Brown Line, Taipei Zoo station). Arrive at opening, when the animals are more active and it's cooler. See the giant pandas, the Formosan animals area, penguins, and the children's zoo area.
 - **Midday:** Lunch and an indoor break (the Panda House and Education Center are indoors).
-- **Afternoon:** [Maokong Gondola](map:Maokong+Gondola+Taipei+Zoo+Station) from the zoo. Queue for an "Eyes of Maokong" glass-floor cabin. It usually closes on Mondays for maintenance, so don't schedule this day on a Monday {verify}.
-- **Evening:** Tea and snacks at Maokong, then the gondola back down. Early night.
+- **Afternoon:** [Maokong Gondola](map:Maokong+Gondola+Taipei+Zoo+Station) (⏱ about 30 min ride each way) from the zoo. Queue for an "Eyes of Maokong" glass-floor cabin. It usually closes on Mondays for maintenance, so don't schedule this day on a Monday {verify}.
+- **Evening:** Tea and snacks at Maokong (⏱ 1–1.5 h), then the gondola back down. Early night.
 
 ### Day 3 · Children's Amusement Park & Science Museum 🎡
-- **Morning:** [Taipei Children's Amusement Park](map:) in Shilin. Rides are cheap and paid per ride, and ideal for an 8-year-old. Check opening days {verify}.
+- **Morning:** [Taipei Children's Amusement Park](map:) (⏱ 2–3 h) in Shilin. Rides are cheap and paid per ride, and ideal for an 8-year-old. Check opening days {verify}.
 - **Re-entry:** Leaving before the afternoon museum is the plan, so re-entry doesn't matter. Just check you don't need a new entry ticket if you come back for the evening {verify}.
-- **Afternoon:** Somewhere indoors and air-conditioned to escape the heat: [National Taiwan Science Education Center](map:) or the [Taipei Astronomical Museum](map:), both nearby.
-- **Evening:** [Shilin Night Market](map:), just down the road.
+- **Afternoon:** Somewhere indoors and air-conditioned to escape the heat: [National Taiwan Science Education Center](map:) (⏱ 2–3 h) or the [Taipei Astronomical Museum](map:) (⏱ 1.5–2 h), both nearby.
+- **Evening:** [Shilin Night Market](map:) (⏱ 1–2 h), just down the road.
 
 ### Day 4 · Leofoo Village Theme Park & safari 🦒 🧳
 - **Luggage:** Check out of the Taipei hotel; the bags ride in the charter car for Days 4–5, so the theme park day works. Without a car, either make Leofoo a day trip from Taipei (no hotel change) or drop the bags at the resort first and ask it to hold them {verify}.
 - **Getting there:** About 1–1.5 hours from Taipei. Options are a private driver or car charter (easiest with a child and luggage), or HSR to Hsinchu plus a shuttle bus {verify}.
-- **All day:** [Leofoo Village Theme Park](map:), which combines theme-park rides with a drive-through African safari area. Check the height limits on rides and whether there are animal-feeding sessions {verify}.
+- **All day:** [Leofoo Village Theme Park](map:) (⏱ full day, 5–7 h), which combines theme-park rides with a drive-through African safari area. Check the height limits on rides and whether there are animal-feeding sessions {verify}.
 - **Re-entry:** Check whether you can leave and come back the same day, e.g. for a rest at the on-site resort {verify}. Otherwise, lunch and breaks happen inside the park.
 - **Outside food:** Check whether you may bring your own food and drinks {verify}. If not, eat a proper breakfast first and budget for meals inside.
 - **Evening:** Stay the night at the on-site resort (option) instead of going back to Taipei.
 
 ### Day 5 · Farm day: bottle-feed calves 🐄 🧳
 - **Luggage:** Check out of Leofoo; the bags stay in the charter car all day. End the drive at the Night 5 hotel near HSR Taoyuan.
-- **Morning:** Drive to [Flying Cow Ranch (飛牛牧場)](map:Flying+Cow+Ranch+Miaoli) in Tongxiao, Miaoli. There's calf bottle-feeding, sheep and ducks, and fresh milk treats. The drive from Leofoo takes roughly 1–1.5 hours {verify}.
+- **Morning:** Drive to [Flying Cow Ranch (飛牛牧場)](map:Flying+Cow+Ranch+Miaoli) (⏱ 3–4 h) in Tongxiao, Miaoli. There's calf bottle-feeding, sheep and ducks, and fresh milk treats. The drive from Leofoo takes roughly 1–1.5 hours {verify}.
 - **Afternoon:** Drive back north (about 2 hours). It's a long day, so aim to be at the hotel by early evening.
 - **Evening:** An easy dinner near the hotel.
 
 ### Day 6 · Xpark aquarium → fly home 🐧 🧳
 - **Luggage:** This is the one move day without a car. Check out of the hotel near HSR Taoyuan, and leave the bags at the HSR Taoyuan station left-luggage or at Xpark's lockers {verify} (check the size limits for big suitcases). If neither works, extend the car charter to Day 6 or skip Xpark.
-- **Morning:** [Xpark](map:Xpark+Taoyuan) aquarium next to HSR Taoyuan station, which has penguins, jellyfish and a big tank. It's close to the airport. Book timed tickets and check whether there is luggage storage {verify}.
+- **Morning:** [Xpark](map:Xpark+Taoyuan) (⏱ 2–2.5 h) aquarium next to HSR Taoyuan station, which has penguins, jellyfish and a big tank. It's close to the airport. Book timed tickets and check whether there is luggage storage {verify}.
 - **Lunch:** At Gloria Outlets next door.
 - **Afternoon:** Airport MRT or taxi to TPE, arriving 3 hours before the flight.
 
 ### Swap-in options
-- **Houtong Cat Village + Shifen** (half or full day, by train on the Pingxi line). Friendly street cats in Houtong, then Shifen Waterfall and a sky lantern. Only pet the cats where it's allowed {verify}.
-- **Yangmingshan, Qingtiangang**: grassland with free-roaming water buffalo. Look from a distance only; don't touch or feed them.
-- **Rainy-day backup:** Taipei 101 observatory, museum days, or indoor kids' play centres.
+- **Houtong Cat Village + Shifen** (half or full day, by train on the Pingxi line). Friendly street cats in Houtong (⏱ 1–1.5 h), then Shifen Waterfall and a sky lantern (⏱ 1.5–2 h with Shifen Old Street). Only pet the cats where it's allowed {verify}.
+- **Yangmingshan, Qingtiangang** (⏱ 1–2 h): grassland with free-roaming water buffalo. Look from a distance only; don't touch or feed them.
+- **Rainy-day backup:** Taipei 101 observatory (⏱ 1–1.5 h), museum days, or indoor kids' play centres.
 
 ## 🗺️ Map {#map}
 

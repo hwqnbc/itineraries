@@ -115,6 +115,7 @@
           "<strong>" + esc(poi.name) + "</strong><br>" +
           '<span class="popup-day">' + esc(groupLabel(key)) + "</span>" +
           (poi.note ? "<br>" + esc(poi.note) : "") +
+          (poi.time ? '<br><span class="popup-time">⏱ Typical visit: ' + esc(poi.time) + "</span>" : "") +
           '<br><a href="' + mapsLink(poi) + '" target="_blank" rel="noopener">Open in Google Maps ↗</a>'
         )
         .addTo(groups[key]);
@@ -281,7 +282,7 @@
     var folders = Object.keys(byGroup).map(function (k) {
       var marks = byGroup[k].map(function (p) {
         return "<Placemark><name>" + esc(p.name) + "</name>" +
-          "<description>" + esc((p.note || "") + (p.note ? " — " : "") + mapsLink(p)) + "</description>" +
+          "<description>" + esc([p.note, p.time && "Typical visit: " + p.time, mapsLink(p)].filter(Boolean).join(" — ")) + "</description>" +
           "<Point><coordinates>" + p.lng + "," + p.lat + ",0</coordinates></Point></Placemark>";
       }).join("");
       var lines = (cfg.routes || []).filter(function (r) { return groupKey(r) === k; }).map(function (r) {

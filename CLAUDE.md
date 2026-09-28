@@ -52,7 +52,7 @@ tools/templates/page.html      Shared page shell (header, Home button, footer) f
 8. **Mark changeable facts** (opening days, prices, festival dates, entry rules, travel times) with `{verify}`. Never invent prices.
 9. **No sensitive data:** no passport numbers, full names, dates of birth, phone numbers, addresses or booking references. The site is public.
 10. **Styling lives only in `assets/css/style.css`** (the Leaflet library CSS from cdnjs is the one exception). Use the CSS variables. The layout is mobile-first and must not scroll sideways at 375px.
-11. **Keep `pois.js` in sync with the day-by-day plan.** Every place in the plan gets a marker with the matching `day`; swap-in options use `day: "opt"`; the hotel and airport have no `day`. Coordinates are approximate, and Google Maps links search by name. Walking routes can be drawn with a `routes` list (see Trip map in docs/conventions.md).
+11. **Keep `pois.js` in sync with the day-by-day plan.** Every place in the plan gets a marker with the matching `day`; swap-in options use `day: "opt"`; the hotel and airport have no `day`. Each place also gets `time` (typical visit, e.g. `"2–3 h"`), matching the `(⏱ 2–3 h)` after it in `trip.md`. Coordinates are approximate, and Google Maps links search by name. Walking routes can be drawn with a `routes` list (see Trip map in docs/conventions.md).
 12. When making meaningful changes, update `updated:` in `trip.md` and add a row to the decisions log in `notes.md`.
 
 ## Plans (plan mode)

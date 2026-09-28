@@ -33,19 +33,19 @@ window.TRIP_MAP = {
   pois: [
     { name: "KL Sentral", type: "station", note: "ETS arrives here; Grab or monorail to the hotel", query: "KL Sentral", lat: 3.1340, lng: 101.6865 },
     { name: "Bukit Bintang (Pavilion)", type: "hotel", note: "Nights 1–5: hotel area; walkway to KLCC starts here", query: "Pavilion Kuala Lumpur", lat: 3.1490, lng: 101.7135 },
-    { day: 1, name: "Jalan Alor", type: "food", note: "Street-food lane, a short walk from Pavilion", query: "Jalan Alor Kuala Lumpur", lat: 3.1456, lng: 101.7086 },
-    { day: 2, name: "Aquaria KLCC", type: "animals", note: "Underwater tunnel; feeding times", lat: 3.1535, lng: 101.7128 },
-    { day: 2, name: "Petrosains, The Discovery Centre", type: "museum", note: "Hands-on science centre in Suria KLCC", query: "Petrosains The Discovery Centre", lat: 3.1580, lng: 101.7119 },
-    { day: 2, name: "KLCC Park", type: "sight", note: "Playground and fountain show at dusk", lat: 3.1545, lng: 101.7150 },
-    { day: 3, name: "Planetarium Negara", type: "museum", note: "National Planetarium: free gallery, hourly dome shows 10am–4pm; closed Mondays & public holidays", query: "Planetarium Negara Kuala Lumpur", lat: 3.1394, lng: 101.6886 },
-    { day: 3, name: "Space & Time Cube", type: "museum", note: "Immersive 3D experience in Lot 10, Bukit Bintang", query: "Space and Time Cube Lot 10 Kuala Lumpur", lat: 3.1466, lng: 101.7121 },
-    { day: 3, name: "KL Forest Eco Park", type: "sight", note: "Optional canopy walk; monkeys", lat: 3.1510, lng: 101.7030 },
-    { day: 4, name: "Farm In The City", type: "animals", note: "Petting and feeding farm — go at opening", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
-    { day: 5, name: "KidZania Kuala Lumpur", type: "theme-park", note: "Curve NX, Mutiara Damansara — MRT Kajang Line; open daily", query: "KidZania Kuala Lumpur Curve NX", lat: 3.1580, lng: 101.6110 },
-    { day: "opt", name: "KL Butterfly Park", type: "animals", note: "Day 5 alternative: next to KL Bird Park", query: "KL Butterfly Park", lat: 3.1440, lng: 101.6865 },
-    { day: "opt", name: "KL Bird Park", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
-    { day: "opt", name: "Zoo Negara", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
-    { day: "opt", name: "Batu Caves", type: "sight", note: "Steps and monkeys; avoid Thaipusam", lat: 3.2379, lng: 101.6840 }
+    { day: 1, name: "Jalan Alor", time: "1–1.5 h", type: "food", note: "Street-food lane, a short walk from Pavilion", query: "Jalan Alor Kuala Lumpur", lat: 3.1456, lng: 101.7086 },
+    { day: 2, name: "Aquaria KLCC", time: "2–3 h", type: "animals", note: "Underwater tunnel; feeding times", lat: 3.1535, lng: 101.7128 },
+    { day: 2, name: "Petrosains, The Discovery Centre", time: "2–3 h", type: "museum", note: "Hands-on science centre in Suria KLCC", query: "Petrosains The Discovery Centre", lat: 3.1580, lng: 101.7119 },
+    { day: 2, name: "KLCC Park", time: "about 1 h", type: "sight", note: "Playground and fountain show at dusk", lat: 3.1545, lng: 101.7150 },
+    { day: 3, name: "Planetarium Negara", time: "1.5–2 h, including a dome show", type: "museum", note: "National Planetarium: free gallery, hourly dome shows 10am–4pm; closed Mondays & public holidays", query: "Planetarium Negara Kuala Lumpur", lat: 3.1394, lng: 101.6886 },
+    { day: 3, name: "Space & Time Cube", time: "1–2 h", type: "museum", note: "Immersive 3D experience in Lot 10, Bukit Bintang", query: "Space and Time Cube Lot 10 Kuala Lumpur", lat: 3.1466, lng: 101.7121 },
+    { day: 3, name: "KL Forest Eco Park", time: "1–1.5 h", type: "sight", note: "Optional canopy walk; monkeys", lat: 3.1510, lng: 101.7030 },
+    { day: 4, name: "Farm In The City", time: "3–4 h", type: "animals", note: "Petting and feeding farm — go at opening", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
+    { day: 5, name: "KidZania Kuala Lumpur", time: "5–6 h", type: "theme-park", note: "Curve NX, Mutiara Damansara — MRT Kajang Line; open daily", query: "KidZania Kuala Lumpur Curve NX", lat: 3.1580, lng: 101.6110 },
+    { day: "opt", name: "KL Butterfly Park", time: "about 1 h", type: "animals", note: "Day 5 alternative: next to KL Bird Park", query: "KL Butterfly Park", lat: 3.1440, lng: 101.6865 },
+    { day: "opt", name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
+    { day: "opt", name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
+    { day: "opt", name: "Batu Caves", time: "1–1.5 h", type: "sight", note: "Steps and monkeys; avoid Thaipusam", lat: 3.2379, lng: 101.6840 }
   ],
   // Walking routes, drawn as lines. Paths are approximate, traced along the walkway.
   routes: [
