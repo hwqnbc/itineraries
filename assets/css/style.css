@@ -381,6 +381,18 @@ details.day .day-body ul { padding-left: 20px; }
 .poi-opt { background: var(--day-opt); }
 .poi-base { background: var(--day-base); color: var(--bg); font-size: 14px; }
 
+/* Route lines (pois.js `routes`). Colour follows the day tokens. */
+.route { stroke: var(--day-opt); }
+.route-1 { stroke: var(--day-1); }
+.route-2 { stroke: var(--day-2); }
+.route-3 { stroke: var(--day-3); }
+.route-4 { stroke: var(--day-4); }
+.route-5 { stroke: var(--day-5); }
+.route-6 { stroke: var(--day-6); }
+.route-7 { stroke: var(--day-7); }
+.route-base { stroke: var(--day-base); }
+.route-dashed { stroke-dasharray: 2 9; }
+
 /* Leaflet popups follow the site theme */
 .leaflet-container { font-family: var(--font); }
 .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface); color: var(--text); }

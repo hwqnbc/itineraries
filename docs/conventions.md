@@ -97,6 +97,14 @@ With `currency:` set, the build adds a **💱 currency converter** at the top of
   - `day: "opt"` is for swap-in options (grey ★).
   - No `day` is for the hotel area and the airport (🏨 / ✈).
   - `query` is optional search text for the Google Maps link, if the name alone is ambiguous.
+- **Routes (optional):** walking paths or other routes can be drawn as lines with a `routes` list in `pois.js`:
+  ```js
+  routes: [
+    { day: 2, name: "KLCC–Bukit Bintang Walkway", note: "…", path: [[3.1492, 101.7137], [3.1526, 101.7133]] },
+    { day: 2, name: "On to Suria KLCC", dashed: true, path: [[3.1526, 101.7133], [3.1578, 101.7118]] }
+  ]
+  ```
+  Each route takes its day's colour, is toggled with that day in the legend, and is included in the KML download. `dashed: true` is for unofficial or indoor continuations. Paths are approximate points traced along the route.
 - Keep `pois.js` in sync with the day-by-day plan: when a place is added, moved or dropped, update both.
 - Coordinates can be approximate. The "Open in Google Maps" link searches by name, so directions still go to the right place.
 - **Google My Maps toggle:** the map has a *Google My Maps* tab. To use it, press *Download KML*, import the file into Google My Maps, share the map publicly, and paste its embed URL into `myMapsEmbedUrl` in `pois.js`. The Google map is maintained by hand, so re-import the KML after big changes.

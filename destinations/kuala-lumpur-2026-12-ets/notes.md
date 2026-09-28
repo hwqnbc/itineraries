@@ -38,6 +38,7 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 | 2026-09-28 | "Monkey canopy" is Monkeys Canopy Resort → Day 5; Space & Time Cube located at Lot 10 | Your links |
 | 2026-09-28 | Split into two separate plans (ETS and drive); comparison moved here; ETS base moved to Bukit Bintang | Easier to read each plan on its own; Bukit Bintang is cheaper and walkable to KLCC |
 | 2026-09-28 | ETS plan: KidZania KL replaces Monkeys Canopy on Day 5 | A Grab back from Monkeys Canopy is hard to book; KidZania is on the MRT |
+| 2026-09-28 | KLCC–Bukit Bintang walkway drawn on the map (Day 2) | Shows the walking route from the hotel area to KLCC |
 
 ## Open questions
 - ETS or drive?

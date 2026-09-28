@@ -114,6 +114,21 @@
         .addTo(groups[key]);
     });
 
+    // Routes (walking paths etc.): lines coloured like their day, in the same legend groups.
+    // pois.js: routes: [{ day, name, note, dashed, path: [[lat, lng], ...] }]
+    (cfg.routes || []).forEach(function (r) {
+      var key = groupKey(r);
+      if (!groups[key]) { groups[key] = L.featureGroup().addTo(allLayer); order.push(key); }
+      L.polyline(r.path, {
+        className: "route route-" + key + (r.dashed ? " route-dashed" : ""),
+        weight: 5, opacity: 0.9, lineCap: "round", lineJoin: "round"
+      })
+        .bindPopup("<strong>" + esc(r.name) + "</strong><br>" +
+          '<span class="popup-day">' + esc(groupLabel(key)) + "</span>" +
+          (r.note ? "<br>" + esc(r.note) : ""))
+        .addTo(groups[key]);
+    });
+
     // Legend: one toggle chip per group, in a stable order
     order.sort(function (a, b) {
       var rank = function (k) { return k === "base" ? -1 : k === "opt" ? 999 : Number(k); };
@@ -198,7 +213,12 @@
           "<description>" + esc((p.note || "") + (p.note ? " — " : "") + mapsLink(p)) + "</description>" +
           "<Point><coordinates>" + p.lng + "," + p.lat + ",0</coordinates></Point></Placemark>";
       }).join("");
-      return "<Folder><name>" + esc(groupLabel(k)) + "</name>" + marks + "</Folder>";
+      var lines = (cfg.routes || []).filter(function (r) { return groupKey(r) === k; }).map(function (r) {
+        return "<Placemark><name>" + esc(r.name) + "</name><description>" + esc(r.note || "") + "</description>" +
+          "<LineString><coordinates>" + r.path.map(function (pt) { return pt[1] + "," + pt[0] + ",0"; }).join(" ") +
+          "</coordinates></LineString></Placemark>";
+      }).join("");
+      return "<Folder><name>" + esc(groupLabel(k)) + "</name>" + marks + lines + "</Folder>";
     }).join("");
     return '<?xml version="1.0" encoding="UTF-8"?>' +
       '<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>' +
