@@ -3,9 +3,9 @@ title: Kuala Lumpur by ETS train
 short: KL Dec 2026 (ETS)
 flag: 🇲🇾
 status: idea
-start: 2026-12
-dates: December 2026 (tentative) · 6-day draft
-card: Dec 2026 · 6 days · ETS train, Bukit Bintang base
+start: 2026-11-30
+dates: Mon 30 Nov – Sat 5 Dec 2026 (proposed: before Malaysian school holidays) · 6 days
+card: 30 Nov – 5 Dec 2026 · 6 days · ETS train, Bukit Bintang base
 tagline: Aquaria, Petrosains, Planetarium, Space & Time Cube, petting farm, KidZania
 participants: default-family
 country: malaysia
@@ -60,7 +60,7 @@ Travel times are rough and from general knowledge {verify}.
 
 ## 🗓️ Day-by-day {#days}
 
-### Day 1 · Singapore → KL by ETS 🧳
+### Day 1 · Mon 30 Nov · Singapore → KL by ETS 🧳
 - **Luggage:** It's with you across the Causeway and on the train; Grab from KL Sentral to the hotel.
 - **Morning:** Cross early (before 7am) because of December queues {verify}, then take the ETS from JB Sentral.
 - **Afternoon:** Arrive at KL Sentral, Grab to Bukit Bintang, and check in.
@@ -68,7 +68,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Food:** **Jalan Alor** street food, a short walk from Pavilion, or one of Pavilion's cafés {verify}.
 - **Shopping:** **Pavilion KL**, next to the hotel area, has clothes and accessories for a first look {verify}.
 
-### Day 2 · Walk to KLCC: Aquaria & Petrosains 🐠
+### Day 2 · Tue 1 Dec · Walk to KLCC: Aquaria & Petrosains 🐠
 - **Getting there:** Walk the **KLCC–Bukit Bintang walkway** (about 20–25 minutes at a child's pace; covered, so no rain or heat).
 - **Morning:** [Aquaria KLCC](map:), with its underwater tunnel and feeding times {verify}. Go at opening.
 - **Midday:** Lunch in Suria KLCC.
@@ -77,7 +77,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Food:** Suria KLCC has plenty of restaurants and cafés for lunch and a coffee break {verify}.
 - **Shopping:** Suria KLCC's fashion and accessories floors are right there. One adult can browse while the other takes him to the KLCC Park playground.
 
-### Day 3 · Planetarium & Space & Time Cube 🪐🚀
+### Day 3 · Wed 2 Dec · Planetarium & Space & Time Cube 🪐🚀
 - **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Bukit Bintang {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
 - **Midday:** Lunch, then rest and pool at the hotel.
 - **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) in **Lot 10**, Bukit Bintang (walk from the hotel), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Allow 1–2 hours. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
@@ -85,13 +85,13 @@ Travel times are rough and from general knowledge {verify}.
 - **Food:** Dinner at **Lot 10 Hutong**, a food court of well-known hawker stalls in Lot 10's basement {verify}, or the **Jalan Alor** street-food lane, a short walk away.
 - **Shopping:** **Lot 10, Pavilion and Fahrenheit88** sit side by side, so there's plenty of clothes and accessories within a few minutes' walk {verify}.
 
-### Day 4 · Farm In The City 🐐
+### Day 4 · Thu 3 Dec · Farm In The City 🐐
 - **Getting there:** Grab (about 30–45 minutes), or the MRT to a station near the farm plus a short Grab {verify}.
 - **Morning:** [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. Go at opening, before it gets hot.
 - **Afternoon:** Back to the hotel to rest.
 - **Getting back:** Grab is easy in Seri Kembangan {verify}.
 
-### Day 5 · KidZania Kuala Lumpur 👩‍🚒
+### Day 5 · Fri 4 Dec · KidZania Kuala Lumpur 👩‍🚒
 - **Getting there:** **MRT Kajang Line** from Bukit Bintang straight to **Mutiara Damansara** station (same line, no change), about 30–40 minutes {verify}, then a short walk to Curve NX. Or Grab, about 30–45 minutes.
 - **Day:** [KidZania Kuala Lumpur](map:KidZania+Kuala+Lumpur+Curve+NX) at **Curve NX, Mutiara Damansara**. It's a kid-sized city where children try real jobs (firefighter, pilot, doctor, chef) and earn "kidZos"; an 8-year-old can do most activities without a parent inside {verify}. **Open daily**, Mondays included; check the hours for your date on the [KidZania general info page](https://www.kidzania.com.my/generalinfo). Book tickets online and arrive at opening, because popular jobs queue up in December.
 - **Re-entry:** **Not allowed.** Once you leave KidZania, you can't come back in, and children can't make temporary exits {verify}. Plan the whole visit inside: eat lunch there, and use its rest areas for breaks.
@@ -101,7 +101,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Food:** After KidZania, an early dinner or coffee in **The Curve** or **IKEA** next door {verify}.
 - **Shopping:** **The Curve** mall next door, **after** KidZania (with no re-entry, don't step out mid-visit).
 
-### Day 6 · KL → Singapore by ETS 🧳
+### Day 6 · Sat 5 Dec · KL → Singapore by ETS 🧳
 - **Luggage:** Grab to KL Sentral with the bags, then the ETS to JB Sentral.
 - **Morning:** An easy breakfast, then a mid-morning ETS.
 - **Food:** A café breakfast or coffee in **NU Sentral** mall, which is connected to KL Sentral, before the train {verify}.
@@ -116,6 +116,7 @@ Travel times are rough and from general knowledge {verify}.
 ## 🗺️ Map {#map}
 
 ## ✅ Bookings to make {#bookings}
+- [ ] Fix the dates: proposed Mon 30 Nov – Sat 5 Dec 2026 (off-peak weekdays for Days 2–5; book tickets for the actual dates to get off-peak prices)
 - [ ] Choose ETS or car (see [Drive vs ETS](notes.md))
 - [ ] ETS tickets JB Sentral ⇄ KL Sentral (they sell out in holidays {verify})
 - [ ] Bukit Bintang hotel, 5 nights (family room, pool), near Pavilion or the walkway
@@ -142,6 +143,7 @@ Travel times are rough and from general knowledge {verify}.
 | Food | TBD | |
 
 ## ℹ️ Practical info {#practical}
+- **Dates & prices:** Proposed **Mon 30 Nov – Sat 5 Dec 2026**, before Malaysia's school holidays start (after 5 Dec). All attraction days (Days 2–5) are term-time weekdays, so off-peak prices apply where a place has them (Aquaria KLCC, KidZania {verify}). This also avoids Petrosains' and the Planetarium's Monday closures and the farm's term-time Tuesday closure. Singapore's school holidays have already started, so expect Causeway queues. Details: [peak pricing by place](notes.md).
 - **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Outdoor places (the farm) are best in the morning; the walkway and indoor attractions keep you dry in the afternoon.
 - **Crowds:** Singapore and Malaysian school holidays: the Causeway and the attractions are busiest at weekends and around Christmas and New Year.
 - **Grab:** easy in the city and suburbs. Queues and surge prices build during storms and at 5–8pm. Remote hilltop places (like Monkeys Canopy) can be hard to get a Grab back from, which is why this plan skips it.

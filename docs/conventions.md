@@ -152,6 +152,11 @@ These apply to every trip, whoever is travelling. A participant profile can add 
 - Holiday dates and seasonal openings change every year, so mark them {verify}, and update the holiday table for each new year.
 - Set `country:` in `trip.md`, and the trip page links to the guide.
 
+### Dates and peak pricing
+- Before fixing dates, check whether the main attractions charge **peak prices** in local school holidays, public holidays or at weekends. Note the result in the trip's notes (a small table per place).
+- Where it saves money, put attraction days on **term-time weekdays**, and check the opening days too (e.g. Monday closures). If a place costs the same year-round, it doesn't constrain the dates.
+- Write the weekday and date in each day heading once the dates are proposed, e.g. `### Day 2 · Tue 1 Dec · Aquaria`.
+
 ### Theme parks: re-entry
 - For every theme park, water park or ticketed indoor park, check whether **same-day re-entry** is allowed (hand stamp or wristband), and add a `- **Re-entry:** …` line to that day.
 - **No re-entry:** plan the whole visit inside. Lunch and rest breaks happen in the park (look for its rest areas, shows or shaded spots); there's no midday hotel break. Any nearby food or shopping comes **after** the visit.

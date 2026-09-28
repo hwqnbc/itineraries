@@ -40,7 +40,7 @@ Many dates follow the lunar or Islamic calendars and change each year {verify}. 
 | Date | Holiday | Effect on travel |
 |------|---------|------------------|
 | about 21 Nov – 31 Dec 2026 {verify} | **Singapore school holidays** | Woodlands and Tuas checkpoint queues can take hours at weekends and holiday starts |
-| about mid-Dec 2026 – early Jan 2027 {verify} | Malaysian school holidays | Genting, Sunway Lagoon and Legoland busiest |
+| from after 5 Dec 2026 – early Jan 2027 {verify} | Malaysian school holidays | Attractions busiest; **many (e.g. Aquaria KLCC, KidZania) switch to peak prices** in school holidays {verify} |
 | 25 Dec | Christmas | Malls decorated; crowds |
 | about 22 Jan 2027 {verify} | Thaipusam | Batu Caves is packed; avoid unless you want to see the festival |
 | about 6–7 Feb 2027 {verify} | Chinese New Year | Shops close, highways jam before and after |

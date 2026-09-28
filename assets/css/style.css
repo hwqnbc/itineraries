@@ -144,6 +144,8 @@ img { max-width: 100%; height: auto; }
 /* ---------- Page body ---------- */
 
 main { padding-top: 24px; padding-bottom: 48px; }
+/* Long URLs or words wrap instead of widening the page on phones */
+main { overflow-wrap: break-word; }
 /* Anchor links (contents list) land below the sticky header */
 section[id], h2[id], h3[id] { scroll-margin-top: 72px; }
 

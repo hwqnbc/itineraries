@@ -3,9 +3,9 @@ title: Kuala Lumpur by car
 short: KL Dec 2026 (drive)
 flag: 🇲🇾
 status: idea
-start: 2026-12
-dates: December 2026 (tentative) · 6-day draft
-card: Dec 2026 · 6 days · drive from JB, Mid Valley base
+start: 2026-11-30
+dates: Mon 30 Nov – Sat 5 Dec 2026 (proposed: before Malaysian school holidays) · 6 days
+card: 30 Nov – 5 Dec 2026 · 6 days · drive from JB, Mid Valley base
 tagline: Shortlist plus Paya Indah hippos — car parked on city days
 participants: default-family
 country: malaysia
@@ -59,7 +59,7 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 
 ## 🗓️ Day-by-day {#days}
 
-### Day 1 · Singapore → JB → drive to KL 🧳
+### Day 1 · Mon 30 Nov · Singapore → JB → drive to KL 🧳
 - **Luggage:** Carry it across the Causeway to the rental pickup in JB; after that it stays in the car.
 - **Morning:** Cross early (before 7am), because December weekends have long queues {verify}. Collect the car and load a Touch 'n Go card.
 - **Midday:** Break halfway for lunch, either at a highway rest stop or a short detour into [Melaka](map:Jonker+Street+Melaka) {verify}.
@@ -67,7 +67,7 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 - **Food:** If you stop in Melaka, try its **chicken rice balls** and **cendol** on or near Jonker Street {verify}.
 - **Shopping:** Jonker Street's shops and stalls have accessories and small souvenirs {verify}.
 
-### Day 2 · Aquaria & Petrosains (car stays parked) 🐠
+### Day 2 · Tue 1 Dec · Aquaria & Petrosains (car stays parked) 🐠
 - **Getting there:** Grab to KLCC, about 15–20 minutes; there's no need to find parking in the city.
 - **Morning:** [Aquaria KLCC](map:), with its underwater tunnel and feeding times {verify}. Go at opening.
 - **Midday:** Lunch in Suria KLCC.
@@ -76,7 +76,7 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 - **Food:** Suria KLCC has plenty of restaurants and cafés for lunch and a coffee break {verify}.
 - **Shopping:** Suria KLCC's fashion and accessories floors are right there. One adult can browse while the other takes him to the KLCC Park playground.
 
-### Day 3 · Planetarium & Space & Time Cube (car stays parked) 🪐🚀
+### Day 3 · Wed 2 Dec · Planetarium & Space & Time Cube (car stays parked) 🪐🚀
 - **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Mid Valley {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
 - **Midday:** Lunch, then rest and pool at the hotel.
 - **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) in **Lot 10**, Bukit Bintang (Grab), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Allow 1–2 hours. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
@@ -84,21 +84,21 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 - **Food:** Dinner at **Lot 10 Hutong**, a food court of well-known hawker stalls in Lot 10's basement {verify}, or the **Jalan Alor** street-food lane, a short walk away.
 - **Shopping:** **Lot 10, Pavilion and Fahrenheit88** sit side by side, so there's plenty of clothes and accessories within a few minutes' walk {verify}.
 
-### Day 4 · Farm In The City & Paya Indah Wetlands 🐐🦛
+### Day 4 · Thu 3 Dec · Farm In The City & Paya Indah Wetlands 🐐🦛
 - **Morning:** Drive about 20–30 minutes to [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. Go at opening, before it gets hot.
 - **Midday:** Lunch nearby, and a rest in the car's air-conditioning.
 - **Afternoon:** Drive about 40 minutes on to [Paya Indah Wetlands](map:Paya+Indah+Wetlands+Dengkil), Dengkil. It has lakes, birds, crocodiles and **hippos**, with feeding times to check {verify}. It's remote; this is why the car matters.
 - **Evening:** Drive back before about 5pm, or wait until after 8pm {verify}.
 - **Food & shopping:** Back at base, **Mid Valley Megamall** and **The Gardens Mall** have restaurants, cafés and fashion shopping, all indoors and linked to the hotels {verify}. It's an easy evening after a long outdoor day.
 
-### Day 5 · Monkeys Canopy Resort 🦕
+### Day 5 · Fri 4 Dec · Monkeys Canopy Resort 🦕
 - **Getting there:** Drive about 30–40 minutes to Sungai Long, Cheras {verify}. The resort has parking {verify}. Go at opening.
 - **All day:** [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long), a hilltop resort with several parks: **Monkeys Splash Zone** (indoor water park), **Dino Desert**, **Enchanted Forest**, **Safari Escape Playland** and the **Conquer** indoor extreme park {verify}. Check which parks the ticket covers, and the height limits {verify}.
 - **Re-entry:** Not yet confirmed; check whether the wristband or ticket allows leaving and coming back the same day {verify}. Until then, plan to stay in: have lunch at the resort, and use the car only if re-entry is allowed.
 - **Outside food:** Check whether you may bring your own food and drinks {verify}. If not, eat a proper breakfast first and budget for meals inside.
 - **Getting back:** Drive; there's no need to wait for a Grab on the hilltop.
 
-### Day 6 · Drive home 🧳
+### Day 6 · Sat 5 Dec · Drive home 🧳
 - **Luggage:** Check out; the bags ride in the car back to JB.
 - **Morning:** Leave after the morning rush (about 9:30am).
 - **Midday:** Lunch at a rest stop or in Melaka.
@@ -114,6 +114,7 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 ## 🗺️ Map {#map}
 
 ## ✅ Bookings to make {#bookings}
+- [ ] Fix the dates: proposed Mon 30 Nov – Sat 5 Dec 2026 (off-peak weekdays for Days 2–5; book tickets for the actual dates to get off-peak prices)
 - [ ] Choose car or ETS (see [Drive vs ETS](../kuala-lumpur-2026-12-ets/notes.md))
 - [ ] JB car rental that allows driving to KL, with a child booster seat if needed {verify}
 - [ ] Touch 'n Go card with credit (tolls and parking)
@@ -142,6 +143,7 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 | Food | TBD | |
 
 ## ℹ️ Practical info {#practical}
+- **Dates & prices:** Proposed **Mon 30 Nov – Sat 5 Dec 2026**, before Malaysia's school holidays start (after 5 Dec). All attraction days (Days 2–5) are term-time weekdays, so off-peak prices apply where a place has them (Aquaria KLCC, KidZania {verify}). This also avoids Petrosains' and the Planetarium's Monday closures and the farm's term-time Tuesday closure. Singapore's school holidays have already started, so expect Causeway queues. Details: [peak pricing by place](../kuala-lumpur-2026-12-ets/notes.md).
 - **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Do the outdoor places (the farm, Paya Indah, Dino Desert) in the morning.
 - **Traffic in KL:** avoid driving at about 7–9:30am and 5–8pm on weekdays. Friday evenings and rain make it worse. Use Waze or Google Maps traffic.
 - **Parking:** hotel and mall car parks mostly take Touch 'n Go or card {verify}. On the city days, Grab is simpler than parking at KLCC or Bukit Bintang.

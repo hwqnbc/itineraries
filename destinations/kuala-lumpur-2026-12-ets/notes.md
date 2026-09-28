@@ -22,6 +22,24 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 
 **Summary:** the shortlist works fully by ETS, and the walkable Bukit Bintang base makes the city days easy. Driving adds Paya Indah (and optionally Legoland) and makes Monkeys Canopy possible (a Grab back from there is hard to book), but brings traffic and parking.
 
+## Peak pricing & dates
+
+Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places charge more in school holidays, public holidays and at weekends, so the plan puts every attraction day on a **term-time weekday**: **Mon 30 Nov – Sat 5 Dec**. Prices are for non-Malaysians and change often {verify}.
+
+| Place | Peak pricing? | What we found | Day (Mon 30 Nov start) |
+|---|---|---|---|
+| Aquaria KLCC | **Yes**: school and public holidays, festive seasons | Off-peak (weekday) vs peak tickets are sold separately {verify} | Day 2 · Tue 1 Dec ✅ off-peak |
+| Petrosains | Not found {verify} | Separate prices for non-Malaysians and MyKad holders | Day 2 · Tue 1 Dec (open; closed Mondays) |
+| Planetarium Negara | No: flat price | Shows about RM12 adult / RM8 child; the gallery is free {verify} | Day 3 · Wed 2 Dec (open; closed Mon & public holidays) |
+| Space & Time Cube | Not found {verify} | — | Day 3 · Wed 2 Dec |
+| Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 4 · Thu 3 Dec (open; closed Tuesdays in term time) |
+| KidZania KL | **Yes, likely**: weekday off-peak vs weekend / holiday peak {verify} | Longer hours at weekends and in holidays | Day 5 · Fri 4 Dec ✅ weekday (ETS plan) |
+| Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Day 5 · Fri 4 Dec (drive plan) |
+| Paya Indah Wetlands | Not found {verify} | Closed Tuesdays except school and public holidays | Day 4 · Thu 3 Dec (drive plan) |
+| Hotels, ETS, car rental | Usually dearer at weekends and in school holidays {verify} | Nights Mon–Fri are the cheapest part of this window | Nights 1–5 · Mon–Fri |
+
+**If prices turn out the same all through December** (e.g. the farm, Space & Time Cube), going after 5 Dec is fine for those places. What matters most is Aquaria and KidZania; check their date calendars when booking.
+
 ## Research & options
 - **Shortlist (from you):** Aquaria KLCC, Petrosains Discovery Centre, Space & Time Cube (Lot 10, Bukit Bintang), Farm In The City, Monkeys Canopy Resort (Sungai Long, Cheras; **drive version only**), KidZania KL (**ETS version**). **Not going:** Genting, Sunway Lagoon.
 - **Grab rule:** a place is fine without a car as long as a Grab back to the hotel is easy to book. That's true in the city and suburbs; not at Paya Indah or the Monkeys Canopy hilltop, which is why the ETS plan uses KidZania instead.
@@ -46,12 +64,13 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 | 2026-09-28 | Food and shopping lines added where they sit at or next to a day's stops | Family profile: good food and cafés on the way; clothes and accessories shopping when nearby |
 | 2026-09-28 | KidZania has no re-entry: lunch inside, The Curve only after | Theme-park re-entry rule |
 | 2026-09-28 | KidZania: no outside food, so breakfast before and meals inside (budget row added) | You confirmed |
+| 2026-09-28 | Proposed dates Mon 30 Nov – Sat 5 Dec (before Malaysian school holidays); peak-pricing table added | Pay off-peak prices; all attraction days on term-time weekdays |
 
 ## Open questions
 - ETS or drive?
 - Which Monkeys Canopy parks to do, if driving?
 - Make sure the Planetarium day (Day 3) isn't a Monday or a public holiday (e.g. 25 Dec). KidZania is open daily.
-- Exact dates: weekdays avoid the worst Causeway and attraction crowds.
+- Confirm dates: proposed Mon 30 Nov – Sat 5 Dec 2026. Check Aquaria and KidZania peak calendars, and the farm's one-day pass page, for those dates.
 
 ## Sources
 - KLCC–Bukit Bintang walkway and area comparison: kualalumpurcity.my/bukit-bintang-vs-klcc/, travelfoodexpert.com/bukit-bintang-vs-klcc/
