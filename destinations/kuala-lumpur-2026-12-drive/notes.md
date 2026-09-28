@@ -18,6 +18,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 |------|----------|-----|
 | 2026-09-28 | Car version split out from the KL plan; Paya Indah paired with Farm In The City on Day 4 | Separate plans per transport option |
 | 2026-09-28 | Planetarium Negara added to Day 3 (morning, by Grab); Space & Time Cube moved to late afternoon | Requested |
+| 2026-09-28 | Hotel-area comparison added to the car plan (Mid Valley / Bangsar South kept; KL Sentral, Bangsar, Seri Kembangan, Cheras, Mont Kiara compared) | Deciding where to stay |
 
 ## Open questions
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)

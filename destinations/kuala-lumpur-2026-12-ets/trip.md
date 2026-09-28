@@ -32,14 +32,31 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 | Return | TBD | ETS TBD | KL Sentral → JB Sentral | Leave time for the Causeway queue home |
 
 ## 🏨 Accommodation {#accommodation}
-**Base: Bukit Bintang.** It's usually **cheaper than KLCC for the same standard**, with far more mid-range choice, while KLCC is mostly upscale hotels {verify}. From Bukit Bintang:
-- Walk to KLCC along the covered **KLCC–Bukit Bintang pedestrian walkway**, about 1.2 km from Pavilion to the Convention Centre, then a few more minutes to Suria KLCC.
-- Walk to **Space & Time Cube** in Lot 10.
-- The MRT and monorail stations are close.
+**Current choice: Bukit Bintang.** One base for all 5 nights. Compare against the areas below before booking.
 
 | Nights | Where | Area | Notes |
 |--------|-------|------|-------|
-| Nights 1–5 | TBD | Bukit Bintang, ideally near Pavilion or the walkway entrance | Family room and pool; compare prices for your dates against KLCC {verify} |
+| Nights 1–5 | TBD | Bukit Bintang, ideally near Pavilion or the walkway entrance | Family room and pool; compare prices for your dates {verify} |
+
+### Where to stay: area comparison (ETS)
+Travel times are rough and from general knowledge {verify}.
+
+| | Bukit Bintang ⭐ | KL Sentral | KLCC | TRX | Mid Valley / Bangsar South | Pasar Seni / Chinatown |
+|---|---|---|---|---|---|---|
+| Days 1 & 6: ETS with luggage | Grab or monorail, about 10–15 min | **Walk off the train** | LRT direct, or Grab | Grab about 15 min, or MRT with one change | KTM Komuter 1 stop, or Grab about 10 min | LRT or MRT 1 stop, or Grab |
+| Day 2: Aquaria, Petrosains | **Walk** the covered walkway | LRT direct, about 10 min | **Walk** | Short Grab | Grab 15–20 min | LRT direct |
+| Day 3: Planetarium | Grab 10–15 min | **Very close** | Grab about 15 min | Grab about 15 min | Grab about 10 min | **Close** |
+| Day 3: Space & Time Cube (Lot 10) | **Walk next door** | Monorail or MRT, a few stops | Walkway or short Grab | MRT 1 stop, or short Grab | Grab | MRT direct, 2 stops |
+| Day 4: Farm In The City | Grab 30–45 min | Grab 30–45 min | Grab 30–45 min | Grab; the MRT Putrajaya Line may also get close {verify} | Grab 25–40 min | Grab 30–45 min |
+| Day 5: KidZania | **MRT Kajang Line direct** | MRT direct from Muzium Negara (walkway from KL Sentral) | LRT + MRT (one change) | **MRT Kajang Line direct** | Grab, or LRT + MRT | **MRT Kajang Line direct** |
+| Evenings & food | **Best**: Pavilion, Jalan Alor | NU Sentral mall downstairs; quieter | Suria KLCC, park fountain | TRX mall, new and quiet | Mid Valley & The Gardens malls (great on rainy days) | Central Market, Petaling Street; busier and older |
+| Hotels | Widest range, often cheapest {verify} | Good-value mid-range {verify} | Mostly upscale {verify} | Few, newer, upscale {verify} | Mall-linked mid-range {verify} | Budget to mid, older buildings {verify} |
+| Watch out | Busy and noisy; Grab crawls in traffic | Less to walk to in the evening | Price; extra change to KidZania | Limited choice; area still developing | Not walkable to any sight | Street-level walking with a child; fewer family hotels |
+
+**Recommendation:**
+- **Bukit Bintang** (current): walk to 3 of the attractions and to dinner every night, with KidZania direct on the MRT.
+- **KL Sentral** (runner-up): the easiest ETS days with luggage, close to the Planetarium, and a calmer base.
+- **Mid Valley**: worth a look if you want a mall-connected hotel for rainy December afternoons.
 
 ## 🗓️ Day-by-day {#days}
 

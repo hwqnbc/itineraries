@@ -39,6 +39,24 @@ The **car version** of the KL trip: rent a car in JB, drive up, and base at a ho
 | Nights 1–5 | TBD | **Mid Valley or Bangsar South** | Hotel car park (check the nightly cost and height limit) {verify}; quick highway access south (Farm, Paya Indah, the drive home) and east (Monkeys Canopy); 10–20 minutes to KLCC by Grab |
 | Option: 1 night | Monkeys Canopy Resort | Sungai Long, Cheras | Stay after Day 5, since the car carries the bags. It adds a move day, so only do it if it's worth it |
 
+### Where to stay: area comparison (car)
+City days (2 and 3) use Grab, and the car stays parked. Travel times are rough and outside rush hour {verify}.
+
+| | Mid Valley / Bangsar South ⭐ | KL Sentral | Bangsar | Seri Kembangan / Serdang | Cheras / Sungai Long | Mont Kiara |
+|---|---|---|---|---|---|---|
+| Days 1 & 6: highway to/from JB | **Quick**, via the Federal Highway or NPE south | Quick | Quick | **Quickest**, already south | Via the Cheras–Kajang highway; fine | Far: crosses the city |
+| Days 2–3: city by Grab (KLCC, Planetarium, Lot 10) | 10–20 min | **5–15 min**; LRT or MRT also possible | 10–20 min | 30–45 min each way | 30–45 min each way | 20–30 min |
+| Day 4: Farm + Paya Indah (drive) | 20–30 min to the farm | 25–35 min | 25–35 min | **5–10 min** | 20–30 min | 35–50 min |
+| Day 5: Monkeys Canopy (drive) | 30–40 min | 35–45 min | 35–45 min | 25–35 min | **Next door**, or stay at the resort | 45–60 min |
+| Parking | Mall-linked hotels with big car parks {verify} | Hotel car parks; busy station roads {verify} | Smaller hotels and serviced apartments; check parking {verify} | Easy, newer buildings {verify} | Easy {verify} | Serviced apartments with parking {verify} |
+| Evenings & food | Mid Valley & The Gardens malls | NU Sentral mall | Bangsar cafés and restaurants | Suburban malls | Suburban | Expat cafés, malls |
+| Watch out | Federal Highway jams at rush hour | Traffic around the station | Fewer family hotels | Far from the city on Days 2–3 | Far from the city | Wrong side of town for this plan |
+
+**Recommendation:**
+- **Mid Valley / Bangsar South** (current): the best balance, with quick highway access, easy city Grabs and mall-linked hotels with parking.
+- **KL Sentral**: good if you'd rather be closer to the city for Days 2–3.
+- **Seri Kembangan**: only if you'd rather keep the driving days short and don't mind longer Grabs on the city days.
+
 ## 🗓️ Day-by-day {#days}
 
 ### Day 1 · Singapore → JB → drive to KL 🧳

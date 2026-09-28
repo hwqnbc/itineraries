@@ -88,6 +88,9 @@ def copy_static():
 def md_to_html(text: str) -> str:
     """Markdown → HTML with the site's shorthands applied."""
     text = text.replace("{verify}", VERIFY_TOKEN)
+    # A list straight after a paragraph line needs a blank line in python-markdown;
+    # add it so "**Label:**\n- item" renders as a list, not one run-on paragraph.
+    text = re.sub(r"(?m)^(?![ \t]*(?:[-*+] |\d+\. |\||#|>))([^\n]*\S[^\n]*)\n(?=[-*+] |\d+\. )", r"\1\n\n", text)
     # [Name](map:) and [text](map:Query+text) → Google Maps search links
     def maps(m):
         label, query = m.group(1), m.group(2) or m.group(1)
