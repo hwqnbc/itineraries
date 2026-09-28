@@ -64,6 +64,8 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 - **Morning:** Cross early (before 7am), because December weekends have long queues {verify}. Collect the car and load a Touch 'n Go card.
 - **Midday:** Break halfway for lunch, either at a highway rest stop or a short detour into [Melaka](map:Jonker+Street+Melaka) {verify}.
 - **Afternoon:** Check in at Mid Valley or Bangsar South before 5pm, then pool time.
+- **Food:** If you stop in Melaka, try its **chicken rice balls** and **cendol** on or near Jonker Street {verify}.
+- **Shopping:** Jonker Street's shops and stalls have accessories and small souvenirs {verify}.
 
 ### Day 2 · Aquaria & Petrosains (car stays parked) 🐠
 - **Getting there:** Grab to KLCC, about 15–20 minutes; there's no need to find parking in the city.
@@ -71,18 +73,23 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 - **Midday:** Lunch in Suria KLCC.
 - **Afternoon:** [Petrosains, The Discovery Centre](map:Petrosains+The+Discovery+Centre), a hands-on science centre {verify}.
 - **Evening:** KLCC Park and the fountain show, then Grab back.
+- **Food:** Suria KLCC has plenty of restaurants and cafés for lunch and a coffee break {verify}.
+- **Shopping:** Suria KLCC's fashion and accessories floors are right there. One adult can browse while the other takes him to the KLCC Park playground.
 
 ### Day 3 · Planetarium & Space & Time Cube (car stays parked) 🪐🚀
 - **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Mid Valley {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
 - **Midday:** Lunch, then rest and pool at the hotel.
 - **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) in **Lot 10**, Bukit Bintang (Grab), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Allow 1–2 hours. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
 - **Optional:** [KL Bird Park](map:KL+Bird+Park) is right next to the planetarium in the same gardens {verify}.
+- **Food:** Dinner at **Lot 10 Hutong**, a food court of well-known hawker stalls in Lot 10's basement {verify}, or the **Jalan Alor** street-food lane, a short walk away.
+- **Shopping:** **Lot 10, Pavilion and Fahrenheit88** sit side by side, so there's plenty of clothes and accessories within a few minutes' walk {verify}.
 
 ### Day 4 · Farm In The City & Paya Indah Wetlands 🐐🦛
 - **Morning:** Drive about 20–30 minutes to [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. Go at opening, before it gets hot.
 - **Midday:** Lunch nearby, and a rest in the car's air-conditioning.
 - **Afternoon:** Drive about 40 minutes on to [Paya Indah Wetlands](map:Paya+Indah+Wetlands+Dengkil), Dengkil. It has lakes, birds, crocodiles and **hippos**, with feeding times to check {verify}. It's remote; this is why the car matters.
 - **Evening:** Drive back before about 5pm, or wait until after 8pm {verify}.
+- **Food & shopping:** Back at base, **Mid Valley Megamall** and **The Gardens Mall** have restaurants, cafés and fashion shopping, all indoors and linked to the hotels {verify}. It's an easy evening after a long outdoor day.
 
 ### Day 5 · Monkeys Canopy Resort 🦕
 - **Getting there:** Drive about 30–40 minutes to Sungai Long, Cheras {verify}. The resort has parking {verify}. Go at opening.

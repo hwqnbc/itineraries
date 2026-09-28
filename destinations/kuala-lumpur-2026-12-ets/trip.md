@@ -65,6 +65,8 @@ Travel times are rough and from general knowledge {verify}.
 - **Morning:** Cross early (before 7am) because of December queues {verify}, then take the ETS from JB Sentral.
 - **Afternoon:** Arrive at KL Sentral, Grab to Bukit Bintang, and check in.
 - **Evening:** An easy walk around Pavilion and Bukit Bintang.
+- **Food:** **Jalan Alor** street food, a short walk from Pavilion, or one of Pavilion's cafés {verify}.
+- **Shopping:** **Pavilion KL**, next to the hotel area, has clothes and accessories for a first look {verify}.
 
 ### Day 2 · Walk to KLCC: Aquaria & Petrosains 🐠
 - **Getting there:** Walk the **KLCC–Bukit Bintang walkway** (about 20–25 minutes at a child's pace; covered, so no rain or heat).
@@ -72,12 +74,16 @@ Travel times are rough and from general knowledge {verify}.
 - **Midday:** Lunch in Suria KLCC.
 - **Afternoon:** [Petrosains, The Discovery Centre](map:Petrosains+The+Discovery+Centre) in Suria KLCC, a hands-on science centre {verify}.
 - **Evening:** KLCC Park playground and the fountain show at dusk. Walk back, or Grab if he's tired.
+- **Food:** Suria KLCC has plenty of restaurants and cafés for lunch and a coffee break {verify}.
+- **Shopping:** Suria KLCC's fashion and accessories floors are right there. One adult can browse while the other takes him to the KLCC Park playground.
 
 ### Day 3 · Planetarium & Space & Time Cube 🪐🚀
 - **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Bukit Bintang {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
 - **Midday:** Lunch, then rest and pool at the hotel.
 - **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) in **Lot 10**, Bukit Bintang (walk from the hotel), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Allow 1–2 hours. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
 - **Optional:** [KL Bird Park](map:KL+Bird+Park) is right next to the planetarium in the same gardens (see swap-ins), or the [KL Forest Eco Park](map:KL+Forest+Eco+Park) canopy walk {verify}.
+- **Food:** Dinner at **Lot 10 Hutong**, a food court of well-known hawker stalls in Lot 10's basement {verify}, or the **Jalan Alor** street-food lane, a short walk away.
+- **Shopping:** **Lot 10, Pavilion and Fahrenheit88** sit side by side, so there's plenty of clothes and accessories within a few minutes' walk {verify}.
 
 ### Day 4 · Farm In The City 🐐
 - **Getting there:** Grab (about 30–45 minutes), or the MRT to a station near the farm plus a short Grab {verify}.
@@ -90,10 +96,13 @@ Travel times are rough and from general knowledge {verify}.
 - **Day:** [KidZania Kuala Lumpur](map:KidZania+Kuala+Lumpur+Curve+NX) at **Curve NX, Mutiara Damansara**. It's a kid-sized city where children try real jobs (firefighter, pilot, doctor, chef) and earn "kidZos"; an 8-year-old can do most activities without a parent inside {verify}. **Open daily**, Mondays included; check the hours for your date on the [KidZania general info page](https://www.kidzania.com.my/generalinfo). Book tickets online and arrive at opening, because popular jobs queue up in December.
 - **Midday:** Lunch inside, or at The Curve or IKEA next door.
 - **Getting back:** MRT from Mutiara Damansara, or Grab, which is easy to book at the mall {verify}.
+- **Food:** Restaurants and cafés in **The Curve** and **IKEA** next door {verify}.
+- **Shopping:** **The Curve** mall is next door for a browse after KidZania, or during it if the rules allow a parent to step out; check KidZania's supervision rules {verify}.
 
 ### Day 6 · KL → Singapore by ETS 🧳
 - **Luggage:** Grab to KL Sentral with the bags, then the ETS to JB Sentral.
 - **Morning:** An easy breakfast, then a mid-morning ETS.
+- **Food:** A café breakfast or coffee in **NU Sentral** mall, which is connected to KL Sentral, before the train {verify}.
 - **Afternoon:** Arrive at JB Sentral and cross home. Weekday afternoons are usually quieter than Sunday evenings {verify}.
 
 ### Swap-in options

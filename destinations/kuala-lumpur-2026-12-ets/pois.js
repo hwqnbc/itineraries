@@ -17,6 +17,7 @@ window.TRIP_MAP = {
     { name: "JB Sentral", type: "airport", note: "After the Causeway: ETS station / car-rental area", query: "JB Sentral", lat: 1.4633, lng: 103.7643 },
     { name: "KL Sentral", type: "airport", note: "ETS arrives here; Grab or monorail to the hotel", query: "KL Sentral", lat: 3.1340, lng: 101.6865 },
     { name: "Bukit Bintang (Pavilion)", type: "hotel", note: "Nights 1–5: hotel area; walkway to KLCC starts here", query: "Pavilion Kuala Lumpur", lat: 3.1490, lng: 101.7135 },
+    { day: 1, name: "Jalan Alor", type: "food", note: "Street-food lane, a short walk from Pavilion", query: "Jalan Alor Kuala Lumpur", lat: 3.1456, lng: 101.7086 },
     { day: 2, name: "Aquaria KLCC", type: "animals", note: "Underwater tunnel; feeding times", lat: 3.1535, lng: 101.7128 },
     { day: 2, name: "Petrosains, The Discovery Centre", type: "museum", note: "Hands-on science centre in Suria KLCC", query: "Petrosains The Discovery Centre", lat: 3.1580, lng: 101.7119 },
     { day: 2, name: "KLCC Park", type: "sight", note: "Playground and fountain show at dusk", lat: 3.1545, lng: 101.7150 },

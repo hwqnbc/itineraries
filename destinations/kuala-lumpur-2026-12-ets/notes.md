@@ -43,6 +43,7 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 | 2026-09-28 | KidZania: open daily (no Monday closure); linked the official general info page | Confirmed from the official page |
 | 2026-09-28 | Planetarium Negara added to Day 3 (morning), Space & Time Cube moved to late afternoon, in both versions | Requested; the planetarium closes at 4:30pm, and Space & Time Cube is open until 10pm |
 | 2026-09-28 | Hotel-area comparison added to the ETS plan (Bukit Bintang kept; KL Sentral runner-up; TRX, Mid Valley, Pasar Seni also compared) | Deciding where to stay |
+| 2026-09-28 | Food and shopping lines added where they sit at or next to a day's stops | Family profile: good food and cafés on the way; clothes and accessories shopping when nearby |
 
 ## Open questions
 - ETS or drive?
