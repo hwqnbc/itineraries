@@ -20,6 +20,27 @@ window.TRIP_MAP = {
     5: "Farm",
     6: "Xpark & fly home"
   },
+  // Areas / districts: approximate circles to show where each area is (toggle "Areas / districts")
+  areas: [
+    { name: "Zhongzheng", note: "Taipei Main Station, Airport MRT; our Nights 1–3 base", center: [25.0330, 121.5170], km: 1.8 },
+    { name: "Wanhua", note: "Ximending shopping, Longshan Temple; older and lively", center: [25.0330, 121.4990], km: 1.6 },
+    { name: "Datong", note: "Dadaocheng old streets, Dihua Street", center: [25.0630, 121.5120], km: 1.4 },
+    { name: "Zhongshan", note: "Boutique shops, cafés, hotels along the MRT", center: [25.0640, 121.5330], km: 1.8 },
+    { name: "Songshan", note: "Raohe Night Market; Songshan Airport", center: [25.0560, 121.5640], km: 1.6 },
+    { name: "Xinyi", note: "Taipei 101, big malls", center: [25.0330, 121.5680], km: 2.0 },
+    { name: "Da'an", note: "Cafés, Da'an Park, Yongkang Street food", center: [25.0270, 121.5430], km: 1.8 },
+    { name: "Wenshan", note: "Taipei Zoo, Maokong Gondola and tea hills", center: [24.9900, 121.5720], km: 3.0 },
+    { name: "Shilin", note: "Night market, Children's Amusement Park, science museum", center: [25.0930, 121.5220], km: 2.5 },
+    { name: "Beitou", note: "Hot springs", center: [25.1320, 121.5010], km: 3.0 },
+    { name: "Neihu", note: "Business district and lakes, north-east", center: [25.0700, 121.5880], km: 2.5 },
+    { name: "Yangmingshan", note: "National park; Qingtiangang water buffalo", center: [25.1660, 121.5550], km: 4.0 },
+    { name: "Banqiao (New Taipei)", note: "New Taipei's centre, just across the river", center: [25.0110, 121.4620], km: 2.5 },
+    { name: "Qingpu / HSR Taoyuan", note: "Xpark, Gloria Outlets; our Night 5 base, near the airport", center: [25.0130, 121.2150], km: 2.5 },
+    { name: "Guanxi (Hsinchu)", note: "Leofoo Village and resort", center: [24.8100, 121.1700], km: 4.0 },
+    { name: "Tongxiao (Miaoli)", note: "Flying Cow Ranch", center: [24.4900, 120.6900], km: 4.0 },
+    { name: "Ruifang / Houtong", note: "Cat village; Pingxi line", center: [25.0870, 121.8270], km: 3.0 },
+    { name: "Pingxi / Shifen", note: "Waterfall and sky lanterns", center: [25.0450, 121.7750], km: 3.0 }
+  ],
   pois: [
     { name: "Taoyuan International Airport (TPE)", type: "airport", lat: 25.0797, lng: 121.2342 },
     { name: "Taipei Main Station", type: "hotel", note: "Nights 1–3: suggested hotel area (Airport MRT)", lat: 25.0478, lng: 121.5170 },

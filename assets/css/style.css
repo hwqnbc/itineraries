@@ -396,7 +396,8 @@ details.day .day-body ul { padding-left: 20px; }
 .route-dashed { stroke-dasharray: 2 9; }
 
 /* Areas / districts layer (pois.js `areas`) */
-.area { stroke: var(--accent); fill: var(--accent); fill-opacity: 0.08; stroke-dasharray: 5 5; }
+.area { stroke: var(--accent); stroke-opacity: 0.95; fill: var(--accent); fill-opacity: 0.14; stroke-dasharray: 6 4; }
+.area-shape { stroke-dasharray: none; }
 .leaflet-tooltip.area-label {
   background: transparent;
   border: 0;

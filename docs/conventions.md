@@ -111,6 +111,26 @@ With `currency:` set, the build adds a **💱 currency converter** at the top of
   areas: [{ name: "Ubud", note: "Culture, cafés; no-app-pickup zones", center: [-8.507, 115.263], km: 2.5 }]
   ```
   They appear under an **Areas / districts** toggle in the legend (off by default, and remembered per browser), and **Fit to shown** ignores them. Circles are approximate, not official boundaries.
+  - While Areas are on, the map switches to a plain background (CARTO) so the outlines stand out.
+  - **Real outlines:** save a GeoJSON file as `destinations/<trip>/areas.geojson` and add `areasGeojson: "areas.geojson",` at the top of `TRIP_MAP` in `pois.js`. Each feature's `name` (or `name:en`, or a `label` property) is used as its label. A matching entry in `areas` supplies the note, and any area missing from the file is still drawn as a circle. See **Getting district outlines** below.
+
+#### Getting district outlines (GeoJSON)
+Do this on a desktop browser. Keep the files small (under about 500 KB).
+1. **Official admin areas (villages or districts): [Overpass Turbo](https://overpass-turbo.eu/).** Paste a query, press **Run**, then **Export → GeoJSON → download**. Examples:
+   - Bali villages (desa/kelurahan are admin level 7 in OpenStreetMap):
+     ```
+     [out:json][timeout:90];
+     area["name"="Bali"]["admin_level"="4"]->.bali;
+     relation["boundary"="administrative"]["admin_level"="7"]
+       ["name"~"^(Seminyak|Legian|Kuta|Canggu|Sanur.*|Ubud|Singapadu.*|Batubulan|Tegallalang|Candikuning|Jimbaran|Benoa|Pecatu|Serangan)$"](area.bali);
+     out geom;
+     ```
+   - Taipei's 12 districts: `area["name:en"="Taipei"]["admin_level"="4"]->.t; relation["boundary"="administrative"]["admin_level"~"5|6|7"](area.t); out geom;` (try the level that returns districts).
+   - Names and admin levels differ by country, so check a result on the map before exporting.
+2. **Alternative downloads:** [geoBoundaries](https://www.geoboundaries.org/) or [GADM](https://gadm.org/) have ready-made district files (ADM2/ADM3) per country. Trim them to the areas you need.
+3. **Tourist areas without official borders** (e.g. KLCC, Bukit Bintang): draw them yourself on [geojson.io](https://geojson.io/). Draw a polygon, set a `name` property, then **Save → GeoJSON**.
+4. **Make it smaller:** load the file on [mapshaper.org](https://mapshaper.org/), use **Simplify** (e.g. 10%), then **Export → GeoJSON**.
+5. **Put it in the repo:** on GitHub, open the trip folder → **Add file → Upload files** → name it `areas.geojson`. Then add the `areasGeojson` line (or ask Claude to wire it up).
 - Keep `pois.js` in sync with the day-by-day plan: when a place is added, moved or dropped, update both.
 - Coordinates can be approximate. The "Open in Google Maps" link searches by name, so directions still go to the right place.
 - **Google My Maps toggle:** the map has a *Google My Maps* tab. To use it, press *Download KML*, import the file into Google My Maps, share the map publicly, and paste its embed URL into `myMapsEmbedUrl` in `pois.js`. The Google map is maintained by hand, so re-import the KML after big changes.

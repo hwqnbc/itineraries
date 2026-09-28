@@ -86,10 +86,20 @@
       return;
     }
     map = L.map(osmPane, { scrollWheelZoom: false });
-    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 19,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    // Two backgrounds: the detailed OpenStreetMap style, and a plain CARTO style used
+    // while the Areas layer is on, so the area outlines stand out.
+    var osmAttr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+    var detailedTiles = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19, attribution: osmAttr
     }).addTo(map);
+    var dark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var plainTiles = L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png", {
+      maxZoom: 19, subdomains: "abcd", attribution: osmAttr + ' &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    });
+    var useTiles = function (plain) {
+      map.removeLayer(plain ? detailedTiles : plainTiles);
+      (plain ? plainTiles : detailedTiles).addTo(map);
+    };
 
     allLayer = L.featureGroup().addTo(map);
     var order = [];
@@ -144,12 +154,38 @@
     var areasLayer = null;
     if ((cfg.areas || []).length) {
       areasLayer = L.layerGroup();
-      cfg.areas.forEach(function (a) {
-        L.circle(a.center, { radius: (a.km || 1) * 1000, className: "area", weight: 1.5 })
-          .bindTooltip(esc(a.name), { permanent: true, direction: "center", className: "area-label" })
-          .bindPopup("<strong>" + esc(a.name) + "</strong>" + (a.note ? "<br>" + esc(a.note) : ""))
+      var addArea = function (layer, name, note) {
+        layer.bindTooltip(esc(name), { permanent: true, direction: "center", className: "area-label" })
+          .bindPopup("<strong>" + esc(name) + "</strong>" + (note ? "<br>" + esc(note) : ""))
           .addTo(areasLayer);
-      });
+      };
+      var drawCircles = function (skip) {
+        cfg.areas.forEach(function (a) {
+          if (skip && skip[a.name.toLowerCase()]) return;
+          addArea(L.circle(a.center, { radius: (a.km || 1) * 1000, className: "area", weight: 2.5 }), a.name, a.note);
+        });
+      };
+      if (cfg.areasGeojson) {
+        // Real boundaries (e.g. exported from Overpass Turbo / geojson.io). A circle is still
+        // drawn for any area in `areas` that the file doesn't contain; notes come from `areas`.
+        fetch(cfg.areasGeojson).then(function (r) { return r.json(); }).then(function (gj) {
+          var notes = {}, found = {};
+          cfg.areas.forEach(function (a) { notes[a.name.toLowerCase()] = a.note; });
+          L.geoJSON(gj, {
+            style: function () { return { className: "area area-shape", weight: 2.5 }; },
+            onEachFeature: function (f, layer) {
+              var pr = f.properties || {};
+              var name = pr.label || pr["name:en"] || pr.name || "Area";
+              found[name.toLowerCase()] = true;
+              areasLayer.removeLayer(layer);
+              addArea(layer, name, pr.note || notes[name.toLowerCase()]);
+            }
+          });
+          drawCircles(found);
+        }).catch(function () { drawCircles(); });
+      } else {
+        drawCircles();
+      }
       legend.insertAdjacentHTML("beforeend",
         '<label class="legend-item legend-areas"><input type="checkbox" data-areas>' +
         '<span class="legend-area-swatch"></span>Areas / districts</label>');
@@ -162,12 +198,13 @@
       syncLabels();
       var saved = null;
       try { saved = localStorage.getItem("trip-map-areas"); } catch (e) { /* ignore */ }
-      if (saved === "1") { legend.querySelector("[data-areas]").checked = true; areasLayer.addTo(map); }
+      if (saved === "1") { legend.querySelector("[data-areas]").checked = true; areasLayer.addTo(map); useTiles(true); }
     }
 
     legend.addEventListener("change", function (e) {
       if (e.target.hasAttribute("data-areas")) {
         if (e.target.checked) areasLayer.addTo(map); else map.removeLayer(areasLayer);
+        useTiles(e.target.checked);
         try { localStorage.setItem("trip-map-areas", e.target.checked ? "1" : "0"); } catch (err) { /* ignore */ }
         return;
       }
