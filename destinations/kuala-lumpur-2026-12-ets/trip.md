@@ -6,13 +6,13 @@ status: idea
 start: 2026-12
 dates: December 2026 (tentative) · 6-day draft
 card: Dec 2026 · 6 days · ETS train, Bukit Bintang base
-tagline: Aquaria, Petrosains, Space & Time Cube, petting farm, Monkeys Canopy
+tagline: Aquaria, Petrosains, Space & Time Cube, petting farm, KidZania
 participants: default-family
 country: malaysia
 currency: MYR
 updated: 2026-09-28
 ---
-The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking or Grab for everything else. The shortlist is **Aquaria KLCC**, **Petrosains**, **Space & Time Cube**, **Farm In The City** and **Monkeys Canopy Resort**. There's no car, so no traffic or parking stress.
+The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking or Grab for everything else. It covers **Aquaria KLCC**, **Petrosains**, **Space & Time Cube**, **Farm In The City** and **KidZania**. There's no car, so no traffic or parking stress. Monkeys Canopy is only in the car version, because a Grab back from the hilltop is hard to book.
 
 > Idea stage. The other version is **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)**; the side-by-side is in **[Drive vs ETS](notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
@@ -68,10 +68,11 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 - **Afternoon:** Back to the hotel to rest.
 - **Getting back:** Grab is easy in Seri Kembangan {verify}.
 
-### Day 5 · Monkeys Canopy Resort 🦕
-- **Getting there:** Grab, about 40–50 minutes to Sungai Long, Cheras {verify}. Go at opening.
-- **All day:** [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long), a hilltop resort with several parks: **Monkeys Splash Zone** (indoor water park), **Dino Desert**, **Enchanted Forest**, **Safari Escape Playland** and the **Conquer** indoor extreme park {verify}. Check which parks the ticket covers, and the height limits {verify}.
-- **Getting back:** Check how long a Grab pickup takes at the resort before you go {verify}. Book the ride before everyone is tired, or ask the resort desk for a taxi.
+### Day 5 · KidZania Kuala Lumpur 👩‍🚒
+- **Getting there:** **MRT Kajang Line** from Bukit Bintang straight to **Mutiara Damansara** station (same line, no change), about 30–40 minutes {verify}, then a short walk to Curve NX. Or Grab, about 30–45 minutes.
+- **Day:** [KidZania Kuala Lumpur](map:KidZania+Kuala+Lumpur+Curve+NX) at **Curve NX, Mutiara Damansara**. It's a kid-sized city where children try real jobs (firefighter, pilot, doctor, chef) and earn "kidZos"; an 8-year-old can do most activities without a parent inside {verify}. **Usually closed on Mondays** (except holidays), and it opens about 10am–5pm, later at weekends and in holidays {verify}. Book tickets online and arrive at opening, because popular jobs queue up in December.
+- **Midday:** Lunch inside, or at The Curve or IKEA next door.
+- **Getting back:** MRT from Mutiara Damansara, or Grab, which is easy to book at the mall {verify}.
 
 ### Day 6 · KL → Singapore by ETS 🧳
 - **Luggage:** Grab to KL Sentral with the bags, then the ETS to JB Sentral.
@@ -82,7 +83,7 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 - **[KL Bird Park](map:KL+Bird+Park):** a big free-flight aviary with feeding sessions {verify}, easy by Grab.
 - **[Zoo Negara](map:Zoo+Negara):** the national zoo {verify}. Grab there is fine; check that Grab back works at closing time.
 - **[Batu Caves](map:Batu+Caves):** colourful steps and cheeky monkeys, reachable by KTM Komuter from KL Sentral {verify}. Avoid Thaipusam.
-- **Car-only places** (Paya Indah Wetlands, Deerland, Legoland on the way home) are in the **[drive version](../kuala-lumpur-2026-12-drive/trip.md)**.
+- **Car-only places** (Monkeys Canopy Resort, Paya Indah Wetlands, Deerland, Legoland on the way home) are in the **[drive version](../kuala-lumpur-2026-12-drive/trip.md)**.
 
 ## 🗺️ Map {#map}
 
@@ -93,7 +94,7 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 - [ ] Aquaria KLCC and Petrosains tickets
 - [ ] Space & Time Cube tickets (Lot 10)
 - [ ] Farm In The City tickets
-- [ ] Monkeys Canopy tickets: check which parks are included, and the height limits
+- [ ] KidZania KL tickets (not on a Monday; book online)
 - [ ] Travel insurance
 - [ ] Check entry: passports, and whether the Malaysia Digital Arrival Card is needed {verify}
 
@@ -105,14 +106,14 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 | Aquaria KLCC + Petrosains | TBD | |
 | Space & Time Cube | TBD | |
 | Farm In The City | TBD | |
-| Monkeys Canopy | TBD | |
+| KidZania KL | TBD | |
 | Grab rides | TBD | |
 | Food | TBD | |
 
 ## ℹ️ Practical info {#practical}
-- **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Outdoor places (the farm, Dino Desert) are best in the morning; the walkway and indoor attractions keep you dry in the afternoon.
+- **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Outdoor places (the farm) are best in the morning; the walkway and indoor attractions keep you dry in the afternoon.
 - **Crowds:** Singapore and Malaysian school holidays: the Causeway and the attractions are busiest at weekends and around Christmas and New Year.
-- **Grab:** easy in the city and suburbs. Queues and surge prices build during storms and at 5–8pm. At the Monkeys Canopy hilltop, check pickup times {verify}.
+- **Grab:** easy in the city and suburbs. Queues and surge prices build during storms and at 5–8pm. Remote hilltop places (like Monkeys Canopy) can be hard to get a Grab back from, which is why this plan skips it.
 - **Getting around on foot:** the covered walkway links Bukit Bintang (Pavilion) and KLCC. Lot 10 and Pavilion are next to each other.
 - **Power plugs:** Type G, 240 V, the same as Singapore. No adapter needed.
 - **Entry:** Singapore passports are visa-free; check the digital arrival card rules {verify}.
@@ -126,7 +127,6 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 [Base packing list](../../docs/packing-list.md), plus these extras for this trip:
 
 - Wheeled luggage that's easy on the train, the walkway and the monorail
-- Swimwear, towels and a change of clothes for Monkeys Splash Zone
 - Compact umbrellas for afternoon storms
 - Hand sanitiser and wipes for the petting farm
 - Snack bag for the train ride
