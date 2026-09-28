@@ -85,9 +85,9 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 - **Shopping:** **Lot 10, Pavilion and Fahrenheit88** sit side by side, so there's plenty of clothes and accessories within a few minutes' walk {verify}.
 
 ### Day 4 · Thu 3 Dec · Farm In The City & Paya Indah Wetlands 🐐🦛
-- **Morning:** Drive about 20–30 minutes to [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. Go at opening, before it gets hot.
+- **Morning:** Drive about 20–30 minutes to [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. **Closed on Tuesdays in term time**, i.e. before Malaysia's school holidays start after 5 Dec (it opens on Tuesdays in school and public holidays) {verify}, so don't move this day to a Tuesday. Go at opening, before it gets hot.
 - **Midday:** Lunch nearby, and a rest in the car's air-conditioning.
-- **Afternoon:** Drive about 40 minutes on to [Paya Indah Wetlands](map:Paya+Indah+Wetlands+Dengkil), Dengkil. It has lakes, birds, crocodiles and **hippos**, with feeding times to check {verify}. It's remote; this is why the car matters.
+- **Afternoon:** Drive about 40 minutes on to [Paya Indah Wetlands](map:Paya+Indah+Wetlands+Dengkil), Dengkil. It has lakes, birds, crocodiles and **hippos**, with feeding times to check {verify}. It's remote; this is why the car matters. It also **closes on Tuesdays** except in school and public holidays {verify}.
 - **Evening:** Drive back before about 5pm, or wait until after 8pm {verify}.
 - **Food & shopping:** Back at base, **Mid Valley Megamall** and **The Gardens Mall** have restaurants, cafés and fashion shopping, all indoors and linked to the hotels {verify}. It's an easy evening after a long outdoor day.
 

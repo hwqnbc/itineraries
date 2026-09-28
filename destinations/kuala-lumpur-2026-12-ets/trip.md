@@ -87,7 +87,7 @@ Travel times are rough and from general knowledge {verify}.
 
 ### Day 4 · Thu 3 Dec · Farm In The City 🐐
 - **Getting there:** Grab (about 30–45 minutes), or the MRT to a station near the farm plus a short Grab {verify}.
-- **Morning:** [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. Go at opening, before it gets hot.
+- **Morning:** [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. **Closed on Tuesdays in term time**, i.e. before Malaysia's school holidays start after 5 Dec (it opens on Tuesdays in school and public holidays) {verify}, so don't move this day to a Tuesday. Go at opening, before it gets hot.
 - **Afternoon:** Back to the hotel to rest.
 - **Getting back:** Grab is easy in Seri Kembangan {verify}.
 
