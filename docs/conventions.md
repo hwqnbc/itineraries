@@ -157,6 +157,11 @@ These apply to every trip, whoever is travelling. A participant profile can add 
 - **No re-entry:** plan the whole visit inside. Lunch and rest breaks happen in the park (look for its rest areas, shows or shaded spots); there's no midday hotel break. Any nearby food or shopping comes **after** the visit.
 - **Re-entry allowed:** a midday break outside (hotel pool, lunch nearby) is fine. Say so on the day.
 - **Unknown:** mark it {verify} and plan as if there's no re-entry until it's confirmed.
+- **Outside food:** also check whether you may bring your own food and drinks, and add a `- **Outside food:** …` line.
+  - **Not allowed:** have a proper breakfast before going in, and budget for meals and snacks inside (add a Budget row).
+  - **Dietary needs:** ask the venue about exceptions in advance.
+  - **Combined with no re-entry:** every meal of the visit is bought inside, so say so clearly on the day.
+  - This applies to any ticketed venue where you'll spend a mealtime, not only theme parks.
 
 ### Driving trips: hotel parking and traffic
 - When a trip uses a car, **choose hotels for parking and traffic**, not only location. Prefer hotels with an on-site car park (check the cost per night and the height limit) and quick highway access.

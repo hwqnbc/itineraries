@@ -21,6 +21,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-09-28 | Hotel-area comparison added to the car plan (Mid Valley / Bangsar South kept; KL Sentral, Bangsar, Seri Kembangan, Cheras, Mont Kiara compared) | Deciding where to stay |
 | 2026-09-28 | Food and shopping lines added where they sit at or next to a day's stops | Family profile: good food and cafés on the way; clothes and accessories shopping when nearby |
 | 2026-09-28 | Monkeys Canopy re-entry to check; plan to stay in until confirmed | Theme-park re-entry rule |
+| 2026-09-28 | Monkeys Canopy outside-food rule to check | Outside-food rule |
 
 ## Open questions
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)

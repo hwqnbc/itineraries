@@ -27,7 +27,7 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 - **Grab rule:** a place is fine without a car as long as a Grab back to the hotel is easy to book. That's true in the city and suburbs; not at Paya Indah or the Monkeys Canopy hilltop, which is why the ETS plan uses KidZania instead.
 - **KLCC vs Bukit Bintang hotels:** Bukit Bintang generally costs less for a similar standard and has far more mid-range choice; KLCC is mostly upscale {verify}. The covered **KLCC–Bukit Bintang walkway** (about 1.2 km, Pavilion ↔ Convention Centre) links them, so a Bukit Bintang base loses little.
 - **Monkeys Canopy Resort** (monkeyscanopy.com): Monkeys Splash Zone (indoor water park), Dino Desert, Enchanted Forest, Safari Escape Playland, Conquer indoor extreme park, and go-karts. One listing shows about RM38 per child and RM50 per adult, with a 2+2 family deal {verify}, but check what it includes.
-- **KidZania Kuala Lumpur:** Curve NX, Mutiara Damansara, Petaling Jaya, next to the MRT Kajang Line (direct from Bukit Bintang). Children try real jobs. Open daily, Mondays included (see [general info](https://www.kidzania.com.my/generalinfo)).
+- **KidZania Kuala Lumpur:** Curve NX, Mutiara Damansara, Petaling Jaya, next to the MRT Kajang Line (direct from Bukit Bintang). Children try real jobs. Open daily, Mondays included (see [general info](https://www.kidzania.com.my/generalinfo)). **No re-entry and no outside food.**
 - **Planetarium Negara (National Planetarium):** Perdana Botanical Garden (Lake Gardens), next to KL Bird Park. Open 9am–4:30pm, **closed Mondays and public holidays**. The gallery is free; dome shows run hourly from 10am (last at 4pm), about RM12 adult / RM8 child {verify}.
 - **Space & Time Cube:** Lot 10 Shopping Centre, Bukit Bintang. Immersive, naked-eye 3D; allow 1–2 hours; open daily 10am–10pm {verify}.
 
@@ -45,6 +45,7 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 | 2026-09-28 | Hotel-area comparison added to the ETS plan (Bukit Bintang kept; KL Sentral runner-up; TRX, Mid Valley, Pasar Seni also compared) | Deciding where to stay |
 | 2026-09-28 | Food and shopping lines added where they sit at or next to a day's stops | Family profile: good food and cafés on the way; clothes and accessories shopping when nearby |
 | 2026-09-28 | KidZania has no re-entry: lunch inside, The Curve only after | Theme-park re-entry rule |
+| 2026-09-28 | KidZania: no outside food, so breakfast before and meals inside (budget row added) | You confirmed |
 
 ## Open questions
 - ETS or drive?

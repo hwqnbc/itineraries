@@ -24,7 +24,7 @@
    - The 🏠 Home button, the "Planning notes" link and the participants link work.
    - The map shows every marker, and the legend toggles work.
    - Every move day shows 🧳 and has a Luggage line.
-   - Every theme park day has a Re-entry line.
+   - Every theme park day has a Re-entry line and an Outside food line.
    - Nothing scrolls sideways on a phone-sized window.
 7. **Commit** with a message like `Add Seoul April 2028 itinerary`.
 

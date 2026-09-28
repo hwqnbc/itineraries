@@ -63,6 +63,7 @@ Base yourselves in central Taipei close to an MRT station. Good areas are around
 - **Getting there:** About 1–1.5 hours from Taipei. Options are a private driver or car charter (easiest with a child and luggage), or HSR to Hsinchu plus a shuttle bus {verify}.
 - **All day:** [Leofoo Village Theme Park](map:), which combines theme-park rides with a drive-through African safari area. Check the height limits on rides and whether there are animal-feeding sessions {verify}.
 - **Re-entry:** Check whether you can leave and come back the same day, e.g. for a rest at the on-site resort {verify}. Otherwise, lunch and breaks happen inside the park.
+- **Outside food:** Check whether you may bring your own food and drinks {verify}. If not, eat a proper breakfast first and budget for meals inside.
 - **Evening:** Stay the night at the on-site resort (option) instead of going back to Taipei.
 
 ### Day 5 · Farm day: bottle-feed calves 🐄 🧳
