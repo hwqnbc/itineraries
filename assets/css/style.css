@@ -395,6 +395,24 @@ details.day .day-body ul { padding-left: 20px; }
 .route-base { stroke: var(--day-base); }
 .route-dashed { stroke-dasharray: 2 9; }
 
+/* Areas / districts layer (pois.js `areas`) */
+.area { stroke: var(--accent); fill: var(--accent); fill-opacity: 0.08; stroke-dasharray: 5 5; }
+.leaflet-tooltip.area-label {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  color: var(--text);
+  font: 700 12px/1.1 var(--font);
+  text-shadow: 0 0 3px var(--bg), 0 0 3px var(--bg), 0 0 3px var(--bg);
+  white-space: nowrap;
+}
+.leaflet-tooltip.area-label::before { display: none; }
+.hide-area-labels .leaflet-tooltip.area-label { display: none; }
+.legend-area-swatch {
+  display: inline-block; width: 14px; height: 14px; border-radius: 50%;
+  border: 1.5px dashed var(--accent); background: color-mix(in srgb, var(--accent) 15%, transparent);
+}
+
 /* Leaflet popups follow the site theme */
 .leaflet-container { font-family: var(--font); }
 .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface); color: var(--text); }

@@ -139,7 +139,38 @@
       return '<label class="legend-item"><input type="checkbox" checked data-group="' + esc(key) + '">' +
         '<span class="poi-pin poi-' + esc(key) + ' legend-pin"></span>' + esc(groupLabel(key)) + "</label>";
     }).join("");
+    // Areas / districts: labelled, shaded circles on their own layer (off by default,
+    // ignored by "Fit to shown"). pois.js: areas: [{ name, note, center: [lat, lng], km }]
+    var areasLayer = null;
+    if ((cfg.areas || []).length) {
+      areasLayer = L.layerGroup();
+      cfg.areas.forEach(function (a) {
+        L.circle(a.center, { radius: (a.km || 1) * 1000, className: "area", weight: 1.5 })
+          .bindTooltip(esc(a.name), { permanent: true, direction: "center", className: "area-label" })
+          .bindPopup("<strong>" + esc(a.name) + "</strong>" + (a.note ? "<br>" + esc(a.note) : ""))
+          .addTo(areasLayer);
+      });
+      legend.insertAdjacentHTML("beforeend",
+        '<label class="legend-item legend-areas"><input type="checkbox" data-areas>' +
+        '<span class="legend-area-swatch"></span>Areas / districts</label>');
+      // Labels only once zoomed in enough to read them (tap a circle for its name before that)
+      var labelZoom = cfg.areaLabelZoom || 12;
+      var syncLabels = function () {
+        map.getContainer().classList.toggle("hide-area-labels", map.getZoom() < labelZoom);
+      };
+      map.on("zoomend", syncLabels);
+      syncLabels();
+      var saved = null;
+      try { saved = localStorage.getItem("trip-map-areas"); } catch (e) { /* ignore */ }
+      if (saved === "1") { legend.querySelector("[data-areas]").checked = true; areasLayer.addTo(map); }
+    }
+
     legend.addEventListener("change", function (e) {
+      if (e.target.hasAttribute("data-areas")) {
+        if (e.target.checked) areasLayer.addTo(map); else map.removeLayer(areasLayer);
+        try { localStorage.setItem("trip-map-areas", e.target.checked ? "1" : "0"); } catch (err) { /* ignore */ }
+        return;
+      }
       var g = groups[e.target.dataset.group];
       if (!g) return;
       if (e.target.checked) allLayer.addLayer(g); else allLayer.removeLayer(g);

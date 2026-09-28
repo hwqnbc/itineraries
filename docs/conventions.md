@@ -106,6 +106,11 @@ With `currency:` set, the build adds a **💱 currency converter** at the top of
   ]
   ```
   Each route takes its day's colour, is toggled with that day in the legend, and is included in the KML download. `dashed: true` is for unofficial or indoor continuations. Paths are approximate points traced along the route.
+- **Areas (optional):** an `areas` list in `pois.js` draws labelled, shaded circles for districts, so you can see where places are, e.g. Seminyak vs Ubud:
+  ```js
+  areas: [{ name: "Ubud", note: "Culture, cafés; no-app-pickup zones", center: [-8.507, 115.263], km: 2.5 }]
+  ```
+  They appear under an **Areas / districts** toggle in the legend (off by default, and remembered per browser), and **Fit to shown** ignores them. Circles are approximate, not official boundaries.
 - Keep `pois.js` in sync with the day-by-day plan: when a place is added, moved or dropped, update both.
 - Coordinates can be approximate. The "Open in Google Maps" link searches by name, so directions still go to the right place.
 - **Google My Maps toggle:** the map has a *Google My Maps* tab. To use it, press *Download KML*, import the file into Google My Maps, share the map publicly, and paste its embed URL into `myMapsEmbedUrl` in `pois.js`. The Google map is maintained by hand, so re-import the KML after big changes.

@@ -13,6 +13,23 @@ window.TRIP_MAP = {
     5: "Monkeys Canopy",
     6: "Home"
   },
+  // Areas / districts: approximate circles to show where each area is (toggle "Areas / districts")
+  areas: [
+    { name: "KLCC", note: "Twin Towers, Aquaria, Petrosains, KLCC Park; upscale hotels", center: [3.1565, 101.7130], km: 0.8 },
+    { name: "Bukit Bintang", note: "Pavilion, Lot 10, Jalan Alor; walkway to KLCC", center: [3.1470, 101.7110], km: 0.7 },
+    { name: "TRX", note: "New financial district; TRX mall; MRT interchange", center: [3.1420, 101.7195], km: 0.5 },
+    { name: "Chinatown / Pasar Seni", note: "Petaling Street, Central Market; older, cheaper hotels", center: [3.1440, 101.6970], km: 0.6 },
+    { name: "Lake Gardens (Perdana)", note: "Planetarium, Bird Park, Butterfly Park", center: [3.1440, 101.6850], km: 0.9 },
+    { name: "KL Sentral / Brickfields", note: "ETS, LRT, MRT and airport trains; Little India", center: [3.1320, 101.6870], km: 0.8 },
+    { name: "Bangsar", note: "Cafés and restaurants; residential", center: [3.1300, 101.6700], km: 1.2 },
+    { name: "Mid Valley / Bangsar South", note: "Big malls with hotels; highway access", center: [3.1150, 101.6710], km: 1.0 },
+    { name: "Mont Kiara", note: "Expat area, serviced apartments", center: [3.1700, 101.6520], km: 1.2 },
+    { name: "Mutiara Damansara (PJ)", note: "KidZania, The Curve, IKEA; MRT Kajang Line", center: [3.1570, 101.6120], km: 1.2 },
+    { name: "Ampang", note: "Zoo Negara on KL's eastern edge", center: [3.2000, 101.7550], km: 2.0 },
+    { name: "Seri Kembangan", note: "Farm In The City; south of KL", center: [3.0200, 101.7100], km: 2.5 },
+    { name: "Cheras / Sungai Long", note: "Monkeys Canopy Resort; south-east", center: [3.0500, 101.7900], km: 3.0 },
+    { name: "Dengkil", note: "Paya Indah Wetlands; far south, near Putrajaya", center: [2.8700, 101.6700], km: 3.0 }
+  ],
   pois: [
     { name: "Mid Valley / Bangsar South", type: "hotel", note: "Nights 1–5: hotels with car parks and highway access", query: "Mid Valley Megamall", lat: 3.1180, lng: 101.6770 },
     { day: 1, name: "Jonker Street, Melaka", type: "food", fit: false, note: "Optional lunch stop on the drive", query: "Jonker Street Melaka", lat: 2.1950, lng: 102.2480 },
