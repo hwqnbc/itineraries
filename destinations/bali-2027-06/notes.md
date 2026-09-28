@@ -24,6 +24,7 @@
 | Date | Decision | Why |
 |------|----------|-----|
 | 2026-09-25 | First draft: Bali as an alternative to Taipei, 6 days, June | Bali Zoo and Bali Safari Park requested; June is dry season |
+| 2026-09-28 | Re-entry checks added for Bali Safari Park and Waterbom | Theme-park re-entry rule |
 
 ## Open questions
 - Bali or Taipei, and which month?

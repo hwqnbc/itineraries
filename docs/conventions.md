@@ -152,6 +152,12 @@ These apply to every trip, whoever is travelling. A participant profile can add 
 - Holiday dates and seasonal openings change every year, so mark them {verify}, and update the holiday table for each new year.
 - Set `country:` in `trip.md`, and the trip page links to the guide.
 
+### Theme parks: re-entry
+- For every theme park, water park or ticketed indoor park, check whether **same-day re-entry** is allowed (hand stamp or wristband), and add a `- **Re-entry:** …` line to that day.
+- **No re-entry:** plan the whole visit inside. Lunch and rest breaks happen in the park (look for its rest areas, shows or shaded spots); there's no midday hotel break. Any nearby food or shopping comes **after** the visit.
+- **Re-entry allowed:** a midday break outside (hotel pool, lunch nearby) is fine. Say so on the day.
+- **Unknown:** mark it {verify} and plan as if there's no re-entry until it's confirmed.
+
 ### Driving trips: hotel parking and traffic
 - When a trip uses a car, **choose hotels for parking and traffic**, not only location. Prefer hotels with an on-site car park (check the cost per night and the height limit) and quick highway access.
 - Avoid congested city-centre hotels (e.g. KLCC, Bukit Bintang) as a driving base. For city-centre days, leave the car at the hotel and use taxis or ride-hailing.

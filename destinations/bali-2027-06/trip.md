@@ -46,11 +46,13 @@ Split the stay between the beach and the hills: Sanur first, because it's close 
 
 ### Day 2 · Bali Safari Park 🦓
 - **Morning:** [Bali Safari Park](map:Bali+Safari+Park+Gianyar) (Taman Safari Bali), about 40 minutes from Sanur. Start with the Safari Journey tram through the big-animal areas, then find the scheduled feeding and animal-encounter sessions {verify}.
+- **Re-entry:** Check whether a same-day hand stamp or wristband lets you out and back in {verify}. If not, plan to stay in and have lunch in the park.
 - **Midday:** Lunch in the park, then the Fun Zone (kids' rides and water play) {verify}.
 - **Evening:** Back to Sanur for a rest. **Optional:** the Night Safari, a late evening that's worth it only if he's still full of energy {verify}.
 
 ### Day 3 · Waterbom Bali 🌊
 - **All day:** [Waterbom Bali](map:Waterbom+Bali+Kuta) in Kuta, a highly rated water park. There are slides sorted by height and a kids' area {verify}. Go at opening, and rent a shaded lounger to use as a base.
+- **Re-entry:** Check the same-day re-entry rules {verify}. Plan lunch and breaks inside the park, since going back to Sanur mid-day would take most of the afternoon.
 - **Evening:** An easy dinner back in Sanur.
 
 ### Day 4 · Bali Zoo on the way to Ubud 🦧 🧳

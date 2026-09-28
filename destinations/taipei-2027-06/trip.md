@@ -54,6 +54,7 @@ Base yourselves in central Taipei close to an MRT station. Good areas are around
 
 ### Day 3 · Children's Amusement Park & Science Museum 🎡
 - **Morning:** [Taipei Children's Amusement Park](map:) in Shilin. Rides are cheap and paid per ride, and ideal for an 8-year-old. Check opening days {verify}.
+- **Re-entry:** Leaving before the afternoon museum is the plan, so re-entry doesn't matter. Just check you don't need a new entry ticket if you come back for the evening {verify}.
 - **Afternoon:** Somewhere indoors and air-conditioned to escape the heat: [National Taiwan Science Education Center](map:) or the [Taipei Astronomical Museum](map:), both nearby.
 - **Evening:** [Shilin Night Market](map:), just down the road.
 
@@ -61,6 +62,7 @@ Base yourselves in central Taipei close to an MRT station. Good areas are around
 - **Luggage:** Check out of the Taipei hotel; the bags ride in the charter car for Days 4–5, so the theme park day works. Without a car, either make Leofoo a day trip from Taipei (no hotel change) or drop the bags at the resort first and ask it to hold them {verify}.
 - **Getting there:** About 1–1.5 hours from Taipei. Options are a private driver or car charter (easiest with a child and luggage), or HSR to Hsinchu plus a shuttle bus {verify}.
 - **All day:** [Leofoo Village Theme Park](map:), which combines theme-park rides with a drive-through African safari area. Check the height limits on rides and whether there are animal-feeding sessions {verify}.
+- **Re-entry:** Check whether you can leave and come back the same day, e.g. for a rest at the on-site resort {verify}. Otherwise, lunch and breaks happen inside the park.
 - **Evening:** Stay the night at the on-site resort (option) instead of going back to Taipei.
 
 ### Day 5 · Farm day: bottle-feed calves 🐄 🧳

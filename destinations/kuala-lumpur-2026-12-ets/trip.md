@@ -94,10 +94,11 @@ Travel times are rough and from general knowledge {verify}.
 ### Day 5 · KidZania Kuala Lumpur 👩‍🚒
 - **Getting there:** **MRT Kajang Line** from Bukit Bintang straight to **Mutiara Damansara** station (same line, no change), about 30–40 minutes {verify}, then a short walk to Curve NX. Or Grab, about 30–45 minutes.
 - **Day:** [KidZania Kuala Lumpur](map:KidZania+Kuala+Lumpur+Curve+NX) at **Curve NX, Mutiara Damansara**. It's a kid-sized city where children try real jobs (firefighter, pilot, doctor, chef) and earn "kidZos"; an 8-year-old can do most activities without a parent inside {verify}. **Open daily**, Mondays included; check the hours for your date on the [KidZania general info page](https://www.kidzania.com.my/generalinfo). Book tickets online and arrive at opening, because popular jobs queue up in December.
-- **Midday:** Lunch inside, or at The Curve or IKEA next door.
+- **Re-entry:** **Not allowed.** Once you leave KidZania, you can't come back in, and children can't make temporary exits {verify}. Plan the whole visit inside: eat lunch there, and use its rest areas for breaks.
+- **Midday:** Lunch inside KidZania.
 - **Getting back:** MRT from Mutiara Damansara, or Grab, which is easy to book at the mall {verify}.
-- **Food:** Restaurants and cafés in **The Curve** and **IKEA** next door {verify}.
-- **Shopping:** **The Curve** mall is next door for a browse after KidZania, or during it if the rules allow a parent to step out; check KidZania's supervision rules {verify}.
+- **Food:** After KidZania, an early dinner or coffee in **The Curve** or **IKEA** next door {verify}.
+- **Shopping:** **The Curve** mall next door, **after** KidZania (with no re-entry, don't step out mid-visit).
 
 ### Day 6 · KL → Singapore by ETS 🧳
 - **Luggage:** Grab to KL Sentral with the bags, then the ETS to JB Sentral.

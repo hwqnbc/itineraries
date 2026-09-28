@@ -94,6 +94,7 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 ### Day 5 · Monkeys Canopy Resort 🦕
 - **Getting there:** Drive about 30–40 minutes to Sungai Long, Cheras {verify}. The resort has parking {verify}. Go at opening.
 - **All day:** [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long), a hilltop resort with several parks: **Monkeys Splash Zone** (indoor water park), **Dino Desert**, **Enchanted Forest**, **Safari Escape Playland** and the **Conquer** indoor extreme park {verify}. Check which parks the ticket covers, and the height limits {verify}.
+- **Re-entry:** Not yet confirmed; check whether the wristband or ticket allows leaving and coming back the same day {verify}. Until then, plan to stay in: have lunch at the resort, and use the car only if re-entry is allowed.
 - **Getting back:** Drive; there's no need to wait for a Grab on the hilltop.
 
 ### Day 6 · Drive home 🧳

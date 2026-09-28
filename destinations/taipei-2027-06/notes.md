@@ -32,6 +32,7 @@
 | 2026-09-24 | Move days marked 🧳 with a luggage plan; Night 5 near HSR Taoyuan | Luggage makes car-less theme-park days a hassle |
 | 2026-09-24 | Added Taiwan seasons guide and a June vs December comparison; dates unchanged | Considering a December trip |
 | 2026-09-25 | Bali drafted as an alternative destination | Destination not decided yet |
+| 2026-09-28 | Re-entry checks added for Leofoo and the Children's Amusement Park | Theme-park re-entry rule |
 
 ## Open questions
 - Exact dates and length of the trip?
