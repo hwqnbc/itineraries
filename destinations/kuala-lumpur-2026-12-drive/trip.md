@@ -12,7 +12,7 @@ country: malaysia
 currency: MYR
 updated: 2026-09-28
 ---
-The **car version** of the KL trip: rent a car in JB, drive up, and base at a hotel with **its own car park and quick highway access**. The shortlist is **Aquaria KLCC**, **Petrosains**, **Space & Time Cube**, **Farm In The City** and **Monkeys Canopy Resort**. The car also reaches **Paya Indah Wetlands**, where a Grab back is unreliable. On city days the car stays parked, and Grab avoids KL traffic and parking.
+The **car version** of the KL trip: rent a car in JB, drive up, and base at a hotel with **its own car park and quick highway access**. The shortlist is **Aquaria KLCC**, **Petrosains**, **Planetarium Negara**, **Space & Time Cube**, **Farm In The City** and **Monkeys Canopy Resort**. The car also reaches **Paya Indah Wetlands**, where a Grab back is unreliable. On city days the car stays parked, and Grab avoids KL traffic and parking.
 
 > Idea stage. The other version is **[KL by ETS](../kuala-lumpur-2026-12-ets/trip.md)**; the side-by-side is in **[Drive vs ETS](../kuala-lumpur-2026-12-ets/notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
@@ -54,11 +54,11 @@ The **car version** of the KL trip: rent a car in JB, drive up, and base at a ho
 - **Afternoon:** [Petrosains, The Discovery Centre](map:Petrosains+The+Discovery+Centre), a hands-on science centre {verify}.
 - **Evening:** KLCC Park and the fountain show, then Grab back.
 
-### Day 3 · Space & Time Cube (car stays parked) 🚀
-- **Getting there:** Grab to **Lot 10 Shopping Centre**, Bukit Bintang.
-- **Morning:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur), an immersive, naked-eye 3D experience. Allow 1–2 hours. It opens daily, 10am–10pm {verify}. Book tickets online.
-- **Afternoon:** Rest and pool at the hotel.
-- **Optional:** [KL Forest Eco Park](map:KL+Forest+Eco+Park) canopy walk (monkeys are common) {verify}.
+### Day 3 · Planetarium & Space & Time Cube (car stays parked) 🪐🚀
+- **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Mid Valley {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
+- **Midday:** Lunch, then rest and pool at the hotel.
+- **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) in **Lot 10**, Bukit Bintang (Grab), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Allow 1–2 hours. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
+- **Optional:** [KL Bird Park](map:KL+Bird+Park) is right next to the planetarium in the same gardens {verify}.
 
 ### Day 4 · Farm In The City & Paya Indah Wetlands 🐐🦛
 - **Morning:** Drive about 20–30 minutes to [Farm In The City](map:Farm+In+The+City+Seri+Kembangan), a hands-on petting and feeding farm {verify}. Go at opening, before it gets hot.
@@ -93,6 +93,7 @@ The **car version** of the KL trip: rent a car in JB, drive up, and base at a ho
 - [ ] Hotel with its own car park, 5 nights (Mid Valley or Bangsar South; family room, pool); check the parking cost and height limit
 - [ ] Aquaria KLCC and Petrosains tickets
 - [ ] Space & Time Cube tickets (Lot 10)
+- [ ] Planetarium Negara dome show (pay on the day; Day 3 must not be a Monday or a public holiday) {verify}
 - [ ] Farm In The City tickets
 - [ ] Monkeys Canopy tickets: check which parks are included, and the height limits
 - [ ] Travel insurance that covers driving in Malaysia
@@ -107,6 +108,7 @@ The **car version** of the KL trip: rent a car in JB, drive up, and base at a ho
 | Accommodation (5 nights) | TBD | |
 | Aquaria KLCC + Petrosains | TBD | |
 | Space & Time Cube | TBD | |
+| Planetarium Negara show | about RM12 adult / RM8 child {verify} | |
 | Farm In The City + Paya Indah | TBD | |
 | Monkeys Canopy | TBD | |
 | Grab rides (city days) | TBD | |

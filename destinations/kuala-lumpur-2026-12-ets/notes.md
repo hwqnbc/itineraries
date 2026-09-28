@@ -11,7 +11,7 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 |---|---|---|
 | Journey | Causeway bus/RTS, then ETS JB Sentral → KL Sentral, about 4.5–5 hours {verify} | Causeway bus/RTS, then drive from JB, about 3.5–4.5 hours without jams {verify} |
 | Causeway | Same crossing either way; the RTS Link (due around end-2026 {verify}) would help both | Same |
-| City days (Aquaria, Petrosains, Space & Time Cube) | **Walk** via the KLCC–Bukit Bintang walkway and Lot 10 | Grab (car stays parked) |
+| City days (Aquaria, Petrosains, Planetarium, Space & Time Cube) | **Walk** via the KLCC–Bukit Bintang walkway and to Lot 10; Grab to the Planetarium | Grab (car stays parked) |
 | Farm In The City | Grab, or MRT + a short Grab {verify} | Drive 20–30 minutes |
 | Day 5 | **KidZania KL** (MRT Kajang Line direct to Mutiara Damansara, or Grab) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
 | Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 4 afternoon |
@@ -28,6 +28,7 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 - **KLCC vs Bukit Bintang hotels:** Bukit Bintang generally costs less for a similar standard and has far more mid-range choice; KLCC is mostly upscale {verify}. The covered **KLCC–Bukit Bintang walkway** (about 1.2 km, Pavilion ↔ Convention Centre) links them, so a Bukit Bintang base loses little.
 - **Monkeys Canopy Resort** (monkeyscanopy.com): Monkeys Splash Zone (indoor water park), Dino Desert, Enchanted Forest, Safari Escape Playland, Conquer indoor extreme park, and go-karts. One listing shows about RM38 per child and RM50 per adult, with a 2+2 family deal {verify}, but check what it includes.
 - **KidZania Kuala Lumpur:** Curve NX, Mutiara Damansara, Petaling Jaya, next to the MRT Kajang Line (direct from Bukit Bintang). Children try real jobs. It's usually closed on Mondays except holidays, and open about 10am–5pm, later at weekends and in holidays {verify}.
+- **Planetarium Negara (National Planetarium):** Perdana Botanical Garden (Lake Gardens), next to KL Bird Park. Open 9am–4:30pm, **closed Mondays and public holidays**. The gallery is free; dome shows run hourly from 10am (last at 4pm), about RM12 adult / RM8 child {verify}.
 - **Space & Time Cube:** Lot 10 Shopping Centre, Bukit Bintang. Immersive, naked-eye 3D; allow 1–2 hours; open daily 10am–10pm {verify}.
 
 ## Decisions log
@@ -39,11 +40,12 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 | 2026-09-28 | Split into two separate plans (ETS and drive); comparison moved here; ETS base moved to Bukit Bintang | Easier to read each plan on its own; Bukit Bintang is cheaper and walkable to KLCC |
 | 2026-09-28 | ETS plan: KidZania KL replaces Monkeys Canopy on Day 5 | A Grab back from Monkeys Canopy is hard to book; KidZania is on the MRT |
 | 2026-09-28 | KLCC–Bukit Bintang walkway drawn on the map (Day 2) | Shows the walking route from the hotel area to KLCC |
+| 2026-09-28 | Planetarium Negara added to Day 3 (morning), Space & Time Cube moved to late afternoon, in both versions | Requested; the planetarium closes at 4:30pm, and Space & Time Cube is open until 10pm |
 
 ## Open questions
 - ETS or drive?
 - Which Monkeys Canopy parks to do, if driving?
-- Make sure the KidZania day isn't a Monday.
+- Make sure the KidZania day (Day 5) and the Planetarium day (Day 3) aren't Mondays, and Day 3 isn't a public holiday (e.g. 25 Dec).
 - Exact dates: weekdays avoid the worst Causeway and attraction crowds.
 
 ## Sources

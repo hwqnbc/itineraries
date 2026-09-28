@@ -6,13 +6,13 @@ status: idea
 start: 2026-12
 dates: December 2026 (tentative) · 6-day draft
 card: Dec 2026 · 6 days · ETS train, Bukit Bintang base
-tagline: Aquaria, Petrosains, Space & Time Cube, petting farm, KidZania
+tagline: Aquaria, Petrosains, Planetarium, Space & Time Cube, petting farm, KidZania
 participants: default-family
 country: malaysia
 currency: MYR
 updated: 2026-09-28
 ---
-The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking or Grab for everything else. It covers **Aquaria KLCC**, **Petrosains**, **Space & Time Cube**, **Farm In The City** and **KidZania**. There's no car, so no traffic or parking stress. Monkeys Canopy is only in the car version, because a Grab back from the hilltop is hard to book.
+The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking or Grab for everything else. It covers **Aquaria KLCC**, **Petrosains**, **Planetarium Negara**, **Space & Time Cube**, **Farm In The City** and **KidZania**. There's no car, so no traffic or parking stress. Monkeys Canopy is only in the car version, because a Grab back from the hilltop is hard to book.
 
 > Idea stage. The other version is **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)**; the side-by-side is in **[Drive vs ETS](notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
@@ -56,11 +56,11 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 - **Afternoon:** [Petrosains, The Discovery Centre](map:Petrosains+The+Discovery+Centre) in Suria KLCC, a hands-on science centre {verify}.
 - **Evening:** KLCC Park playground and the fountain show at dusk. Walk back, or Grab if he's tired.
 
-### Day 3 · Space & Time Cube 🚀
-- **Getting there:** Walk to **Lot 10 Shopping Centre**, just next door in Bukit Bintang.
-- **Morning:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Allow 1–2 hours. It opens daily, 10am–10pm {verify}. Book tickets online.
-- **Afternoon:** Rest and pool at the hotel.
-- **Optional:** [KL Forest Eco Park](map:KL+Forest+Eco+Park) canopy walk (Grab, about 10 minutes; monkeys are common) {verify}, or [KL Bird Park](map:KL+Bird+Park) (Grab).
+### Day 3 · Planetarium & Space & Time Cube 🪐🚀
+- **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Bukit Bintang {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** (including 25 Dec) {verify}.
+- **Midday:** Lunch, then rest and pool at the hotel.
+- **Late afternoon:** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) in **Lot 10**, Bukit Bintang (walk from the hotel), an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Allow 1–2 hours. It's open until 10pm {verify}, so it suits the evening, and it's indoors if it storms. Book tickets online.
+- **Optional:** [KL Bird Park](map:KL+Bird+Park) is right next to the planetarium in the same gardens (see swap-ins), or the [KL Forest Eco Park](map:KL+Forest+Eco+Park) canopy walk {verify}.
 
 ### Day 4 · Farm In The City 🐐
 - **Getting there:** Grab (about 30–45 minutes), or the MRT to a station near the farm plus a short Grab {verify}.
@@ -93,6 +93,7 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 - [ ] Bukit Bintang hotel, 5 nights (family room, pool), near Pavilion or the walkway
 - [ ] Aquaria KLCC and Petrosains tickets
 - [ ] Space & Time Cube tickets (Lot 10)
+- [ ] Planetarium Negara dome show (pay on the day; Day 3 must not be a Monday or a public holiday) {verify}
 - [ ] Farm In The City tickets
 - [ ] KidZania KL tickets (not on a Monday; book online)
 - [ ] Travel insurance
@@ -105,6 +106,7 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 | Accommodation (5 nights, Bukit Bintang) | TBD | |
 | Aquaria KLCC + Petrosains | TBD | |
 | Space & Time Cube | TBD | |
+| Planetarium Negara show | about RM12 adult / RM8 child {verify} | |
 | Farm In The City | TBD | |
 | KidZania KL | TBD | |
 | Grab rides | TBD | |
