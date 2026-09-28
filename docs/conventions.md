@@ -111,7 +111,7 @@ With `currency:` set, the build adds a **💱 currency converter** at the top of
   areas: [{ name: "Ubud", note: "Culture, cafés; no-app-pickup zones", center: [-8.507, 115.263], km: 2.5 }]
   ```
   They appear under an **Areas / districts** toggle in the legend (off by default, and remembered per browser), and **Fit to shown** ignores them. Circles are approximate, not official boundaries.
-  - While Areas are on, the map switches to a plain background (CARTO) so the outlines stand out.
+  - While Areas are on, the map background is faded (greyscale, lighter) so the outlines stand out. No extra tile service or API key is used.
   - **Real outlines:** save a GeoJSON file as `destinations/<trip>/areas.geojson` and add `areasGeojson: "areas.geojson",` at the top of `TRIP_MAP` in `pois.js`. Each feature's `name` (or `name:en`, or a `label` property) is used as its label. A matching entry in `areas` supplies the note, and any area missing from the file is still drawn as a circle. See **Getting district outlines** below.
 
 #### Getting district outlines (GeoJSON)

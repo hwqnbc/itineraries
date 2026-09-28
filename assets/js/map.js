@@ -86,19 +86,14 @@
       return;
     }
     map = L.map(osmPane, { scrollWheelZoom: false });
-    // Two backgrounds: the detailed OpenStreetMap style, and a plain CARTO style used
-    // while the Areas layer is on, so the area outlines stand out.
-    var osmAttr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
-    var detailedTiles = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 19, attribution: osmAttr
+    // While the Areas layer is on, the map background is faded (CSS on .areas-on) so the
+    // area outlines stand out. Same OpenStreetMap tiles, no extra tile service or API key.
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
-    var dark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
-    var plainTiles = L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png", {
-      maxZoom: 19, subdomains: "abcd", attribution: osmAttr + ' &copy; <a href="https://carto.com/attributions">CARTO</a>'
-    });
     var useTiles = function (plain) {
-      map.removeLayer(plain ? detailedTiles : plainTiles);
-      (plain ? plainTiles : detailedTiles).addTo(map);
+      map.getContainer().classList.toggle("areas-on", plain);
     };
 
     allLayer = L.featureGroup().addTo(map);

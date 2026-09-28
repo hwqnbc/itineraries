@@ -409,6 +409,8 @@ details.day .day-body ul { padding-left: 20px; }
 }
 .leaflet-tooltip.area-label::before { display: none; }
 .hide-area-labels .leaflet-tooltip.area-label { display: none; }
+/* Faded background while the Areas layer is on */
+.areas-on .leaflet-tile-pane { filter: grayscale(1) contrast(0.7) brightness(1.12); opacity: 0.55; }
 .legend-area-swatch {
   display: inline-block; width: 14px; height: 14px; border-radius: 50%;
   border: 1.5px dashed var(--accent); background: color-mix(in srgb, var(--accent) 15%, transparent);
