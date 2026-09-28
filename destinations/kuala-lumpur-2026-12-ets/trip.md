@@ -70,7 +70,7 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 
 ### Day 5 · KidZania Kuala Lumpur 👩‍🚒
 - **Getting there:** **MRT Kajang Line** from Bukit Bintang straight to **Mutiara Damansara** station (same line, no change), about 30–40 minutes {verify}, then a short walk to Curve NX. Or Grab, about 30–45 minutes.
-- **Day:** [KidZania Kuala Lumpur](map:KidZania+Kuala+Lumpur+Curve+NX) at **Curve NX, Mutiara Damansara**. It's a kid-sized city where children try real jobs (firefighter, pilot, doctor, chef) and earn "kidZos"; an 8-year-old can do most activities without a parent inside {verify}. **Usually closed on Mondays** (except holidays), and it opens about 10am–5pm, later at weekends and in holidays {verify}. Book tickets online and arrive at opening, because popular jobs queue up in December.
+- **Day:** [KidZania Kuala Lumpur](map:KidZania+Kuala+Lumpur+Curve+NX) at **Curve NX, Mutiara Damansara**. It's a kid-sized city where children try real jobs (firefighter, pilot, doctor, chef) and earn "kidZos"; an 8-year-old can do most activities without a parent inside {verify}. **Open daily**, Mondays included; check the hours for your date on the [KidZania general info page](https://www.kidzania.com.my/generalinfo). Book tickets online and arrive at opening, because popular jobs queue up in December.
 - **Midday:** Lunch inside, or at The Curve or IKEA next door.
 - **Getting back:** MRT from Mutiara Damansara, or Grab, which is easy to book at the mall {verify}.
 
@@ -95,7 +95,7 @@ The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bint
 - [ ] Space & Time Cube tickets (Lot 10)
 - [ ] Planetarium Negara dome show (pay on the day; Day 3 must not be a Monday or a public holiday) {verify}
 - [ ] Farm In The City tickets
-- [ ] KidZania KL tickets (not on a Monday; book online)
+- [ ] KidZania KL tickets (book online; [hours and info](https://www.kidzania.com.my/generalinfo))
 - [ ] Travel insurance
 - [ ] Check entry: passports, and whether the Malaysia Digital Arrival Card is needed {verify}
 
