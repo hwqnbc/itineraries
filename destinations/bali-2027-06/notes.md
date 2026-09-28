@@ -6,6 +6,7 @@
 - Animal welfare: skip elephant rides, elephant bathing and animal shows at Bali Zoo and Bali Safari Park. Keeper talks, feeding sessions and the orangutan breakfast are fine.
 
 ## Research & options
+- **Grab/Gojek in Bali:** local transport cooperatives ban app pickups in "red zones" (central Ubud around the Monkey Forest and palace, some temples and beach clubs). Drop-offs are allowed; for pickups, walk to a neutral spot on a main road or use the hotel's driver. Remote areas (Bedugul, the Safari Park in rural Gianyar) have few app cars {verify}.
 - **Bali or Taipei?** Destination not decided yet. Both are 6-day drafts built for the same family.
 
   | | Bali (June) | Taipei (June) | Taipei (December) |
@@ -26,6 +27,7 @@
 | 2026-09-25 | First draft: Bali as an alternative to Taipei, 6 days, June | Bali Zoo and Bali Safari Park requested; June is dry season |
 | 2026-09-28 | Re-entry checks added for Bali Safari Park and Waterbom | Theme-park re-entry rule |
 | 2026-09-28 | Outside-food checks added for Bali Safari Park and Waterbom | Outside-food rule |
+| 2026-09-28 | Driver only for Days 2 (half day), 4, 5 and 6; Grab/Gojek for Days 1 and 3 | Only book a driver where a Grab back isn't easy (red zones, remote places) |
 
 ## Open questions
 - Bali or Taipei, and which month?

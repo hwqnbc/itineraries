@@ -157,6 +157,10 @@ These apply to every trip, whoever is travelling. A participant profile can add 
 - Where it saves money, put attraction days on **term-time weekdays**, and check the opening days too (e.g. Monday closures). If a place costs the same year-round, it doesn't constrain the dates.
 - Write the weekday and date in each day heading once the dates are proposed, e.g. `### Day 2 · Tue 1 Dec · Aquaria`.
 
+### Getting back without a car
+- If the trip doesn't book a car or driver for every day, check for each place whether a **ride back to the hotel** (Grab, Gojek, taxi or train) is easy to get. Watch for remote places and local no-app-pickup zones.
+- Add a `- **Transport:**` or `- **Getting back:**` line per day, and only book a driver for days where the ride back isn't easy (or on move days with luggage).
+
 ### Theme parks: re-entry
 - For every theme park, water park or ticketed indoor park, check whether **same-day re-entry** is allowed (hand stamp or wristband), and add a `- **Re-entry:** …` line to that day.
 - **No re-entry:** plan the whole visit inside. Lunch and rest breaks happen in the park (look for its rest areas, shows or shaded spots); there's no midday hotel break. Any nearby food or shopping comes **after** the visit.
