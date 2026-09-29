@@ -5,12 +5,13 @@
 The **Drive vs ETS** comparison, the shortlist research and the shared decisions log are in the **[ETS version's notes](../kuala-lumpur-2026-12-ets/notes.md)**.
 
 ## Trip-specific overrides
-- Long drives (about 4 hours each way) are allowed on Days 1 and 6 only, because they're the transfer days.
+- Long drives (about 4 hours each way) are allowed on Days 1 and 7 only, because they're the transfer days.
 
 ## Research & options (car-specific)
 - **Where to stay:** Mid Valley or Bangsar South (hotel car parks, highway access south and east, 10–20 minutes to KLCC by Grab). Avoid KLCC and Bukit Bintang with a car.
 - **Singapore car vs JB rental:** a Singapore car needs a VEP and Malaysian insurance, and brings the 3/4-tank fuel rule into play when leaving Singapore {verify}. Renting in JB avoids all of these.
 - **Paya Indah + Farm on one day:** both are south of the city (Seri Kembangan, then Dengkil), so they chain well.
+- **Shah Alam day** (you asked, 29 Sep): Sultan Alam Shah Museum (Tue–Sun 9:30am–5:30pm, closed Mondays, Friday break 12:30–2:45pm, about RM15 for foreigners), then i-City: **SkyCity** glass water slide (weekdays from 3:30pm; about RM55 adult / RM45 child international; 90 cm minimum) and **i-City Theme Park** lights (5:30pm–12am; no re-entry). All from search results {verify}. Outside-food rules not found.
 - **Legoland Malaysia:** only as an extra night in JB, not squeezed into the drive home.
 
 ## Decisions log
@@ -24,7 +25,9 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-09-28 | Monkeys Canopy outside-food rule to check | Outside-food rule |
 | 2026-09-28 | Proposed dates Mon 30 Nov – Sat 5 Dec (see the peak-pricing table in the ETS notes) | Off-peak weekday prices |
 | 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
+| 2026-09-29 | Trip extended to 7 days (Sun 29 Nov – Sat 5 Dec); new Day 5 in Shah Alam (Sultan Alam Shah Museum, SkyCity, i-City lights); Farm + Paya Indah moved to Monday | You chose to add a day. Farm and Paya Indah are open Mondays while the museums aren't; the Shah Alam museum closes Mondays and on Friday lunchtime |
 
 ## Open questions
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)
 - Hotel car park height limit, if renting an MPV.
+- SkyCity and i-City: outside-food rule, and whether they're combined on one ticket {verify}.

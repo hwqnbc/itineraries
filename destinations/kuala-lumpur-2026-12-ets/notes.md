@@ -3,7 +3,7 @@
 <!-- Participants and status live in trip.md (front matter), not here.
      This file holds the shared Drive vs ETS comparison for both KL versions. -->
 
-Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)**. Same shortlist, same 6 days.
+Two versions of the same trip: **[KL by ETS](trip.md)** (6 days) and **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)** (7 days: it starts a day earlier and adds a Shah Alam day). Same shortlist, and the shared places fall on the same dates.
 
 ## Drive vs ETS
 
@@ -13,8 +13,9 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 | Causeway | Same crossing either way; the RTS Link (due around end-2026 {verify}) would help both | Same |
 | City days (Aquaria, Petrosains, Planetarium, Space & Time Cube) | **Walk** via the KLCC–Bukit Bintang walkway and to Lot 10; Grab to the Planetarium | Grab (car stays parked) |
 | Farm In The City | Grab, or MRT + a short Grab {verify} | Drive 20–30 minutes |
-| Day 5 | **Berjaya Times Square Theme Park** (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
-| Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 4 afternoon |
+| Theme-park day | **Berjaya Times Square Theme Park** (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
+| Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 2 afternoon |
+| Shah Alam (museum, SkyCity, i-City) | Not in this plan; Grab might work {verify} | ✅ Day 5 |
 | Legoland on the way home | Not practical | Possible as an extra day |
 | Hotel | Bukit Bintang: cheaper than KLCC, more mid-range choice {verify} | Must have a car park and highway access; parking costs extra {verify} |
 | Stress | No driving, parking or traffic | KL traffic at 7–9:30am and 5–8pm; parking at the hotel |
@@ -26,17 +27,19 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 
 Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places charge more in school holidays, public holidays and at weekends, so the plan puts every attraction day on a **term-time weekday**: **Mon 30 Nov – Sat 5 Dec**. Prices are for non-Malaysians and change often {verify}.
 
-| Place | Peak pricing? | What we found | Day (Mon 30 Nov start) |
+| Place | Peak pricing? | What we found | When (ETS plan; the car plan's day numbers are one higher) |
 |---|---|---|---|
 | Aquaria KLCC | **Yes**: school and public holidays, festive seasons | Off-peak (weekday) vs peak tickets are sold separately {verify} | Day 2 · Tue 1 Dec ✅ off-peak |
 | Petrosains | Not found {verify} | Separate prices for non-Malaysians and MyKad holders | Day 2 · Tue 1 Dec (open; closed Mondays) |
 | Planetarium Negara | No: flat price | Shows about RM12 adult / RM8 child; the gallery is free {verify} | Day 3 · Wed 2 Dec (open; closed Mon & public holidays) |
 | Space & Time Cube | Not found {verify} | — | Day 3 · Wed 2 Dec |
-| Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 4 · Thu 3 Dec (open; closed Tuesdays in term time) |
+| Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 4 · Thu 3 Dec (car plan: Day 2 · Mon 30 Nov; closed Tuesdays in term time) |
 | Berjaya Times Square Theme Park | Not found; longer hours at weekends and in school holidays {verify} | Resellers list about RM90 adult / RM75 child for non-Malaysians; no re-entry, no outside food {verify} | Day 5 · Fri 4 Dec (ETS plan) |
 | ~~KidZania KL~~ | **Dynamic pricing**: cheaper the earlier you book (you found) | **Dropped**: adults pay with nothing to do, and no re-entry | — |
-| Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Day 5 · Fri 4 Dec (drive plan) |
-| Paya Indah Wetlands | Not found {verify} | Closed Tuesdays except school and public holidays | Day 4 · Thu 3 Dec (drive plan) |
+| Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Day 6 · Fri 4 Dec (car plan) |
+| Paya Indah Wetlands | Not found {verify} | Closed Tuesdays except school and public holidays | Day 2 · Mon 30 Nov (car plan) |
+| Sultan Alam Shah Museum | Not found {verify} | About RM15 for foreigners; closed Mondays, Friday break 12:30–2:45pm {verify} | Day 5 · Thu 3 Dec (car plan) |
+| SkyCity / i-City | Not found; longer hours at weekends {verify} | SkyCity about RM55 adult / RM45 child (international); i-City about RM15 adult / RM35 child {verify} | Day 5 · Thu 3 Dec (car plan) |
 | Hotels, ETS, car rental | Usually dearer at weekends and in school holidays {verify} | Nights Mon–Fri are the cheapest part of this window | Nights 1–5 · Mon–Fri |
 
 **If prices turn out the same all through December** (e.g. the farm, Space & Time Cube), going after 5 Dec is fine for those places. What matters most is Aquaria; check its date calendar when booking.
