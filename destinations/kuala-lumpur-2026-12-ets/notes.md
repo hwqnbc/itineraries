@@ -13,7 +13,7 @@ Two versions of the same trip: **[KL by ETS](trip.md)** and **[KL by car](../kua
 | Causeway | Same crossing either way; the RTS Link (due around end-2026 {verify}) would help both | Same |
 | City days (Aquaria, Petrosains, Planetarium, Space & Time Cube) | **Walk** via the KLCC–Bukit Bintang walkway and to Lot 10; Grab to the Planetarium | Grab (car stays parked) |
 | Farm In The City | Grab, or MRT + a short Grab {verify} | Drive 20–30 minutes |
-| Day 5 | **KidZania KL** (MRT Kajang Line direct to Mutiara Damansara, or Grab) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
+| Day 5 | **Berjaya Times Square Theme Park** (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
 | Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 4 afternoon |
 | Legoland on the way home | Not practical | Possible as an extra day |
 | Hotel | Bukit Bintang: cheaper than KLCC, more mid-range choice {verify} | Must have a car park and highway access; parking costs extra {verify} |
@@ -33,19 +33,21 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | Planetarium Negara | No: flat price | Shows about RM12 adult / RM8 child; the gallery is free {verify} | Day 3 · Wed 2 Dec (open; closed Mon & public holidays) |
 | Space & Time Cube | Not found {verify} | — | Day 3 · Wed 2 Dec |
 | Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 4 · Thu 3 Dec (open; closed Tuesdays in term time) |
-| KidZania KL | **Dynamic pricing**: cheaper the **earlier you book**, even for school-holiday dates (you found) | Adults pay too but have nothing to do; no re-entry, no outside food. **Might be dropped** | Day 5 · Fri 4 Dec (ETS plan) |
+| Berjaya Times Square Theme Park | Not found; longer hours at weekends and in school holidays {verify} | Resellers list about RM90 adult / RM75 child for non-Malaysians; no re-entry, no outside food {verify} | Day 5 · Fri 4 Dec (ETS plan) |
+| ~~KidZania KL~~ | **Dynamic pricing**: cheaper the earlier you book (you found) | **Dropped**: adults pay with nothing to do, and no re-entry | — |
 | Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Day 5 · Fri 4 Dec (drive plan) |
 | Paya Indah Wetlands | Not found {verify} | Closed Tuesdays except school and public holidays | Day 4 · Thu 3 Dec (drive plan) |
 | Hotels, ETS, car rental | Usually dearer at weekends and in school holidays {verify} | Nights Mon–Fri are the cheapest part of this window | Nights 1–5 · Mon–Fri |
 
-**If prices turn out the same all through December** (e.g. the farm, Space & Time Cube), going after 5 Dec is fine for those places. What matters most is Aquaria and KidZania; check their date calendars when booking.
+**If prices turn out the same all through December** (e.g. the farm, Space & Time Cube), going after 5 Dec is fine for those places. What matters most is Aquaria; check its date calendar when booking.
 
 ## Research & options
-- **Shortlist (from you):** Aquaria KLCC, Petrosains Discovery Centre, Space & Time Cube (Lot 10, Bukit Bintang), Farm In The City, Monkeys Canopy Resort (Sungai Long, Cheras; **drive version only**), KidZania KL (**ETS version**). **Not going:** Genting, Sunway Lagoon.
-- **Grab rule:** a place is fine without a car as long as a Grab back to the hotel is easy to book. That's true in the city and suburbs; not at Paya Indah or the Monkeys Canopy hilltop, which is why the ETS plan uses KidZania instead.
+- **Shortlist (from you):** Aquaria KLCC, Petrosains Discovery Centre, Space & Time Cube (Lot 10, Bukit Bintang), Farm In The City, Monkeys Canopy Resort (Sungai Long, Cheras; **drive version only**), Berjaya Times Square Theme Park (**ETS version**). **Not going:** Genting, Sunway Lagoon, KidZania (dropped 29 Sep).
+- **Grab rule:** a place is fine without a car as long as a Grab back to the hotel is easy to book. That's true in the city and suburbs; not at Paya Indah or the Monkeys Canopy hilltop, which is why the ETS plan uses Berjaya Times Square Theme Park instead.
 - **KLCC vs Bukit Bintang hotels:** Bukit Bintang generally costs less for a similar standard and has far more mid-range choice; KLCC is mostly upscale {verify}. The covered **KLCC–Bukit Bintang walkway** (about 1.2 km, Pavilion ↔ Convention Centre) links them, so a Bukit Bintang base loses little.
 - **Monkeys Canopy Resort** (monkeyscanopy.com): Monkeys Splash Zone (indoor water park), Dino Desert, Enchanted Forest, Safari Escape Playland, Conquer indoor extreme park, and go-karts. One listing shows about RM38 per child and RM50 per adult, with a 2+2 family deal {verify}, but check what it includes.
-- **KidZania Kuala Lumpur:** Curve NX, Mutiara Damansara, Petaling Jaya, next to the MRT Kajang Line (direct from Bukit Bintang). Children try real jobs. Open daily, Mondays included (see [general info](https://www.kidzania.com.my/generalinfo)). **No re-entry and no outside food.**
+- **Berjaya Times Square Theme Park** ([buy online](https://berjayatimessquarethemeparkkl.com/buy-online/)): a big indoor theme park inside Berjaya Times Square mall, Bukit Bintang (Imbi monorail). Galaxy Station (thrill rides) and Fantasy Garden (family rides). Weekdays 12–9pm; weekends, school and public holidays 11am–9pm. Many rides need 120 cm, some 140 cm. No re-entry and no outside food, but the mall has plenty of restaurants. Allow 2–4 hours {verify}.
+- **KidZania Kuala Lumpur (dropped):** Curve NX, Mutiara Damansara, Petaling Jaya, next to the MRT Kajang Line (direct from Bukit Bintang). Children try real jobs. Open daily, Mondays included (see [general info](https://www.kidzania.com.my/generalinfo)). **No re-entry and no outside food.**
 - **Planetarium Negara (National Planetarium):** Perdana Botanical Garden (Lake Gardens), next to KL Bird Park. Open 9am–4:30pm, **closed Mondays and public holidays**. The gallery is free; dome shows run hourly from 10am (last at 4pm), about RM12 adult / RM8 child {verify}.
 - **Space & Time Cube:** Lot 10 Shopping Centre, Bukit Bintang. Immersive, naked-eye 3D; allow 1–2 hours; open daily 10am–10pm {verify}.
 
@@ -67,17 +69,19 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-09-28 | Proposed dates Mon 30 Nov – Sat 5 Dec (before Malaysian school holidays); peak-pricing table added | Pay off-peak prices; all attraction days on term-time weekdays |
 | 2026-09-28 | KidZania under review (dynamic pricing: book early; adults pay with nothing to do; no re-entry). Day 5 alternatives added: Zoo Negara, KL Bird Park + Butterfly Park, Batu Caves | Your findings |
 | 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
+| 2026-09-29 | KidZania dropped; Day 5 is now Berjaya Times Square Theme Park (afternoon, walk from the hotel); Day 5 alternatives folded into swap-ins | You confirmed: at KidZania adults pay with nothing to do, and there's no re-entry. Times Square is walkable and indoor, and adults can ride |
 
 ## Open questions
 - ETS or drive?
-- Keep KidZania (book as early as possible) or swap Day 5 for Zoo Negara / Bird Park / Batu Caves?
+- Check his height: many Times Square rides need 120 cm, some 140 cm {verify}.
 - Which Monkeys Canopy parks to do, if driving?
-- Make sure the Planetarium day (Day 3) isn't a Monday or a public holiday (e.g. 25 Dec). KidZania is open daily.
-- Confirm dates: proposed Mon 30 Nov – Sat 5 Dec 2026. Check Aquaria and KidZania peak calendars, and the farm's one-day pass page, for those dates.
+- Make sure the Planetarium day (Day 3) isn't a Monday or a public holiday (e.g. 25 Dec).
+- Confirm dates: proposed Mon 30 Nov – Sat 5 Dec 2026. Check Aquaria's peak calendar, and the farm's one-day pass page, for those dates.
 
 ## Sources
 - KLCC–Bukit Bintang walkway and area comparison: kualalumpurcity.my/bukit-bintang-vs-klcc/, travelfoodexpert.com/bukit-bintang-vs-klcc/
 - Monkeys Canopy — https://monkeyscanopy.com
 - KidZania Kuala Lumpur — general info (hours): https://www.kidzania.com.my/generalinfo
+- Berjaya Times Square Theme Park — buy tickets: https://berjayatimessquarethemeparkkl.com/buy-online/ (hours, rules and reseller prices from search results; the site was not reachable from here)
 - Space & Time Cube Malaysia — https://spaceandtimecube.com.my/
 - KTM ETS — official KTM Berhad website (check the timetable and JB Sentral services)

@@ -10,13 +10,13 @@ window.TRIP_MAP = {
     2: "KLCC: Aquaria & Petrosains",
     3: "Planetarium & Space & Time Cube",
     4: "Farm",
-    5: "KidZania",
+    5: "Times Square theme park",
     6: "Home"
   },
   // Areas / districts: approximate circles to show where each area is (toggle "Areas / districts")
   areas: [
     { name: "KLCC", note: "Twin Towers, Aquaria, Petrosains, KLCC Park; upscale hotels", center: [3.1565, 101.7130], km: 0.8 },
-    { name: "Bukit Bintang", note: "Pavilion, Lot 10, Jalan Alor; walkway to KLCC", center: [3.1470, 101.7110], km: 0.7 },
+    { name: "Bukit Bintang", note: "Pavilion, Lot 10, Jalan Alor, Berjaya Times Square; walkway to KLCC", center: [3.1470, 101.7110], km: 0.7 },
     { name: "TRX", note: "New financial district; TRX mall; MRT interchange", center: [3.1420, 101.7195], km: 0.5 },
     { name: "Chinatown / Pasar Seni", note: "Petaling Street, Central Market; older, cheaper hotels", center: [3.1440, 101.6970], km: 0.6 },
     { name: "Lake Gardens (Perdana)", note: "Planetarium, Bird Park, Butterfly Park", center: [3.1440, 101.6850], km: 0.9 },
@@ -41,8 +41,8 @@ window.TRIP_MAP = {
     { day: 3, name: "Space & Time Cube", time: "1–2 h", type: "museum", note: "Immersive 3D experience in Lot 10, Bukit Bintang", query: "Space and Time Cube Lot 10 Kuala Lumpur", lat: 3.1466, lng: 101.7121 },
     { day: 3, name: "KL Forest Eco Park", time: "1–1.5 h", type: "sight", note: "Optional canopy walk; monkeys", lat: 3.1510, lng: 101.7030 },
     { day: 4, name: "Farm In The City", time: "3–4 h", type: "animals", note: "Petting and feeding farm — go at opening", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
-    { day: 5, name: "KidZania Kuala Lumpur", time: "5–6 h", type: "theme-park", note: "Curve NX, Mutiara Damansara — MRT Kajang Line; open daily", query: "KidZania Kuala Lumpur Curve NX", lat: 3.1580, lng: 101.6110 },
-    { day: "opt", name: "KL Butterfly Park", time: "about 1 h", type: "animals", note: "Day 5 alternative: next to KL Bird Park", query: "KL Butterfly Park", lat: 3.1440, lng: 101.6865 },
+    { day: 5, name: "Berjaya Times Square Theme Park", time: "2–4 h", type: "theme-park", note: "Indoor theme park in the mall; weekdays 12–9pm; no re-entry, no outside food", query: "Berjaya Times Square Theme Park", lat: 3.1422, lng: 101.7106 },
+    { day: "opt", name: "KL Butterfly Park", time: "about 1 h", type: "animals", note: "Next to KL Bird Park", query: "KL Butterfly Park", lat: 3.1440, lng: 101.6865 },
     { day: "opt", name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
     { day: "opt", name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
     { day: "opt", name: "Batu Caves", time: "1–1.5 h", type: "sight", note: "Steps and monkeys; avoid Thaipusam", lat: 3.2379, lng: 101.6840 }

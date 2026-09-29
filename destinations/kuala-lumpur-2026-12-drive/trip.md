@@ -143,7 +143,7 @@ City days (2 and 3) use Grab, and the car stays parked. Travel times are rough a
 | Food | TBD | |
 
 ## ℹ️ Practical info {#practical}
-- **Dates & prices:** Proposed **Mon 30 Nov – Sat 5 Dec 2026**, before Malaysia's school holidays start (after 5 Dec). All attraction days (Days 2–5) are term-time weekdays, so off-peak prices apply where a place has them (Aquaria KLCC, KidZania {verify}). This also avoids Petrosains' and the Planetarium's Monday closures and the farm's term-time Tuesday closure. Singapore's school holidays have already started, so expect Causeway queues. Details: [peak pricing by place](../kuala-lumpur-2026-12-ets/notes.md).
+- **Dates & prices:** Proposed **Mon 30 Nov – Sat 5 Dec 2026**, before Malaysia's school holidays start (after 5 Dec). All attraction days (Days 2–5) are term-time weekdays, so off-peak prices apply where a place has them (e.g. Aquaria KLCC {verify}). This also avoids Petrosains' and the Planetarium's Monday closures and the farm's term-time Tuesday closure. Singapore's school holidays have already started, so expect Causeway queues. Details: [peak pricing by place](../kuala-lumpur-2026-12-ets/notes.md).
 - **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Do the outdoor places (the farm, Paya Indah, Dino Desert) in the morning.
 - **Traffic in KL:** avoid driving at about 7–9:30am and 5–8pm on weekdays. Friday evenings and rain make it worse. Use Waze or Google Maps traffic.
 - **Parking:** hotel and mall car parks mostly take Touch 'n Go or card {verify}. On the city days, Grab is simpler than parking at KLCC or Bukit Bintang.
