@@ -206,6 +206,7 @@ These apply to every trip, whoever is travelling. A participant profile can add 
 ### Driving trips: hotel parking and traffic
 - When a trip uses a car, **choose hotels for parking and traffic**, not only location. Prefer hotels with an on-site car park (check the cost per night and the height limit) and quick highway access.
 - Avoid congested city-centre hotels (e.g. KLCC, Bukit Bintang) as a driving base. For city-centre days, leave the car at the hotel and use taxis or ride-hailing.
+- **Rush-hour direction:** city jams are usually directional (into the centre in the morning, out in the evening). Pick a base where most morning drives go **against** the flow, add a "Rush-hour direction" table (day, drive, morning, coming back) under Accommodation, and put a direction row in any hotel-area comparison.
 - Plan drives outside the local rush hours and note them in Practical info. Add a morning buffer on busy days, e.g. border crossings in school holidays.
 - **Overland trips:** compare driving with the train or coach in the `{#flights}` section (the heading can be "Getting there"), and say which places are reachable only by car.
 

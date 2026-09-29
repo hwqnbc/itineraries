@@ -42,21 +42,35 @@ The **car version** of the KL trip: rent a car in JB, drive up, and base at a ho
 ### Where to stay: area comparison (car)
 City days (3 and 4) use Grab, and the car stays parked. Travel times are rough and outside rush hour {verify}.
 
-| | Mid Valley / Bangsar South ⭐ | KL Sentral | Bangsar | Seri Kembangan / Serdang | Cheras / Sungai Long | Mont Kiara |
-|---|---|---|---|---|---|---|
-| Days 1 & 7: highway to/from JB | **Quick**, via the Federal Highway or NPE south | Quick | Quick | **Quickest**, already south | Via the Cheras–Kajang highway; fine | Far: crosses the city |
-| Days 3–4: city by Grab (KLCC, Planetarium, Lot 10) | 10–20 min | **5–15 min**; LRT or MRT also possible | 10–20 min | 30–45 min each way | 30–45 min each way | 20–30 min |
-| Day 2: Farm + Paya Indah (drive) | 20–30 min to the farm | 25–35 min | 25–35 min | **5–10 min** | 20–30 min | 35–50 min |
-| Day 5: Shah Alam (drive) | 30–40 min via the Federal Highway | 30–40 min | 30–40 min | 35–45 min | 45–60 min | 30–40 min |
-| Day 6: Monkeys Canopy (drive) | 30–40 min | 35–45 min | 35–45 min | 25–35 min | **Next door**, or stay at the resort | 45–60 min |
-| Parking | Mall-linked hotels with big car parks {verify} | Hotel car parks; busy station roads {verify} | Smaller hotels and serviced apartments; check parking {verify} | Easy, newer buildings {verify} | Easy {verify} | Serviced apartments with parking {verify} |
-| Evenings & food | Mid Valley & The Gardens malls | NU Sentral mall | Bangsar cafés and restaurants | Suburban malls | Suburban | Expat cafés, malls |
-| Watch out | Federal Highway jams at rush hour | Traffic around the station | Fewer family hotels | Far from the city on Days 2–3 | Far from the city | Wrong side of town for this plan |
+| | Mid Valley / Bangsar South ⭐ | KL Sentral | Bangsar | Seri Kembangan / Serdang | Cheras / Sungai Long | Mont Kiara | Shah Alam |
+|---|---|---|---|---|---|---|---|
+| Rush-hour direction (see below) | ✅ **Against the jams**: drives go outwards in the morning and back inwards in the evening | ✅ Same as Mid Valley | ✅ Same as Mid Valley | ⚠️ **With the jams** on city days (inbound in the morning); fine for Days 2 and 6 | ⚠️ With the jams on city days and Day 5 | ⚠️ With the jams to Shah Alam and Cheras | ❌ **With the jams** on Days 2, 3, 4 and 6: the Federal Highway into KL in the morning, out in the evening |
+| Days 1 & 7: highway to/from JB | **Quick**, via the Federal Highway or NPE south | Quick | Quick | **Quickest**, already south | Via the Cheras–Kajang highway; fine | Far: crosses the city | Quick, via the ELITE highway {verify} |
+| Days 3–4: city by Grab (KLCC, Planetarium, Lot 10) | 10–20 min | **5–15 min**; LRT or MRT also possible | 10–20 min | 30–45 min each way | 30–45 min each way | 20–30 min | 40–60+ min each way |
+| Day 2: Farm + Paya Indah (drive) | 20–30 min to the farm | 25–35 min | 25–35 min | **5–10 min** | 20–30 min | 35–50 min | 40–50 min |
+| Day 5: Shah Alam (drive) | 30–40 min via the Federal Highway | 30–40 min | 30–40 min | 35–45 min | 45–60 min | 30–40 min | **Next door** |
+| Day 6: Monkeys Canopy (drive) | 30–40 min | 35–45 min | 35–45 min | 25–35 min | **Next door**, or stay at the resort | 45–60 min | 50–70 min |
+| Parking | Mall-linked hotels with big car parks {verify} | Hotel car parks; busy station roads {verify} | Smaller hotels and serviced apartments; check parking {verify} | Easy, newer buildings {verify} | Easy {verify} | Serviced apartments with parking {verify} | Easy, big car parks; hotels generally cheaper {verify} |
+| Evenings & food | Mid Valley & The Gardens malls | NU Sentral mall | Bangsar cafés and restaurants | Suburban malls | Suburban | Expat cafés, malls | Central i-City and local malls |
+| Watch out | Federal Highway jams at rush hour | Traffic around the station | Fewer family hotels | Far from the city on Days 3–4 | Far from the city | Wrong side of town for this plan | Far from everything except Day 5 |
 
 **Recommendation:**
 - **Mid Valley / Bangsar South** (current): the best balance, with quick highway access, easy city Grabs and mall-linked hotels with parking.
 - **KL Sentral**: good if you'd rather be closer to the city for Days 3–4.
 - **Seri Kembangan**: only if you'd rather keep the driving days short and don't mind longer Grabs on the city days.
+- **Shah Alam**: cheaper and easy parking, but every other day drives with the jams. At most, one night there on Day 5 (no late drive back after the i-City lights); the car carries the bags, so the hotel change is easy.
+
+### Rush-hour direction
+KL's weekday jams are **directional** {verify}: in the **morning (about 7–9:30am)** traffic pours **into** the city from the suburbs (Shah Alam and PJ on the Federal Highway, Cheras, Kajang, Seremban); in the **evening (about 5–8pm)** it flows back **out**. A base inside the ring, like Mid Valley, drives **outwards in the morning and inwards in the evening**, against the heavy flow. Before each drive, check Google Maps' typical traffic ("Depart at") for that day and time.
+
+| Day | Drive from Mid Valley | Morning | Coming back |
+|---|---|---|---|
+| 1 · Sun | JB → KL (north) | — | Sunday afternoon and evening, the highway into KL fills with people returning from weekends away {verify}: arrive by about 4pm |
+| 2 · Mon | South to Seri Kembangan, then Dengkil | ✅ Outbound, against the inbound jam | ✅ Inbound in the evening is lighter; still, back before 5pm or after 8pm around Mid Valley itself |
+| 3–4 · Tue–Wed | City by Grab (car parked) | ⚠️ Inbound, with the jam: leave after 9:30am | ⚠️ Evening Grabs queue and surge; leave the city before 5pm or after 8pm |
+| 5 · Thu | West to Shah Alam (Federal Highway) | ✅ Outbound; the morning jam is the other way, towards KL | ✅ After 8:30pm, the evening jam (outbound) has cleared |
+| 6 · Fri | South-east to Cheras / Sungai Long | ✅ Outbound | ✅ Inbound; Friday evenings are the worst of the week, so leave by about 4:30pm or after 8pm |
+| 7 · Sat | KL → JB (south) | ✅ Saturday morning, about 9:30am | — |
 
 ## 🗓️ Day-by-day {#days}
 
@@ -163,7 +177,7 @@ City days (3 and 4) use Grab, and the car stays parked. Travel times are rough a
 ## ℹ️ Practical info {#practical}
 - **Dates & prices:** Proposed **Sun 29 Nov – Sat 5 Dec 2026**, before Malaysia's school holidays start (after 5 Dec). All attraction days (Days 2–6, Mon–Fri) are term-time weekdays, so off-peak prices apply where a place has them (e.g. Aquaria KLCC {verify}). Monday goes to the farm and Paya Indah, which avoids the Monday closures of Petrosains, the Planetarium and the Sultan Alam Shah Museum, the farm's term-time Tuesday closure, and the museum's Friday lunch break. Singapore's school holidays have already started, so expect Causeway queues. Details: [peak pricing by place](../kuala-lumpur-2026-12-ets/notes.md).
 - **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Do the outdoor places (the farm, Paya Indah, Dino Desert) in the morning, and SkyCity as soon as it opens.
-- **Traffic in KL:** avoid driving at about 7–9:30am and 5–8pm on weekdays. Friday evenings and rain make it worse. Use Waze or Google Maps traffic.
+- **Traffic in KL:** avoid driving at about 7–9:30am and 5–8pm on weekdays. Friday evenings and rain make it worse. The jams are directional (inbound in the morning, outbound in the evening), so a Mid Valley base drives against them; see [Rush-hour direction](#accommodation). Use Waze or Google Maps traffic.
 - **Parking:** hotel and mall car parks mostly take Touch 'n Go or card {verify}. On the city days, Grab is simpler than parking at KLCC or Bukit Bintang.
 - **Driving:** left-hand traffic, like Singapore. Check whether the rental lets you drive into Singapore (usually not).
 - **Power plugs:** Type G, 240 V, the same as Singapore. No adapter needed.

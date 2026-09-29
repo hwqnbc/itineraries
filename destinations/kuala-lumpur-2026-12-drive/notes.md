@@ -26,6 +26,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-09-28 | Proposed dates Mon 30 Nov – Sat 5 Dec (see the peak-pricing table in the ETS notes) | Off-peak weekday prices |
 | 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
 | 2026-09-29 | Trip extended to 7 days (Sun 29 Nov – Sat 5 Dec); new Day 5 in Shah Alam (Sultan Alam Shah Museum, SkyCity, i-City lights); Farm + Paya Indah moved to Monday | You chose to add a day. Farm and Paya Indah are open Mondays while the museums aren't; the Shah Alam museum closes Mondays and on Friday lunchtime |
+| 2026-09-29 | Rush-hour direction added (table per day; area table gains a direction row and a Shah Alam column). Mid Valley kept: its drives go against the jams | You asked: the base should be on the light-traffic side of each morning drive |
 
 ## Open questions
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)
