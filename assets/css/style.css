@@ -342,6 +342,7 @@ details.day .day-body ul { padding-left: 20px; }
 .map-legend[hidden] { display: none; }
 .legend-item { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
 .legend-item input { margin: 0; }
+.legend-all { font-weight: 600; }
 
 .map-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; }
 .btn-small {

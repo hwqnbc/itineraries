@@ -67,7 +67,7 @@
       '<button type="button" class="btn-small" data-action="fit">Fit to shown</button>' +
       '<button type="button" class="btn-small" data-action="kml">⬇ Download KML</button>' +
     "</div>" +
-    '<p class="map-hint">Coordinates are approximate. Untick days and tap “Fit to shown” to zoom in; tap a marker, then “Open in Google Maps” for directions.</p>';
+    '<p class="map-hint">Coordinates are approximate. Untick “All”, tick the days you want, then tap “Fit to shown” to zoom in; tap a marker, then “Open in Google Maps” for directions.</p>';
 
   var osmPane = root.querySelector('[data-pane="osm"]');
   var googlePane = root.querySelector('[data-pane="google"]');
@@ -141,10 +141,12 @@
       var rank = function (k) { return k === "base" ? -1 : k === "opt" ? 999 : Number(k); };
       return rank(a) - rank(b);
     });
-    legend.innerHTML = order.map(function (key) {
-      return '<label class="legend-item"><input type="checkbox" checked data-group="' + esc(key) + '">' +
-        '<span class="poi-pin poi-' + esc(key) + ' legend-pin"></span>' + esc(groupLabel(key)) + "</label>";
-    }).join("");
+    // "All" ticks/unticks every day group at once (Areas is separate); mixed state when some are off
+    legend.innerHTML = '<label class="legend-item legend-all"><input type="checkbox" checked data-all>All</label>' +
+      order.map(function (key) {
+        return '<label class="legend-item"><input type="checkbox" checked data-group="' + esc(key) + '">' +
+          '<span class="poi-pin poi-' + esc(key) + ' legend-pin"></span>' + esc(groupLabel(key)) + "</label>";
+      }).join("");
     // Areas / districts: labelled, shaded circles on their own layer (off by default,
     // ignored by "Fit to shown"). pois.js: areas: [{ name, note, center: [lat, lng], km }]
     var areasLayer = null;
@@ -204,9 +206,20 @@
         try { localStorage.setItem("trip-map-areas", e.target.checked ? "1" : "0"); } catch (err) { /* ignore */ }
         return;
       }
-      var g = groups[e.target.dataset.group];
-      if (!g) return;
-      if (e.target.checked) allLayer.addLayer(g); else allLayer.removeLayer(g);
+      var boxes = legend.querySelectorAll("[data-group]");
+      var setGroup = function (box) {
+        var g = groups[box.dataset.group];
+        if (box.checked) allLayer.addLayer(g); else allLayer.removeLayer(g);
+      };
+      if (e.target.hasAttribute("data-all")) {
+        boxes.forEach(function (box) { box.checked = e.target.checked; setGroup(box); });
+      } else if (e.target.hasAttribute("data-group")) {
+        setGroup(e.target);
+      }
+      var on = legend.querySelectorAll("[data-group]:checked").length;
+      var all = legend.querySelector("[data-all]");
+      all.checked = on === boxes.length;
+      all.indeterminate = on > 0 && on < boxes.length;
     });
 
     fitAll();

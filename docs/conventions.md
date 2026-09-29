@@ -91,7 +91,7 @@ With `currency:` set, the build adds a **💱 currency converter** at the top of
 - External links go to official sites where possible.
 
 ## Trip map
-- The **Map** section is rendered by `assets/js/map.js`, using the places in that trip's `pois.js`.
+- The **Map** section is rendered by `assets/js/map.js`, using the places in that trip's `pois.js`. Its legend has a checkbox per day plus **All**, which shows or hides every day at once (Areas has its own checkbox).
 - Each place in `pois.js` has `name`, `lat`, `lng`, `type`, and usually `day` and `note`:
   - `day: 1`, `2`, … puts the marker in that day's colour (days 1–7 have colours).
   - `day: "opt"` is for swap-in options (grey ★).
