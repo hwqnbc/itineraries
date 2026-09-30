@@ -19,9 +19,16 @@
     return poi.day === undefined || poi.day === null ? "base" : String(poi.day);
   }
 
+  // Extra toggle groups (e.g. an optional walk): pois.js groups: { walk: { label, pin, hidden } },
+  // then day: "walk" on its places and routes.
+  function extraGroup(key) {
+    return cfg.groups && Object.prototype.hasOwnProperty.call(cfg.groups, key) ? cfg.groups[key] : null;
+  }
+
   function groupLabel(key) {
     if (key === "base") return "Hotel / airport";
     if (key === "opt") return "Optional";
+    if (extraGroup(key)) return extraGroup(key).label || key;
     var title = cfg.days && cfg.days[key];
     return "Day " + key + (title ? " · " + title : "");
   }
@@ -30,6 +37,7 @@
     var key = groupKey(poi);
     if (key === "base") return poi.type === "airport" ? "✈" : poi.type === "station" ? "🚆" : "🏨";
     if (key === "opt") return "★";
+    if (extraGroup(key)) return extraGroup(key).pin || "★";
     return key;
   }
 
@@ -103,7 +111,7 @@
       var key = groupKey(poi);
       if (!groups[key]) { groups[key] = L.featureGroup().addTo(allLayer); order.push(key); }
       var icon = L.divIcon({
-        className: "poi-pin poi-" + key,
+        className: "poi-pin poi-" + key + (extraGroup(key) ? " poi-extra" : ""),
         html: "<span>" + esc(pinText(poi)) + "</span>",
         iconSize: [28, 28],
         iconAnchor: [14, 14],
@@ -128,7 +136,7 @@
       var key = groupKey(r);
       if (!groups[key]) { groups[key] = L.featureGroup().addTo(allLayer); order.push(key); }
       L.polyline(r.paths || r.path, {
-        className: "route route-" + key + (r.dashed ? " route-dashed" : ""),
+        className: "route route-" + key + (extraGroup(key) ? " route-extra" : "") + (r.dashed ? " route-dashed" : ""),
         weight: 5, opacity: 0.9, lineCap: "round", lineJoin: "round"
       })
         .bindPopup("<strong>" + esc(r.name) + "</strong><br>" +
@@ -139,14 +147,15 @@
 
     // Legend: one toggle chip per group, in a stable order
     order.sort(function (a, b) {
-      var rank = function (k) { return k === "base" ? -1 : k === "opt" ? 999 : Number(k); };
+      var rank = function (k) { return k === "base" ? -1 : k === "opt" ? 999 : extraGroup(k) ? 500 : Number(k); };
       return rank(a) - rank(b);
     });
     // "All" ticks/unticks every day group at once (Areas is separate); mixed state when some are off
     legend.innerHTML = '<label class="legend-item legend-all"><input type="checkbox" checked data-all>All</label>' +
       order.map(function (key) {
-        return '<label class="legend-item"><input type="checkbox" checked data-group="' + esc(key) + '">' +
-          '<span class="poi-pin poi-' + esc(key) + ' legend-pin"></span>' + esc(groupLabel(key)) + "</label>";
+        var off = extraGroup(key) && extraGroup(key).hidden;
+        return '<label class="legend-item"><input type="checkbox"' + (off ? "" : " checked") + ' data-group="' + esc(key) + '">' +
+          '<span class="poi-pin poi-' + esc(key) + (extraGroup(key) ? " poi-extra" : "") + ' legend-pin"></span>' + esc(groupLabel(key)) + "</label>";
       }).join("");
     // Areas / districts: labelled, shaded circles on their own layer (off by default,
     // ignored by "Fit to shown"). pois.js: areas: [{ name, note, center: [lat, lng], km }]
@@ -200,6 +209,13 @@
       if (saved === "1") { legend.querySelector("[data-areas]").checked = true; areasLayer.addTo(map); useTiles(true); }
     }
 
+    var syncAll = function () {
+      var boxes = legend.querySelectorAll("[data-group]");
+      var on = legend.querySelectorAll("[data-group]:checked").length;
+      var all = legend.querySelector("[data-all]");
+      all.checked = on === boxes.length;
+      all.indeterminate = on > 0 && on < boxes.length;
+    };
     legend.addEventListener("change", function (e) {
       if (e.target.hasAttribute("data-areas")) {
         if (e.target.checked) areasLayer.addTo(map); else map.removeLayer(areasLayer);
@@ -217,11 +233,13 @@
       } else if (e.target.hasAttribute("data-group")) {
         setGroup(e.target);
       }
-      var on = legend.querySelectorAll("[data-group]:checked").length;
-      var all = legend.querySelector("[data-all]");
-      all.checked = on === boxes.length;
-      all.indeterminate = on > 0 && on < boxes.length;
+      syncAll();
     });
+    // Groups marked hidden start switched off
+    legend.querySelectorAll("[data-group]:not(:checked)").forEach(function (box) {
+      allLayer.removeLayer(groups[box.dataset.group]);
+    });
+    syncAll();
 
     fitAll();
   }

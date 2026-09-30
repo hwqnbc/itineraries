@@ -14,6 +14,10 @@ window.TRIP_MAP = {
     6: "Home"
   },
   // Areas / districts: approximate circles to show where each area is (toggle "Areas / districts")
+  // Extra toggle group: the optional walk, off until ticked in the legend
+  groups: {
+    walk: { label: "Walk: KLCC → Central Market (option)", pin: "🚶", hidden: true }
+  },
   areas: [
     { name: "KLCC", note: "Twin Towers, Aquaria, Petrosains, KLCC Park; upscale hotels", center: [3.1565, 101.7130], km: 0.8 },
     { name: "Bukit Bintang", note: "Pavilion, Lot 10, Jalan Alor, Berjaya Times Square; walkway to KLCC", center: [3.1470, 101.7110], km: 0.7 },
@@ -31,6 +35,7 @@ window.TRIP_MAP = {
     { name: "Dengkil", note: "Paya Indah Wetlands; far south, near Putrajaya", center: [2.8700, 101.6700], km: 3.0 }
   ],
   pois: [
+    { day: "walk", name: "Masjid Jamek & River of Life (Blue Pool)", time: "30–45 min", type: "sight", note: "Old mosque where the rivers meet; riverside promenade with evening lights and mist", query: "Masjid Jamek Sultan Abdul Samad", lat: 3.1490, lng: 101.6958 },
     { name: "KL Sentral", type: "station", note: "ETS arrives here; Grab or monorail to the hotel", query: "KL Sentral", lat: 3.1340, lng: 101.6865 },
     { name: "Bukit Bintang (Pavilion)", type: "hotel", note: "Nights 1–5: hotel area; walkway to KLCC starts here", query: "Pavilion Kuala Lumpur", lat: 3.1490, lng: 101.7135 },
     { day: 1, name: "Jalan Alor", time: "1–1.5 h", type: "food", note: "Street-food lane, a short walk from Pavilion", query: "Jalan Alor Kuala Lumpur", lat: 3.1456, lng: 101.7086 },
@@ -68,6 +73,11 @@ window.TRIP_MAP = {
         [[3.14994, 101.71236], [3.14818, 101.71294], [3.14852, 101.71318]]
       ] },
     { day: 2, name: "Convention Centre → Suria KLCC", note: "Walk on through the Convention Centre or along KLCC Park to Aquaria and Suria KLCC (Petrosains)", dashed: true,
-      path: [[3.15404, 101.71323], [3.1548, 101.7124], [3.1562, 101.7120], [3.1578, 101.7118]] }
+      path: [[3.15404, 101.71323], [3.1548, 101.7124], [3.1562, 101.7120], [3.1578, 101.7118]] },
+    { day: "walk", name: "Walk: KLCC → Bukit Nanas → Masjid Jamek → Merdeka Square → Central Market", dashed: true,
+      note: "About 3–3.5 km; 1–1.5 h walking at a child's pace, 2–3 h with stops. Line is approximate (not traced): follow Google Maps walking directions",
+      path: [[3.1580, 101.7115], [3.1562, 101.7098], [3.1540, 101.7072], [3.1520, 101.7058], [3.1505, 101.7050],
+             [3.1518, 101.7035], [3.1532, 101.7015], [3.1520, 101.6995], [3.1500, 101.6972], [3.1490, 101.6958],
+             [3.1482, 101.6942], [3.1478, 101.6934], [3.1465, 101.6945], [3.1456, 101.6955]] }
   ]
 };

@@ -20,6 +20,7 @@
   --day-6: #0891b2;
   --day-7: #ca8a04;
   --day-opt: #6b7280;
+  --day-extra: #b45309;
   --day-base: #1f2328;
 
   --status-idea: #6b7280;
@@ -382,6 +383,7 @@ details.day .day-body ul { padding-left: 20px; }
 .poi-6 { background: var(--day-6); }
 .poi-7 { background: var(--day-7); }
 .poi-opt { background: var(--day-opt); }
+.poi-extra { background: var(--day-extra); font-size: 13px; }
 .poi-base { background: var(--day-base); color: var(--bg); font-size: 14px; }
 
 /* Route lines (pois.js `routes`). Colour follows the day tokens. */
@@ -394,6 +396,7 @@ details.day .day-body ul { padding-left: 20px; }
 .route-6 { stroke: var(--day-6); }
 .route-7 { stroke: var(--day-7); }
 .route-base { stroke: var(--day-base); }
+.route-extra { stroke: var(--day-extra); }
 .route-dashed { stroke-dasharray: 2 9; }
 
 /* Areas / districts layer (pois.js `areas`) */

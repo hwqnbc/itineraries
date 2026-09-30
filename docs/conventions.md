@@ -99,6 +99,7 @@ With `currency:` set, the build adds a **💱 currency converter** at the top of
   - `fit: false` keeps a far-away optional stop on the map (e.g. a lunch stop on the drive), but **Fit to shown** ignores it, so the map zooms nicely on the city.
   - `time` is the typical visit length for our family, e.g. `"2–3 h"`, shown in the popup as "⏱ Typical visit". Write the same time in `trip.md` (below).
   - `query` is optional search text for the Google Maps link, if the name alone is ambiguous.
+- **Extra groups (optional):** for an idea you haven't placed on a day yet (e.g. a walk), add `groups: { walk: { label: "Walk: …", pin: "🚶", hidden: true } }` and give its places and routes `day: "walk"`. It gets its own legend toggle and colour; `hidden: true` starts it switched off.
 - **Routes (optional):** walking paths or other routes can be drawn as lines with a `routes` list in `pois.js`:
   ```js
   routes: [
