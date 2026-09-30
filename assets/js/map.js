@@ -123,10 +123,11 @@
 
     // Routes (walking paths etc.): lines coloured like their day, in the same legend groups.
     // pois.js: routes: [{ day, name, note, dashed, path: [[lat, lng], ...] }]
+    // or paths: [[[lat, lng], ...], ...] for a route drawn as separate segments
     (cfg.routes || []).forEach(function (r) {
       var key = groupKey(r);
       if (!groups[key]) { groups[key] = L.featureGroup().addTo(allLayer); order.push(key); }
-      L.polyline(r.path, {
+      L.polyline(r.paths || r.path, {
         className: "route route-" + key + (r.dashed ? " route-dashed" : ""),
         weight: 5, opacity: 0.9, lineCap: "round", lineJoin: "round"
       })
@@ -300,8 +301,10 @@
       }).join("");
       var lines = (cfg.routes || []).filter(function (r) { return groupKey(r) === k; }).map(function (r) {
         return "<Placemark><name>" + esc(r.name) + "</name><description>" + esc(r.note || "") + "</description>" +
-          "<LineString><coordinates>" + r.path.map(function (pt) { return pt[1] + "," + pt[0] + ",0"; }).join(" ") +
-          "</coordinates></LineString></Placemark>";
+          "<MultiGeometry>" + (r.paths || [r.path]).map(function (path) {
+            return "<LineString><coordinates>" + path.map(function (pt) { return pt[1] + "," + pt[0] + ",0"; }).join(" ") +
+              "</coordinates></LineString>";
+          }).join("") + "</MultiGeometry></Placemark>";
       }).join("");
       return "<Folder><name>" + esc(groupLabel(k)) + "</name>" + marks + lines + "</Folder>";
     }).join("");

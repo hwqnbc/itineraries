@@ -74,6 +74,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-09-29 | KidZania dropped; Day 5 is now Berjaya Times Square Theme Park (afternoon, walk from the hotel); Day 5 alternatives folded into swap-ins | You confirmed: at KidZania adults pay with nothing to do, and there's no re-entry. Times Square is walkable and indoor, and adults can ride |
 | 2026-09-30 | Batu Caves, Deerland and Legoland removed from the options | Not going |
 | 2026-09-30 | Walkway line on the map redrawn along the covered footway shown on the OSM tiles (Pavilion → across Jalan Raja Chulan → up Jalan Perak → over Jalan Kia Peng → Convention Centre) | Your screenshot showed the old line was off to the east |
+| 2026-09-30 | Walkway line replaced with your hand-traced KML (13 segments, incl. the KLCC Park and Aquaria branches); the dashed Suria KLCC continuation now starts at Aquaria | Your tracing is more accurate |
 
 ## Open questions
 - ETS or drive?

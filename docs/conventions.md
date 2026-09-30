@@ -106,7 +106,7 @@ With `currency:` set, the build adds a **💱 currency converter** at the top of
     { day: 2, name: "On to Suria KLCC", dashed: true, path: [[3.1526, 101.7133], [3.1578, 101.7118]] }
   ]
   ```
-  Each route takes its day's colour, is toggled with that day in the legend, and is included in the KML download. `dashed: true` is for unofficial or indoor continuations. Paths are approximate points traced along the route.
+  Each route takes its day's colour, is toggled with that day in the legend, and is included in the KML download. `dashed: true` is for unofficial or indoor continuations. Paths are approximate points traced along the route. A route with branches or gaps (e.g. one traced by hand in Google My Maps as several lines) can use `paths: [[[lat, lng], ...], [[lat, lng], ...]]` instead of `path`; it is still one route in the popup and the KML.
 - **Areas (optional):** an `areas` list in `pois.js` draws labelled, shaded circles for districts, so you can see where places are, e.g. Seminyak vs Ubud:
   ```js
   areas: [{ name: "Ubud", note: "Culture, cafés; no-app-pickup zones", center: [-8.507, 115.263], km: 2.5 }]
