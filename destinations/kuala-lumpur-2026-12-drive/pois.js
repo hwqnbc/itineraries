@@ -30,6 +30,7 @@ window.TRIP_MAP = {
     { name: "Seri Kembangan", note: "Farm In The City; south of KL", center: [3.0200, 101.7100], km: 2.5 },
     { name: "Cheras / Sungai Long", note: "Monkeys Canopy Resort; south-east", center: [3.0500, 101.7900], km: 3.0 },
     { name: "Shah Alam", note: "Selangor's capital: Sultan Alam Shah Museum, i-City and SkyCity", center: [3.0700, 101.5050], km: 3.0 },
+    { name: "Putrajaya", note: "Government city: lakes, bridges, Putra Mosque, botanical garden (bike hire)", center: [2.9300, 101.6900], km: 3.0 },
     { name: "Dengkil", note: "Paya Indah Wetlands; far south, near Putrajaya", center: [2.8700, 101.6700], km: 3.0 }
   ],
   pois: [
@@ -47,6 +48,9 @@ window.TRIP_MAP = {
     { day: 5, name: "SkyCity (i-City)", time: "1.5–2 h", type: "theme-park", note: "600 m glass water slide on a 60 m tower; from 3:30pm on weekdays", query: "SkyCity i-City Shah Alam", lat: 3.0655, lng: 101.4845 },
     { day: 5, name: "i-City Theme Park", time: "2–3 h", type: "theme-park", note: "City of Digital Lights and rides; 5:30pm–12am; no re-entry", query: "i-City Theme Park Shah Alam", lat: 3.0645, lng: 101.4860 },
     { day: 6, name: "Monkeys Canopy Resort", time: "4–6 h", type: "theme-park", note: "Splash Zone, Dino Desert, Enchanted Forest, Playland", query: "Monkeys Canopy Resort Sungai Long", lat: 3.0460, lng: 101.8030 },
+    { day: "opt", name: "Taman Botani Putrajaya", time: "1–2 h", type: "sight", note: "Putrajaya: rent bikes for the lakeside paths", query: "Taman Botani Putrajaya", lat: 2.9440, lng: 101.6720 },
+    { day: "opt", name: "Putra Mosque", time: "30–45 min", type: "sight", note: "Putrajaya's pink mosque; Fridays closed to visitors until mid-afternoon", query: "Putra Mosque Putrajaya", lat: 2.9360, lng: 101.6897 },
+    { day: "opt", name: "Cruise Tasik Putrajaya", time: "45 min", type: "sight", note: "Lake cruise from the jetty by Putra Mosque", query: "Cruise Tasik Putrajaya", lat: 2.9352, lng: 101.6918 },
     { day: "opt", name: "Deerland Park", time: "1.5–2 h", type: "animals", note: "Feed and pet deer (about 1.5 hours east)", query: "Deerland Park Lanchang", lat: 3.5000, lng: 102.2000 },
     { day: "opt", name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
     { day: "opt", name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },

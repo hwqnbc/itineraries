@@ -12,6 +12,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 - **Singapore car vs JB rental:** a Singapore car needs a VEP and Malaysian insurance, and brings the 3/4-tank fuel rule into play when leaving Singapore {verify}. Renting in JB avoids all of these.
 - **Paya Indah + Farm on one day:** both are south of the city (Seri Kembangan, then Dengkil), so they chain well.
 - **Shah Alam day** (you asked, 29 Sep): Sultan Alam Shah Museum (Tue–Sun 9:30am–5:30pm, closed Mondays, Friday break 12:30–2:45pm, about RM15 for foreigners), then i-City: **SkyCity** glass water slide (weekdays from 3:30pm; about RM55 adult / RM45 child international; 90 cm minimum) and **i-City Theme Park** lights (5:30pm–12am; no re-entry). All from search results {verify}. Outside-food rules not found.
+- **Putrajaya** (you asked, 30 Sep): sightseeing and bike hire at Taman Botani (from about RM10/hour; twin bikes about RM20 per 30 minutes; hours vary by source), Putra Mosque (free; Fridays closed to visitors until mid-afternoon), and Cruise Tasik Putrajaya (about RM50 adult / RM35 child for 45 minutes). From search results {verify}. Kept as a swap-in; it could replace Paya Indah on Day 2 (same direction).
 - **Legoland Malaysia:** only as an extra night in JB, not squeezed into the drive home.
 
 ## Decisions log
@@ -27,6 +28,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
 | 2026-09-29 | Trip extended to 7 days (Sun 29 Nov – Sat 5 Dec); new Day 5 in Shah Alam (Sultan Alam Shah Museum, SkyCity, i-City lights); Farm + Paya Indah moved to Monday | You chose to add a day. Farm and Paya Indah are open Mondays while the museums aren't; the Shah Alam museum closes Mondays and on Friday lunchtime |
 | 2026-09-29 | Rush-hour direction added (table per day; area table gains a direction row and a Shah Alam column). Mid Valley kept: its drives go against the jams | You asked: the base should be on the light-traffic side of each morning drive |
+| 2026-09-30 | Putrajaya added as a swap-in (bike hire at Taman Botani, Putra Mosque, lake cruise); not in the ETS plan | You chose swap-in only for the car trip, and not for ETS |
 
 ## Open questions
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)
