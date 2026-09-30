@@ -10,7 +10,7 @@ tagline: Aquaria, Petrosains, Planetarium, Space & Time Cube, petting farm, indo
 participants: default-family
 country: malaysia
 currency: MYR
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 The **train version** of the KL trip: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking or Grab for everything else. It covers **Aquaria KLCC**, **Petrosains**, **Planetarium Negara**, **Space & Time Cube**, **Farm In The City** and **Berjaya Times Square Theme Park**. There's no car, so no traffic or parking stress. Monkeys Canopy is only in the car version, because a Grab back from the hilltop is hard to book.
 
@@ -114,8 +114,7 @@ Any of these can replace a day, or fill Day 5's free morning.
 
 - **[KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h) + [KL Butterfly Park](map:KL+Butterfly+Park) (⏱ about 1 h):** a big free-flight aviary with feeding sessions {verify}, and the butterfly park next door, in the Lake Gardens. Easy by Grab.
 - **[Zoo Negara](map:Zoo+Negara) (⏱ 3–4 h):** the national zoo {verify}. Grab there is fine; check that Grab back works at closing time.
-- **[Batu Caves](map:Batu+Caves) (⏱ 1–1.5 h):** colourful steps and cheeky monkeys, reachable by KTM Komuter from KL Sentral {verify}. Avoid Thaipusam.
-- **Car-only places** (Monkeys Canopy Resort, Paya Indah Wetlands, Deerland, Legoland on the way home) are in the **[drive version](../kuala-lumpur-2026-12-drive/trip.md)**.
+- **Car-only places** (Monkeys Canopy Resort, Paya Indah Wetlands, the Shah Alam day, Putrajaya) are in the **[drive version](../kuala-lumpur-2026-12-drive/trip.md)**.
 
 ## 🗺️ Map {#map}
 

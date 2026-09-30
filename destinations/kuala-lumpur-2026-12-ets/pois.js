@@ -45,7 +45,6 @@ window.TRIP_MAP = {
     { day: "opt", name: "KL Butterfly Park", time: "about 1 h", type: "animals", note: "Next to KL Bird Park", query: "KL Butterfly Park", lat: 3.1440, lng: 101.6865 },
     { day: "opt", name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
     { day: "opt", name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
-    { day: "opt", name: "Batu Caves", time: "1–1.5 h", type: "sight", note: "Steps and monkeys; avoid Thaipusam", lat: 3.2379, lng: 101.6840 }
   ],
   // Walking routes, drawn as lines. Paths are approximate, traced along the walkway.
   routes: [

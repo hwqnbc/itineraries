@@ -132,16 +132,13 @@ KL's weekday jams are **directional** {verify}: in the **morning (about 7–9:30
 - **Afternoon:** Return the car in JB and cross back. Weekday afternoons are usually quieter than Sunday evenings {verify}.
 
 ### Swap-in options
-- **[Legoland Malaysia](map:Legoland+Malaysia) (⏱ full day, 6–8 h)** in JB: add an 8th day, with a night in JB on the way home. Keep it off the long-drive day.
 - **Putrajaya** (half day; about 30–40 minutes south of Mid Valley {verify}): Malaysia's planned government city, with lakes and bridges. It could replace Paya Indah on the Day 2 afternoon, since both are south, and it's outbound against the morning jam.
     - [Taman Botani Putrajaya](map:Taman+Botani+Putrajaya) (⏱ 1–2 h): **rent bikes** for the flat lakeside paths, from about RM10 an hour; twin bikes about RM20 per 30 minutes {verify}. Hours vary by source (about 8 or 9am to 5–7pm, possibly closed on Tuesdays) {verify}. The garden is free; no bikes on the canopy bridge. Ride in the morning or late afternoon, as it's hot and exposed.
     - [Putra Mosque](map:Putra+Mosque+Putrajaya) (⏱ 30–45 min), the pink mosque: free; dress modestly (robes are lent at the entrance) {verify}. On **Fridays** it's closed to non-Muslim visitors until mid-afternoon (about 3–4pm and 5:30–6pm only) {verify}.
     - [Cruise Tasik Putrajaya](map:Cruise+Tasik+Putrajaya) (⏱ 45 min): lake cruises from the jetty by Putra Mosque, several a day; about RM50 per adult and RM35 per child, or a cheaper 25-minute cruise at 10am and 7pm {verify}.
     - **Getting back:** drive; parking is easy around the main sights {verify}.
-- **[Deerland Park](map:Deerland+Park+Lanchang) (⏱ 1.5–2 h)** (about 1.5 hours east): feed and pet deer {verify}. Could replace Paya Indah.
 - **[Zoo Negara](map:Zoo+Negara) (⏱ 3–4 h):** the national zoo {verify}, with parking on site.
 - **[KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h):** a big free-flight aviary {verify}, by Grab.
-- **[Batu Caves](map:Batu+Caves) (⏱ 1–1.5 h):** steps and monkeys. Avoid Thaipusam.
 
 ## 🗺️ Map {#map}
 

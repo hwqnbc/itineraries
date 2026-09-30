@@ -51,10 +51,7 @@ window.TRIP_MAP = {
     { day: "opt", name: "Taman Botani Putrajaya", time: "1–2 h", type: "sight", note: "Putrajaya: rent bikes for the lakeside paths", query: "Taman Botani Putrajaya", lat: 2.9440, lng: 101.6720 },
     { day: "opt", name: "Putra Mosque", time: "30–45 min", type: "sight", note: "Putrajaya's pink mosque; Fridays closed to visitors until mid-afternoon", query: "Putra Mosque Putrajaya", lat: 2.9360, lng: 101.6897 },
     { day: "opt", name: "Cruise Tasik Putrajaya", time: "45 min", type: "sight", note: "Lake cruise from the jetty by Putra Mosque", query: "Cruise Tasik Putrajaya", lat: 2.9352, lng: 101.6918 },
-    { day: "opt", name: "Deerland Park", time: "1.5–2 h", type: "animals", note: "Feed and pet deer (about 1.5 hours east)", query: "Deerland Park Lanchang", lat: 3.5000, lng: 102.2000 },
     { day: "opt", name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
     { day: "opt", name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
-    { day: "opt", name: "Batu Caves", time: "1–1.5 h", type: "sight", note: "Steps and monkeys; avoid Thaipusam", lat: 3.2379, lng: 101.6840 },
-    { day: "opt", name: "Legoland Malaysia", time: "full day, 6–8 h", type: "theme-park", fit: false, note: "Extra night in JB on the way home", lat: 1.4270, lng: 103.6300 }
   ]
 };

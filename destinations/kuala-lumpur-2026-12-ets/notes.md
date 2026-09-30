@@ -16,12 +16,11 @@ Two versions of the same trip: **[KL by ETS](trip.md)** (6 days) and **[KL by ca
 | Theme-park day | **Berjaya Times Square Theme Park** (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
 | Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 2 afternoon |
 | Shah Alam (museum, SkyCity, i-City) | Not in this plan; Grab might work {verify} | ✅ Day 5 |
-| Legoland on the way home | Not practical | Possible as an extra day |
 | Hotel | Bukit Bintang: cheaper than KLCC, more mid-range choice {verify} | Must have a car park and highway access; parking costs extra {verify} |
 | Stress | No driving, parking or traffic | KL traffic at 7–9:30am and 5–8pm; parking at the hotel |
 | Costs to compare | ETS ×3 return + Grab | Rental + fuel + tolls + parking + Grab on city days |
 
-**Summary:** the shortlist works fully by ETS, and the walkable Bukit Bintang base makes the city days easy. Driving adds Paya Indah (and optionally Legoland) and makes Monkeys Canopy possible (a Grab back from there is hard to book), but brings traffic and parking.
+**Summary:** the shortlist works fully by ETS, and the walkable Bukit Bintang base makes the city days easy. Driving adds Paya Indah and a Shah Alam day (and optionally Putrajaya), and makes Monkeys Canopy possible (a Grab back from there is hard to book), but brings traffic and parking.
 
 ## Peak pricing & dates
 
@@ -73,6 +72,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-09-28 | KidZania under review (dynamic pricing: book early; adults pay with nothing to do; no re-entry). Day 5 alternatives added: Zoo Negara, KL Bird Park + Butterfly Park, Batu Caves | Your findings |
 | 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
 | 2026-09-29 | KidZania dropped; Day 5 is now Berjaya Times Square Theme Park (afternoon, walk from the hotel); Day 5 alternatives folded into swap-ins | You confirmed: at KidZania adults pay with nothing to do, and there's no re-entry. Times Square is walkable and indoor, and adults can ride |
+| 2026-09-30 | Batu Caves, Deerland and Legoland removed from the options | Not going |
 
 ## Open questions
 - ETS or drive?
