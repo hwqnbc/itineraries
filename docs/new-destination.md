@@ -1,5 +1,7 @@
 # Adding a new destination
 
+0. **Pull first:** `git pull origin main`, in case the site was edited on another machine.
+
 1. **Pick the folder name:** `<city>-<YYYY>-<MM>`, e.g. `seoul-2028-04`.
 2. **Copy the template:**
    ```bash

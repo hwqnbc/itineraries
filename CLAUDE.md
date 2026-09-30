@@ -2,6 +2,13 @@
 
 A static website of family holiday itineraries, hosted on GitHub Pages. **Everything you edit is markdown**. `tools/build.py` turns it into the HTML site at deploy time. No framework.
 
+## Before starting work
+**Always pull first**; the site may have been edited on another machine or in another session.
+```bash
+git pull origin main                 # whichever branch you're on, bring in the latest main
+```
+If the pull conflicts, resolve it (keeping both sides' trip changes) before editing anything else. Pull again before pushing if the session has been open a long time.
+
 ## Structure
 ```
 index.html                     Home page shell; trip cards are filled in by the build
