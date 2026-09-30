@@ -76,6 +76,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-09-30 | Walkway line on the map redrawn along the covered footway shown on the OSM tiles (Pavilion → across Jalan Raja Chulan → up Jalan Perak → over Jalan Kia Peng → Convention Centre) | Your screenshot showed the old line was off to the east |
 | 2026-09-30 | Walkway line replaced with your hand-traced KML (13 segments, incl. the KLCC Park and Aquaria branches); the dashed Suria KLCC continuation now starts at Aquaria | Your tracing is more accurate |
 | 2026-09-30 | Dataran Merdeka and KL Car-Free Morning added as swap-ins (no route line: the official route map couldn't be reached and the route changes by week) | You asked; it's near the Planetarium. Car-free morning is Sundays only, so it needs an arrival on Sat 28 Nov |
+| 2026-09-30 | Central Market added to Day 3 (midday, open-ended; DIY batik painting for him), replacing the hotel rest; MRT Pasar Seni → Bukit Bintang back | You asked; it's near the Planetarium, and the evening Space & Time Cube lets it run long. ETS only: the area isn't car-friendly |
 
 ## Open questions
 - ETS or drive?

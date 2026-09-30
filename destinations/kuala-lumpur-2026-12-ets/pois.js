@@ -8,7 +8,7 @@ window.TRIP_MAP = {
   days: {
     1: "Travel to KL",
     2: "KLCC: Aquaria & Petrosains",
-    3: "Planetarium & Space & Time Cube",
+    3: "Planetarium, Central Market & Space & Time Cube",
     4: "Farm",
     5: "Times Square theme park",
     6: "Home"
@@ -18,7 +18,7 @@ window.TRIP_MAP = {
     { name: "KLCC", note: "Twin Towers, Aquaria, Petrosains, KLCC Park; upscale hotels", center: [3.1565, 101.7130], km: 0.8 },
     { name: "Bukit Bintang", note: "Pavilion, Lot 10, Jalan Alor, Berjaya Times Square; walkway to KLCC", center: [3.1470, 101.7110], km: 0.7 },
     { name: "TRX", note: "New financial district; TRX mall; MRT interchange", center: [3.1420, 101.7195], km: 0.5 },
-    { name: "Chinatown / Pasar Seni", note: "Petaling Street, Central Market; older, cheaper hotels", center: [3.1440, 101.6970], km: 0.6 },
+    { name: "Chinatown / Pasar Seni", note: "Petaling Street, Central Market (Day 3); older, cheaper hotels", center: [3.1440, 101.6970], km: 0.6 },
     { name: "Lake Gardens (Perdana)", note: "Planetarium, Bird Park, Butterfly Park", center: [3.1440, 101.6850], km: 0.9 },
     { name: "KL Sentral / Brickfields", note: "ETS, LRT, MRT and airport trains; Little India", center: [3.1320, 101.6870], km: 0.8 },
     { name: "Bangsar", note: "Cafés and restaurants; residential", center: [3.1300, 101.6700], km: 1.2 },
@@ -38,6 +38,7 @@ window.TRIP_MAP = {
     { day: 2, name: "Petrosains, The Discovery Centre", time: "2–3 h", type: "museum", note: "Hands-on science centre in Suria KLCC", query: "Petrosains The Discovery Centre", lat: 3.1580, lng: 101.7119 },
     { day: 2, name: "KLCC Park", time: "about 1 h", type: "sight", note: "Playground and fountain show at dusk", lat: 3.1545, lng: 101.7150 },
     { day: 3, name: "Planetarium Negara", time: "1.5–2 h, including a dome show", type: "museum", note: "National Planetarium: free gallery, hourly dome shows 10am–4pm; closed Mondays & public holidays", query: "Planetarium Negara Kuala Lumpur", lat: 3.1394, lng: 101.6886 },
+    { day: 3, name: "Central Market (Pasar Seni)", time: "2–3 h, or longer", type: "sight", note: "Crafts and batik hall; DIY batik painting; food court; Kasturi Walk; 10am–10pm", query: "Central Market Kuala Lumpur", lat: 3.1456, lng: 101.6955 },
     { day: 3, name: "Space & Time Cube", time: "1–2 h", type: "museum", note: "Immersive 3D experience in Lot 10, Bukit Bintang", query: "Space and Time Cube Lot 10 Kuala Lumpur", lat: 3.1466, lng: 101.7121 },
     { day: 3, name: "KL Forest Eco Park", time: "1–1.5 h", type: "sight", note: "Optional canopy walk; monkeys", lat: 3.1510, lng: 101.7030 },
     { day: 4, name: "Farm In The City", time: "3–4 h", type: "animals", note: "Petting and feeding farm — go at opening", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
