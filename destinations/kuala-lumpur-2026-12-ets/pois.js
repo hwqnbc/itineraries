@@ -46,11 +46,11 @@ window.TRIP_MAP = {
     { day: "opt", name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
     { day: "opt", name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
   ],
-  // Walking routes, drawn as lines. Paths are approximate, traced along the walkway.
+  // Walking routes, drawn as lines. The walkway is traced from the covered footway shown on the OSM map tiles (approximate).
   routes: [
     { day: 2, name: "KLCC–Bukit Bintang Walkway", note: "Covered, air-conditioned elevated walkway, about 1.2 km: Pavilion → KL Convention Centre, about 20–25 min at a child's pace",
-      path: [[3.1492, 101.7137], [3.1500, 101.7142], [3.1508, 101.7145], [3.1515, 101.7143], [3.1521, 101.7139], [3.1526, 101.7133]] },
+      path: [[3.14982, 101.71253], [3.15039, 101.71253], [3.15057, 101.71243], [3.15142, 101.71215], [3.15206, 101.71197], [3.15270, 101.71186], [3.15305, 101.71183], [3.15323, 101.71211], [3.15337, 101.71246], [3.15348, 101.71275]] },
     { day: 2, name: "Convention Centre → Suria KLCC", note: "Walk on through the Convention Centre or along KLCC Park to Aquaria and Suria KLCC (Petrosains)", dashed: true,
-      path: [[3.1526, 101.7133], [3.1535, 101.7128], [3.1548, 101.7124], [3.1562, 101.7120], [3.1578, 101.7118]] }
+      path: [[3.15348, 101.71275], [3.1548, 101.7124], [3.1562, 101.7120], [3.1578, 101.7118]] }
   ]
 };
