@@ -114,6 +114,10 @@ Any of these can replace a day, or fill Day 5's free morning.
 
 - **[KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h) + [KL Butterfly Park](map:KL+Butterfly+Park) (⏱ about 1 h):** a big free-flight aviary with feeding sessions {verify}, and the butterfly park next door, in the Lake Gardens. Easy by Grab.
 - **[Zoo Negara](map:Zoo+Negara) (⏱ 3–4 h):** the national zoo {verify}. Grab there is fine; check that Grab back works at closing time.
+- **[Dataran Merdeka](map:Dataran+Merdeka+Kuala+Lumpur) (Merdeka Square; ⏱ 45 min–1 h):** the square where independence was declared in 1957, with the **Sultan Abdul Samad Building** opposite and the KL City Gallery (and its "I ❤ KL" sign) on the square {verify}. It's about 1.5 km from the Planetarium (5–10 minutes by Grab {verify}), so it can follow the Day 3 morning. It's open, with little shade: go before noon, or at dusk when the buildings are lit {verify}.
+- **KL Car-Free Morning** (Sundays only): the city closes a loop of roads to cars **every Sunday, 7–9am**. It's free, with no registration, for walking, running and cycling {verify}. It starts and finishes at **[Dataran DBKL](map:Dataran+DBKL+Jalan+Raja+Laut)** on Jalan Raja Laut, next to Dataran Merdeka {verify}.
+    - **Route:** it changes by week. On the 1st and 3rd Sundays it's about 7 km; on the 2nd, 4th and 5th it's about 5 km {verify}. Search results list Jalan Raja Laut, Jalan Sultan Ismail, Jalan P. Ramlee, Jalan Ampang, Bukit Nanas, Jalan Dang Wangi and Jalan Tuanku Abdul Rahman, passing Dataran Merdeka, the Sultan Abdul Samad Building and Masjid Jamek; check the official route map for your Sunday {verify}.
+    - **Our dates:** the plan has no Sunday in KL (Mon 30 Nov – Sat 5 Dec). It would mean arriving on Sat 28 Nov, one more hotel night; Sun 29 Nov is a 5th Sunday, so the 5 km route {verify}. Sun 6 Dec is a special edition with an extended route and a paid early-bird entry {verify}, but it's after the trip and in the school holidays.
 - **Car-only places** (Monkeys Canopy Resort, Paya Indah Wetlands, the Shah Alam day, Putrajaya) are in the **[drive version](../kuala-lumpur-2026-12-drive/trip.md)**.
 
 ## 🗺️ Map {#map}

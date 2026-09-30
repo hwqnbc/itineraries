@@ -139,6 +139,10 @@ KL's weekday jams are **directional** {verify}: in the **morning (about 7–9:30
     - **Getting back:** drive; parking is easy around the main sights {verify}.
 - **[Zoo Negara](map:Zoo+Negara) (⏱ 3–4 h):** the national zoo {verify}, with parking on site.
 - **[KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h):** a big free-flight aviary {verify}, by Grab.
+- **[Dataran Merdeka](map:Dataran+Merdeka+Kuala+Lumpur) (Merdeka Square; ⏱ 45 min–1 h):** the square where independence was declared in 1957, with the **Sultan Abdul Samad Building** opposite and the KL City Gallery (and its "I ❤ KL" sign) on the square {verify}. It's about 1.5 km from the Planetarium (5–10 minutes by Grab {verify}), so it can follow the Day 4 morning. It's open, with little shade: go before noon, or at dusk when the buildings are lit {verify}.
+- **KL Car-Free Morning** (Sundays only): the city closes a loop of roads to cars **every Sunday, 7–9am**. It's free, with no registration, for walking, running and cycling {verify}. It starts and finishes at **[Dataran DBKL](map:Dataran+DBKL+Jalan+Raja+Laut)** on Jalan Raja Laut, next to Dataran Merdeka {verify}.
+    - **Route:** it changes by week. On the 1st and 3rd Sundays it's about 7 km; on the 2nd, 4th and 5th it's about 5 km {verify}. Search results list Jalan Raja Laut, Jalan Sultan Ismail, Jalan P. Ramlee, Jalan Ampang, Bukit Nanas, Jalan Dang Wangi and Jalan Tuanku Abdul Rahman, passing Dataran Merdeka, the Sultan Abdul Samad Building and Masjid Jamek; check the official route map for your Sunday {verify}.
+    - **Our dates:** the only Sunday is Day 1 (29 Nov), when we drive up from JB, so we'd miss it. To go, drive up on Sat 28 Nov (one more hotel night); Sun 29 Nov is a 5th Sunday, so the 5 km route {verify}. Park at a car park near Dataran DBKL before 7am, as the roads close {verify}. Sun 6 Dec is a special edition with an extended route and a paid early-bird entry {verify}, but it's after the trip and in the school holidays.
 
 ## 🗺️ Map {#map}
 

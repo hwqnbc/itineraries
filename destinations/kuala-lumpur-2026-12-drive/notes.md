@@ -29,6 +29,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-09-29 | Rush-hour direction added (table per day; area table gains a direction row and a Shah Alam column). Mid Valley kept: its drives go against the jams | You asked: the base should be on the light-traffic side of each morning drive |
 | 2026-09-30 | Putrajaya added as a swap-in (bike hire at Taman Botani, Putra Mosque, lake cruise); not in the ETS plan | You chose swap-in only for the car trip, and not for ETS |
 | 2026-09-30 | Batu Caves, Deerland and Legoland removed from the options | Not going |
+| 2026-09-30 | Dataran Merdeka and KL Car-Free Morning added as swap-ins (no route line: the official route map couldn't be reached and the route changes by week) | You asked; it's near the Planetarium. Car-free morning is Sundays only, so it needs an arrival on Sat 28 Nov |
 
 ## Open questions
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)

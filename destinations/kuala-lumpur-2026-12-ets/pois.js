@@ -44,6 +44,8 @@ window.TRIP_MAP = {
     { day: 5, name: "Berjaya Times Square Theme Park", time: "2–4 h", type: "theme-park", note: "Indoor theme park in the mall; weekdays 12–9pm; no re-entry, no outside food", query: "Berjaya Times Square Theme Park", lat: 3.1422, lng: 101.7106 },
     { day: "opt", name: "KL Butterfly Park", time: "about 1 h", type: "animals", note: "Next to KL Bird Park", query: "KL Butterfly Park", lat: 3.1440, lng: 101.6865 },
     { day: "opt", name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
+    { day: "opt", name: "Dataran Merdeka", time: "45 min–1 h", type: "sight", note: "Merdeka Square, Sultan Abdul Samad Building, KL City Gallery; near the Planetarium", query: "Dataran Merdeka Kuala Lumpur", lat: 3.1478, lng: 101.6934 },
+    { day: "opt", name: "Dataran DBKL (KL Car-Free Morning)", time: "7–9am, Sundays", type: "sight", note: "Start and finish of the Sunday car-free morning; route changes by week", query: "Dataran DBKL Jalan Raja Laut", lat: 3.1545, lng: 101.6962 },
     { day: "opt", name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
   ],
   // Walking routes, drawn as lines. The walkway is hand-traced (klcc_traced.kml) as separate segments (approximate).

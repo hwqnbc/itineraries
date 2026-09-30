@@ -51,6 +51,8 @@ window.TRIP_MAP = {
     { day: "opt", name: "Taman Botani Putrajaya", time: "1–2 h", type: "sight", note: "Putrajaya: rent bikes for the lakeside paths", query: "Taman Botani Putrajaya", lat: 2.9440, lng: 101.6720 },
     { day: "opt", name: "Putra Mosque", time: "30–45 min", type: "sight", note: "Putrajaya's pink mosque; Fridays closed to visitors until mid-afternoon", query: "Putra Mosque Putrajaya", lat: 2.9360, lng: 101.6897 },
     { day: "opt", name: "Cruise Tasik Putrajaya", time: "45 min", type: "sight", note: "Lake cruise from the jetty by Putra Mosque", query: "Cruise Tasik Putrajaya", lat: 2.9352, lng: 101.6918 },
+    { day: "opt", name: "Dataran Merdeka", time: "45 min–1 h", type: "sight", note: "Merdeka Square, Sultan Abdul Samad Building, KL City Gallery; near the Planetarium", query: "Dataran Merdeka Kuala Lumpur", lat: 3.1478, lng: 101.6934 },
+    { day: "opt", name: "Dataran DBKL (KL Car-Free Morning)", time: "7–9am, Sundays", type: "sight", note: "Start and finish of the Sunday car-free morning; route changes by week", query: "Dataran DBKL Jalan Raja Laut", lat: 3.1545, lng: 101.6962 },
     { day: "opt", name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
     { day: "opt", name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
   ]
