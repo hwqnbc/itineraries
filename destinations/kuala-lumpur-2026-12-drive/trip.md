@@ -3,18 +3,18 @@ title: Kuala Lumpur by car
 short: KL Dec 2026 (drive)
 flag: 🇲🇾
 status: idea
-start: 2026-11-29
-dates: Sun 29 Nov – Sat 5 Dec 2026 (proposed: before Malaysian school holidays) · 7 days
-card: 29 Nov – 5 Dec 2026 · 7 days · drive from JB, Mid Valley base
-tagline: Shortlist plus Paya Indah hippos and Shah Alam's SkyCity — car parked on city days
+start: 2026-12-20
+dates: Late December 2026 (to plan after the ETS trip) · draft
+card: Late Dec 2026 · drive from JB · draft, to plan
+tagline: The outskirts by car: Monkeys Canopy, farm, Paya Indah hippos, Putrajaya, Shah Alam's SkyCity
 participants: default-family
 country: malaysia
 currency: MYR
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 The **car version** of the KL trip: rent a car in JB, drive up, and base at a hotel with **its own car park and quick highway access**. The shortlist is **Aquaria KLCC**, **Petrosains**, **Planetarium Negara**, **Space & Time Cube**, **Farm In The City** and **Monkeys Canopy Resort**. The car also reaches **Paya Indah Wetlands**, where a Grab back is unreliable, and a **Shah Alam** day: the **Sultan Alam Shah Museum**, the **SkyCity** glass water slide and **i-City**'s lights. On city days the car stays parked, and Grab avoids KL traffic and parking.
 
-> Idea stage. The other version is **[KL by ETS](../kuala-lumpur-2026-12-ets/trip.md)**; the side-by-side is in **[Drive vs ETS](../kuala-lumpur-2026-12-ets/notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
+> **On hold: to be re-planned for late December, after the [ETS city trip](../kuala-lumpur-2026-12-ets/trip.md) (1–9 Dec).** The new plan will cover only the outskirts (the city sights are on the ETS trip) and may use a southern base instead of Mid Valley. The days below are the earlier 29 Nov – 5 Dec draft. Previously the other version was the ETS trip; the side-by-side is in **[Drive vs ETS](../kuala-lumpur-2026-12-ets/notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
 ## 👪 Who's going {#whos-going}
 - Family of three: two adults and one boy aged 8.

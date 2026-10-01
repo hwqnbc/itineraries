@@ -8,10 +8,13 @@ window.TRIP_MAP = {
   days: {
     1: "Travel to KL",
     2: "KLCC: Aquaria & Petrosains",
-    3: "Planetarium, Central Market & Space & Time Cube",
-    4: "Farm",
-    5: "Times Square theme park",
-    6: "Home"
+    3: "Times Square theme park & Space & Time Cube",
+    4: "Planetarium, Bird Park & Butterfly Park",
+    5: "Easy day",
+    6: "Car-Free Morning, Merdeka & Central Market",
+    7: "Farm",
+    8: "Zoo Negara",
+    9: "Home"
   },
   // Areas / districts: approximate circles to show where each area is (toggle "Areas / districts")
   // Extra toggle group: the optional walk, off until ticked in the legend
@@ -22,7 +25,7 @@ window.TRIP_MAP = {
     { name: "KLCC", note: "Twin Towers, Aquaria, Petrosains, KLCC Park; upscale hotels", center: [3.1565, 101.7130], km: 0.8 },
     { name: "Bukit Bintang", note: "Pavilion, Lot 10, Jalan Alor, Berjaya Times Square; walkway to KLCC", center: [3.1470, 101.7110], km: 0.7 },
     { name: "TRX", note: "New financial district; TRX mall; MRT interchange", center: [3.1420, 101.7195], km: 0.5 },
-    { name: "Chinatown / Pasar Seni", note: "Petaling Street, Central Market (Day 3); older, cheaper hotels", center: [3.1440, 101.6970], km: 0.6 },
+    { name: "Chinatown / Pasar Seni", note: "Petaling Street, Central Market (Day 6); older, cheaper hotels", center: [3.1440, 101.6970], km: 0.6 },
     { name: "Lake Gardens (Perdana)", note: "Planetarium, Bird Park, Butterfly Park", center: [3.1440, 101.6850], km: 0.9 },
     { name: "KL Sentral / Brickfields", note: "ETS, LRT, MRT and airport trains; Little India", center: [3.1320, 101.6870], km: 0.8 },
     { name: "Bangsar", note: "Cafés and restaurants; residential", center: [3.1300, 101.6700], km: 1.2 },
@@ -35,24 +38,24 @@ window.TRIP_MAP = {
     { name: "Dengkil", note: "Paya Indah Wetlands; far south, near Putrajaya", center: [2.8700, 101.6700], km: 3.0 }
   ],
   pois: [
-    { day: "walk", name: "Masjid Jamek & River of Life (Blue Pool)", time: "30–45 min", type: "sight", note: "Old mosque where the rivers meet; riverside promenade with evening lights and mist", query: "Masjid Jamek Sultan Abdul Samad", lat: 3.1490, lng: 101.6958 },
+    { day: 6, name: "Masjid Jamek & River of Life (Blue Pool)", time: "30–45 min", type: "sight", note: "Old mosque where the rivers meet; riverside promenade with evening lights and mist", query: "Masjid Jamek Sultan Abdul Samad", lat: 3.1490, lng: 101.6958 },
     { name: "KL Sentral", type: "station", note: "ETS arrives here; Grab or monorail to the hotel", query: "KL Sentral", lat: 3.1340, lng: 101.6865 },
     { name: "Bukit Bintang (Pavilion)", type: "hotel", note: "Nights 1–5: hotel area; walkway to KLCC starts here", query: "Pavilion Kuala Lumpur", lat: 3.1490, lng: 101.7135 },
     { day: 1, name: "Jalan Alor", time: "1–1.5 h", type: "food", note: "Street-food lane, a short walk from Pavilion", query: "Jalan Alor Kuala Lumpur", lat: 3.1456, lng: 101.7086 },
     { day: 2, name: "Aquaria KLCC", time: "2–3 h", type: "animals", note: "Underwater tunnel; feeding times", lat: 3.1535, lng: 101.7128 },
     { day: 2, name: "Petrosains, The Discovery Centre", time: "2–3 h", type: "museum", note: "Hands-on science centre in Suria KLCC", query: "Petrosains The Discovery Centre", lat: 3.1580, lng: 101.7119 },
     { day: 2, name: "KLCC Park", time: "about 1 h", type: "sight", note: "Playground and fountain show at dusk", lat: 3.1545, lng: 101.7150 },
-    { day: 3, name: "Planetarium Negara", time: "1.5–2 h, including a dome show", type: "museum", note: "National Planetarium: free gallery, hourly dome shows 10am–4pm; closed Mondays & public holidays", query: "Planetarium Negara Kuala Lumpur", lat: 3.1394, lng: 101.6886 },
-    { day: 3, name: "Central Market (Pasar Seni)", time: "2–3 h, or longer", type: "sight", note: "Crafts and batik hall; DIY batik painting; food court; Kasturi Walk; 10am–10pm", query: "Central Market Kuala Lumpur", lat: 3.1456, lng: 101.6955 },
+    { day: 4, name: "Planetarium Negara", time: "1.5–2 h, including a dome show", type: "museum", note: "National Planetarium: free gallery, hourly dome shows 10am–4pm; closed Mondays & public holidays", query: "Planetarium Negara Kuala Lumpur", lat: 3.1394, lng: 101.6886 },
+    { day: 6, name: "Central Market (Pasar Seni)", time: "2–3 h, or longer", type: "sight", note: "Crafts and batik hall; DIY batik painting; food court; Kasturi Walk; 10am–10pm", query: "Central Market Kuala Lumpur", lat: 3.1456, lng: 101.6955 },
     { day: 3, name: "Space & Time Cube", time: "1–2 h", type: "museum", note: "Immersive 3D experience in Lot 10, Bukit Bintang", query: "Space and Time Cube Lot 10 Kuala Lumpur", lat: 3.1466, lng: 101.7121 },
-    { day: 3, name: "KL Forest Eco Park", time: "1–1.5 h", type: "sight", note: "Optional canopy walk; monkeys", lat: 3.1510, lng: 101.7030 },
-    { day: 4, name: "Farm In The City", time: "3–4 h", type: "animals", note: "Petting and feeding farm — go at opening", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
-    { day: 5, name: "Berjaya Times Square Theme Park", time: "2–4 h", type: "theme-park", note: "Indoor theme park in the mall; weekdays 12–9pm; no re-entry, no outside food", query: "Berjaya Times Square Theme Park", lat: 3.1422, lng: 101.7106 },
-    { day: "opt", name: "KL Butterfly Park", time: "about 1 h", type: "animals", note: "Next to KL Bird Park", query: "KL Butterfly Park", lat: 3.1440, lng: 101.6865 },
-    { day: "opt", name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
-    { day: "opt", name: "Dataran Merdeka", time: "45 min–1 h", type: "sight", note: "Merdeka Square, Sultan Abdul Samad Building, KL City Gallery; near the Planetarium", query: "Dataran Merdeka Kuala Lumpur", lat: 3.1478, lng: 101.6934 },
-    { day: "opt", name: "Dataran DBKL (KL Car-Free Morning)", time: "7–9am, Sundays", type: "sight", note: "Start and finish of the Sunday car-free morning; route changes by week", query: "Dataran DBKL Jalan Raja Laut", lat: 3.1545, lng: 101.6962 },
-    { day: "opt", name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
+    { day: 5, name: "KL Forest Eco Park", time: "1–1.5 h", type: "sight", note: "Easy-day option: canopy walk; monkeys", lat: 3.1510, lng: 101.7030 },
+    { day: 7, name: "Farm In The City", time: "3–4 h", type: "animals", note: "Petting and feeding farm — go at opening", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
+    { day: 3, name: "Berjaya Times Square Theme Park", time: "2–4 h", type: "theme-park", note: "Indoor theme park in the mall; weekdays 12–9pm; no re-entry, no outside food", query: "Berjaya Times Square Theme Park", lat: 3.1422, lng: 101.7106 },
+    { day: 4, name: "KL Butterfly Park", time: "about 1 h", type: "animals", note: "Next to KL Bird Park, in the Lake Gardens", query: "KL Butterfly Park", lat: 3.1440, lng: 101.6865 },
+    { day: 4, name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
+    { day: 6, name: "Dataran Merdeka", time: "45 min–1 h", type: "sight", note: "Merdeka Square, Sultan Abdul Samad Building, KL City Gallery; near the Planetarium", query: "Dataran Merdeka Kuala Lumpur", lat: 3.1478, lng: 101.6934 },
+    { day: 6, name: "Dataran DBKL (KL Car-Free Morning)", time: "7–9am, Sundays", type: "sight", note: "Sun 6 Dec, 7–9am: start and finish of the car-free morning (special edition)", query: "Dataran DBKL Jalan Raja Laut", lat: 3.1545, lng: 101.6962 },
+    { day: 8, name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
   ],
   // Walking routes, drawn as lines. The walkway is hand-traced (klcc_traced.kml) as separate segments (approximate).
   routes: [

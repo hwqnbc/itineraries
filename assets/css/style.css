@@ -19,6 +19,8 @@
   --day-5: #7c3aed;
   --day-6: #0891b2;
   --day-7: #ca8a04;
+  --day-8: #be123c;
+  --day-9: #0f766e;
   --day-opt: #6b7280;
   --day-extra: #b45309;
   --day-base: #1f2328;
@@ -382,6 +384,8 @@ details.day .day-body ul { padding-left: 20px; }
 .poi-5 { background: var(--day-5); }
 .poi-6 { background: var(--day-6); }
 .poi-7 { background: var(--day-7); }
+.poi-8 { background: var(--day-8); }
+.poi-9 { background: var(--day-9); }
 .poi-opt { background: var(--day-opt); }
 .poi-extra { background: var(--day-extra); font-size: 13px; }
 .poi-base { background: var(--day-base); color: var(--bg); font-size: 14px; }
@@ -395,6 +399,8 @@ details.day .day-body ul { padding-left: 20px; }
 .route-5 { stroke: var(--day-5); }
 .route-6 { stroke: var(--day-6); }
 .route-7 { stroke: var(--day-7); }
+.route-8 { stroke: var(--day-8); }
+.route-9 { stroke: var(--day-9); }
 .route-base { stroke: var(--day-base); }
 .route-extra { stroke: var(--day-extra); }
 .route-dashed { stroke-dasharray: 2 9; }
@@ -439,8 +445,8 @@ details.day .day-body ul { padding-left: 20px; }
 .prose pre { background: var(--surface-2); border-radius: 8px; padding: 12px; overflow-x: auto; }
 .prose pre code { padding: 0; background: none; }
 li.task { list-style: none; margin-left: -20px; }
-li.task label { display: inline-flex; align-items: flex-start; gap: 8px; cursor: pointer; }
-li.task input { margin-top: 0.35em; accent-color: var(--accent); width: 18px; height: 18px; flex: none; }
+li.task label { display: block; position: relative; padding-left: 26px; cursor: pointer; }
+li.task input { position: absolute; left: 0; top: 0.2em; margin: 0; accent-color: var(--accent); width: 18px; height: 18px; }
 li.task label:has(input:checked) { color: var(--muted); text-decoration: line-through; }
 
 /* ---------- Local vs home clock (assets/js/main.js) ---------- */

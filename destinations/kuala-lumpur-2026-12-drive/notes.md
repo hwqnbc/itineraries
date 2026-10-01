@@ -30,6 +30,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-09-30 | Putrajaya added as a swap-in (bike hire at Taman Botani, Putra Mosque, lake cruise); not in the ETS plan | You chose swap-in only for the car trip, and not for ETS |
 | 2026-09-30 | Batu Caves, Deerland and Legoland removed from the options | Not going |
 | 2026-09-30 | Dataran Merdeka and KL Car-Free Morning added as swap-ins (no route line: the official route map couldn't be reached and the route changes by week) | You asked; it's near the Planetarium. Car-free morning is Sundays only, so it needs an arrival on Sat 28 Nov |
+| 2026-10-01 | On hold: re-plan for late December after the ETS city trip; outskirts only (start: 2026-12-20 is a placeholder so it sorts after the ETS trip) | The ETS trip (1–9 Dec) now covers the city |
 
 ## Open questions
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)
