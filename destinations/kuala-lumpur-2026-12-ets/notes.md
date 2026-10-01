@@ -15,7 +15,7 @@ Two versions of the same trip: **[KL by ETS](trip.md)** (6 days) and **[KL by ca
 | Farm In The City | Grab, or MRT + a short Grab {verify} | Drive 20–30 minutes |
 | Theme-park day | **Berjaya Times Square Theme Park** (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
 | Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 2 afternoon |
-| Shah Alam (museum, SkyCity, i-City) | Not in this plan; Grab might work {verify} | ✅ Day 5 |
+| Shah Alam (museum, SkyCity, i-City) | Car only (your choice): Grab is possible but long, with a late return | ✅ Day 5 |
 | Hotel | Bukit Bintang: cheaper than KLCC, more mid-range choice {verify} | Must have a car park and highway access; parking costs extra {verify} |
 | Stress | No driving, parking or traffic | KL traffic at 7–9:30am and 5–8pm; parking at the hotel |
 | Costs to compare | ETS ×3 return + Grab | Rental + fuel + tolls + parking + Grab on city days |
@@ -78,6 +78,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-09-30 | Dataran Merdeka and KL Car-Free Morning added as swap-ins (no route line: the official route map couldn't be reached and the route changes by week) | You asked; it's near the Planetarium. Car-free morning is Sundays only, so it needs an arrival on Sat 28 Nov |
 | 2026-09-30 | Central Market added to Day 3 (midday, open-ended; DIY batik painting for him), replacing the hotel rest; MRT Pasar Seni → Bukit Bintang back | You asked; it's near the Planetarium, and the evening Space & Time Cube lets it run long. ETS only: the area isn't car-friendly |
 | 2026-09-30 | Optional walk KLCC → Bukit Nanas → Masjid Jamek → Merdeka Square → Central Market added as a swap-in, drawn on the map as its own toggle (off by default); maps can now have extra groups | You asked to see the scenery on foot and decide later when to go |
+| 2026-10-01 | SkyCity / Shah Alam stay car-trip only | You decided: by Grab or train it's a long day with a late return |
 
 ## Open questions
 - ETS or drive?
