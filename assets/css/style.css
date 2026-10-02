@@ -477,6 +477,10 @@ li.task label:has(input:checked) { color: var(--muted); text-decoration: line-th
 .wx-icon { font-size: 1.4rem; line-height: 1.2; }
 .wx-rain { color: var(--muted); font-size: 0.8rem; white-space: nowrap; }
 .wx-note, .wx-source { color: var(--muted); font-size: 0.85rem; margin: 8px 0 0; }
+.wx-top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px; margin-bottom: 4px; }
+.wx-place { font-weight: 600; }
+.wx-hours-popup { margin: 6px 0 2px; max-width: 240px; }
+.radar-time { color: var(--muted); font-size: 0.85em; }
 details.day > summary .day-wx { margin-left: 8px; font-weight: 400; font-size: 0.85rem; color: var(--muted); white-space: nowrap; }
 
 /* ---------- Currency converter (assets/js/fx.js) ---------- */

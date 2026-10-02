@@ -209,6 +209,59 @@
       if (saved === "1") { legend.querySelector("[data-areas]").checked = true; areasLayer.addTo(map); useTiles(true); }
     }
 
+    // Weather on the map (only on pages with the forecast box, i.e. trip.md has `weather:`):
+    // tap an empty spot for its next hours, and an optional rain-radar layer.
+    if (document.querySelector("[data-wx]")) {
+      map.on("click", function (e) {
+        var t = e.originalEvent && e.originalEvent.target;
+        if (t && t.closest && t.closest("path, .leaflet-marker-icon, .leaflet-popup")) return; // markers, areas, routes have their own popups
+        if (!window.TripWeather) return;
+        var popup = L.popup().setLatLng(e.latlng)
+          .setContent('<strong>🌦️ Next 6 hours here</strong><br><span class="popup-day">Loading…</span>').openOn(map);
+        window.TripWeather.nextHours(e.latlng.lat, e.latlng.lng, 6).then(function (html) {
+          popup.setContent('<strong>🌦️ Next 6 hours here</strong>' + html +
+            '<span class="popup-day">Local time · Open-Meteo</span>');
+        }).catch(function () {
+          popup.setContent('<strong>🌦️ Next 6 hours here</strong><br>Couldn\'t load the forecast (offline?).');
+        });
+      });
+
+      // Rain radar: RainViewer's latest frame (past radar only, updated every 10 minutes; free, no key).
+      // It sits in its own pane, so the Areas background fade doesn't grey it out.
+      map.createPane("radar").style.zIndex = 350;
+      var radar = null, radarTimer = null;
+      legend.insertAdjacentHTML("beforeend",
+        '<label class="legend-item legend-radar"><input type="checkbox" data-radar>🌧️ Rain radar <span class="radar-time"></span></label>');
+      var radarTime = legend.querySelector(".radar-time");
+      var loadRadar = function () {
+        fetch("https://api.rainviewer.com/public/weather-maps.json")
+          .then(function (r) { return r.json(); })
+          .then(function (j) {
+            var frames = j.radar && j.radar.past;
+            if (!frames || !frames.length) throw new Error("no frames");
+            var f = frames[frames.length - 1];
+            if (radar) map.removeLayer(radar);
+            radar = L.tileLayer(j.host + f.path + "/256/{z}/{x}/{y}/2/1_1.png", {
+              pane: "radar", opacity: 0.7, maxNativeZoom: 7, maxZoom: 19,
+              attribution: 'Radar &copy; <a href="https://www.rainviewer.com/" target="_blank" rel="noopener">RainViewer</a>'
+            }).addTo(map);
+            radarTime.textContent = "(" + new Date(f.time * 1000).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }) + ")";
+          })
+          .catch(function () { radarTime.textContent = "(couldn't load)"; });
+      };
+      legend.querySelector("[data-radar]").addEventListener("change", function (e) {
+        clearInterval(radarTimer);
+        if (e.target.checked) {
+          loadRadar();
+          radarTimer = setInterval(loadRadar, 10 * 60 * 1000);
+        } else {
+          if (radar) map.removeLayer(radar);
+          radar = null;
+          radarTime.textContent = "";
+        }
+      });
+    }
+
     var syncAll = function () {
       var boxes = legend.querySelectorAll("[data-group]");
       var on = legend.querySelectorAll("[data-group]:checked").length;
@@ -217,6 +270,7 @@
       all.indeterminate = on > 0 && on < boxes.length;
     };
     legend.addEventListener("change", function (e) {
+      if (e.target.hasAttribute("data-radar")) return; // handled above
       if (e.target.hasAttribute("data-areas")) {
         if (e.target.checked) areasLayer.addTo(map); else map.removeLayer(areasLayer);
         useTiles(e.target.checked);

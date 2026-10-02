@@ -16,7 +16,7 @@ assets/css/style.css           The ONLY stylesheet (tokens, dark mode, print)
 assets/js/main.js              Shared JS (expands days when printing, remembers ticked checkboxes, local-vs-SGT clocks)
 assets/js/map.js               Shared trip map (Leaflet/OSM + Google My Maps toggle + KML export)
 assets/js/fx.js                Currency converter (SGD ⇄ local, live daily rate, cached for offline)
-assets/js/weather.js           Weather forecast (Open-Meteo, no key; 12 h + 7 days, chips on day headings, cached for offline)
+assets/js/weather.js           Weather forecast (Open-Meteo, no key; 24 h + 7 days, My location, chips on day headings, cached for offline); map tap-for-weather and rain radar live in map.js
 destinations/_template/        Copy this to start a new trip (not published)
 destinations/<city>-<YYYY>-<MM>[-<variant>]/   (variant: e.g. -ets / -drive for alternative plans of one trip)
   trip.md                      The itinerary (front matter + sections) → index.html
