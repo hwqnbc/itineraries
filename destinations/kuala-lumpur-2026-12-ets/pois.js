@@ -55,6 +55,7 @@ window.TRIP_MAP = {
     { day: 4, name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
     { day: 6, name: "Dataran Merdeka", time: "45 min–1 h", type: "sight", note: "Merdeka Square, Sultan Abdul Samad Building, KL City Gallery; near the Planetarium", query: "Dataran Merdeka Kuala Lumpur", lat: 3.1478, lng: 101.6934 },
     { day: 6, name: "Dataran DBKL (KL Car-Free Morning)", time: "7–9am, Sundays", type: "sight", note: "Sun 6 Dec, 7–9am: start and finish of the car-free morning (special edition)", query: "Dataran DBKL Jalan Raja Laut", lat: 3.1545, lng: 101.6962 },
+    { day: "opt", name: "Immersify Kuala Lumpur", time: "1.5–2 h", type: "museum", note: "Digital media-art gallery, 11 immersive zones; The Labs, BBCC; 10am–10pm", query: "Immersify Kuala Lumpur The Labs BBCC", lat: 3.1415, lng: 101.7030 },
     { day: 8, name: "Zoo Negara", time: "3–4 h", type: "animals", note: "National zoo, KL's edge", lat: 3.2100, lng: 101.7580 },
   ],
   // Walking routes, drawn as lines. The walkway is hand-traced (klcc_traced.kml) as separate segments (approximate).
