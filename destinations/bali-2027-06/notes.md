@@ -31,6 +31,7 @@
 | 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
 | 2026-10-02 | Weather forecast added (Practical info, plus chips on the day headings within about 16 days) | Requested: check the weather on the page during the trip |
 | 2026-10-02 | Forecast: 24 hours, rain amount and hours per day, 📍 My location; trip map: tap for a spot's next hours, rain radar toggle | Requested: like the NEA app; 💧% is the day's highest hourly chance, not all-day rain |
+| 2026-10-02 | Map weather is opt-in: one toggle (🌧️ Weather) turns on both the rain radar and tap-for-forecast | Taps were opening weather popups even with the radar off |
 
 ## Open questions
 - Bali or Taipei, and which month?

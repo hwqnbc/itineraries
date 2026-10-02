@@ -130,7 +130,7 @@
         '<p class="wx-source">' + (offline ? "⚠️ Offline: showing the forecast saved " : "Updated ") +
         new Date(fetchedAt).toLocaleString([], { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }) +
         ' · <a href="https://open-meteo.com/" target="_blank" rel="noopener">Weather data by Open-Meteo</a>' +
-        " · tap the trip map for any spot's next hours, or turn on its rain radar.</p>";
+        " · on the trip map, tick 🌧️ Weather for the rain radar and tap any spot for its next hours.</p>";
 
       if (place) return; // the day chips always follow the trip's own point
       document.querySelectorAll("details.day[data-date]").forEach(function (el) {

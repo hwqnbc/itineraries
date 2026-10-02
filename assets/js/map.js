@@ -210,12 +210,13 @@
     }
 
     // Weather on the map (only on pages with the forecast box, i.e. trip.md has `weather:`):
-    // tap an empty spot for its next hours, and an optional rain-radar layer.
+    // one legend toggle, off by default, turns on the rain radar AND tap-for-forecast,
+    // so ordinary taps and pans don't open weather popups.
     if (document.querySelector("[data-wx]")) {
       map.on("click", function (e) {
         var t = e.originalEvent && e.originalEvent.target;
         if (t && t.closest && t.closest("path, .leaflet-marker-icon, .leaflet-popup")) return; // markers, areas, routes have their own popups
-        if (!window.TripWeather) return;
+        if (!window.TripWeather || !legend.querySelector("[data-radar]").checked) return;
         var popup = L.popup().setLatLng(e.latlng)
           .setContent('<strong>🌦️ Next 6 hours here</strong><br><span class="popup-day">Loading…</span>').openOn(map);
         window.TripWeather.nextHours(e.latlng.lat, e.latlng.lng, 6).then(function (html) {
@@ -231,7 +232,7 @@
       map.createPane("radar").style.zIndex = 350;
       var radar = null, radarTimer = null;
       legend.insertAdjacentHTML("beforeend",
-        '<label class="legend-item legend-radar"><input type="checkbox" data-radar>🌧️ Rain radar <span class="radar-time"></span></label>');
+        '<label class="legend-item legend-radar"><input type="checkbox" data-radar>🌧️ Weather: rain radar + tap for forecast <span class="radar-time"></span></label>');
       var radarTime = legend.querySelector(".radar-time");
       var loadRadar = function () {
         fetch("https://api.rainviewer.com/public/weather-maps.json")
@@ -258,6 +259,7 @@
           if (radar) map.removeLayer(radar);
           radar = null;
           radarTime.textContent = "";
+          map.closePopup();
         }
       });
     }
