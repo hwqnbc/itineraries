@@ -29,6 +29,7 @@
 | 2026-09-28 | Outside-food checks added for Bali Safari Park and Waterbom | Outside-food rule |
 | 2026-09-28 | Driver only for Days 2 (half day), 4, 5 and 6; Grab/Gojek for Days 1 and 3 | Only book a driver where a Grab back isn't easy (red zones, remote places) |
 | 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
+| 2026-10-02 | Weather forecast added (Practical info, plus chips on the day headings within about 16 days) | Requested: check the weather on the page during the trip |
 
 ## Open questions
 - Bali or Taipei, and which month?

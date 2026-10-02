@@ -46,12 +46,15 @@ tagline: Zoo, farm animals & theme parks           # optional, shown on the home
 participants: default-family     # a file in docs/participants/
 country: taiwan                  # optional: a file in docs/countries/
 currency: TWD                    # optional: local ISO currency code → SGD converter
+weather: 25.048, 121.517         # optional: forecast point (lat, lng), usually the hotel area
 updated: 2026-09-24              # footer "Last updated"
 ---
 ```
 Values are plain text on one line. A `# comment` after a value is ignored.
 
 With `currency:` set, the build adds a **💱 currency converter** at the top of **Practical info**. It converts both ways between SGD (`HOME_CURRENCY` in `tools/build.py`) and the local currency, and includes a quick-reference table of common amounts. The rate is a daily mid-market rate from ExchangeRate-API, fetched in the browser and saved there, so it still works offline on the trip (it's shown with its date). Don't write exchange rates into the markdown; they go stale.
+
+With `weather:` set, the build adds a **🌦️ weather forecast** above the converter, and a **☔ Forecast** link in the trip's info row. It comes from [Open-Meteo](https://open-meteo.com/) (free, no API key), shows the next 12 hours and the next 7 days in local time, and outlines the trip days. When `start` is a full date (`YYYY-MM-DD`, taken as Day 1), each `### Day N` heading also gets a forecast chip once that date is within the forecast range (about 16 days). The last forecast is saved in the browser, so it still shows offline, labelled with when it was fetched. Leave `weather` off while `start` is only a placeholder, or the chips would land on the wrong days. Never write forecasts into the markdown.
 
 ### Body
 - Text before the first `##` is the **lede**. Its first paragraph is styled as the intro, and a `> blockquote` becomes the callout box.

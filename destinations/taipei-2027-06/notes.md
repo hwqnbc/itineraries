@@ -35,6 +35,7 @@
 | 2026-09-28 | Re-entry checks added for Leofoo and the Children's Amusement Park | Theme-park re-entry rule |
 | 2026-09-28 | Outside-food check added for Leofoo | Outside-food rule |
 | 2026-09-28 | Typical visit times (⏱) added for every place, in the plan and the map popups | Requested: helps pace each day |
+| 2026-10-02 | Weather forecast added (Practical info, plus chips on the day headings within about 16 days) | Requested: check the weather on the page during the trip |
 
 ## Open questions
 - Exact dates and length of the trip?

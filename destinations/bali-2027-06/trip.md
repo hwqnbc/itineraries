@@ -9,8 +9,9 @@ card: June 2027 · 6 days (idea)
 tagline: Safari park, zoo breakfast with orangutans & a water park
 participants: default-family
 country: indonesia
+weather: -8.690, 115.262            # forecast point: Sanur, the Nights 1–3 hotel area
 currency: IDR
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 An animal-and-fun trip, and the alternative to Taipei: a safari park, breakfast with orangutans at Bali Zoo, a top water park, a farm with animals to feed, and calm beaches. June is Bali's dry season.
 

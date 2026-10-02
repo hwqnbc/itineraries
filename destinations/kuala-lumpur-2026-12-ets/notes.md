@@ -80,6 +80,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-09-30 | Optional walk KLCC → Bukit Nanas → Masjid Jamek → Merdeka Square → Central Market added as a swap-in, drawn on the map as its own toggle (off by default); maps can now have extra groups | You asked to see the scenery on foot and decide later when to go |
 | 2026-10-01 | SkyCity / Shah Alam stay car-trip only | You decided: by Grab or train it's a long day with a late return |
 | 2026-10-01 | ETS trip set to Tue 1 – Wed 9 Dec (ETS 11:25 JB → 15:35 KL; 11:10 KL → 15:20 JB), now a 9-day **city trip**; car trip moved to late Dec, to plan later | Your choice. Theme park, Aquaria, Petrosains, Space & Time Cube and the Planetarium on the term-time weekdays (Wed 2 – Fri 4); Sat 5 rest day; Sun 6 car-free morning + Merdeka + Central Market; farm Mon 7 (museums closed); zoo Tue 8 |
+| 2026-10-02 | Weather forecast added (Practical info, plus chips on the day headings within about 16 days) | Requested: check the weather on the page during the trip |
 
 ## Open questions
 - Check his height: many Times Square rides need 120 cm, some 140 cm {verify}.

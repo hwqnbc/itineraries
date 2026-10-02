@@ -9,8 +9,9 @@ card: June 2027 · 6 days (draft)
 tagline: Zoo, farm animals & theme parks
 participants: default-family
 country: taiwan
+weather: 25.048, 121.517            # forecast point: Taipei Main Station, the Nights 1–3 hotel area
 currency: TWD
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 A kid-first trip built around animals and theme parks: pandas at Taipei Zoo, a gondola ride, a safari theme park, bottle-feeding calves on a farm and an aquarium on the way home.
 

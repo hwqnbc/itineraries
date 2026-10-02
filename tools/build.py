@@ -21,6 +21,7 @@ Never edit or commit the generated pages, and never commit _site/.
 """
 
 import argparse
+import datetime
 import html
 import os
 import re
@@ -172,6 +173,12 @@ def load_trip(src: Path):
         if not re.fullmatch(r"[A-Z]{3}", meta["currency"]):
             raise BuildError(f"{rel}: currency must be a 3-letter ISO code such as TWD (got {meta['currency']!r})")
 
+    if meta.get("weather"):
+        wm = re.fullmatch(r"(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)", meta["weather"])
+        if not wm or not (-90 <= float(wm.group(1)) <= 90 and -180 <= float(wm.group(2)) <= 180):
+            raise BuildError(f"{rel}: weather must be 'lat, lng' such as 3.147, 101.711 (got {meta['weather']!r})")
+        meta["weather_lat"], meta["weather_lng"] = wm.group(1), wm.group(2)
+
     # Split into the preamble (lede) and "## Heading {#id}" sections
     parts = re.split(r"^##\s+(.+?)\s*$", body, flags=re.M)
     preamble, sections = parts[0], []
@@ -195,17 +202,25 @@ def load_trip(src: Path):
     return dict(meta=meta, preamble=preamble, sections=sections, dir=src.parent, src=src)
 
 
-def render_days(content: str) -> str:
-    """### Day N · Theme blocks → <details class="day">; other ### stay headings."""
+def render_days(content: str, start: str = "") -> str:
+    """### Day N · Theme blocks → <details class="day">; other ### stay headings.
+    With a full start date (YYYY-MM-DD), each day gets data-date for the weather chips."""
+    try:
+        day1 = datetime.date.fromisoformat(start)
+    except ValueError:
+        day1 = None
     parts = re.split(r"^###\s+(.+?)\s*$", content, flags=re.M)
     out = [md_to_html(parts[0]) if parts[0].strip() else ""]
     first = True
     for heading, body in zip(parts[1::2], parts[2::2]):
-        if re.match(r"Day\s+\d+", heading):
+        dm = re.match(r"Day\s+(\d+)", heading)
+        if dm:
             label, _, tag = heading.partition("·")
+            date_attr = (f' data-date="{day1 + datetime.timedelta(days=int(dm.group(1)) - 1)}"'
+                         if day1 else "")
             tag_html = f' <span class="day-tag">· {esc(tag.strip())}</span>' if tag else ""
             out.append(
-                f'<details class="day"{" open" if first else ""}>\n'
+                f'<details class="day"{date_attr}{" open" if first else ""}>\n'
                 f'  <summary>{esc(label.strip())}{tag_html}</summary>\n'
                 f'  <div class="day-body">\n{md_to_html(body)}\n  </div>\n</details>')
             first = False
@@ -219,6 +234,7 @@ def render_trip(trip) -> str:
     out_rel = tdir.relative_to(ROOT) / "index.html"
     has_map = (tdir / "pois.js").exists()
     has_notes = (tdir / "notes.md").exists()
+    has_fx = bool(meta.get("currency")) and meta["currency"] != HOME_CURRENCY
 
     meta_row = [f'<span class="status status-{meta["status"]}">{esc(meta["status"].capitalize())}</span>',
                 f'<span>📅 {esc(meta["dates"])}</span>']
@@ -236,6 +252,8 @@ def render_trip(trip) -> str:
         clock = clock_html(country_meta(meta["country"]))
         if clock:
             meta_row.append(clock)
+    if meta.get("weather"):
+        meta_row.append('<span>☔ <a href="#weather">Forecast</a></span>')
 
     lede = md_to_html(trip["preamble"]) if trip["preamble"].strip() else ""
     lede = lede.replace("<p>", '<p class="lede">', 1)
@@ -250,17 +268,24 @@ def render_trip(trip) -> str:
         label = rest if rest and not re.search(r"[A-Za-z0-9]", first) else heading
         toc.append(f'<li><a href="#{sid}">{esc(label)}</a></li>')
         if sid == "days":
-            inner = render_days(content)
+            inner = render_days(content, meta["start"])
         elif sid == "map":
             inner = (md_to_html(content) if content.strip() else "")
             inner += ('\n<div data-trip-map></div>\n<noscript><p>The map needs JavaScript. '
                       'Use the Google Maps links in the day-by-day plan.</p></noscript>'
                       if has_map else '\n<p class="empty">No map yet — add a pois.js to this trip.</p>')
-        elif sid == "practical" and meta.get("currency") and meta["currency"] != HOME_CURRENCY:
-            inner = (f'<h3>💱 Currency: {HOME_CURRENCY} ⇄ {meta["currency"]}</h3>\n'
-                     f'<div class="fx" data-fx data-home="{HOME_CURRENCY}" data-local="{meta["currency"]}">'
-                     f'<noscript><p>The converter needs JavaScript.</p></noscript></div>\n'
-                     + md_to_html(content))
+        elif sid == "practical" and (meta.get("weather") or has_fx):
+            inner = ""
+            if meta.get("weather"):
+                place = country_meta(meta["country"]).get("clock_city", "") if meta.get("country") else ""
+                inner += (f'<h3 id="weather">🌦️ Weather forecast{" · " + esc(place) if place else ""}</h3>\n'
+                          f'<div class="wx" data-wx data-lat="{meta["weather_lat"]}" data-lng="{meta["weather_lng"]}">'
+                          f'<noscript><p>The forecast needs JavaScript.</p></noscript></div>\n')
+            if has_fx:
+                inner += (f'<h3>💱 Currency: {HOME_CURRENCY} ⇄ {meta["currency"]}</h3>\n'
+                          f'<div class="fx" data-fx data-home="{HOME_CURRENCY}" data-local="{meta["currency"]}">'
+                          f'<noscript><p>The converter needs JavaScript.</p></noscript></div>\n')
+            inner += md_to_html(content)
         else:
             inner = md_to_html(content)
         body.append(f'<section id="{sid}">\n<h2>{esc(heading)}</h2>\n{inner}\n</section>')
@@ -272,8 +297,10 @@ def render_trip(trip) -> str:
         scripts = (f'  <script src="{LEAFLET}leaflet.min.js"></script>\n'
                    '  <script src="pois.js"></script>\n'
                    '  <script src="../../assets/js/map.js"></script>\n')
-    if meta.get("currency") and meta["currency"] != HOME_CURRENCY:
+    if has_fx:
         scripts += '  <script src="../../assets/js/fx.js"></script>\n'
+    if meta.get("weather"):
+        scripts += '  <script src="../../assets/js/weather.js"></script>\n'
 
     return render(
         out_rel,

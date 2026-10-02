@@ -454,6 +454,31 @@ li.task label:has(input:checked) { color: var(--muted); text-decoration: line-th
 .clock strong { color: var(--text); }
 .clock-diff { color: var(--muted); }
 
+/* ---------- Weather forecast (assets/js/weather.js) ---------- */
+
+.wx {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 12px 16px;
+  margin: 8px 0 16px;
+}
+.wx-label { margin: 4px 0 6px; font-size: 0.85rem; font-weight: 600; color: var(--muted); }
+.wx-key { font-weight: 400; margin-left: 6px; padding: 0 6px; border: 2px solid var(--accent); border-radius: 6px; }
+.wx-hours { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 6px; }
+.wx-hour { flex: none; min-width: 52px; display: flex; flex-direction: column; align-items: center; gap: 2px;
+  padding: 6px 4px; background: var(--surface-2); border-radius: 8px; font-size: 0.85rem; }
+.wx-days { display: grid; grid-template-columns: repeat(auto-fill, minmax(88px, 1fr)); gap: 6px; }
+.wx-day { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 8px 4px;
+  background: var(--surface-2); border: 2px solid transparent; border-radius: 8px; font-size: 0.85rem; text-align: center; }
+.wx-day.wx-trip { border-color: var(--accent); }
+.wx-date, .wx-time { font-weight: 600; }
+.wx-icon { font-size: 1.4rem; line-height: 1.2; }
+.wx-rain { color: var(--muted); font-size: 0.8rem; white-space: nowrap; }
+.wx-note, .wx-source { color: var(--muted); font-size: 0.85rem; margin: 8px 0 0; }
+details.day > summary .day-wx { margin-left: 8px; font-weight: 400; font-size: 0.85rem; color: var(--muted); white-space: nowrap; }
+
 /* ---------- Currency converter (assets/js/fx.js) ---------- */
 
 .fx {

@@ -9,8 +9,9 @@ card: 1 – 9 Dec 2026 · 9 days · ETS train, Bukit Bintang base
 tagline: KL's city sights: Aquaria, Petrosains, Planetarium, indoor theme park, car-free Sunday, farm and zoo
 participants: default-family
 country: malaysia
+weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel area
 currency: MYR
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **Berjaya Times Square Theme Park**, **Space & Time Cube**, the **Planetarium** and **Bird Park**, the **KL Car-Free Morning**, **Merdeka Square** and **Central Market**, plus **Farm In The City** and **Zoo Negara** by Grab. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
 

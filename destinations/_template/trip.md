@@ -9,6 +9,7 @@ card: Month YYYY · N days
 tagline: One-line hook for the home page card
 participants: default-family # a file in docs/participants/
 country: COUNTRY             # optional: a file in docs/countries/ (seasons & holidays)
+# weather: 3.147, 101.711        # optional: forecast point (e.g. the hotel area) as lat, lng; adds a weather forecast
 currency: XXX                # optional: local currency ISO code (e.g. TWD); adds an SGD converter
 updated: YYYY-MM-DD
 ---
