@@ -198,6 +198,22 @@ Travel times are rough and from general knowledge {verify}.
 - **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Outdoor places (the farm) are best in the morning; the walkway and indoor attractions keep you dry in the afternoon.
 - **Crowds:** from Sat 5 Dec both countries are on school holidays: the Causeway and the attractions are busiest at weekends and around Christmas and New Year. That's why Sat 5 is the rest day.
 - **Grab:** easy in the city and suburbs. Queues and surge prices build during storms and at 5–8pm. Remote hilltop places (like Monkeys Canopy) can be hard to get a Grab back from, which is why this plan skips it.
+- **Grab timing from Bukit Bintang** {verify}: it's the city centre, so the roads around it are slow most of the day, but these are the times to avoid:
+    - **Worst:** weekdays **7:30–9:30am** and **5–8pm** (Friday evening is the worst of the week), and any time it's pouring, when waits and surge prices jump too.
+    - **Also busy:** weekday lunch, 12–2pm; and **Bukit Bintang itself on Friday and Saturday nights**, about 7–11pm, with shoppers and nightlife.
+    - **Best:** **9:30–11:30am**, **2–4:30pm**, and after about **8:30pm** on weekdays; weekend mornings before about 11am are light.
+    - **Pick-up:** request from a mall's ride-hailing pick-up point or a side road, not the main Jalan Bukit Bintang, where cars can't stop easily.
+    - **Rule of thumb:** within the centre (KLCC, Lot 10, Times Square, Central Market) walk or take the MRT/monorail; save Grab for the Planetarium, the farm and the zoo.
+
+| Day | Grab trip | Timing |
+|---|---|---|
+| 1 · Tue | KL Sentral → hotel, about 3:45pm | ✅ before the evening rush |
+| 4 · Fri | Planetarium, about 9:30am; back from the Lake Gardens | ✅ out after the morning rush; ⚠️ back by about 4:30pm (Friday evening) |
+| 6 · Sun | To Dataran DBKL, about 6:45am | ✅ empty roads; back by MRT |
+| 7 · Mon | Farm In The City at opening; back early afternoon | ✅ out of the city against the morning flow; back before 4:30pm |
+| 8 · Tue | Zoo Negara at opening; back | ✅ outbound in the morning; ⚠️ leave the zoo by about 4pm |
+| 9 · Wed | Hotel → KL Sentral, about 9:00am | ⚠️ tail of the morning rush: allow 30 min, or take the MRT |
+
 - **Getting around on foot:** the covered walkway links Bukit Bintang (Pavilion) and KLCC. Lot 10 and Pavilion are next to each other.
 - **Power plugs:** Type G, 240 V, the same as Singapore. No adapter needed.
 - **Entry:** Singapore passports are visa-free; check the digital arrival card rules {verify}.
