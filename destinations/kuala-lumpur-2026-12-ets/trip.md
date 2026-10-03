@@ -11,7 +11,7 @@ participants: default-family
 country: malaysia
 weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel area
 currency: MYR
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **Berjaya Times Square Theme Park**, **Space & Time Cube**, the **Planetarium** and **Bird Park**, the **KL Car-Free Morning**, **Merdeka Square** and **Central Market**, plus **Farm In The City** and **Zoo Negara** by Grab. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
 
@@ -30,7 +30,7 @@ The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking,
 | Leg | Date | Train | Depart → Arrive | Notes |
 |-----|------|-------|-----------------|-------|
 | Outbound | Tue 1 Dec | ETS 11:25 | JB Sentral 11:25 → KL Sentral 15:35 | Be at JB Sentral by about 10:45 {verify}; check in at the hotel by about 4:30pm |
-| Return | Wed 9 Dec | ETS 11:10 | KL Sentral 11:10 → JB Sentral 15:20 | Check out by 9:30am; weekday-afternoon Causeway crossing |
+| Return | Wed 9 Dec | ETS 11:10 | KL Sentral 11:10 → JB Sentral 15:20 | Leave the hotel about 8:50–9:00; through the gate by 10:30 (closes 11:05) {verify} |
 
 ## 🏨 Accommodation {#accommodation}
 **Current choice: Bukit Bintang.** One base for all 8 nights. Compare against the areas below before booking.
@@ -136,9 +136,15 @@ Travel times are rough and from general knowledge {verify}.
 - **Evening:** Pack for tomorrow; a last dinner at Jalan Alor or Lot 10 Hutong.
 
 ### Day 9 · Wed 9 Dec · KL → Singapore by ETS 🧳
-- **Luggage:** Check out by about 9:30am and Grab to KL Sentral with the bags.
-- **Morning:** Be at KL Sentral by about 10:30 for the **11:10 ETS** {verify}.
-- **Train:** **ETS 11:10 KL Sentral → 15:20 JB Sentral** (about 4 h 10 min). Buy lunch and snacks at **NU Sentral** mall (connected to KL Sentral) before boarding {verify}.
+- **Luggage:** Check out by about 8:45am and Grab to KL Sentral with the bags.
+- **Timeline (worked back from the 11:10 train):**
+    - **8:50–9:00** leave the hotel: Grab from Bukit Bintang is about 15–25 minutes plus the wait for a car with luggage {verify}. Leaving earlier just sits in the 7–9:30am rush into the city.
+    - **~9:20** arrive at KL Sentral; **9:30–10:10** breakfast in the station.
+    - **10:00–10:20** buy a takeaway lunch for the train (you arrive at 15:20); most **NU Sentral** mall outlets open at 10am {verify}.
+    - **10:30** through the ETS gate. The gate closes **5 minutes before departure**, and KTMB suggests arriving 30 minutes early {verify}.
+- **Breakfast at KL Sentral** (open early {verify}): **Grannies at Richiamo** in the station from about 6:30am (nasi lemak, nasi dagang); McDonald's, KFC, Burger King, Starbucks, Secret Recipe and **Panettone** (bread and breakfast, Level 1) in the station; **Husen Cafe** below the Metro Hotel @ Sentral is open 24 hours.
+- **Alternative:** breakfast at or near the hotel about 8:00–8:45, leave about 9:15, and use KL Sentral just for the train lunch.
+- **Train:** **ETS 11:10 KL Sentral → 15:20 JB Sentral** (about 4 h 10 min).
 - **Afternoon:** Arrive at JB Sentral and cross home. A weekday afternoon is usually quieter than the weekend {verify}.
 
 ### Swap-in options
