@@ -85,6 +85,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-02 | Map weather is opt-in: one toggle (🌧️ Weather) turns on both the rain radar and tap-for-forecast | Taps were opening weather popups even with the radar off |
 | 2026-10-02 | Immersify Kuala Lumpur added as a swap-in (BBCC, walkable; indoor) | You asked; a rainy-day or Day 5 option, similar to Space & Time Cube |
 | 2026-10-03 | Day 9 timeline: leave the hotel 8:50–9:00, breakfast at KL Sentral 9:30–10:10, train lunch from NU Sentral at 10am, gate by 10:30 | Worked back from the 11:10 ETS; leaving at 8 would sit in the morning rush |
+| 2026-10-03 | MRT option for Days 1 and 9: Kajang Line Bukit Bintang ⇄ Muzium Negara + walkway to KL Sentral (about 25–30 min, no traffic); Grab if raining or bags are big | You asked about the MRT |
 
 ## Open questions
 - Check his height: many Times Square rides need 120 cm, some 140 cm {verify}.

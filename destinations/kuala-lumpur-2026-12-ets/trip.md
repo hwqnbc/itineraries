@@ -25,7 +25,7 @@ The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking,
 ## 🚆 Getting there: ETS train {#flights}
 1. **Cross the Causeway** to JB by bus or taxi, or by the **RTS Link** (Woodlands ↔ Bukit Chagar) if it has opened, due around end-2026 {verify}.
 2. **ETS from JB Sentral to KL Sentral**, about 4 h 10 min on the chosen trains {verify}. Book early, because holiday trains sell out {verify}.
-3. **KL Sentral to Bukit Bintang:** Grab (easiest with bags) or the KL Monorail {verify}.
+3. **KL Sentral to Bukit Bintang:** Grab (easiest with bags), or the **MRT Kajang Line** from Muzium Negara (covered walkway from KL Sentral; 3 stops, lifts), or the KL Monorail {verify}.
 
 | Leg | Date | Train | Depart → Arrive | Notes |
 |-----|------|-------|-----------------|-------|
@@ -68,7 +68,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Luggage:** It's with you across the Causeway and on the train; Grab from KL Sentral to the hotel.
 - **Morning:** Cross the Causeway with plenty of buffer: Singapore's school holidays are on, so queues can be long even on a weekday {verify}. Aim to be at **JB Sentral by about 10:45** for the **11:25 ETS** {verify} (check how early the gates close).
 - **Train:** **ETS 11:25 JB Sentral → 15:35 KL Sentral** (about 4 h 10 min). Bring lunch and snacks for the train {verify}.
-- **Afternoon:** Grab to Bukit Bintang (10–15 minutes) and check in by about 4:30pm.
+- **Afternoon:** Grab to Bukit Bintang (10–15 minutes), or the MRT the other way (walkway to Muzium Negara, then the Kajang Line 3 stops to Bukit Bintang) {verify}, and check in by about 4:30pm.
 - **Evening:** An easy walk around Pavilion and Bukit Bintang.
 - **Food:** **Jalan Alor** street food (⏱ 1–1.5 h), a short walk from Pavilion, or one of Pavilion's cafés {verify}.
 - **Shopping:** **Pavilion KL**, next to the hotel area, has clothes and accessories for a first look {verify}.
@@ -136,7 +136,8 @@ Travel times are rough and from general knowledge {verify}.
 - **Evening:** Pack for tomorrow; a last dinner at Jalan Alor or Lot 10 Hutong.
 
 ### Day 9 · Wed 9 Dec · KL → Singapore by ETS 🧳
-- **Luggage:** Check out by about 8:45am and Grab to KL Sentral with the bags.
+- **Luggage:** Check out by about 8:45am and go to KL Sentral with the bags, by Grab or MRT (below).
+- **MRT instead of Grab:** **Kajang Line** from Bukit Bintang to **Muzium Negara** (3 stops, about 6–8 minutes), then the covered walkway to KL Sentral (about 5–10 minutes with bags) {verify}. About 25–30 minutes door to door, with no traffic risk, and lifts at the stations {verify}. Good if the hotel is near the Bukit Bintang MRT station and the bags are manageable; take a Grab if it's raining hard or the bags are big. The **monorail** also runs direct to KL Sentral, but its stop is across the road (through NU Sentral mall) and the trains are small and crowded {verify}.
 - **Timeline (worked back from the 11:10 train):**
     - **8:50–9:00** leave the hotel: Grab from Bukit Bintang is about 15–25 minutes plus the wait for a car with luggage {verify}. Leaving earlier just sits in the 7–9:30am rush into the city.
     - **~9:20** arrive at KL Sentral; **9:30–10:10** breakfast in the station.
