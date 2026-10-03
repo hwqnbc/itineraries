@@ -87,6 +87,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-03 | Day 9 timeline: leave the hotel 8:50–9:00, breakfast at KL Sentral 9:30–10:10, train lunch from NU Sentral at 10am, gate by 10:30 | Worked back from the 11:10 ETS; leaving at 8 would sit in the morning rush |
 | 2026-10-03 | MRT option for Days 1 and 9: Kajang Line Bukit Bintang ⇄ Muzium Negara + walkway to KL Sentral (about 25–30 min, no traffic); Grab if raining or bags are big | You asked about the MRT |
 | 2026-10-03 | Grab timing from Bukit Bintang added to Practical info (times to avoid, best windows, per-day table) | You asked when to avoid peak traffic |
+| 2026-10-03 | Day 4: Bird Park first (morning, outdoors), then the Planetarium (afternoon, indoors); Butterfly Park dropped; back by MRT from Muzium Negara | Your choice; cooler and birds more active in the morning, indoor dome for the afternoon heat and storms |
 
 ## Open questions
 - Check his height: many Times Square rides need 120 cm, some 140 cm {verify}.

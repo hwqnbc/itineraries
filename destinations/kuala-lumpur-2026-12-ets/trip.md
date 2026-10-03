@@ -13,7 +13,7 @@ weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel ar
 currency: MYR
 updated: 2026-10-03
 ---
-The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **Berjaya Times Square Theme Park**, **Space & Time Cube**, the **Planetarium** and **Bird Park**, the **KL Car-Free Morning**, **Merdeka Square** and **Central Market**, plus **Farm In The City** and **Zoo Negara** by Grab. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
+The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **Berjaya Times Square Theme Park**, **Space & Time Cube**, the **Bird Park** and **Planetarium**, the **KL Car-Free Morning**, **Merdeka Square** and **Central Market**, plus **Farm In The City** and **Zoo Negara** by Grab. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
 
 > Planning: ETS times chosen. The later car trip is **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)** (draft); the comparison is in **[Drive vs ETS](notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
@@ -46,7 +46,7 @@ Travel times are rough and from general knowledge {verify}.
 |---|---|---|---|---|---|---|
 | Days 1 & 9: ETS with luggage | Grab or monorail, about 10–15 min | **Walk off the train** | LRT direct, or Grab | Grab about 15 min, or MRT with one change | KTM Komuter 1 stop, or Grab about 10 min | LRT or MRT 1 stop, or Grab |
 | Day 2: Aquaria, Petrosains | **Walk** the covered walkway | LRT direct, about 10 min | **Walk** | Short Grab | Grab 15–20 min | LRT direct |
-| Day 4: Planetarium, Bird Park | Grab 10–15 min | **Very close** | Grab about 15 min | Grab about 15 min | Grab about 10 min | **Close** |
+| Day 4: Bird Park, Planetarium | Grab 10–15 min | **Very close** | Grab about 15 min | Grab about 15 min | Grab about 10 min | **Close** |
 | Day 3: Space & Time Cube (Lot 10) | **Walk next door** | Monorail or MRT, a few stops | Walkway or short Grab | MRT 1 stop, or short Grab | Grab | MRT direct, 2 stops |
 | Day 7: Farm In The City | Grab 30–45 min | Grab 30–45 min | Grab 30–45 min | Grab; the MRT Putrajaya Line may also get close {verify} | Grab 25–40 min | Grab 30–45 min |
 | Day 3: Berjaya Times Square | **Walk** 10–15 min, or monorail to Imbi | **Monorail direct** to Imbi {verify} | Walkway to Pavilion, then walk; or short Grab | Walk or short Grab | Grab, or KTM + monorail | MRT to Bukit Bintang, then walk |
@@ -94,11 +94,12 @@ Travel times are rough and from general knowledge {verify}.
 - **Food:** Dinner at **Lot 10 Hutong**, a food court of well-known hawker stalls in Lot 10's basement {verify}, or **Jalan Alor**.
 - **Shopping:** **Berjaya Times Square** has floors of clothes and accessories shops (browse **after** the park); **Lot 10, Pavilion and Fahrenheit88** sit side by side in the evening {verify}.
 
-### Day 4 · Fri 4 Dec · Planetarium, Bird Park & Butterfly Park 🪐🦜
-- **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium; ⏱ 1.5–2 h, including a dome show) in the Perdana Botanical Garden, about 10–15 minutes by Grab from Bukit Bintang {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** {verify}. Before the school holidays, so fewer families in the dome shows.
-- **Midday:** Lunch near the gardens, or back at the hotel.
-- **Afternoon:** [KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h), a big free-flight aviary with feeding sessions {verify}, and [KL Butterfly Park](map:KL+Butterfly+Park) (⏱ about 1 h) next door, both in the same gardens as the planetarium. Go after the hottest midday hours, or swap the order and do them first thing.
-- **Getting back:** Grab from the Lake Gardens {verify}. Friday evening traffic is heavy, so leave by about 4:30pm.
+### Day 4 · Fri 4 Dec · Bird Park & Planetarium 🦜🪐
+- **Getting there:** Grab up to the Lake Gardens, about 10–15 minutes, leaving about 9:00–9:30am {verify}. It's uphill, so ride up and walk down later.
+- **Morning:** [KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h) at opening, a big free-flight aviary with feeding sessions {verify}. It's outdoors, so go while it's cooler and the birds are most active, before the afternoon storms.
+- **Midday:** Lunch at the Bird Park or nearby in the gardens {verify}.
+- **Afternoon:** Walk about 430 m (slightly uphill) to [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium; ⏱ 1.5–2 h, including a dome show) {verify}. It's indoors and air-conditioned, good for the hot or stormy part of the day. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}; aim for an early-afternoon show. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** {verify}. Before the school holidays, so fewer families in the dome shows.
+- **Getting back:** Walk down about 15 minutes, over the highway on the overhead bridge, to **MRT Muzium Negara**, then the Kajang Line 3 stops to Bukit Bintang {verify}. It avoids Friday's evening Grab queues; if you take a Grab instead, leave by about 4:30pm.
 - **Food:** An early dinner around Pavilion or Jalan Alor.
 
 ### Day 5 · Sat 5 Dec · Easy day: pool, shopping, Christmas lights ☀️
@@ -167,7 +168,7 @@ Travel times are rough and from general knowledge {verify}.
 - [ ] Aquaria KLCC (off-peak, Wed 2 Dec) and Petrosains tickets
 - [ ] Space & Time Cube tickets (Lot 10)
 - [ ] Planetarium Negara dome show (pay on the day; Fri 4 Dec) {verify}
-- [ ] KL Bird Park + Butterfly Park tickets
+- [ ] KL Bird Park tickets
 - [ ] KL Car-Free Morning special edition (Sun 6 Dec): check whether registration or the early-bird entry is needed {verify}
 - [ ] Zoo Negara tickets
 - [ ] Farm In The City tickets
@@ -183,7 +184,7 @@ Travel times are rough and from general knowledge {verify}.
 | Aquaria KLCC + Petrosains | TBD | |
 | Space & Time Cube | TBD | |
 | Planetarium Negara show | about RM12 adult / RM8 child {verify} | |
-| KL Bird Park + Butterfly Park | TBD | |
+| KL Bird Park | TBD | |
 | Car-Free Morning special edition (if paid) | early-bird entry {verify} | |
 | Central Market batik painting | about RM10–40 {verify} | |
 | Farm In The City | TBD | |
@@ -208,7 +209,7 @@ Travel times are rough and from general knowledge {verify}.
 | Day | Grab trip | Timing |
 |---|---|---|
 | 1 · Tue | KL Sentral → hotel, about 3:45pm | ✅ before the evening rush |
-| 4 · Fri | Planetarium, about 9:30am; back from the Lake Gardens | ✅ out after the morning rush; ⚠️ back by about 4:30pm (Friday evening) |
+| 4 · Fri | Bird Park, about 9:00–9:30am; back by MRT from Muzium Negara | ✅ out after the morning rush; MRT back avoids Friday evening |
 | 6 · Sun | To Dataran DBKL, about 6:45am | ✅ empty roads; back by MRT |
 | 7 · Mon | Farm In The City at opening; back early afternoon | ✅ out of the city against the morning flow; back before 4:30pm |
 | 8 · Tue | Zoo Negara at opening; back | ✅ outbound in the morning; ⚠️ leave the zoo by about 4pm |
