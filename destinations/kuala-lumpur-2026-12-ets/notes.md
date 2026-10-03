@@ -24,7 +24,7 @@ Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026
 
 ## Peak pricing & dates
 
-Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places charge more in school holidays, public holidays and at weekends. The ETS trip (Tue 1 – Wed 9 Dec) puts the busiest, peak-priced places on the last **term-time weekdays, Wed 2 – Fri 4**, and the farm, zoo and sightseeing in the holidays, where crowds matter less. Prices are for non-Malaysians and change often {verify}.
+Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places charge more in school holidays, public holidays and at weekends. The ETS trip (Tue 1 – Wed 9 Dec) puts the busiest, peak-priced places on the last **term-time weekdays, Wed 2 – Fri 4**, and the farm and sightseeing in the holidays, where crowds matter less. Prices are for non-Malaysians and change often {verify}.
 
 | Place | Peak pricing? | What we found | When (ETS trip; car-trip dates still to plan) |
 |---|---|---|---|
@@ -88,13 +88,13 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-03 | MRT option for Days 1 and 9: Kajang Line Bukit Bintang ⇄ Muzium Negara + walkway to KL Sentral (about 25–30 min, no traffic); Grab if raining or bags are big | You asked about the MRT |
 | 2026-10-03 | Grab timing from Bukit Bintang added to Practical info (times to avoid, best windows, per-day table) | You asked when to avoid peak traffic |
 | 2026-10-03 | Day 4: Bird Park first (morning, outdoors), then the Planetarium (afternoon, indoors); Butterfly Park dropped; back by MRT from Muzium Negara | Your choice; cooler and birds more active in the morning, indoor dome for the afternoon heat and storms |
+| 2026-10-03 | Zoo Negara excluded from both KL trips; ETS Day 8 is now Immersify & last shopping (walkable, light last day) | Not easy without a car (Grab only, uncertain ride back at closing) and far from the car trip's southern base |
 
 ## Open questions
 - Check his height: many Times Square rides need 120 cm, some 140 cm {verify}.
 - Car trip (late Dec): plan after the ETS trip; consider a southern base (Putrajaya / Cyberjaya / Seri Kembangan) now that it has no city days.
 - KL Car-Free Morning special edition (Sun 6 Dec): free walk-in, or registration / early-bird entry needed? {verify}
 - Check Aquaria's peak calendar for Wed 2 Dec, and the farm's one-day pass page for Mon 7 Dec.
-- Zoo Negara: re-entry, outside food, and Grab back at closing {verify}.
 
 ## Sources
 - KLCC–Bukit Bintang walkway and area comparison: kualalumpurcity.my/bukit-bintang-vs-klcc/, travelfoodexpert.com/bukit-bintang-vs-klcc/

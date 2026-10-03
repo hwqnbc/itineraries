@@ -10,7 +10,7 @@ tagline: The outskirts by car: Monkeys Canopy, farm, Paya Indah hippos, Putrajay
 participants: default-family
 country: malaysia
 currency: MYR
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 The **car version** of the KL trip: rent a car in JB, drive up, and base at a hotel with **its own car park and quick highway access**. The shortlist is **Aquaria KLCC**, **Petrosains**, **Planetarium Negara**, **Space & Time Cube**, **Farm In The City** and **Monkeys Canopy Resort**. The car also reaches **Paya Indah Wetlands**, where a Grab back is unreliable, and a **Shah Alam** day: the **Sultan Alam Shah Museum**, the **SkyCity** glass water slide and **i-City**'s lights. On city days the car stays parked, and Grab avoids KL traffic and parking.
 
@@ -137,7 +137,6 @@ KL's weekday jams are **directional** {verify}: in the **morning (about 7–9:30
     - [Putra Mosque](map:Putra+Mosque+Putrajaya) (⏱ 30–45 min), the pink mosque: free; dress modestly (robes are lent at the entrance) {verify}. On **Fridays** it's closed to non-Muslim visitors until mid-afternoon (about 3–4pm and 5:30–6pm only) {verify}.
     - [Cruise Tasik Putrajaya](map:Cruise+Tasik+Putrajaya) (⏱ 45 min): lake cruises from the jetty by Putra Mosque, several a day; about RM50 per adult and RM35 per child, or a cheaper 25-minute cruise at 10am and 7pm {verify}.
     - **Getting back:** drive; parking is easy around the main sights {verify}.
-- **[Zoo Negara](map:Zoo+Negara) (⏱ 3–4 h):** the national zoo {verify}, with parking on site.
 - **[KL Bird Park](map:KL+Bird+Park) (⏱ 2–2.5 h):** a big free-flight aviary {verify}, by Grab.
 - **[Dataran Merdeka](map:Dataran+Merdeka+Kuala+Lumpur) (Merdeka Square; ⏱ 45 min–1 h):** the square where independence was declared in 1957, with the **Sultan Abdul Samad Building** opposite and the KL City Gallery (and its "I ❤ KL" sign) on the square {verify}. It's about 1.5 km from the Planetarium (5–10 minutes by Grab {verify}), so it can follow the Day 4 morning. It's open, with little shade: go before noon, or at dusk when the buildings are lit {verify}.
 - **KL Car-Free Morning** (Sundays only): the city closes a loop of roads to cars **every Sunday, 7–9am**. It's free, with no registration, for walking, running and cycling {verify}. It starts and finishes at **[Dataran DBKL](map:Dataran+DBKL+Jalan+Raja+Laut)** on Jalan Raja Laut, next to Dataran Merdeka {verify}.
