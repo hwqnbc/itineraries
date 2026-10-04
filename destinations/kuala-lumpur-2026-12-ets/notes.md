@@ -90,6 +90,8 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-03 | Day 4: Bird Park first (morning, outdoors), then the Planetarium (afternoon, indoors); Butterfly Park dropped; back by MRT from Muzium Negara | Your choice; cooler and birds more active in the morning, indoor dome for the afternoon heat and storms |
 | 2026-10-03 | Zoo Negara excluded from both KL trips; ETS Day 8 is now Immersify & last shopping (walkable, light last day) | Not easy without a car (Grab only, uncertain ride back at closing) and far from the car trip's southern base |
 | 2026-10-04 | Day 8: Titiwangsa paddle boats (White & Black Aquasports) at 10am by monorail, then Immersify in the afternoon | You asked; direct monorail from Bukit Bintang, closed Mondays, outdoor so before the afternoon storms. Not the car trip: north of the city, across KL from a southern base |
+| 2026-10-04 | Hotel: Star Mews Hotel Changkat Bukit Bintang (budget, new in 2026, about 290 Agoda reviews), not booked yet; no pool, so pool breaks became rest or café time | Your choice; check family/triple room and a quiet high-floor room (bar street) |
+| 2026-10-04 | KL Bird Park removed; Day 4 is now the Planetarium only (half day), by MRT both ways | Your choice |
 
 ## Open questions
 - Check his height: many Times Square rides need 120 cm, some 140 cm {verify}.
