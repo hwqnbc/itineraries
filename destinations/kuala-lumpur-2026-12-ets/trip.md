@@ -6,14 +6,14 @@ status: planning
 start: 2026-12-01
 dates: Tue 1 – Wed 9 Dec 2026 · 9 days
 card: 1 – 9 Dec 2026 · 9 days · ETS train, Bukit Bintang base
-tagline: KL's city sights: Aquaria, Petrosains, Planetarium, Bird Park, indoor theme park, car-free Sunday, petting farm
+tagline: KL's city sights: Aquaria, Petrosains, Planetarium, Bird Park, indoor theme park, car-free Sunday, petting farm, lake paddle boats
 participants: default-family
 country: malaysia
 weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel area
 currency: MYR
-updated: 2026-10-03
+updated: 2026-10-04
 ---
-The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **Berjaya Times Square Theme Park**, **Space & Time Cube**, the **Bird Park** and **Planetarium**, the **KL Car-Free Morning**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab) and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
+The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **Berjaya Times Square Theme Park**, **Space & Time Cube**, the **Bird Park** and **Planetarium**, the **KL Car-Free Morning**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
 
 > Planning: ETS times chosen. The later car trip is **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)** (draft); the comparison is in **[Drive vs ETS](notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
@@ -129,11 +129,13 @@ Travel times are rough and from general knowledge {verify}.
 - **Afternoon:** Back to the hotel to rest.
 - **Getting back:** Grab is easy in Seri Kembangan {verify}.
 
-### Day 8 · Tue 8 Dec · Immersify & last shopping 🎨🛍️
-- **Why a light day:** the last full day, in the school holidays, before an early start on Day 9. Everything is walkable from the hotel.
-- **Late morning:** [Immersify Kuala Lumpur](map:Immersify+Kuala+Lumpur+The+Labs+BBCC) (⏱ 1.5–2 h), a permanent digital media-art gallery with 11 immersive zones of projections, 3D spatial sound and installations, at **The Labs, Bukit Bintang City Centre (BBCC)** {verify}. About 15 minutes' walk from Pavilion, or one stop on the monorail to Hang Tuah {verify}. Open daily 10am–10pm {verify}. Non-Malaysian tickets about RM88 per adult and RM55 per child aged 3–12 {verify}. It's indoors, so it's fine if it storms. It's a similar idea to the Space & Time Cube (Day 3); if one was enough, swap in the **KLCC walk** or a pool morning instead.
-- **Afternoon:** Pool, and a last browse for Adult 2 at **Pavilion, Lot 10 or Fahrenheit88** {verify}.
-- **Evening:** Pack for tomorrow (the hotel check-out is about 8:45am); a last dinner at Jalan Alor or Lot 10 Hutong.
+### Day 8 · Tue 8 Dec · Titiwangsa paddle boats & Immersify 🚣🎨
+- **Why this order:** the last full day, in the school holidays, before an early start on Day 9. The outdoor lake goes first, while it's cool and before the usual 3–6pm storms; the indoor gallery goes after lunch.
+- **Getting there:** **KL Monorail** from Bukit Bintang to **Titiwangsa**, the last stop, about 15–20 minutes, then an 11-minute walk to the lake {verify}. No Grab needed.
+- **Morning (10am):** [White & Black Aquasports](map:White+N+Black+Aquasports+Titiwangsa) at [Titiwangsa Lake Gardens](map:Taman+Tasik+Titiwangsa) (⏱ 1–1.5 h): **paddle boats and kayaks** on the lake, with views of the KLCC skyline {verify}. Life jackets are provided {verify}. Paddle boat or tandem kayak about **RM15 per adult and RM10 per child** for 30 minutes, ages 3–6 free; single kayak about RM20 for 30 minutes {verify}. **Closed on Mondays**; Tue–Thu 10am–7:15pm {verify}. Boating stops if there's lightning. There's a playground and a lakeside path too.
+- **Lunch:** back on the monorail; lunch around Bukit Bintang.
+- **Afternoon:** [Immersify Kuala Lumpur](map:Immersify+Kuala+Lumpur+The+Labs+BBCC) (⏱ 1.5–2 h), a permanent digital media-art gallery with 11 immersive zones of projections, 3D spatial sound and installations, at **The Labs, Bukit Bintang City Centre (BBCC)** {verify}. About 15 minutes' walk from Pavilion, or the monorail to Hang Tuah {verify}. Open daily 10am–10pm {verify}. Non-Malaysian tickets about RM88 per adult and RM55 per child aged 3–12 {verify}. Indoors, so it's fine if it storms. It's a similar idea to the Space & Time Cube (Day 3); if one was enough, have a pool afternoon instead.
+- **Evening:** Pack for tomorrow (check-out about 8:45am); a last dinner at Jalan Alor or Lot 10 Hutong. A last browse for Adult 2 at **Pavilion, Lot 10 or Fahrenheit88** {verify}.
 
 ### Day 9 · Wed 9 Dec · KL → Singapore by ETS 🧳
 - **Luggage:** Check out by about 8:45am and go to KL Sentral with the bags, by Grab or MRT (below).
@@ -169,6 +171,7 @@ Travel times are rough and from general knowledge {verify}.
 - [ ] KL Bird Park tickets
 - [ ] KL Car-Free Morning special edition (Sun 6 Dec): check whether registration or the early-bird entry is needed {verify}
 - [ ] Immersify tickets (Tue 8 Dec)
+- [ ] Titiwangsa paddle boats: pay on the spot (Tue 8 Dec; closed Mondays) {verify}
 - [ ] Farm In The City tickets
 - [ ] Berjaya Times Square Theme Park tickets for Thu 3 Dec ([buy online](https://berjayatimessquarethemeparkkl.com/buy-online/)). Check his height first; no re-entry, and no outside food
 - [ ] Travel insurance
@@ -186,6 +189,7 @@ Travel times are rough and from general knowledge {verify}.
 | Car-Free Morning special edition (if paid) | early-bird entry {verify} | |
 | Central Market batik painting | about RM10–40 {verify} | |
 | Farm In The City | TBD | |
+| Titiwangsa paddle boat (30 min) | about RM15 adult / RM10 child {verify} | |
 | Immersify Kuala Lumpur | about RM88 adult / RM55 child (non-Malaysian) {verify} | |
 | Berjaya Times Square Theme Park | about RM90 adult / RM75 child (non-Malaysian) {verify} | |
 | Snacks inside the park (no outside food) | TBD | |

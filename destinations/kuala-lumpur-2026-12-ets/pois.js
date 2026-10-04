@@ -13,7 +13,7 @@ window.TRIP_MAP = {
     5: "Easy day",
     6: "Car-Free Morning, Merdeka & Central Market",
     7: "Farm",
-    8: "Immersify & last shopping",
+    8: "Titiwangsa paddle boats & Immersify",
     9: "Home"
   },
   // Areas / districts: approximate circles to show where each area is (toggle "Areas / districts")
@@ -32,6 +32,7 @@ window.TRIP_MAP = {
     { name: "Mid Valley / Bangsar South", note: "Big malls with hotels; highway access", center: [3.1150, 101.6710], km: 1.0 },
     { name: "Mont Kiara", note: "Expat area, serviced apartments", center: [3.1700, 101.6520], km: 1.2 },
     { name: "Mutiara Damansara (PJ)", note: "KidZania, The Curve, IKEA; MRT Kajang Line", center: [3.1570, 101.6120], km: 1.2 },
+    { name: "Titiwangsa", note: "Lake gardens with paddle boats (Day 8); end of the monorail", center: [3.1800, 101.7050], km: 0.9 },
     { name: "Ampang", note: "KL's eastern edge", center: [3.2000, 101.7550], km: 2.0 },
     { name: "Seri Kembangan", note: "Farm In The City; south of KL", center: [3.0200, 101.7100], km: 2.5 },
     { name: "Cheras / Sungai Long", note: "Monkeys Canopy Resort; south-east", center: [3.0500, 101.7900], km: 3.0 },
@@ -54,6 +55,7 @@ window.TRIP_MAP = {
     { day: 4, name: "KL Bird Park", time: "2–2.5 h", type: "animals", note: "Free-flight aviary", lat: 3.1430, lng: 101.6880 },
     { day: 6, name: "Dataran Merdeka", time: "45 min–1 h", type: "sight", note: "Merdeka Square, Sultan Abdul Samad Building, KL City Gallery; near the Planetarium", query: "Dataran Merdeka Kuala Lumpur", lat: 3.1478, lng: 101.6934 },
     { day: 6, name: "Dataran DBKL (KL Car-Free Morning)", time: "7–9am, Sundays", type: "sight", note: "Sun 6 Dec, 7–9am: start and finish of the car-free morning (special edition)", query: "Dataran DBKL Jalan Raja Laut", lat: 3.1545, lng: 101.6962 },
+    { day: 8, name: "White & Black Aquasports (Titiwangsa Lake)", time: "1–1.5 h", type: "sight", note: "Paddle boats and kayaks on Titiwangsa Lake; closed Mondays; monorail to Titiwangsa", query: "White N Black Aquasports Titiwangsa", lat: 3.1790, lng: 101.7060 },
     { day: 8, name: "Immersify Kuala Lumpur", time: "1.5–2 h", type: "museum", note: "Digital media-art gallery, 11 immersive zones; The Labs, BBCC; 10am–10pm", query: "Immersify Kuala Lumpur The Labs BBCC", lat: 3.1415, lng: 101.7030 },
   ],
   // Walking routes, drawn as lines. The walkway is hand-traced (klcc_traced.kml) as separate segments (approximate).

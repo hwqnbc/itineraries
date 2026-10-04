@@ -89,6 +89,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-03 | Grab timing from Bukit Bintang added to Practical info (times to avoid, best windows, per-day table) | You asked when to avoid peak traffic |
 | 2026-10-03 | Day 4: Bird Park first (morning, outdoors), then the Planetarium (afternoon, indoors); Butterfly Park dropped; back by MRT from Muzium Negara | Your choice; cooler and birds more active in the morning, indoor dome for the afternoon heat and storms |
 | 2026-10-03 | Zoo Negara excluded from both KL trips; ETS Day 8 is now Immersify & last shopping (walkable, light last day) | Not easy without a car (Grab only, uncertain ride back at closing) and far from the car trip's southern base |
+| 2026-10-04 | Day 8: Titiwangsa paddle boats (White & Black Aquasports) at 10am by monorail, then Immersify in the afternoon | You asked; direct monorail from Bukit Bintang, closed Mondays, outdoor so before the afternoon storms. Not the car trip: north of the city, across KL from a southern base |
 
 ## Open questions
 - Check his height: many Times Square rides need 120 cm, some 140 cm {verify}.
@@ -102,5 +103,6 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 - KidZania Kuala Lumpur — general info (hours): https://www.kidzania.com.my/generalinfo
 - Berjaya Times Square Theme Park — buy tickets: https://berjayatimessquarethemeparkkl.com/buy-online/ (hours, rules and reseller prices from search results; the site was not reachable from here)
 - Immersify Kuala Lumpur: https://immersifykl.com/ (hours and prices from search results)
+- White & Black Aquasports (Titiwangsa): hours and prices from search results, e.g. airial.travel and malaysia-traveller.com/titiwangsa-lake-gardens.html
 - Space & Time Cube Malaysia — https://spaceandtimecube.com.my/
 - KTM ETS — official KTM Berhad website (check the timetable and JB Sentral services)
