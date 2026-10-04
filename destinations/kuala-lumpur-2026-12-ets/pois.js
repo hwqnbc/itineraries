@@ -54,7 +54,7 @@ window.TRIP_MAP = {
     { day: 3, name: "Berjaya Times Square Theme Park", time: "2–4 h", type: "theme-park", note: "Indoor theme park in the mall; weekdays 12–9pm; no re-entry, no outside food", query: "Berjaya Times Square Theme Park", lat: 3.1422, lng: 101.7106 },
     { day: 6, name: "Dataran Merdeka", time: "45 min–1 h", type: "sight", note: "Merdeka Square, Sultan Abdul Samad Building, KL City Gallery; near the Planetarium", query: "Dataran Merdeka Kuala Lumpur", lat: 3.1478, lng: 101.6934 },
     { day: 6, name: "Dataran DBKL (KL Car-Free Morning)", time: "7–9am, Sundays", type: "sight", note: "Sun 6 Dec, 7–9am: start and finish of the car-free morning (special edition)", query: "Dataran DBKL Jalan Raja Laut", lat: 3.1545, lng: 101.6962 },
-    { day: 8, name: "White & Black Aquasports (Titiwangsa Lake)", time: "1–1.5 h", type: "sight", note: "Paddle boats and kayaks on Titiwangsa Lake; closed Mondays; monorail to Titiwangsa", query: "White N Black Aquasports Titiwangsa", lat: 3.1790, lng: 101.7060 },
+    { day: 8, name: "White & Black Aquasports (Titiwangsa Lake)", time: "1–1.5 h", type: "sight", note: "Paddle boats and kayaks on Titiwangsa Lake; closed Mondays; about 1 h door to door by monorail, or 15–25 min by Grab", query: "White N Black Aquasports Titiwangsa", lat: 3.1790, lng: 101.7060 },
     { day: 8, name: "Immersify Kuala Lumpur", time: "1.5–2 h", type: "museum", note: "Digital media-art gallery, 11 immersive zones; The Labs, BBCC; 10am–10pm", query: "Immersify Kuala Lumpur The Labs BBCC", lat: 3.1415, lng: 101.7030 },
   ],
   // Walking routes, drawn as lines. The walkway is hand-traced (klcc_traced.kml) as separate segments (approximate).
