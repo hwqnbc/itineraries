@@ -13,7 +13,7 @@ Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026
 | Causeway | Same crossing either way; the RTS Link (due around end-2026 {verify}) would help both | Same |
 | City days (Aquaria, Petrosains, Planetarium, Space & Time Cube) | **Walk** via the KLCC–Bukit Bintang walkway and to Lot 10; Grab to the Planetarium | Grab (car stays parked) |
 | Farm In The City | Grab, or MRT + a short Grab {verify} | Day 7 · Mon 7 Dec, school holidays: go at opening (closed Tuesdays in term time only) |
-| Theme-park day | **Berjaya Times Square Theme Park** (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
+| Theme-park day | **GAMEON Ninja Village** at The Labs, BBCC (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
 | Paya Indah Wetlands | Not practical (Grab back unreliable) | Car trip, late Dec (to plan) |
 | Shah Alam (museum, SkyCity, i-City) | Car only (your choice): Grab is possible but long, with a late return | ✅ Day 5 |
 | Hotel | Bukit Bintang: cheaper than KLCC, more mid-range choice {verify} | Must have a car park and highway access; parking costs extra {verify} |
@@ -35,7 +35,8 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | Planetarium Negara | No: flat price | Shows about RM12 adult / RM8 child; the gallery is free {verify} | Day 4 · Fri 4 Dec (closed Mon & public holidays) |
 | Space & Time Cube | Not found {verify} | — | Day 3 · Thu 3 Dec |
 | Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 7 · Mon 7 Dec, school holidays: go at opening (closed Tuesdays in term time only) |
-| Berjaya Times Square Theme Park | Not found; longer hours at weekends and in school holidays {verify} | Resellers list about RM90 adult / RM75 child for non-Malaysians; no re-entry, no outside food {verify} | Day 3 · Thu 3 Dec ✅ term-time weekday |
+| GAMEON Ninja Village (The Labs, BBCC) | Not found {verify} | About RM68 per person + grip socks; daily 12–8pm (you checked) | Day 3 · Thu 3 Dec ✅ term-time weekday |
+| Berjaya Times Square Theme Park (swap-in) | Not found; longer hours at weekends and in school holidays {verify} | Resellers list about RM90 adult / RM75 child for non-Malaysians; no re-entry, no outside food {verify} | Day 3 · Thu 3 Dec ✅ term-time weekday |
 | Immersify Kuala Lumpur | Not found {verify} | About RM88 adult / RM55 child (non-Malaysian) {verify} | Day 8 · Tue 8 Dec, school holidays |
 | White & Black Aquasports (Titiwangsa) | Not found; weekend hours differ {verify} | Paddle boat about RM15 adult / RM10 child per 30 min {verify} | Day 8 · Tue 8 Dec, school holidays (closed Mondays) |
 | ~~KidZania KL~~ | **Dynamic pricing**: cheaper the earlier you book (you found) | **Dropped**: adults pay with nothing to do, and no re-entry | — |
@@ -45,7 +46,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | SkyCity / i-City | Not found; longer hours at weekends {verify} | SkyCity about RM55 adult / RM45 child (international); i-City about RM15 adult / RM35 child {verify} | Car trip, late Dec (to plan) |
 | Hotels, ETS, car rental | Usually dearer at weekends and in school holidays {verify} | Nights Mon–Fri are the cheapest part of this window | ETS trip: 8 nights, Tue–Wed, including a Fri and Sat |
 
-**If prices turn out the same all through December** (e.g. the farm, Space & Time Cube), going after 5 Dec is fine for those places. What matters most is Aquaria (Wed 2 Dec) and the Times Square theme park (Thu 3 Dec); check their date calendars when booking.
+**If prices turn out the same all through December** (e.g. the farm, Space & Time Cube), going after 5 Dec is fine for those places. What matters most is Aquaria (Wed 2 Dec) and the ninja park (Thu 3 Dec); check their date calendars when booking.
 
 ## Research & options
 - **Shortlist (from you):** Aquaria KLCC, Petrosains Discovery Centre, Space & Time Cube (Lot 10, Bukit Bintang), Farm In The City, Monkeys Canopy Resort (Sungai Long, Cheras; **drive version only**), Berjaya Times Square Theme Park (**ETS version**). **Not going:** Genting, Sunway Lagoon, KidZania (dropped 29 Sep).
@@ -100,9 +101,10 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-05 | KL Car-Free Morning dropped (needs registration); Day 6 is now Merdeka Square → Masjid Jamek → Central Market, by MRT to Pasar Seni from about 9:00 | Your choice |
 | 2026-10-05 | KL Forest Eco Park dropped (paid; reviews mention poor toilets); the KLCC walk now just passes Bukit Nanas | Your choice |
 | 2026-10-05 | Peak-pricing table: Immersify and Titiwangsa paddle boats added; trip page links jump straight to it | You couldn't find where peak pricing was listed |
+| 2026-10-05 | Day 3: GAMEON Ninja Village @ The Labs (BBCC) replaces Berjaya Times Square Theme Park, which becomes a swap-in | Your choice: active obstacle park the whole family can do, newer and cheaper for 3 (about RM204 vs RM255); open daily 12–8pm |
 
 ## Open questions
-- Check his height: many Times Square rides need 120 cm, some 140 cm {verify}.
+- GAMEON Ninja Village: age/height rules per trial, waiver, re-entry and outside food {verify}.
 - Car trip (late Dec): plan after the ETS trip; consider a southern base (Putrajaya / Cyberjaya / Seri Kembangan) now that it has no city days.
 - Check Aquaria's peak calendar for Wed 2 Dec, and the farm's one-day pass page for Mon 7 Dec.
 
@@ -110,6 +112,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 - KLCC–Bukit Bintang walkway and area comparison: kualalumpurcity.my/bukit-bintang-vs-klcc/, travelfoodexpert.com/bukit-bintang-vs-klcc/
 - Monkeys Canopy — https://monkeyscanopy.com
 - KidZania Kuala Lumpur — general info (hours): https://www.kidzania.com.my/generalinfo
+- GAMEON Ninja Park: https://gameonthemepark.com/ninja-park/ (hours from your ticket check; price from a 2026 review)
 - Berjaya Times Square Theme Park — buy tickets: https://berjayatimessquarethemeparkkl.com/buy-online/ (hours, rules and reseller prices from search results; the site was not reachable from here)
 - Immersify Kuala Lumpur: https://immersifykl.com/ (hours and prices from search results)
 - White & Black Aquasports (Titiwangsa): hours and prices from search results, e.g. airial.travel and malaysia-traveller.com/titiwangsa-lake-gardens.html

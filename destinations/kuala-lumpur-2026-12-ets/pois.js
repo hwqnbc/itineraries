@@ -8,7 +8,7 @@ window.TRIP_MAP = {
   days: {
     1: "Travel to KL",
     2: "KLCC: Aquaria & Petrosains",
-    3: "Times Square theme park & Space & Time Cube",
+    3: "GAMEON Ninja Village & Space & Time Cube",
     4: "Planetarium (half day)",
     5: "Easy day",
     6: "Merdeka Square, Masjid Jamek & Central Market",
@@ -50,7 +50,8 @@ window.TRIP_MAP = {
     { day: 6, name: "Central Market (Pasar Seni)", time: "2–3 h, or longer", type: "sight", note: "Crafts and batik hall; DIY batik painting; food court; Kasturi Walk; 10am–10pm", query: "Central Market Kuala Lumpur", lat: 3.1456, lng: 101.6955 },
     { day: 3, name: "Space & Time Cube", time: "1–2 h", type: "museum", note: "Immersive 3D experience in Lot 10, Bukit Bintang", query: "Space and Time Cube Lot 10 Kuala Lumpur", lat: 3.1466, lng: 101.7121 },
     { day: 7, name: "Farm In The City", time: "3–4 h", type: "animals", note: "Petting and feeding farm — go at opening", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
-    { day: 3, name: "Berjaya Times Square Theme Park", time: "2–4 h", type: "theme-park", note: "Indoor theme park in the mall; weekdays 12–9pm; no re-entry, no outside food", query: "Berjaya Times Square Theme Park", lat: 3.1422, lng: 101.7106 },
+    { day: 3, name: "GAMEON Ninja Village @ The Labs", time: "2–3 h", type: "theme-park", note: "Indoor ninja obstacle park, archery, climbing; daily 12–8pm; grip socks needed", query: "GAMEON Ninja Park The Labs BBCC", lat: 3.1418, lng: 101.7025 },
+    { day: "opt", name: "Berjaya Times Square Theme Park", time: "2–4 h", type: "theme-park", note: "Indoor theme park in the mall; weekdays 12–9pm; no re-entry, no outside food", query: "Berjaya Times Square Theme Park", lat: 3.1422, lng: 101.7106 },
     { day: 6, name: "Dataran Merdeka", time: "45 min–1 h", type: "sight", note: "Merdeka Square, Sultan Abdul Samad Building, KL City Gallery; near the Planetarium", query: "Dataran Merdeka Kuala Lumpur", lat: 3.1478, lng: 101.6934 },
     { day: 8, name: "White & Black Aquasports (Titiwangsa Lake)", time: "1–1.5 h", type: "sight", note: "Paddle boats and kayaks on Titiwangsa Lake; closed Mondays; about 1 h door to door by monorail, or 15–25 min by Grab", query: "White N Black Aquasports Titiwangsa", lat: 3.1790, lng: 101.7060 },
     { day: 8, name: "Immersify Kuala Lumpur", time: "1.5–2 h", type: "museum", note: "Digital media-art gallery, 11 immersive zones; The Labs, BBCC; 10am–10pm", query: "Immersify Kuala Lumpur The Labs BBCC", lat: 3.1415, lng: 101.7030 },
