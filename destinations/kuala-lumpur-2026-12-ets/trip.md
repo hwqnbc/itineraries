@@ -69,7 +69,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Train:** **ETS 11:25 JB Sentral → 15:35 KL Sentral** (about 4 h 10 min). Bring lunch and snacks for the train {verify}.
 - **Afternoon:** Grab to Bukit Bintang (10–15 minutes), or the MRT the other way (walkway to Muzium Negara, then the Kajang Line 3 stops to Bukit Bintang) {verify}, and check in by about 4:30pm.
 - **Evening:** An easy walk around Pavilion and Bukit Bintang.
-- **Food:** **Jalan Alor** street food (⏱ 1–1.5 h), a short walk from Pavilion, or one of Pavilion's cafés {verify}.
+- **Food:** **Jalan Alor** street food (⏱ 1–1.5 h), about 5 minutes' walk from the hotel, or one of Pavilion's cafés {verify}.
 - **Shopping:** **Pavilion KL**, next to the hotel area, has clothes and accessories for a first look {verify}.
 
 ### Day 2 · Wed 2 Dec · Walk to KLCC: Aquaria & Petrosains 🐠
@@ -82,7 +82,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Shopping:** Suria KLCC's fashion and accessories floors are right there. One adult can browse while the other takes him to the KLCC Park playground.
 
 ### Day 3 · Thu 3 Dec · Times Square Theme Park & Space & Time Cube 🎢🚀
-- **Getting there:** Walk from Pavilion, about 10–15 minutes, or take the KL Monorail to **Imbi** station, which links to Berjaya Times Square {verify}. No Grab needed today.
+- **Getting there:** **Walk** from the hotel, about 10–15 minutes (roughly 700–900 m along Jalan Bukit Bintang and Jalan Imbi) {verify}. If it's pouring, the KL Monorail goes one stop from Bukit Bintang to **Imbi**, which links to Berjaya Times Square {verify}. No Grab needed today.
 - **Morning:** A slow start, with a café breakfast or a rest at the hotel: on weekdays the park opens at **12pm** (11am at weekends and in school and public holidays), and closes at 9pm {verify}.
 - **Lunch:** An early lunch in the Berjaya Times Square mall **before** going in. There's no re-entry and no outside food (see below).
 - **Afternoon:** [Berjaya Times Square Theme Park](map:Berjaya+Times+Square+Theme+Park) (⏱ 2–4 h), a big indoor theme park inside the mall, so it's dry and air-conditioned in December storms {verify}. It has two zones: **Galaxy Station**, with thrill rides, and **Fantasy Garden**, with gentler family rides and games {verify}. Many rides need a height of **120 cm**, and some need **140 cm** {verify}, so measure him before booking. The adults can ride too. A term-time weekday, so the shortest queues of the trip.
@@ -132,7 +132,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Getting back:** Grab, or walk back to Titiwangsa station for the monorail (about 45–60 minutes to the hotel) {verify}.
 - **Morning (10am):** [White & Black Aquasports](map:White+N+Black+Aquasports+Titiwangsa) at [Titiwangsa Lake Gardens](map:Taman+Tasik+Titiwangsa) (⏱ 1–1.5 h): **paddle boats and kayaks** on the lake, with views of the KLCC skyline {verify}. Life jackets are provided {verify}. Paddle boat or tandem kayak about **RM15 per adult and RM10 per child** for 30 minutes, ages 3–6 free; single kayak about RM20 for 30 minutes {verify}. **Closed on Mondays**; Tue–Thu 10am–7:15pm {verify}. Boating stops if there's lightning. There's a playground and a lakeside path too.
 - **Lunch:** around Bukit Bintang once you're back.
-- **Afternoon:** [Immersify Kuala Lumpur](map:Immersify+Kuala+Lumpur+The+Labs+BBCC) (⏱ 1.5–2 h), a permanent digital media-art gallery with 11 immersive zones of projections, 3D spatial sound and installations, at **The Labs, Bukit Bintang City Centre (BBCC)** {verify}. About 15 minutes' walk from Pavilion, or the monorail to Hang Tuah {verify}. Open daily 10am–10pm {verify}. Non-Malaysian tickets about RM88 per adult and RM55 per child aged 3–12 {verify}. Indoors, so it's fine if it storms. It's a similar idea to the Space & Time Cube (Day 3); if one was enough, have a rest afternoon instead.
+- **Afternoon:** [Immersify Kuala Lumpur](map:Immersify+Kuala+Lumpur+The+Labs+BBCC) (⏱ 1.5–2 h), a permanent digital media-art gallery with 11 immersive zones of projections, 3D spatial sound and installations, at **The Labs, Bukit Bintang City Centre (BBCC)** {verify}. About 10–15 minutes' walk from the hotel {verify}. Open daily 10am–10pm {verify}. Non-Malaysian tickets about RM88 per adult and RM55 per child aged 3–12 {verify}. Indoors, so it's fine if it storms. It's a similar idea to the Space & Time Cube (Day 3); if one was enough, have a rest afternoon instead.
 - **Evening:** Pack for tomorrow (check-out about 8:45am); a last dinner at Jalan Alor or Lot 10 Hutong. A last browse for Adult 2 at **Pavilion, Lot 10 or Fahrenheit88** {verify}.
 
 ### Day 9 · Wed 9 Dec · KL → Singapore by ETS 🧳
