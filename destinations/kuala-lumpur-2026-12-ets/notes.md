@@ -22,6 +22,8 @@ Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026
 
 **Summary:** the shortlist works fully by ETS, and the walkable Bukit Bintang base makes the city days easy. Driving adds Paya Indah and a Shah Alam day (and optionally Putrajaya), and makes Monkeys Canopy possible (a Grab back from there is hard to book), but brings traffic and parking.
 
+<a id="peak-pricing"></a>
+
 ## Peak pricing & dates
 
 Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places charge more in school holidays, public holidays and at weekends. The ETS trip (Tue 1 – Wed 9 Dec) puts the busiest, peak-priced places on the last **term-time weekdays, Wed 2 – Fri 4**, and the farm and sightseeing in the holidays, where crowds matter less. Prices are for non-Malaysians and change often {verify}.
@@ -34,6 +36,8 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | Space & Time Cube | Not found {verify} | — | Day 3 · Thu 3 Dec |
 | Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 7 · Mon 7 Dec, school holidays: go at opening (closed Tuesdays in term time only) |
 | Berjaya Times Square Theme Park | Not found; longer hours at weekends and in school holidays {verify} | Resellers list about RM90 adult / RM75 child for non-Malaysians; no re-entry, no outside food {verify} | Day 3 · Thu 3 Dec ✅ term-time weekday |
+| Immersify Kuala Lumpur | Not found {verify} | About RM88 adult / RM55 child (non-Malaysian) {verify} | Day 8 · Tue 8 Dec, school holidays |
+| White & Black Aquasports (Titiwangsa) | Not found; weekend hours differ {verify} | Paddle boat about RM15 adult / RM10 child per 30 min {verify} | Day 8 · Tue 8 Dec, school holidays (closed Mondays) |
 | ~~KidZania KL~~ | **Dynamic pricing**: cheaper the earlier you book (you found) | **Dropped**: adults pay with nothing to do, and no re-entry | — |
 | Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Car trip, late Dec (to plan) |
 | Paya Indah Wetlands | Not found {verify} | Closed Tuesdays except school and public holidays | Car trip, late Dec (to plan) |
@@ -95,6 +99,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-04 | Titiwangsa travel time corrected: about 1 h door to door by monorail (the old 15–20 min was train time only); Grab to the jetty about 15–25 min as the quicker option | You checked Google Maps |
 | 2026-10-05 | KL Car-Free Morning dropped (needs registration); Day 6 is now Merdeka Square → Masjid Jamek → Central Market, by MRT to Pasar Seni from about 9:00 | Your choice |
 | 2026-10-05 | KL Forest Eco Park dropped (paid; reviews mention poor toilets); the KLCC walk now just passes Bukit Nanas | Your choice |
+| 2026-10-05 | Peak-pricing table: Immersify and Titiwangsa paddle boats added; trip page links jump straight to it | You couldn't find where peak pricing was listed |
 
 ## Open questions
 - Check his height: many Times Square rides need 120 cm, some 140 cm {verify}.

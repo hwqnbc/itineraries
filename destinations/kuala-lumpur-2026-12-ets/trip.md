@@ -61,7 +61,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Mid Valley**: worth a look if you want a mall-connected hotel for rainy December afternoons.
 
 ## 🗓️ Day-by-day {#days}
-**How the days are ordered:** the busiest, peak-priced places (Aquaria, Petrosains, the theme park, Space & Time Cube, the Planetarium) are on **Wed 2 – Fri 4 Dec**, the last term-time weekdays before Malaysia's school holidays. The weekend and the holiday days (Sat 5 – Tue 8) get sightseeing, the farm and the lake, where crowds matter less: they're outdoors and spread out, with no ride queues. Go at opening anyway.
+**How the days are ordered:** the busiest, peak-priced places (Aquaria, Petrosains, the theme park, Space & Time Cube, the Planetarium) are on **Wed 2 – Fri 4 Dec**, the last term-time weekdays before Malaysia's school holidays. The weekend and the holiday days (Sat 5 – Tue 8) get sightseeing, the farm and the lake, where crowds matter less: they're outdoors and spread out, with no ride queues. Go at opening anyway. Which places have peak pricing: see [peak pricing by place](notes.md#peak-pricing).
 
 ### Day 1 · Tue 1 Dec · Singapore → KL by ETS 🧳
 - **Luggage:** It's with you across the Causeway and on the train; Grab from KL Sentral to the hotel.
@@ -191,7 +191,7 @@ Travel times are rough and from general knowledge {verify}.
 | Food | TBD | |
 
 ## ℹ️ Practical info {#practical}
-- **Dates & prices:** **Tue 1 – Wed 9 Dec 2026**. Malaysia's school holidays start after 5 Dec, so the busiest, peak-priced places are on the last term-time weekdays, **Wed 2 – Fri 4** (e.g. Aquaria's off-peak tickets {verify}). The farm (Mon 7) is in the holidays: go at opening. Tue 8 is a light, walkable last day. Monday's farm day also avoids the Planetarium's and Petrosains' Monday closures. Singapore's school holidays are on throughout, so expect Causeway queues. Details: [peak pricing by place](notes.md).
+- **Dates & prices:** **Tue 1 – Wed 9 Dec 2026**. Malaysia's school holidays start after 5 Dec, so the busiest, peak-priced places are on the last term-time weekdays, **Wed 2 – Fri 4** (e.g. Aquaria's off-peak tickets {verify}). The farm (Mon 7) is in the holidays: go at opening. Tue 8 is a light, walkable last day. Monday's farm day also avoids the Planetarium's and Petrosains' Monday closures. Singapore's school holidays are on throughout, so expect Causeway queues. Details: [peak pricing by place](notes.md#peak-pricing).
 - **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Outdoor places (the farm) are best in the morning; the walkway and indoor attractions keep you dry in the afternoon.
 - **Crowds:** from Sat 5 Dec both countries are on school holidays: the Causeway and the attractions are busiest at weekends and around Christmas and New Year. That's why Sat 5 is the rest day.
 - **Grab:** easy in the city and suburbs. Queues and surge prices build during storms and at 5–8pm. Remote hilltop places (like Monkeys Canopy) can be hard to get a Grab back from, which is why this plan skips it.
