@@ -33,6 +33,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-10-01 | On hold: re-plan for late December after the ETS city trip; outskirts only (start: 2026-12-20 is a placeholder so it sorts after the ETS trip) | The ETS trip (1–9 Dec) now covers the city |
 | 2026-10-03 | Zoo Negara removed from the swap-ins | Far from a southern base, across the city; not easy on either trip |
 | 2026-10-04 | KL Bird Park removed from the swap-ins | Not going |
+| 2026-10-05 | KL Car-Free Morning and KL Forest Eco Park removed | Not going (registration needed; paid, poor toilets) |
 
 ## Open questions
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)

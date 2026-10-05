@@ -41,7 +41,6 @@ window.TRIP_MAP = {
     { day: 3, name: "KLCC Park", time: "about 1 h", type: "sight", note: "Playground and fountain show at dusk", lat: 3.1545, lng: 101.7150 },
     { day: 4, name: "Planetarium Negara", time: "1.5–2 h, including a dome show", type: "museum", note: "National Planetarium: free gallery, hourly dome shows 10am–4pm; closed Mondays & public holidays", query: "Planetarium Negara Kuala Lumpur", lat: 3.1394, lng: 101.6886 },
     { day: 4, name: "Space & Time Cube", time: "1–2 h", type: "museum", note: "Immersive 3D experience in Lot 10, Bukit Bintang", query: "Space and Time Cube Lot 10 Kuala Lumpur", lat: 3.1466, lng: 101.7121 },
-    { day: 4, name: "KL Forest Eco Park", time: "1–1.5 h", type: "sight", note: "Optional canopy walk; monkeys", lat: 3.1510, lng: 101.7030 },
     { day: 2, name: "Farm In The City", time: "3–4 h", type: "animals", note: "Petting and feeding farm — go at opening", query: "Farm In The City Seri Kembangan", lat: 3.0060, lng: 101.7130 },
     { day: 2, name: "Paya Indah Wetlands", time: "2–3 h", type: "animals", note: "Hippos, crocodiles, birds — afternoon", query: "Paya Indah Wetlands Dengkil", lat: 2.8700, lng: 101.6180 },
     { day: 5, name: "Sultan Alam Shah Museum", time: "1.5–2 h", type: "museum", note: "Selangor state museum; closed Mondays, Friday break 12:30–2:45pm", query: "Muzium Sultan Alam Shah Shah Alam", lat: 3.0730, lng: 101.5190 },
@@ -52,6 +51,5 @@ window.TRIP_MAP = {
     { day: "opt", name: "Putra Mosque", time: "30–45 min", type: "sight", note: "Putrajaya's pink mosque; Fridays closed to visitors until mid-afternoon", query: "Putra Mosque Putrajaya", lat: 2.9360, lng: 101.6897 },
     { day: "opt", name: "Cruise Tasik Putrajaya", time: "45 min", type: "sight", note: "Lake cruise from the jetty by Putra Mosque", query: "Cruise Tasik Putrajaya", lat: 2.9352, lng: 101.6918 },
     { day: "opt", name: "Dataran Merdeka", time: "45 min–1 h", type: "sight", note: "Merdeka Square, Sultan Abdul Samad Building, KL City Gallery; near the Planetarium", query: "Dataran Merdeka Kuala Lumpur", lat: 3.1478, lng: 101.6934 },
-    { day: "opt", name: "Dataran DBKL (KL Car-Free Morning)", time: "7–9am, Sundays", type: "sight", note: "Start and finish of the Sunday car-free morning; route changes by week", query: "Dataran DBKL Jalan Raja Laut", lat: 3.1545, lng: 101.6962 },
   ]
 };

@@ -6,14 +6,14 @@ status: planning
 start: 2026-12-01
 dates: Tue 1 – Wed 9 Dec 2026 · 9 days
 card: 1 – 9 Dec 2026 · 9 days · ETS train, Bukit Bintang base
-tagline: KL's city sights: Aquaria, Petrosains, Planetarium, indoor theme park, car-free Sunday, petting farm, lake paddle boats
+tagline: KL's city sights: Aquaria, Petrosains, Planetarium, indoor theme park, Merdeka Square, petting farm, lake paddle boats
 participants: default-family
 country: malaysia
 weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel area
 currency: MYR
-updated: 2026-10-04
+updated: 2026-10-05
 ---
-The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **Berjaya Times Square Theme Park**, **Space & Time Cube**, the **Planetarium**, the **KL Car-Free Morning**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
+The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **Berjaya Times Square Theme Park**, **Space & Time Cube**, the **Planetarium**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
 
 > Planning: ETS times chosen. The later car trip is **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)** (draft); the comparison is in **[Drive vs ETS](notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
@@ -50,7 +50,7 @@ Travel times are rough and from general knowledge {verify}.
 | Day 3: Space & Time Cube (Lot 10) | **Walk next door** | Monorail or MRT, a few stops | Walkway or short Grab | MRT 1 stop, or short Grab | Grab | MRT direct, 2 stops |
 | Day 7: Farm In The City | Grab 30–45 min | Grab 30–45 min | Grab 30–45 min | Grab; the MRT Putrajaya Line may also get close {verify} | Grab 25–40 min | Grab 30–45 min |
 | Day 3: Berjaya Times Square | **Walk** 10–15 min, or monorail to Imbi | **Monorail direct** to Imbi {verify} | Walkway to Pavilion, then walk; or short Grab | Walk or short Grab | Grab, or KTM + monorail | MRT to Bukit Bintang, then walk |
-| Day 6: Car-Free Morning, Merdeka, Central Market | Grab 10 min; MRT back, 2 stops | **Close**; LRT 1 stop | Grab 10–15 min | MRT direct | Grab 10–15 min | **Walk** |
+| Day 6: Merdeka Square, Central Market | MRT 2 stops to Pasar Seni, both ways | **Close**; LRT 1 stop | Grab 10–15 min | MRT direct | Grab 10–15 min | **Walk** |
 | Evenings & food | **Best**: Pavilion, Jalan Alor | NU Sentral mall downstairs; quieter | Suria KLCC, park fountain | TRX mall, new and quiet | Mid Valley & The Gardens malls (great on rainy days) | Central Market, Petaling Street; busier and older |
 | Hotels | Widest range, often cheapest {verify} | Good-value mid-range {verify} | Mostly upscale {verify} | Few, newer, upscale {verify} | Mall-linked mid-range {verify} | Budget to mid, older buildings {verify} |
 | Watch out | Busy and noisy; Grab crawls in traffic | Less to walk to in the evening | Price | Limited choice; area still developing | Not walkable to any sight | Street-level walking with a child; fewer family hotels |
@@ -61,7 +61,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Mid Valley**: worth a look if you want a mall-connected hotel for rainy December afternoons.
 
 ## 🗓️ Day-by-day {#days}
-**How the days are ordered:** the busiest, peak-priced places (Aquaria, Petrosains, the theme park, Space & Time Cube, the Planetarium) are on **Wed 2 – Fri 4 Dec**, the last term-time weekdays before Malaysia's school holidays. The weekend and the holiday days (Sat 5 – Tue 8) get the car-free Sunday, sightseeing and the animal days, where crowds matter less: they're outdoors and spread out, with no ride queues. Go at opening anyway.
+**How the days are ordered:** the busiest, peak-priced places (Aquaria, Petrosains, the theme park, Space & Time Cube, the Planetarium) are on **Wed 2 – Fri 4 Dec**, the last term-time weekdays before Malaysia's school holidays. The weekend and the holiday days (Sat 5 – Tue 8) get sightseeing, the farm and the lake, where crowds matter less: they're outdoors and spread out, with no ride queues. Go at opening anyway.
 
 ### Day 1 · Tue 1 Dec · Singapore → KL by ETS 🧳
 - **Luggage:** It's with you across the Causeway and on the train; Grab from KL Sentral to the hotel.
@@ -102,19 +102,17 @@ Travel times are rough and from general knowledge {verify}.
 
 ### Day 5 · Sat 5 Dec · Easy day: shopping, Christmas lights ☀️
 - **Why:** after four busy days, a rest day with nothing booked. It's a Saturday, when the attractions are at their busiest.
-- **Morning:** A slow breakfast, or the [KL Forest Eco Park](map:KL+Forest+Eco+Park) (⏱ 1–1.5 h) canopy walk on Bukit Nanas, 5 minutes by Grab {verify}, with monkeys and KL Tower views; go early, before it's hot. Or start the **KLCC walk** from here (see swap-ins).
+- **Morning:** A slow breakfast, or the **KLCC walk** towards the old town (see swap-ins); start early, before it's hot.
 - **Afternoon:** Rest at the hotel, or catch up on anything skipped (e.g. Space & Time Cube).
 - **Evening:** Christmas decorations in Pavilion and the KLCC area {verify}.
 - **Food:** A café morning and a relaxed dinner near the hotel.
 - **Shopping:** A proper shopping afternoon for Adult 2 at **Pavilion, Lot 10 and Fahrenheit88**, while the others take a break at the hotel or a café.
-- **Early night:** Day 6 starts at about 6:30am.
 
-### Day 6 · Sun 6 Dec · Car-Free Morning, Merdeka Square & Central Market 🚲🎨
-- **Early morning:** **KL Car-Free Morning**: the city closes a loop of roads to cars **every Sunday, 7–9am** for walking, running and cycling {verify}. It starts and finishes at [Dataran DBKL](map:Dataran+DBKL+Jalan+Raja+Laut) on Jalan Raja Laut. **6 Dec is a special edition** with an extended route and a paid early-bird entry {verify}: check whether a free walk-in is still allowed, and register early if not. Grab there by about 6:45am (roads close at 7am) {verify}. Walk as much as he likes; you don't have to finish the loop.
-    - **Route:** it changes by week. On the 1st and 3rd Sundays it's about 7 km; on the 2nd, 4th and 5th it's about 5 km {verify}. Search results list Jalan Raja Laut, Jalan Sultan Ismail, Jalan P. Ramlee, Jalan Ampang, Bukit Nanas, Jalan Dang Wangi and Jalan Tuanku Abdul Rahman, passing Dataran Merdeka, the Sultan Abdul Samad Building and Masjid Jamek; check the official route map for your Sunday {verify}.
-- **Then:** [Dataran Merdeka](map:Dataran+Merdeka+Kuala+Lumpur) (Merdeka Square; ⏱ 45 min–1 h), next to the start: the square where independence was declared in 1957, with the **Sultan Abdul Samad Building** opposite and the KL City Gallery (and its "I ❤ KL" sign) {verify}. Breakfast nearby.
+### Day 6 · Sun 6 Dec · Merdeka Square, Masjid Jamek & Central Market 🏛️🎨
+- **Getting there:** **MRT Kajang Line** from Bukit Bintang to **Pasar Seni**, 2 stops, about 5 minutes on the train {verify}. Leave about 9:00, after a slow breakfast; it's a Sunday, so the old town is quiet early on.
+- **Morning (9:30):** Walk about 700 m to [Dataran Merdeka](map:Dataran+Merdeka+Kuala+Lumpur) (Merdeka Square; ⏱ 45 min–1 h): the square where independence was declared in 1957, with the **Sultan Abdul Samad Building** opposite and the KL City Gallery (and its "I ❤ KL" sign) {verify}. It's open and unshaded, so go before it's hot.
 - **Mid-morning:** Walk about 300 m to [Masjid Jamek & River of Life](map:Masjid+Jamek+Sultan+Abdul+Samad) (⏱ 30–45 min), the old mosque where the two rivers meet, with the "Blue Pool" riverside promenade {verify}.
-- **From 10am:** About 700 m on to [Central Market](map:Central+Market+Kuala+Lumpur) (Pasar Seni; ⏱ 2–3 h, or longer if you're enjoying it), an air-conditioned 1930s Art Deco hall of Malaysian crafts, batik and souvenirs, open daily 10am–10pm, free to enter {verify}.
+- **From about 10:30:** About 700 m on to [Central Market](map:Central+Market+Kuala+Lumpur) (Pasar Seni; ⏱ 2–3 h, or longer if you're enjoying it), an air-conditioned 1930s Art Deco hall of Malaysian crafts, batik and souvenirs, open daily 10am–10pm, free to enter {verify}.
 - **Batik painting:** he can colour in his own batik at the DIY batik stalls, about RM10–40 depending on size, from about an hour {verify}. A good sit-down, air-conditioned activity as it gets hot.
 - **Getting back:** **MRT Kajang Line** from Pasar Seni to Bukit Bintang, 2 stops, about 5 minutes {verify}, or Grab. Afternoon rest.
 - **Evening (optional):** back to Masjid Jamek for the River of Life lights and mist after dark {verify}, if he's still keen.
@@ -152,7 +150,7 @@ Travel times are rough and from general knowledge {verify}.
 
 ### Swap-in options
 - **Walk: KLCC → Central Market** (🚶 on the map, a toggle of its own; about 3–3.5 km; ⏱ 1–1.5 h walking at a child's pace, 2–3 h with stops {verify}). The route is approximate: follow Google Maps walking directions.
-    1. **KLCC → [KL Forest Eco Park](map:KL+Forest+Eco+Park)** (about 1 km along Jalan P. Ramlee and Jalan Raja Chulan), then the **canopy walk** through the rainforest on Bukit Nanas, with monkeys and KL Tower views. There are stairs and slopes {verify}.
+    1. **KLCC → past Bukit Nanas** (about 1 km along Jalan P. Ramlee and Jalan Raja Chulan), skipping the paid KL Forest Eco Park canopy walk; the forest through the rainforest on Bukit Nanas, with monkeys and KL Tower views. There are stairs and slopes {verify}.
     2. **Down to [Masjid Jamek & River of Life](map:Masjid+Jamek+Sultan+Abdul+Samad)** (⏱ 30–45 min; about 1 km): the old mosque where the two rivers meet, and the "Blue Pool" riverside promenade, with lights and mist in the evening {verify}.
     3. **[Dataran Merdeka](map:Dataran+Merdeka+Kuala+Lumpur)** (about 300 m), then **[Central Market](map:Central+Market+Kuala+Lumpur)** (about 700 m).
     - **When to go (options):** **Day 5** (Sat), the easy day: start at KLCC by about 9am and stop at Bukit Nanas or Masjid Jamek if it gets hot; or **Day 2** after Petrosains, ending at the River of Life at dusk (long after two attractions). Day 6 already covers Merdeka Square, Masjid Jamek and Central Market.
@@ -168,7 +166,6 @@ Travel times are rough and from general knowledge {verify}.
 - [ ] Aquaria KLCC (off-peak, Wed 2 Dec) and Petrosains tickets
 - [ ] Space & Time Cube tickets (Lot 10)
 - [ ] Planetarium Negara dome show (pay on the day; Fri 4 Dec) {verify}
-- [ ] KL Car-Free Morning special edition (Sun 6 Dec): check whether registration or the early-bird entry is needed {verify}
 - [ ] Immersify tickets (Tue 8 Dec)
 - [ ] Titiwangsa paddle boats: pay on the spot (Tue 8 Dec; closed Mondays) {verify}
 - [ ] Farm In The City tickets
@@ -184,7 +181,6 @@ Travel times are rough and from general knowledge {verify}.
 | Aquaria KLCC + Petrosains | TBD | |
 | Space & Time Cube | TBD | |
 | Planetarium Negara show | about RM12 adult / RM8 child {verify} | |
-| Car-Free Morning special edition (if paid) | early-bird entry {verify} | |
 | Central Market batik painting | about RM10–40 {verify} | |
 | Farm In The City | TBD | |
 | Titiwangsa paddle boat (30 min) | about RM15 adult / RM10 child {verify} | |
@@ -210,7 +206,6 @@ Travel times are rough and from general knowledge {verify}.
 |---|---|---|
 | 1 · Tue | KL Sentral → hotel, about 3:45pm | ✅ before the evening rush |
 | 4 · Fri | Planetarium by MRT both ways (Grab up only if it's hot or raining, about 9:30am) | ✅ no traffic risk |
-| 6 · Sun | To Dataran DBKL, about 6:45am | ✅ empty roads; back by MRT |
 | 7 · Mon | Farm In The City at opening; back early afternoon | ✅ out of the city against the morning flow; back before 4:30pm |
 | 9 · Wed | Hotel → KL Sentral, about 9:00am | ⚠️ tail of the morning rush: allow 30 min, or take the MRT |
 
