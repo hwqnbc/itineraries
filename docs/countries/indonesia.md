@@ -44,6 +44,9 @@ Balinese Hindu holidays follow the Balinese calendars, so the dates move every y
 | Late Jun–Jul, late Sep–early Oct, Dec–Jan {verify} | Australian school holidays | Bali is very busy with families; book parks and hotels early |
 | Eid al-Fitr, about March 2027 {verify} | End of Ramadan (national holiday) | Domestic travel peak across Indonesia; Bali less affected |
 
+## Friday prayers
+Outside Bali (which is mostly Hindu), Indonesia is mostly Muslim: on Fridays around midday (roughly 11:30am–1pm), mosques are closed to visitors and some small shops and stalls close for a while {verify}. In Bali this rarely affects plans.
+
 ## Seasonal things for kids
 - **Turtle hatchling releases** at conservation centres: seasonal, often in the dry months {verify}.
 - **Ogoh-ogoh parades** the evening before Nyepi: giant monster floats, very popular with children.

@@ -25,6 +25,9 @@ Mark anything that changes year to year with {verify}.
 |------|---------|------------------|
 | | | |
 
+## Prayer times and rest days (if relevant)
+E.g. Friday prayers in Muslim-majority countries: when, and which places close (government sites, mosques, small shops).
+
 ## Seasonal things for kids
 - …
 

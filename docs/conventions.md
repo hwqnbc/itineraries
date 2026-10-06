@@ -207,6 +207,10 @@ These apply to every trip, whoever is travelling. A participant profile can add 
   - **Combined with no re-entry:** every meal of the visit is bought inside, so say so clearly on the day.
   - This applies to any ticketed venue where you'll spend a mealtime, not only theme parks.
 
+### Friday prayers (Malaysia, Indonesia and other Muslim-majority places)
+- On Fridays around midday (about 12:15–2:45pm in Malaysia), government attractions may close or pause, mosques close to visitors, and small Muslim-owned shops and stalls may shut, especially outside malls and in smaller towns. Some Malaysian states (Kelantan, Terengganu, Kedah) have a Friday–Saturday weekend. Details are in the country guide.
+- On a Friday, put government places and mosque visits in the morning or late afternoon, have lunch in a mall, and add a `- **Friday:**` line to that day if it's affected.
+
 ### Driving trips: hotel parking and traffic
 - When a trip uses a car, **choose hotels for parking and traffic**, not only location. Prefer hotels with an on-site car park (check the cost per night and the height limit) and quick highway access.
 - Avoid congested city-centre hotels (e.g. KLCC, Bukit Bintang) as a driving base. For city-centre days, leave the car at the hotel and use taxis or ride-hailing.

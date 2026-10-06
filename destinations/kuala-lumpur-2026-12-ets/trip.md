@@ -11,7 +11,7 @@ participants: default-family
 country: malaysia
 weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel area
 currency: MYR
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **GAMEON Ninja Village**, **Space & Time Cube**, the **Planetarium**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
 
@@ -95,6 +95,7 @@ Travel times are rough and from general knowledge {verify}.
 ### Day 4 · Fri 4 Dec · Planetarium (half day) 🪐
 - **Getting there:** **MRT Kajang Line** from Bukit Bintang to **Muzium Negara** (3 stops), cross the highway on the overhead bridge, then walk about 15 minutes uphill through the Lake Gardens {verify}. Leave about 9:30am. If it's already hot or raining, take a Grab up instead (5–10 minutes) and walk down later.
 - **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium; ⏱ 1.5–2 h, including a dome show) {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}; aim for the 10 or 11am show. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** {verify}. Before the school holidays, so fewer families in the dome shows.
+- **Friday:** prayers around 12:15–2:45pm: the Planetarium has **no dome shows at 1pm and 2pm** {verify}, so take the 10 or 11am show and be done by noon. Small stalls around the Lake Gardens and Muzium Negara may close over lunch; eat back in Bukit Bintang (malls and Jalan Alor stay open) {verify}.
 - **Getting back:** Walk down about 15 minutes to **MRT Muzium Negara**, then 3 stops to Bukit Bintang {verify}. No traffic, and no Friday-evening Grab queues.
 - **Afternoon:** Free: lunch, then a rest at the hotel, or catch up on the Space & Time Cube if Day 3 ran out of time.
 - **Food:** An early dinner around Jalan Alor or Pavilion.
@@ -191,6 +192,7 @@ Travel times are rough and from general knowledge {verify}.
 
 ## ℹ️ Practical info {#practical}
 - **Dates & prices:** **Tue 1 – Wed 9 Dec 2026**. Malaysia's school holidays start after 5 Dec, so the busiest, peak-priced places are on the last term-time weekdays, **Wed 2 – Fri 4** (e.g. Aquaria's off-peak tickets {verify}). The farm (Mon 7) is in the holidays: go at opening. Tue 8 is a light, walkable last day. Monday's farm day also avoids the Planetarium's and Petrosains' Monday closures. Singapore's school holidays are on throughout, so expect Causeway queues. Details: [peak pricing by place](notes.md#peak-pricing).
+- **Friday prayers:** on Fri 4 Dec, around 12:15–2:45pm, government places may pause and small Muslim-owned stalls may close; malls stay open. Day 4 is planned around it. See the [Malaysia guide](../../docs/countries/malaysia.md).
 - **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Outdoor places (the farm) are best in the morning; the walkway and indoor attractions keep you dry in the afternoon.
 - **Crowds:** from Sat 5 Dec both countries are on school holidays: the Causeway and the attractions are busiest at weekends and around Christmas and New Year. That's why Sat 5 is the rest day.
 - **Grab:** easy in the city and suburbs. Queues and surge prices build during storms and at 5–8pm. Remote hilltop places (like Monkeys Canopy) can be hard to get a Grab back from, which is why this plan skips it.

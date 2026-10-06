@@ -47,6 +47,15 @@ Many dates follow the lunar or Islamic calendars and change each year {verify}. 
 | about Mar 2027 {verify} | Hari Raya Aidilfitri | The biggest "balik kampung" exodus: highways and the Causeway jam |
 | 31 Aug / 16 Sep | National Day / Malaysia Day | Parades, long weekends |
 
+## Friday prayers
+Friday midday prayers affect opening hours across Malaysia {verify}:
+- **When:** roughly **12:15pm–2:45pm** on Fridays (the exact time shifts a little through the year).
+- **Government-run places** (museums, the National Planetarium, state attractions) often close, pause or skip shows then. The Planetarium stays open but has **no dome shows at 1pm and 2pm** on Fridays; the Sultan Alam Shah Museum (Shah Alam) closes 12:30–2:45pm.
+- **Mosques** are closed to visitors until mid-afternoon (e.g. Putra Mosque: about 3–4pm and 5:30–6pm only).
+- **Small Muslim-owned shops, food stalls and kopitiam** may close for a couple of hours, especially **outside the big malls and in smaller towns**. Malls, chains and Chinese or Indian eateries usually stay open.
+- **Plan Fridays:** do government places in the **morning**, have lunch in a mall, and keep small towns, roadside stalls and mosque visits for other days or late afternoon.
+- **Weekends differ by state:** most states (KL, Selangor, Johor, Melaka) have a Saturday–Sunday weekend, but **Kelantan, Terengganu and Kedah** have a **Friday–Saturday** weekend, so Friday is a rest day there {verify}.
+
 ## Seasonal things for kids
 - **Year-round:** Sunway Lagoon, Genting SkyWorlds, Farm In The City, KL Bird Park, Aquaria KLCC, Legoland Malaysia (JB).
 - **Fireflies** at Kuala Selangor: best on dark, dry nights, away from the full moon {verify}.

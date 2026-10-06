@@ -102,6 +102,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-05 | KL Forest Eco Park dropped (paid; reviews mention poor toilets); the KLCC walk now just passes Bukit Nanas | Your choice |
 | 2026-10-05 | Peak-pricing table: Immersify and Titiwangsa paddle boats added; trip page links jump straight to it | You couldn't find where peak pricing was listed |
 | 2026-10-05 | Day 3: GAMEON Ninja Village @ The Labs (BBCC) replaces Berjaya Times Square Theme Park, which becomes a swap-in | Your choice: active obstacle park the whole family can do, newer and cheaper for 3 (about RM204 vs RM255); open daily 12–8pm |
+| 2026-10-06 | Friday prayers noted (about 12:15–2:45pm): Planetarium has no 1pm/2pm shows on Fridays; small stalls may close; added to the Malaysia guide and as a general planning rule | You pointed it out |
 
 ## Open questions
 - GAMEON Ninja Village: age/height rules per trial, waiver, re-entry and outside food {verify}.

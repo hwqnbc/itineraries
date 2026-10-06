@@ -10,7 +10,7 @@ tagline: The outskirts by car: Monkeys Canopy, farm, Paya Indah hippos, Putrajay
 participants: default-family
 country: malaysia
 currency: MYR
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 The **car version** of the KL trip: rent a car in JB, drive up, and base at a hotel with **its own car park and quick highway access**. The shortlist is **Aquaria KLCC**, **Petrosains**, **Planetarium Negara**, **Space & Time Cube**, **Farm In The City** and **Monkeys Canopy Resort**. The car also reaches **Paya Indah Wetlands**, where a Grab back is unreliable, and a **Shah Alam** day: the **Sultan Alam Shah Museum**, the **SkyCity** glass water slide and **i-City**'s lights. On city days the car stays parked, and Grab avoids KL traffic and parking.
 
@@ -176,6 +176,7 @@ KL's weekday jams are **directional** {verify}: in the **morning (about 7–9:30
 
 ## ℹ️ Practical info {#practical}
 - **Dates & prices:** Proposed **Sun 29 Nov – Sat 5 Dec 2026**, before Malaysia's school holidays start (after 5 Dec). All attraction days (Days 2–6, Mon–Fri) are term-time weekdays, so off-peak prices apply where a place has them (e.g. Aquaria KLCC {verify}). Monday goes to the farm and Paya Indah, which avoids the Monday closures of Petrosains, the Planetarium and the Sultan Alam Shah Museum, the farm's term-time Tuesday closure, and the museum's Friday lunch break. Singapore's school holidays have already started, so expect Causeway queues. Details: [peak pricing by place](../kuala-lumpur-2026-12-ets/notes.md).
+- **Friday prayers:** around 12:15–2:45pm on Fridays, government places (e.g. the Sultan Alam Shah Museum) close or pause, mosques close to visitors, and small stalls and shops in smaller towns may shut {verify}. When re-planning, keep Friday for malls or theme parks (as Monkeys Canopy now) and put museums, mosques and small-town food on other days. See the [Malaysia guide](../../docs/countries/malaysia.md).
 - **Weather:** December is warm (about 24–32 °C) with afternoon thunderstorms {verify}. Do the outdoor places (the farm, Paya Indah, Dino Desert) in the morning, and SkyCity as soon as it opens.
 - **Traffic in KL:** avoid driving at about 7–9:30am and 5–8pm on weekdays. Friday evenings and rain make it worse. The jams are directional (inbound in the morning, outbound in the evening), so a Mid Valley base drives against them; see [Rush-hour direction](#accommodation). Use Waze or Google Maps traffic.
 - **Parking:** hotel and mall car parks mostly take Touch 'n Go or card {verify}. On the city days, Grab is simpler than parking at KLCC or Bukit Bintang.
