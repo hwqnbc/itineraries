@@ -35,8 +35,10 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-10-04 | KL Bird Park removed from the swap-ins | Not going |
 | 2026-10-05 | KL Car-Free Morning and KL Forest Eco Park removed | Not going (registration needed; paid, poor toilets) |
 | 2026-10-06 | Friday prayers noted (about 12:15–2:45pm): Planetarium has no 1pm/2pm shows on Fridays; small stalls may close; added to the Malaysia guide and as a general planning rule | You pointed it out |
+| 2026-10-09 | Reminder added: Monkeys Splash Zone closed on Mondays (maintenance) | You asked; confirmed on the official Monkeys Canopy page |
 
 ## Open questions
+- Monkeys Canopy: **don't schedule it on a Monday** (Splash Zone closed for maintenance; next day instead if Monday is a public holiday) {verify}.
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)
 - Hotel car park height limit, if renting an MPV.
 - SkyCity and i-City: outside-food rule, and whether they're combined on one ticket {verify}.

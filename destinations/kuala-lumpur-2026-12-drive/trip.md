@@ -10,7 +10,7 @@ tagline: The outskirts by car: Monkeys Canopy, farm, Paya Indah hippos, Putrajay
 participants: default-family
 country: malaysia
 currency: MYR
-updated: 2026-10-06
+updated: 2026-10-09
 ---
 The **car version** of the KL trip: rent a car in JB, drive up, and base at a hotel with **its own car park and quick highway access**. The shortlist is **Aquaria KLCC**, **Petrosains**, **Planetarium Negara**, **Space & Time Cube**, **Farm In The City** and **Monkeys Canopy Resort**. The car also reaches **Paya Indah Wetlands**, where a Grab back is unreliable, and a **Shah Alam** day: the **Sultan Alam Shah Museum**, the **SkyCity** glass water slide and **i-City**'s lights. On city days the car stays parked, and Grab avoids KL traffic and parking.
 
@@ -120,6 +120,7 @@ KL's weekday jams are **directional** {verify}: in the **morning (about 7–9:30
 ### Day 6 · Fri 4 Dec · Monkeys Canopy Resort 🦕
 - **Getting there:** Drive about 30–40 minutes to Sungai Long, Cheras {verify}. The resort has parking {verify}. Go at opening.
 - **All day:** [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long) (⏱ 4–6 h), a hilltop resort with several parks: **Monkeys Splash Zone** (indoor water park), **Dino Desert**, **Enchanted Forest**, **Safari Escape Playland** and the **Conquer** indoor extreme park {verify}. Check which parks the ticket covers, and the height limits {verify}.
+- **Not on a Monday:** **Monkeys Splash Zone** (the indoor water park) is **closed on Mondays for maintenance**; if the Monday is a public holiday, it opens and closes the next day instead {verify}. Tue–Sun about 10am–8pm (official page; older articles say 10pm at weekends) {verify}. Tickets were about RM65 per adult and RM45 per child when it opened in Jan 2025 {verify}. Keep this in mind when re-planning the car trip's days.
 - **Re-entry:** Not yet confirmed; check whether the wristband or ticket allows leaving and coming back the same day {verify}. Until then, plan to stay in: have lunch at the resort, and use the car only if re-entry is allowed.
 - **Outside food:** Check whether you may bring your own food and drinks {verify}. If not, eat a proper breakfast first and budget for meals inside.
 - **Getting back:** Drive; there's no need to wait for a Grab on the hilltop.

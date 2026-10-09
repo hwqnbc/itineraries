@@ -46,7 +46,7 @@ window.TRIP_MAP = {
     { day: 5, name: "Sultan Alam Shah Museum", time: "1.5–2 h", type: "museum", note: "Selangor state museum; closed Mondays, Friday break 12:30–2:45pm", query: "Muzium Sultan Alam Shah Shah Alam", lat: 3.0730, lng: 101.5190 },
     { day: 5, name: "SkyCity (i-City)", time: "1.5–2 h", type: "theme-park", note: "600 m glass water slide on a 60 m tower; from 3:30pm on weekdays", query: "SkyCity i-City Shah Alam", lat: 3.0655, lng: 101.4845 },
     { day: 5, name: "i-City Theme Park", time: "2–3 h", type: "theme-park", note: "City of Digital Lights and rides; 5:30pm–12am; no re-entry", query: "i-City Theme Park Shah Alam", lat: 3.0645, lng: 101.4860 },
-    { day: 6, name: "Monkeys Canopy Resort", time: "4–6 h", type: "theme-park", note: "Splash Zone, Dino Desert, Enchanted Forest, Playland", query: "Monkeys Canopy Resort Sungai Long", lat: 3.0460, lng: 101.8030 },
+    { day: 6, name: "Monkeys Canopy Resort", time: "4–6 h", type: "theme-park", note: "Splash Zone, Dino Desert, Enchanted Forest, Playland; Splash Zone closed Mondays", query: "Monkeys Canopy Resort Sungai Long", lat: 3.0460, lng: 101.8030 },
     { day: "opt", name: "Taman Botani Putrajaya", time: "1–2 h", type: "sight", note: "Putrajaya: rent bikes for the lakeside paths", query: "Taman Botani Putrajaya", lat: 2.9440, lng: 101.6720 },
     { day: "opt", name: "Putra Mosque", time: "30–45 min", type: "sight", note: "Putrajaya's pink mosque; Fridays closed to visitors until mid-afternoon", query: "Putra Mosque Putrajaya", lat: 2.9360, lng: 101.6897 },
     { day: "opt", name: "Cruise Tasik Putrajaya", time: "45 min", type: "sight", note: "Lake cruise from the jetty by Putra Mosque", query: "Cruise Tasik Putrajaya", lat: 2.9352, lng: 101.6918 },
