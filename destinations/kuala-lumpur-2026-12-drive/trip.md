@@ -4,7 +4,7 @@ short: KL Dec 2026 (car)
 flag: 🇲🇾
 status: planning
 start: 2026-12-20
-dates: Sun 20 – Sat 26 Dec 2026 · 7 days (5 nights Putrajaya, 1 night JB)
+dates: Sun 20 – Sat 26 Dec 2026 · 7 days (3 nights Putrajaya, 2 nights Monkeys Canopy, 1 night JB)
 card: 20 – 26 Dec 2026 · 7 days · drive from JB, Putrajaya base
 tagline: The outskirts by car: Paya Indah hippos, SplashMania, Monkeys Canopy, Shah Alam's SkyCity, Putrajaya
 participants: default-family
@@ -13,7 +13,7 @@ weather: 2.926, 101.696            # forecast point: Putrajaya, the base
 currency: MYR
 updated: 2026-10-10
 ---
-The **car trip**: rent a car in JB and base in **Putrajaya**, south of KL, for the places a train and Grab can't reach easily. It **never enters the KL city centre**: the city sights (Aquaria, Petrosains, the Planetarium, Space & Time Cube) are on the **[ETS city trip](../kuala-lumpur-2026-12-ets/trip.md)** on 1–9 Dec. This one covers **Paya Indah Wetlands** (hippos), **SplashMania**, **Monkeys Canopy**, a **Shah Alam** day (museum, SkyCity glass slide, i-City lights), **Putrajaya**, and **Mitsui Outlet Park with plane spotting** on the way home.
+The **car trip**: rent a car in JB and base in **Putrajaya**, south of KL (with two nights at **Monkeys Canopy Resort** for its park day), for the places a train and Grab can't reach easily. It **never enters the KL city centre**: the city sights (Aquaria, Petrosains, the Planetarium, Space & Time Cube) are on the **[ETS city trip](../kuala-lumpur-2026-12-ets/trip.md)** on 1–9 Dec. This one covers **Paya Indah Wetlands** (hippos), **SplashMania**, **Monkeys Canopy**, a **Shah Alam** day (museum, SkyCity glass slide, i-City lights), **Putrajaya**, and **Mitsui Outlet Park with plane spotting** on the way home.
 
 > Planning. Dates chosen to stay off the roads around Christmas: up on Sun 20, home on Sat 26, with the last night in JB so the car goes back the next morning. Anything marked {verify} must be checked before booking. It's the school holidays in both countries, so expect crowds and peak prices; the attraction days are all weekdays.
 
@@ -38,7 +38,9 @@ The **car trip**: rent a car in JB and base in **Putrajaya**, south of KL, for t
 
 | Nights | Where | Area | Notes |
 |--------|-------|------|-------|
-| Nights 1–5 (Sun 20 – Fri 25) | TBD | **Putrajaya** (or Cyberjaya next door) | Hotel with its own car park (check the cost and height limit) and **a pool** for the afternoon breaks {verify}. 10–45 minutes to every stop |
+| Night 1 (Sun 20 – Mon 21) | TBD | **Putrajaya** (or Cyberjaya next door) | Hotel with its own car park (check the cost and height limit) and **a pool** for the afternoon breaks {verify}. 15–25 minutes to Paya Indah for the 8am start |
+| Nights 2–3 (Mon 21 – Wed 23) | [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long) | **Sungai Long** (Hulu Langat) | The hotel is on the same hill as the parks: no drive on the park day, stay until closing, and a midday rest in the room. Listed as a family-friendly resort with two pools, family rooms and free parking; check-in 3pm, check-out noon {verify}. Few reviews yet {verify}. Ask whether guests get park packages or re-entry, and whether breakfast is included {verify} |
+| Nights 4–5 (Wed 23 – Fri 25) | TBD (ideally the **same Putrajaya hotel** as night 1) | **Putrajaya** | Late check-in on Wed 23 (about 9:30pm, after Shah Alam): tell the hotel {verify} |
 | Night 6 (Fri 25 – Sat 26) | TBD | **JB**, near the car-return office or the Causeway | Christmas Day and the start of the long weekend: JB is busy with Singapore visitors and hotels are dearer, so **book early** {verify} |
 
 ### Where to stay: area comparison (car)
@@ -58,14 +60,14 @@ Travel times are rough and outside rush hour {verify}.
 **Recommendation:** **Putrajaya**; Cyberjaya if a good hotel with a pool is cheaper there.
 
 ### Rush-hour direction
-KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and **out in the evening** (about 5–8pm) {verify}. From Putrajaya, most drives on this trip go **south or west, away from KL**; only Monkeys Canopy goes north-east towards the city's commuter belt. Check Google Maps' typical traffic ("Depart at") before each drive.
+KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and **out in the evening** (about 5–8pm) {verify}. From Putrajaya, most drives on this trip go **south or west, away from KL**. Sleeping at Monkeys Canopy Resort on Mon 21 and Tue 22 avoids the one drive that ran with the commuter flow (north-east to Sungai Long on a weekday morning). Check Google Maps' typical traffic ("Depart at") before each drive.
 
-| Day | Drive from Putrajaya | Morning | Coming back |
+| Day | Drive | Morning | Coming back |
 |---|---|---|---|
 | 1 · Sun | JB → Putrajaya (north) | — | Sunday afternoon traffic heads back into the Klang Valley: arrive by about 3–4pm {verify} |
-| 2 · Mon | South-west to Dengkil and Gamuda Cove | ✅ Away from KL | ✅ Short, local roads |
-| 3 · Tue | North-east to Sungai Long (via Kajang) | ⚠️ With the commuter flow towards KL: leave after 9:30am | ⚠️ The evening flow out of KL runs your way: back by about 4:30pm, or after 8pm |
-| 4 · Wed | North-west to Shah Alam | ⚠️ Shah Alam-bound roads are busy until about 9am: leave about 9am | ✅ After about 9pm, roads are clear |
+| 2 · Mon | Putrajaya → Dengkil and Gamuda Cove, then on to Sungai Long | ✅ Away from KL | ⚠️ Gamuda Cove → Sungai Long (about 40–50 min, via the SKVE/LEKAS, not through KL) {verify}: leave SplashMania by about 4pm, before the 5pm evening flow |
+| 3 · Tue | None: you sleep at the resort | ✅ | ✅ |
+| 4 · Wed | Sungai Long → Shah Alam (west, across the south of the Klang Valley), then back to Putrajaya | ⚠️ Cross-town in the morning rush: leave after about 9:30am, about 50–65 min {verify} | ✅ Shah Alam → Putrajaya after about 9pm, roads are clear |
 | 5 · Thu | Around Putrajaya | ✅ | ✅ |
 | 6 · Fri | South-west to KLIA, then south to JB | ✅ Christmas Day: holiday roads | — |
 | 7 · Sat | Around JB | ✅ | — |
@@ -79,33 +81,36 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 - **Afternoon:** Check in at Putrajaya by about 3–4pm, then pool time.
 - **Evening:** An easy walk by the lake to see Putrajaya's lit bridges and buildings after dark {verify}; dinner nearby.
 
-### Day 2 · Mon 21 Dec · Paya Indah Wetlands & SplashMania 🦛🌊
+### Day 2 · Mon 21 Dec · Paya Indah Wetlands & SplashMania → Monkeys Canopy Resort 🦛🌊🧳
+- **Luggage:** Check out of Putrajaya first thing; the bags stay in the boot all day (keep them out of sight), then go to Monkeys Canopy Resort.
 - **Why Monday:** both are open on Mondays without relying on school-holiday exceptions (Paya Indah normally closes on Tuesdays, SplashMania on Wednesdays) {verify}. Monkeys Canopy and the museum, which close on Mondays, are on other days.
 - **Early morning (8am):** [Paya Indah Wetlands](map:Paya+Indah+Wetlands+Dengkil) (⏱ 2–2.5 h), Dengkil, about 15–20 minutes from Putrajaya. Lakes, birds, crocodiles and **hippos**; it opens at 8am (you checked), so go first thing while it's cool. Check the feeding times {verify}.
 - **Late morning (about 10:45):** Drive about 10–20 minutes to [SplashMania](map:SplashMania+Gamuda+Cove) at Gamuda Cove (⏱ 4–5 h), a big outdoor water park, open **10am–6pm** {verify}. About RM112–125 per adult and RM99–110 per child depending on the day; it's **cashless** {verify}.
 - **Re-entry:** not found {verify}; assume none, and have lunch inside.
 - **Outside food:** not found {verify}; assume not allowed, and budget for lunch inside.
 - **Storms:** it's outdoors, and slides close when there's lightning; December storms usually come after about 3pm {verify}.
-- **Getting back:** about 20–30 minutes to Putrajaya.
+- **Then:** Drive about 40–50 minutes to [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long), Sungai Long {verify}, leaving SplashMania by about 4pm; check in (from 3pm), then dinner and an early night. The parks are for tomorrow (the Splash Zone is closed on Mondays anyway).
 - **Alternative after Paya Indah:** Mitsui Outlet Park and plane spotting (see Day 6), if you'd rather skip the water park; or **GAMEON The Mines** (indoor, see swap-ins) if it's stormy.
 
 ### Day 3 · Tue 22 Dec · Monkeys Canopy Resort 🦕
-- **Getting there:** Drive about 30–40 minutes north-east to Sungai Long, leaving after about 9:30am {verify}. The resort has parking {verify}.
+- **Getting there:** You're staying at the resort, so no driving today: walk or take the hotel's transport up to the parks {verify}.
 - **All day:** [Monkeys Canopy Resort](map:Monkeys+Canopy+Resort+Sungai+Long) (⏱ 4–6 h), a hilltop resort with several parks: **Monkeys Splash Zone** (indoor water park), **Dino Desert**, **Enchanted Forest**, **Safari Escape Playland** and the **Conquer** indoor extreme park {verify}. Check which parks the ticket covers, and the height limits {verify}.
 - **Not on a Monday:** **Monkeys Splash Zone** is **closed on Mondays for maintenance** (the next day instead if the Monday is a public holiday) {verify}. Tue–Sun about 10am–8pm {verify}. Splash Zone tickets were about RM65 per adult and RM45 per child when it opened in Jan 2025 {verify}.
 - **Re-entry:** not yet confirmed {verify}. Until then, plan to stay in: lunch at the resort.
 - **Outside food:** check whether you may bring your own food and drinks {verify}. If not, eat a proper breakfast first and budget for meals inside.
-- **Getting back:** Drive back by about 4:30pm, or after 8pm.
+- **Midday break:** Back to the room or the pool for an hour, if guests can re-enter the parks {verify}.
+- **Evening:** Stay until closing (about 8pm), then back to the room.
 
-### Day 4 · Wed 23 Dec · Shah Alam: museum, SkyCity & i-City lights 🏛️🌈
-- **Getting there:** Drive about 35–45 minutes north-west, leaving about 9am {verify}.
-- **Morning (9:30):** [Sultan Alam Shah Museum](map:Muzium+Sultan+Alam+Shah+Shah+Alam) (⏱ 1.5–2 h), Selangor's state museum {verify}. Open Tuesday–Sunday 9:30am–5:30pm; **closed on Mondays**, and on **Fridays it closes 12:30–2:45pm** {verify}. About RM15 for foreigners {verify}.
+### Day 4 · Wed 23 Dec · Shah Alam: museum, SkyCity & i-City lights → Putrajaya 🏛️🌈🧳
+- **Luggage:** Check out of Monkeys Canopy Resort; the bags stay in the boot all day (keep them out of sight in the mall car park), then go to the Putrajaya hotel tonight.
+- **Getting there:** Drive about 50–65 minutes west from Sungai Long, leaving after about 9:30am, once the cross-town rush has eased {verify}.
+- **Late morning (about 10:45):** [Sultan Alam Shah Museum](map:Muzium+Sultan+Alam+Shah+Shah+Alam) (⏱ 1.5–2 h), Selangor's state museum {verify}. Open Tuesday–Sunday 9:30am–5:30pm; **closed on Mondays**, and on **Fridays it closes 12:30–2:45pm** {verify}. About RM15 for foreigners {verify}.
 - **Midday:** Lunch and a long air-conditioned break at **Central i-City** mall, next to the i-City park {verify}. SkyCity only opens at 3:30pm on weekdays.
 - **Afternoon (3:30):** [SkyCity](map:SkyCity+i-City+Shah+Alam) (⏱ 1.5–2 h): Malaysia's first glass water slide, about 600 m long on a 60 m tower; floats and raincoats included {verify}. Children need to be at least 90 cm {verify}. About RM55 per adult and RM45 per child (international) {verify}. It may pause in a thunderstorm {verify}; go as soon as it opens.
 - **Evening (optional):** [i-City Theme Park](map:i-City+Theme+Park+Shah+Alam) (⏱ 2–3 h), with its **City of Digital Lights** and rides, open **5:30pm–12am** {verify}; best after dark, from about 7:30pm. About RM15 per adult and RM35 per child over 90 cm {verify}; check the international price. Skip it if he's tired.
 - **Re-entry:** **Not allowed** at i-City Theme Park once you leave {verify}. SkyCity is a separate ticket {verify}.
 - **Outside food:** not confirmed {verify}; dinner at Central i-City before going in.
-- **Getting back:** Drive back after about 9pm, when the roads are clear {verify}.
+- **Getting back:** Drive to Putrajaya (about 35–45 minutes) after about 9pm, when the roads are clear {verify}, and check in late.
 - **Food & shopping:** **Central i-City** for lunch, coffee, dinner, and clothes and accessories during the midday break {verify}.
 
 ### Day 5 · Thu 24 Dec · Putrajaya, relaxed (Christmas Eve) 🚲🕌
@@ -139,7 +144,8 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 ## ✅ Bookings to make {#bookings}
 - [ ] JB car rental Sun 20 – Sat 26 Dec that allows driving to KL, with a child booster seat if needed; check the Saturday return hours {verify}
 - [ ] Touch 'n Go card with credit (tolls and parking)
-- [ ] Putrajaya (or Cyberjaya) hotel, 5 nights: family room, own car park (cost, height limit), pool
+- [ ] Putrajaya (or Cyberjaya) hotel, 3 nights (Sun 20, then Wed 23 – Thu 24; ideally the same hotel): family room, own car park (cost, height limit), pool; late check-in on Wed 23
+- [ ] Monkeys Canopy Resort, 2 nights (Mon 21 – Tue 22): family room; ask about park packages for guests, re-entry and breakfast {verify}
 - [ ] JB hotel for Fri 25 Dec (Christmas: book early), near the car-return office
 - [ ] SplashMania tickets for Mon 21 Dec (cashless) {verify}
 - [ ] Monkeys Canopy tickets for Tue 22 Dec: which parks are included, and the height limits
@@ -152,8 +158,8 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 |------|----------|--------|
 | Car rental (7 days) | TBD | |
 | Fuel + tolls | TBD | |
-| Hotel parking (5 nights) | TBD | |
-| Accommodation (5 nights Putrajaya + 1 night JB) | TBD | |
+| Hotel parking (3 nights Putrajaya; free at Monkeys Canopy {verify}) | TBD | |
+| Accommodation (3 nights Putrajaya + 2 nights Monkeys Canopy Resort + 1 night JB) | TBD | |
 | Paya Indah Wetlands | TBD | |
 | SplashMania | about RM112–125 adult / RM99–110 child {verify} | |
 | Monkeys Canopy | TBD (Splash Zone about RM65 adult / RM45 child at opening) {verify} | |

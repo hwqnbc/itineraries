@@ -7,9 +7,9 @@ window.TRIP_MAP = {
   myMapsEmbedUrl: "",
   days: {
     1: "Drive to Putrajaya",
-    2: "Paya Indah & SplashMania",
+    2: "Paya Indah & SplashMania → Monkeys Canopy",
     3: "Monkeys Canopy",
-    4: "Shah Alam: museum, SkyCity & i-City",
+    4: "Shah Alam: museum, SkyCity & i-City → Putrajaya",
     5: "Putrajaya",
     6: "Mitsui & plane spotting → JB",
     7: "Car return → home"
@@ -24,11 +24,12 @@ window.TRIP_MAP = {
     { name: "Sepang / KLIA", note: "Mitsui Outlet Park, plane spotting, the airport", center: [2.7500, 101.7100], km: 3.0 },
     { name: "Putrajaya south-east (IOI City)", note: "IOI City Mall: District 21, Icescape ice rink", center: [2.9700, 101.7130], km: 1.0 },
     { name: "Seri Kembangan", note: "Farm In The City (on the ETS trip); The Mines (GAMEON backup)", center: [3.0200, 101.7100], km: 2.5 },
-    { name: "Cheras / Sungai Long", note: "Monkeys Canopy Resort", center: [3.0500, 101.7900], km: 3.0 },
+    { name: "Cheras / Sungai Long", note: "Monkeys Canopy Resort: the parks and the hotel for nights 2–3", center: [3.0500, 101.7900], km: 3.0 },
     { name: "Shah Alam", note: "Selangor's capital: Sultan Alam Shah Museum, i-City and SkyCity", center: [3.0700, 101.5050], km: 3.0 }
   ],
   pois: [
-    { name: "Putrajaya (hotel area)", type: "hotel", note: "Nights 1–5: hotel with car park and pool", query: "Putrajaya", lat: 2.9260, lng: 101.6960 },
+    { name: "Putrajaya (hotel area)", type: "hotel", note: "Nights 1, 4 and 5: hotel with car park and pool", query: "Putrajaya", lat: 2.9260, lng: 101.6960 },
+    { name: "Monkeys Canopy Resort (hotel)", type: "hotel", note: "Nights 2–3 (Mon 21, Tue 22): on the same hill as the parks", query: "Monkeys Canopy Resort Sungai Long", lat: 3.0450, lng: 101.8020 },
     { name: "JB (hotel area)", type: "hotel", fit: false, note: "Night 6 (Christmas): near the car-return office; book early", query: "JB Sentral Johor Bahru", lat: 1.4630, lng: 103.7645 },
     { day: 2, name: "Paya Indah Wetlands", time: "2–2.5 h", type: "animals", note: "Hippos, crocodiles, birds; opens 8am, go first thing", query: "Paya Indah Wetlands Dengkil", lat: 2.8700, lng: 101.6180 },
     { day: 2, name: "SplashMania (Gamuda Cove)", time: "4–5 h", type: "theme-park", note: "Outdoor water park, 10am–6pm, cashless", query: "SplashMania Gamuda Cove", lat: 2.8400, lng: 101.6400 },
