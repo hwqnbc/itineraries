@@ -13,9 +13,9 @@ weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel ar
 currency: MYR
 updated: 2026-10-06
 ---
-The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **GAMEON Ninja Village**, **Space & Time Cube**, the **Planetarium**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip in late December**, to be planned after this one.
+The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **GAMEON Ninja Village**, **Space & Time Cube**, the **Planetarium**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip, Sun 20 – Sat 26 Dec**.
 
-> Planning: ETS times chosen. The later car trip is **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)** (draft); the comparison is in **[Drive vs ETS](notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
+> Planning: ETS times chosen. The later car trip is **[KL outskirts by car](../kuala-lumpur-2026-12-drive/trip.md)** (20–26 Dec); the comparison is in **[Drive vs ETS](notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
 ## 👪 Who's going {#whos-going}
 - Family of three: two adults and one boy aged 8.

@@ -5,14 +5,19 @@
 The **Drive vs ETS** comparison, the shortlist research and the shared decisions log are in the **[ETS version's notes](../kuala-lumpur-2026-12-ets/notes.md)**.
 
 ## Trip-specific overrides
-- Long drives (about 4 hours each way) are allowed on Days 1 and 7 only, because they're the transfer days.
+- Long drives (about 3–3.5 hours) are allowed on Days 1 and 6 only, because they're the transfer days.
+- The city sights are on the ETS city trip (1–9 Dec), so this trip never enters the KL city centre.
 
 ## Research & options (car-specific)
-- **Where to stay:** Mid Valley or Bangsar South (hotel car parks, highway access south and east, 10–20 minutes to KLCC by Grab). Avoid KLCC and Bukit Bintang with a car.
-- **Singapore car vs JB rental:** a Singapore car needs a VEP and Malaysian insurance, and brings the 3/4-tank fuel rule into play when leaving Singapore {verify}. Renting in JB avoids all of these.
-- **Paya Indah + Farm on one day:** both are south of the city (Seri Kembangan, then Dengkil), so they chain well.
-- **Shah Alam day** (you asked, 29 Sep): Sultan Alam Shah Museum (Tue–Sun 9:30am–5:30pm, closed Mondays, Friday break 12:30–2:45pm, about RM15 for foreigners), then i-City: **SkyCity** glass water slide (weekdays from 3:30pm; about RM55 adult / RM45 child international; 90 cm minimum) and **i-City Theme Park** lights (5:30pm–12am; no re-entry). All from search results {verify}. Outside-food rules not found.
-- **Putrajaya** (you asked, 30 Sep): sightseeing and bike hire at Taman Botani (from about RM10/hour; twin bikes about RM20 per 30 minutes; hours vary by source), Putra Mosque (free; Fridays closed to visitors until mid-afternoon), and Cruise Tasik Putrajaya (about RM50 adult / RM35 child for 45 minutes). From search results {verify}. Kept as a swap-in; it could replace Paya Indah on Day 2 (same direction).
+- **Base: Putrajaya** (or Cyberjaya): just off the North–South Expressway, 10–45 minutes to every stop, easy parking, and most drives go away from KL. Mid Valley (the old draft base) would mean city traffic both ways.
+- **JB rental, last night in JB:** drive back the day before, stay in JB, return the car the next morning (your standing rule for JB rentals). A Singapore car would need a VEP and Malaysian insurance, and the 3/4-tank rule {verify}.
+- **Dates (Sun 20 – Sat 26 Dec):** compared with 21–25 and 26–30 Dec. This keeps every attraction day on a weekday before Christmas, and avoids driving on 24 Dec; the long drive is on Christmas Day, then the car goes back on Sat 26 morning.
+- **Paya Indah + SplashMania on Monday:** Paya Indah opens at 8am (you checked) and normally closes on Tuesdays; SplashMania (Gamuda Cove, about 10–20 minutes away) is open 10am–6pm and normally closes on Wednesdays; both are open on Mondays {verify}. SplashMania about RM112–125 adult / RM99–110 child, cashless {verify}.
+- **Monkeys Canopy:** Splash Zone closed on Mondays for maintenance {verify}; from Putrajaya it's **north-east** (Sungai Long), 30–40 minutes, partly with the commuter flow towards KL.
+- **Shah Alam day:** Sultan Alam Shah Museum (Tue–Sun 9:30am–5:30pm, closed Mondays, Friday break 12:30–2:45pm, about RM15), SkyCity (weekdays from 3:30pm; about RM55 adult / RM45 child; 90 cm minimum), i-City lights (5:30pm–12am; no re-entry). From search results {verify}.
+- **Putrajaya:** bikes at Taman Botani (from about RM10/hour), Putra Mosque (closed to visitors on Friday mornings), lake cruise (about RM50 adult / RM35 child). From search results {verify}.
+- **Mitsui Outlet Park KLIA:** outlet shopping next to KLIA, open 10am–10pm; nearby **Anjung Spotter** plane-observation deck (free) {verify}. Sepang International Circuit and the National Automobile Museum are also nearby {verify}.
+- **Considered and left out:** Skytrex (Shah Alam; status unclear, possibly closed or weekend-only), Zoo Melaka, Farm In The City (on the ETS trip), the city sights (on the ETS trip). Kuala Selangor fireflies and A'Famosa Safari Wonderland are kept as swap-ins.
 
 ## Decisions log
 | Date | Decision | Why |
@@ -36,9 +41,13 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-10-05 | KL Car-Free Morning and KL Forest Eco Park removed | Not going (registration needed; paid, poor toilets) |
 | 2026-10-06 | Friday prayers noted (about 12:15–2:45pm): Planetarium has no 1pm/2pm shows on Fridays; small stalls may close; added to the Malaysia guide and as a general planning rule | You pointed it out |
 | 2026-10-09 | Reminder added: Monkeys Splash Zone closed on Mondays (maintenance) | You asked; confirmed on the official Monkeys Canopy page |
+| 2026-10-10 | Re-planned as the outskirts trip: Sun 20 – Sat 26 Dec, Putrajaya base (5 nights) + 1 night in JB; Paya Indah + SplashMania (Mon), Monkeys Canopy (Tue), Shah Alam (Wed), Putrajaya (Thu), Mitsui + plane spotting → JB (Fri 25), car return Sat 26 morning. City days, Mid Valley base, Farm In The City, Dataran Merdeka, Skytrex and Zoo Melaka removed | Agreed after discussion: avoid the city (ETS trip covers it), weekdays for attractions, off the roads on 24 Dec, and return the car the morning after reaching JB |
 
 ## Open questions
-- Monkeys Canopy: **don't schedule it on a Monday** (Splash Zone closed for maintenance; next day instead if Monday is a public holiday) {verify}.
+- Putrajaya or Cyberjaya hotel (car park, pool, family room)?
+- JB hotel near the rental's return office for Fri 25 Dec; rental's Saturday hours after Christmas {verify}.
+- Day 2 after Paya Indah: SplashMania, or Mitsui + plane spotting instead (left open).
+- SplashMania and Monkeys Canopy: re-entry and outside-food rules {verify}.
+- Anjung Spotter: exact location and hours {verify}.
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)
-- Hotel car park height limit, if renting an MPV.
 - SkyCity and i-City: outside-food rule, and whether they're combined on one ticket {verify}.

@@ -216,6 +216,7 @@ These apply to every trip, whoever is travelling. A participant profile can add 
 - Avoid congested city-centre hotels (e.g. KLCC, Bukit Bintang) as a driving base. For city-centre days, leave the car at the hotel and use taxis or ride-hailing.
 - **Rush-hour direction:** city jams are usually directional (into the centre in the morning, out in the evening). Pick a base where most morning drives go **against** the flow, add a "Rush-hour direction" table (day, drive, morning, coming back) under Accommodation, and put a direction row in any hotel-area comparison.
 - Plan drives outside the local rush hours and note them in Practical info. Add a morning buffer on busy days, e.g. border crossings in school holidays.
+- **Car rented in JB:** drive back to JB the day before the trip ends, stay **one night in JB** (near the car-return office or the Causeway), and **return the car the next morning**, so a long drive never races a 6pm return time. Plan Day N−1 as the drive to JB and the last day as the car return and the crossing.
 - **Overland trips:** compare driving with the train or coach in the `{#flights}` section (the heading can be "Getting there"), and say which places are reachable only by car.
 
 ## Content rules

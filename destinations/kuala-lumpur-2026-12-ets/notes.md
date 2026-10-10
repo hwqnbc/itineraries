@@ -3,7 +3,7 @@
 <!-- Participants and status live in trip.md (front matter), not here.
      This file holds the shared Drive vs ETS comparison for both KL versions. -->
 
-Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026, and **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)** for the outskirts in late December (to be planned after the ETS trip; the car page is a draft). The comparison below is kept for reference.
+Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026, and **[KL by car](../kuala-lumpur-2026-12-drive/trip.md)** for the outskirts, **Sun 20 – Sat 26 Dec 2026**, based in Putrajaya. The comparison below is kept for reference.
 
 ## Drive vs ETS
 
@@ -12,13 +12,13 @@ Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026
 | Journey | Causeway bus/RTS, then ETS JB Sentral → KL Sentral, about 4.5–5 hours {verify} | Causeway bus/RTS, then drive from JB, about 3.5–4.5 hours without jams {verify} |
 | Causeway | Same crossing either way; the RTS Link (due around end-2026 {verify}) would help both | Same |
 | City days (Aquaria, Petrosains, Planetarium, Space & Time Cube) | **Walk** via the KLCC–Bukit Bintang walkway and to Lot 10; Grab to the Planetarium | Grab (car stays parked) |
-| Farm In The City | Grab, or MRT + a short Grab {verify} | Day 7 · Mon 7 Dec, school holidays: go at opening (closed Tuesdays in term time only) |
+| Farm In The City | ✅ Day 7 (MRT or Grab) {verify} | Not on the car trip (done on the ETS trip) |
 | Theme-park day | **GAMEON Ninja Village** at The Labs, BBCC (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
-| Paya Indah Wetlands | Not practical (Grab back unreliable) | Car trip, late Dec (to plan) |
-| Shah Alam (museum, SkyCity, i-City) | Car only (your choice): Grab is possible but long, with a late return | ✅ Day 5 |
-| Hotel | Bukit Bintang: cheaper than KLCC, more mid-range choice {verify} | Must have a car park and highway access; parking costs extra {verify} |
-| Stress | No driving, parking or traffic | KL traffic at 7–9:30am and 5–8pm; parking at the hotel |
-| Costs to compare | ETS ×3 return + Grab | Rental + fuel + tolls + parking + Grab on city days |
+| Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 2 · Mon 21 Dec, at 8am |
+| Shah Alam (museum, SkyCity, i-City) | Car only (your choice): Grab is possible but long, with a late return | ✅ Day 4 · Wed 23 Dec |
+| Hotel | Bukit Bintang (Star Mews) | Putrajaya: car park and pool; last night in JB {verify} |
+| Stress | No driving, parking or traffic | Little: the Putrajaya base avoids the city; most drives go away from KL |
+| Costs to compare | ETS ×3 return + Grab | Rental + fuel + tolls + parking |
 
 **Summary:** the shortlist works fully by ETS, and the walkable Bukit Bintang base makes the city days easy. Driving adds Paya Indah and a Shah Alam day (and optionally Putrajaya), and makes Monkeys Canopy possible (a Grab back from there is hard to book), but brings traffic and parking.
 
@@ -28,7 +28,7 @@ Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026
 
 Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places charge more in school holidays, public holidays and at weekends. The ETS trip (Tue 1 – Wed 9 Dec) puts the busiest, peak-priced places on the last **term-time weekdays, Wed 2 – Fri 4**, and the farm and sightseeing in the holidays, where crowds matter less. Prices are for non-Malaysians and change often {verify}.
 
-| Place | Peak pricing? | What we found | When (ETS trip; car-trip dates still to plan) |
+| Place | Peak pricing? | What we found | When |
 |---|---|---|---|
 | Aquaria KLCC | **Yes**: school and public holidays, festive seasons | Off-peak (weekday) vs peak tickets are sold separately {verify} | Day 2 · Wed 2 Dec ✅ off-peak |
 | Petrosains | Not found {verify} | Separate prices for non-Malaysians and MyKad holders | Day 2 · Wed 2 Dec (closed Mondays) |
@@ -40,10 +40,10 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | Immersify Kuala Lumpur | Not found {verify} | About RM88 adult / RM55 child (non-Malaysian) {verify} | Day 8 · Tue 8 Dec, school holidays |
 | White & Black Aquasports (Titiwangsa) | Not found; weekend hours differ {verify} | Paddle boat about RM15 adult / RM10 child per 30 min {verify} | Day 8 · Tue 8 Dec, school holidays (closed Mondays) |
 | ~~KidZania KL~~ | **Dynamic pricing**: cheaper the earlier you book (you found) | **Dropped**: adults pay with nothing to do, and no re-entry | — |
-| Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Car trip, late Dec (to plan) |
-| Paya Indah Wetlands | Not found {verify} | Closed Tuesdays except school and public holidays | Car trip, late Dec (to plan) |
-| Sultan Alam Shah Museum | Not found {verify} | About RM15 for foreigners; closed Mondays, Friday break 12:30–2:45pm {verify} | Car trip, late Dec (to plan) |
-| SkyCity / i-City | Not found; longer hours at weekends {verify} | SkyCity about RM55 adult / RM45 child (international); i-City about RM15 adult / RM35 child {verify} | Car trip, late Dec (to plan) |
+| Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Car trip: Day 3 · Tue 22 Dec |
+| Paya Indah Wetlands | Not found {verify} | Closed Tuesdays except school and public holidays | Car trip: Day 2 · Mon 21 Dec |
+| Sultan Alam Shah Museum | Not found {verify} | About RM15 for foreigners; closed Mondays, Friday break 12:30–2:45pm {verify} | Car trip: Day 4 · Wed 23 Dec |
+| SkyCity / i-City | Not found; longer hours at weekends {verify} | SkyCity about RM55 adult / RM45 child (international); i-City about RM15 adult / RM35 child {verify} | Car trip: Day 4 · Wed 23 Dec |
 | Hotels, ETS, car rental | Usually dearer at weekends and in school holidays {verify} | Nights Mon–Fri are the cheapest part of this window | ETS trip: 8 nights, Tue–Wed, including a Fri and Sat |
 
 **If prices turn out the same all through December** (e.g. the farm, Space & Time Cube), going after 5 Dec is fine for those places. What matters most is Aquaria (Wed 2 Dec) and the ninja park (Thu 3 Dec); check their date calendars when booking.
@@ -103,10 +103,10 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-05 | Peak-pricing table: Immersify and Titiwangsa paddle boats added; trip page links jump straight to it | You couldn't find where peak pricing was listed |
 | 2026-10-05 | Day 3: GAMEON Ninja Village @ The Labs (BBCC) replaces Berjaya Times Square Theme Park, which becomes a swap-in | Your choice: active obstacle park the whole family can do, newer and cheaper for 3 (about RM204 vs RM255); open daily 12–8pm |
 | 2026-10-06 | Friday prayers noted (about 12:15–2:45pm): Planetarium has no 1pm/2pm shows on Fridays; small stalls may close; added to the Malaysia guide and as a general planning rule | You pointed it out |
+| 2026-10-10 | Car trip planned for Sun 20 – Sat 26 Dec (Putrajaya base; see its notes); Drive vs ETS table updated, and its Farm row fixed (car column had ETS text) | Car trip re-plan agreed |
 
 ## Open questions
 - GAMEON Ninja Village: age/height rules per trial, waiver, re-entry and outside food {verify}.
-- Car trip (late Dec): plan after the ETS trip; consider a southern base (Putrajaya / Cyberjaya / Seri Kembangan) now that it has no city days.
 - Check Aquaria's peak calendar for Wed 2 Dec, and the farm's one-day pass page for Mon 7 Dec.
 
 ## Sources
