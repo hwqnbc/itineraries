@@ -9,6 +9,9 @@ git pull origin main                 # whichever branch you're on, bring in the 
 ```
 If the pull conflicts, resolve it (keeping both sides' trip changes) before editing anything else. Pull again before pushing if the session has been open a long time.
 
+## Discuss / clarify only
+If a message starts with `discuss:` or `clarify:`, only answer, discuss or ask questions. Don't edit files, commit or push until told to implement.
+
 ## Structure
 ```
 index.html                     Home page shell; trip cards are filled in by the build
