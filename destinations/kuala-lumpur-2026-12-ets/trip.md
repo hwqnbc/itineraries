@@ -11,7 +11,7 @@ participants: default-family
 country: malaysia
 weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel area
 currency: MYR
-updated: 2026-10-06
+updated: 2026-10-10
 ---
 The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **GAMEON Ninja Village**, **Space & Time Cube**, the **Planetarium**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip, Sun 20 – Sat 26 Dec**.
 
@@ -157,6 +157,7 @@ Travel times are rough and from general knowledge {verify}.
     - **When to go (options):** **Day 5** (Sat), the easy day: start at KLCC by about 9am and stop at Bukit Nanas or Masjid Jamek if it gets hot; or **Day 2** after Petrosains, ending at the River of Life at dusk (long after two attractions). Day 6 already covers Merdeka Square, Masjid Jamek and Central Market.
     - **Heat and pavements:** mostly unshaded except the forest; start by about 9am or go late afternoon, before or after the usual 3–6pm storms {verify}. Pavements are uneven in places and a few crossings are busy (Jalan Ampang, Jalan Raja Laut), so hold hands.
     - **Bail out any time:** Grab is easy along the route, and there are stations at Masjid Jamek (LRT) and Pasar Seni (MRT) back to Bukit Bintang {verify}.
+- **[WINDLAB Indoor Skydiving](map:WINDLAB+Indoor+Skydiving+1+Utama) (⏱ 1.5–2 h):** a vertical wind tunnel in **1 Utama** mall, Petaling Jaya, with an instructor beside each flyer; formerly AirRider {verify}. **Getting there:** MRT Kajang line straight from Bukit Bintang to Bandar Utama, no change, about 30–35 minutes, then about 5 minutes' walk {verify}; or 25–45 min by Grab, outside rush hour. The session takes up to 1.5 h from check-in, including a briefing; each flight is about 50 seconds. About **RM99 for 2 flights**, RM35 per extra flight, and RM15 for a "high ride" {verify}. Open daily 10am–10pm, until 10:30pm on Fri and Sat {verify}. From about age 3, with weight limits {verify}. Suit, helmet and goggles are provided; **wear closed lace-up shoes** {verify}. Book a weekday slot. It fits Day 5 (Sat, the easy day; weekend slots fill up, so book ahead) or the Day 8 afternoon instead of Immersify. 1 Utama itself is a big family mall with lots of food.
 - **Car-only places** (Monkeys Canopy Resort, Paya Indah Wetlands, the Shah Alam day, Putrajaya) are in the **[drive version](../kuala-lumpur-2026-12-drive/trip.md)**.
 
 ## 🗺️ Map {#map}
@@ -226,3 +227,4 @@ Travel times are rough and from general knowledge {verify}.
 - Compact umbrellas for afternoon storms
 - Hand sanitiser and wipes for the petting farm
 - Snack bag for the train ride
+- Closed lace-up shoes if you do WINDLAB indoor skydiving
