@@ -22,7 +22,7 @@ window.TRIP_MAP = {
     { name: "Dengkil", note: "Paya Indah Wetlands", center: [2.8700, 101.6400], km: 2.5 },
     { name: "Gamuda Cove", note: "SplashMania water park", center: [2.8400, 101.6400], km: 1.5 },
     { name: "Sepang / KLIA", note: "Mitsui Outlet Park, plane spotting, the airport", center: [2.7500, 101.7100], km: 3.0 },
-    { name: "Seri Kembangan", note: "Farm In The City (on the ETS trip); south of KL", center: [3.0200, 101.7100], km: 2.5 },
+    { name: "Seri Kembangan", note: "Farm In The City (on the ETS trip); The Mines (GAMEON backup)", center: [3.0200, 101.7100], km: 2.5 },
     { name: "Cheras / Sungai Long", note: "Monkeys Canopy Resort", center: [3.0500, 101.7900], km: 3.0 },
     { name: "Shah Alam", note: "Selangor's capital: Sultan Alam Shah Museum, i-City and SkyCity", center: [3.0700, 101.5050], km: 3.0 }
   ],
@@ -40,6 +40,7 @@ window.TRIP_MAP = {
     { day: 5, name: "Cruise Tasik Putrajaya", time: "45 min", type: "sight", note: "Lake cruise from the jetty by Putra Mosque", query: "Cruise Tasik Putrajaya", lat: 2.9352, lng: 101.6918 },
     { day: 6, name: "Mitsui Outlet Park KLIA", time: "2–3 h", type: "food", note: "Outlet shopping and food court next to KLIA; planes overhead", query: "Mitsui Outlet Park KLIA Sepang", lat: 2.7550, lng: 101.7160 },
     { day: 6, name: "Anjung Spotter (plane spotting)", time: "30–60 min", type: "sight", note: "Plane-observation deck by KLIA; location approximate, check before going", query: "Anjung Spotter KLIA", lat: 2.7450, lng: 101.6900 },
+    { day: "opt", name: "GAMEON Themepark, The Mines", time: "2–4 h", type: "theme-park", note: "Indoor rainy-day backup: playland, splash lagoon, bowling, climbing; 10am–10pm; 15–20 min from Putrajaya", query: "GAMEON Themepark The Mines Seri Kembangan", lat: 3.0300, lng: 101.7180 },
     { day: "opt", name: "A'Famosa Safari Wonderland", time: "full day", type: "animals", fit: false, note: "Melaka: truck safari, animal shows, evening carnival; could replace Mitsui on Day 6", query: "A Famosa Safari Wonderland", lat: 2.4030, lng: 102.2140 },
     { day: "opt", name: "Bukit Melawati (silver leaf monkeys)", time: "1–1.5 h", type: "animals", fit: false, note: "Kuala Selangor, late afternoon", query: "Bukit Melawati Kuala Selangor", lat: 3.3410, lng: 101.2450 },
     { day: "opt", name: "Kampung Kuantan fireflies", time: "30–45 min", type: "animals", fit: false, note: "Firefly boat after dark, 8–11pm; avoid full moon", query: "Kampung Kuantan Firefly Park", lat: 3.3610, lng: 101.3020 }

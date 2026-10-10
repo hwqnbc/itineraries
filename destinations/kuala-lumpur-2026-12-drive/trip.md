@@ -87,7 +87,7 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 - **Outside food:** not found {verify}; assume not allowed, and budget for lunch inside.
 - **Storms:** it's outdoors, and slides close when there's lightning; December storms usually come after about 3pm {verify}.
 - **Getting back:** about 20–30 minutes to Putrajaya.
-- **Alternative after Paya Indah:** Mitsui Outlet Park and plane spotting (see Day 6), if you'd rather skip the water park.
+- **Alternative after Paya Indah:** Mitsui Outlet Park and plane spotting (see Day 6), if you'd rather skip the water park; or **GAMEON The Mines** (indoor, see swap-ins) if it's stormy.
 
 ### Day 3 · Tue 22 Dec · Monkeys Canopy Resort 🦕
 - **Getting there:** Drive about 30–40 minutes north-east to Sungai Long, leaving after about 9:30am {verify}. The resort has parking {verify}.
@@ -112,7 +112,7 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 - **Morning (8am):** [Taman Botani Putrajaya](map:Taman+Botani+Putrajaya) (⏱ 1–2 h): **rent bikes** for the flat lakeside paths, from about RM10 an hour; twin bikes about RM20 per 30 minutes {verify}. Hours vary by source; it may be closed on Tuesdays {verify}. No bikes on the canopy bridge. Ride early, before it's hot.
 - **Late morning:** [Putra Mosque](map:Putra+Mosque+Putrajaya) (⏱ 30–45 min), the pink mosque: free; dress modestly (robes lent at the entrance) {verify}. Fine on a Thursday; on **Fridays** it's closed to visitors until mid-afternoon.
 - **Then:** [Cruise Tasik Putrajaya](map:Cruise+Tasik+Putrajaya) (⏱ 45 min) from the jetty by Putra Mosque: about RM50 per adult and RM35 per child, or a cheaper 25-minute cruise at 10am and 7pm {verify}.
-- **Afternoon:** Rest and pool at the hotel.
+- **Afternoon:** Rest and pool at the hotel, or **GAMEON The Mines** (indoor, about 15–20 minutes; see swap-ins) if he has energy left.
 - **Evening:** Christmas Eve dinner; malls will be busy {verify}.
 
 ### Day 6 · Fri 25 Dec · Mitsui Outlet & plane spotting → JB 🧳✈️
@@ -129,6 +129,7 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 - **Morning:** **Return the car** (check the rental office's Saturday hours) {verify}, then cross the Causeway before the afternoon crowds. Most Singapore travellers stay in Malaysia until Sunday, so Saturday morning should be calmer heading home {verify}.
 
 ### Swap-in options
+- **[GAMEON Themepark, The Mines](map:GAMEON+Themepark+The+Mines+Seri+Kembangan) (⏱ 2–4 h): the indoor rainy-day backup.** A big 3-storey play park in The Mines Shopping Mall, Seri Kembangan, about 15–20 minutes from Putrajaya, with mall parking {verify}: Imagination Playland, a **Splash Lagoon** water-play area, bowling, Floor Is Lava, an inflatable challenge, wall climbing, ninja challenges and sports games {verify}. One listing shows **unlimited play for about RM34**; open 10am–10pm daily {verify}. Use it if a storm washes out SplashMania (Day 2) or for the free Thu 24 afternoon (Day 5). It's a similar idea to the Ninja Village on the ETS trip, so only if he wants more. Check re-entry, outside food and grip-sock rules {verify}.
 - **[A'Famosa Safari Wonderland](map:A+Famosa+Safari+Wonderland)** (⏱ full day), Alor Gajah, Melaka: a **truck drive through a safari park**, walk-through areas and animal shows, with an evening carnival and fireworks {verify}. About 30 minutes off the expressway {verify}. Could replace Mitsui on Day 6 (then drive on to JB in the evening).
 - **Kuala Selangor** (afternoon and evening; about 1.5 hours each way from Putrajaya {verify}): [Bukit Melawati](map:Bukit+Melawati+Kuala+Selangor) (⏱ 1–1.5 h) for the **silver leaf monkeys** in the late afternoon, a seafood dinner, then a **firefly boat** at [Kampung Kuantan](map:Kampung+Kuantan+Firefly+Park) (⏱ 30–45 min) after dark, best 8–11pm and away from the full moon {verify}. About RM100 per boat of four for foreigners in one listing {verify}; book ahead at holidays. Back about 11pm, so it's a late night.
 
