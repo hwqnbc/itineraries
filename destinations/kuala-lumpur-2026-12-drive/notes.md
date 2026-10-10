@@ -12,9 +12,9 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 - **Base: Putrajaya** (or Cyberjaya): just off the North–South Expressway, 10–45 minutes to every stop, easy parking, and most drives go away from KL. Mid Valley (the old draft base) would mean city traffic both ways.
 - **JB rental, last night in JB:** drive back the day before, stay in JB, return the car the next morning (your standing rule for JB rentals). A Singapore car would need a VEP and Malaysian insurance, and the 3/4-tank rule {verify}.
 - **Dates (Sun 20 – Sat 26 Dec):** compared with 21–25 and 26–30 Dec. This keeps every attraction day on a weekday before Christmas, and avoids driving on 24 Dec; the long drive is on Christmas Day, then the car goes back on Sat 26 morning.
-- **Paya Indah + SplashMania on Monday:** Paya Indah opens at 8am (you checked) and normally closes on Tuesdays; SplashMania (Gamuda Cove, about 10–20 minutes away) is open 10am–6pm and normally closes on Wednesdays; both are open on Mondays {verify}. SplashMania about RM112–125 adult / RM99–110 child, cashless {verify}.
+- **SplashMania (dropped):** outdoor water park at Gamuda Cove, about 10–20 minutes from Paya Indah; 10am–6pm, normally closed on Wednesdays; about RM112–125 adult / RM99–110 child {verify}. Dropped because the indoor Monkeys Splash Zone covers the water park. **Paya Indah** opens at 8am (you checked) and normally closes on Tuesdays {verify}, so it stays on Monday.
 - **Monkeys Canopy:** Splash Zone closed on Mondays for maintenance {verify}; from Putrajaya it's **north-east** (Sungai Long), 30–40 minutes, partly with the commuter flow towards KL.
-- **Monkeys Canopy Resort (hotel):** the resort has its own hotel on the hill: listed as family-friendly, 4.5 stars, two outdoor pools, family rooms and suites, free parking; check-in 3pm, check-out noon; breakfast and a shuttle are mentioned by one guide {verify}. Only a couple of reviews so far {verify}. Staying Mon 21 and Tue 22 removes the Tuesday drive with the commuter flow and the 4:30pm deadline, and allows a midday rest in the room.
+- **Staying near Monkeys Canopy (considered, not chosen):** Monkeys Canopy Resort has its own hotel on the hill (8.4/10 from 473 reviews on Trip.com, from about US$77 a night; about 10 steps to some rooms, buggy on request) {verify}; budget hotels in Bandar Mahkota Cheras (1 Hotel Mahkota Cheras, Orkid Inn) are 5–10 min away but have no pool listed {verify}. You chose Putrajaya for every night instead: the park opens at 10am and a drive back after 8pm is easy.
 - **Shah Alam day:** Sultan Alam Shah Museum (Tue–Sun 9:30am–5:30pm, closed Mondays, Friday break 12:30–2:45pm, about RM15), SkyCity (weekdays from 3:30pm; about RM55 adult / RM45 child; 90 cm minimum), i-City lights (5:30pm–12am; no re-entry). From search results {verify}.
 - **Putrajaya:** bikes at Taman Botani (from about RM10/hour), Putra Mosque (closed to visitors on Friday mornings), lake cruise (about RM50 adult / RM35 child). From search results {verify}.
 - **Mitsui Outlet Park KLIA:** outlet shopping next to KLIA, open 10am–10pm; nearby **Anjung Spotter** plane-observation deck (free) {verify}. Sepang International Circuit and the National Automobile Museum are also nearby {verify}.
@@ -49,13 +49,13 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-10-10 | IOI City Mall + District 21 added as swap-ins | Requested; nearest indoor/rainy-day option to the Putrajaya base |
 | 2026-10-10 | District 21: closed-shoes reminder added (swap-in, packing list, map note); stays a swap-in | Requested |
 | 2026-10-10 | Nights 2–3 (Mon 21, Tue 22) moved to Monkeys Canopy Resort; Putrajaya now nights 1, 4 and 5. Day 2 ends with the drive to the resort; Day 4 (Shah Alam) starts from Sungai Long after 9:30am and ends in Putrajaya. Days not swapped, so Christmas Eve stays a no-driving Putrajaya day | You wanted to sleep near Monkeys Canopy the night before and stay late; the car carries the bags |
+| 2026-10-10 | Monkeys Canopy Resort nights undone: Putrajaya for all 5 nights again; Tue 22 out about 9:15, back after 8pm. SplashMania dropped; Day 2 is now Paya Indah + Putra Mosque + lake cruise (moved from Thu), Thu 24 is bikes + pool. Shah Alam kept for now; an IOI City Mall day is the possible replacement (decide later) | You found moving hotels a hassle and a late drive back fine; the Splash Zone covers the water park; Christmas Eve likely crowded everywhere, so it stays light |
 
 ## Open questions
-- Putrajaya or Cyberjaya hotel (car park, pool, family room)? Ideally the same one for night 1 and nights 4–5.
-- Monkeys Canopy Resort: park packages for guests, re-entry for a midday rest, breakfast, restaurant hours, and whether the parks are a walk or a shuttle from the rooms {verify}.
+- Putrajaya or Cyberjaya hotel (car park, pool, family room)?
 - JB hotel near the rental's return office for Fri 25 Dec; rental's Saturday hours after Christmas {verify}.
-- Day 2 after Paya Indah: SplashMania, or Mitsui + plane spotting instead (left open).
-- SplashMania and Monkeys Canopy: re-entry and outside-food rules {verify}.
+- Wed 23: keep Shah Alam (SkyCity glass slide) or replace it with an IOI City Mall day (shopping, District 21, Icescape)?
+- Monkeys Canopy: re-entry and outside-food rules {verify}.
 - Anjung Spotter: exact location and hours {verify}.
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)
 - SkyCity and i-City: outside-food rule, and whether they're combined on one ticket {verify}.
