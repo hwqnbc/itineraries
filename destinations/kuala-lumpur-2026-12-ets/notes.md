@@ -49,7 +49,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 **If prices turn out the same all through December** (e.g. the farm, Space & Time Cube), going after 5 Dec is fine for those places. What matters most is Aquaria (Wed 2 Dec) and the ninja park (Thu 3 Dec); check their date calendars when booking.
 
 ## Research & options
-- **WINDLAB Indoor Skydiving** (1 Utama, PJ): wind tunnel with an instructor; about RM99 for 2 × 50-second flights, plus RM35 per extra flight and RM15 for a high ride; 10am–10pm (to 10:30pm Fri–Sat); from about age 3; closed lace-up shoes {verify}. Direct on the MRT Kajang line from Bukit Bintang (about 30–35 min), so it suits the ETS trip; from Putrajaya it would mean driving into PJ traffic.
+- **WINDLAB Indoor Skydiving** (1 Utama, PJ): wind tunnel with an instructor; about RM99 for 2 × 50-second flights, plus RM35 per extra flight and RM15 for a high ride; 10am–10pm (to 10:30pm Fri–Sat); from about age 3; closed lace-up shoes {verify}. Direct on the MRT Kajang line from Bukit Bintang, but about 1 h door to door (20–25 min on the train plus walks); Grab 25–35 min off-peak, 45–75 min at rush hour (LDP/Sprint jams, weekend mall queues). Still suits the ETS trip on a weekday; from Putrajaya it would mean driving into PJ traffic.
 - **Shortlist (from you):** Aquaria KLCC, Petrosains Discovery Centre, Space & Time Cube (Lot 10, Bukit Bintang), Farm In The City, Monkeys Canopy Resort (Sungai Long, Cheras; **drive version only**), Berjaya Times Square Theme Park (**ETS version**). **Not going:** Genting, Sunway Lagoon, KidZania (dropped 29 Sep).
 - **Grab rule:** a place is fine without a car as long as a Grab back to the hotel is easy to book. That's true in the city and suburbs; not at Paya Indah or the Monkeys Canopy hilltop, which is why the ETS plan uses Berjaya Times Square Theme Park instead.
 - **KLCC vs Bukit Bintang hotels:** Bukit Bintang generally costs less for a similar standard and has far more mid-range choice; KLCC is mostly upscale {verify}. The covered **KLCC–Bukit Bintang walkway** (about 1.2 km, Pavilion ↔ Convention Centre) links them, so a Bukit Bintang base loses little.
@@ -106,6 +106,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-06 | Friday prayers noted (about 12:15–2:45pm): Planetarium has no 1pm/2pm shows on Fridays; small stalls may close; added to the Malaysia guide and as a general planning rule | You pointed it out |
 | 2026-10-10 | Car trip planned for Sun 20 – Sat 26 Dec (Putrajaya base; see its notes); Drive vs ETS table updated, and its Farm row fixed (car column had ETS text) | Car trip re-plan agreed |
 | 2026-10-10 | WINDLAB Indoor Skydiving (1 Utama) added as a swap-in, with a closed-shoes reminder | Requested; direct MRT from Bukit Bintang, so it goes on the ETS trip rather than the car trip |
+| 2026-10-10 | WINDLAB travel time corrected to about 1 h door to door; weekday only, Day 8 afternoon suggested instead of Sat Day 5 | You spotted the MRT takes nearly an hour; the earlier figure was train time only |
 
 ## Open questions
 - GAMEON Ninja Village: age/height rules per trial, waiver, re-entry and outside food {verify}.
