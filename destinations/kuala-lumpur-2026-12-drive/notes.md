@@ -18,7 +18,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 - **Putrajaya:** bikes at Taman Botani (from about RM10/hour), Putra Mosque (closed to visitors on Friday mornings), lake cruise (about RM50 adult / RM35 child). From search results {verify}.
 - **Mitsui Outlet Park KLIA:** outlet shopping next to KLIA, open 10am–10pm; nearby **Anjung Spotter** plane-observation deck (free) {verify}. Sepang International Circuit and the National Automobile Museum are also nearby {verify}.
 - **GAMEON Themepark, The Mines** (Seri Kembangan): big 3-storey indoor play park with a splash lagoon, bowling and climbing; about RM34 unlimited in one listing; 10am–10pm {verify}. Edge of the city, about 25–40 min by Grab from Bukit Bintang but 15–20 min by car from Putrajaya, so it's the car trip's **indoor rainy-day backup**. It overlaps with the Ninja Village on the ETS trip.
-- **IOI City Mall + District 21** (Putrajaya, about 10–15 min from the base): District 21 is an indoor adventure park (tube slide, ropes, go-pedal, maze); weekdays 12–8pm, weekends/PH 10am–8pm, last tickets 5:30pm; about RM64 weekdays / RM80 weekends and holidays, RM10 non-active pass {verify}. The mall also has the Icescape ice rink. Nearest indoor option to the base; overlaps with GAMEON The Mines, so pick one.
+- **IOI City Mall + District 21** (Putrajaya, about 10–15 min from the base): District 21 is an indoor adventure park (tube slide, ropes, go-pedal, maze); weekdays 12–8pm, weekends/PH 10am–8pm, last tickets 5:30pm; about RM64 weekdays / RM80 weekends and holidays, RM10 non-active pass {verify}. **Closed shoes are required to play** (no sandals). The mall also has the Icescape ice rink. Nearest indoor option to the base; overlaps with GAMEON The Mines, so pick one.
 - **Considered and left out:** Skytrex (Shah Alam; status unclear, possibly closed or weekend-only), Zoo Melaka, Farm In The City (on the ETS trip), the city sights (on the ETS trip). Kuala Selangor fireflies and A'Famosa Safari Wonderland are kept as swap-ins.
 
 ## Decisions log
@@ -46,6 +46,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-10-10 | Re-planned as the outskirts trip: Sun 20 – Sat 26 Dec, Putrajaya base (5 nights) + 1 night in JB; Paya Indah + SplashMania (Mon), Monkeys Canopy (Tue), Shah Alam (Wed), Putrajaya (Thu), Mitsui + plane spotting → JB (Fri 25), car return Sat 26 morning. City days, Mid Valley base, Farm In The City, Dataran Merdeka, Skytrex and Zoo Melaka removed | Agreed after discussion: avoid the city (ETS trip covers it), weekdays for attractions, off the roads on 24 Dec, and return the car the morning after reaching JB |
 | 2026-10-10 | GAMEON Themepark, The Mines added as a swap-in: indoor rainy-day backup for Day 2 (if SplashMania is stormed out) or the Thu 24 afternoon | You chose option 1: close to Putrajaya by car; the ETS trip keeps the Ninja Village |
 | 2026-10-10 | IOI City Mall + District 21 added as swap-ins | Requested; nearest indoor/rainy-day option to the Putrajaya base |
+| 2026-10-10 | District 21: closed-shoes reminder added (swap-in, packing list, map note); stays a swap-in | Requested |
 
 ## Open questions
 - Putrajaya or Cyberjaya hotel (car park, pool, family room)?
