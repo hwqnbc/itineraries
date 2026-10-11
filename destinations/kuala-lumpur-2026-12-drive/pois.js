@@ -10,14 +10,14 @@ window.TRIP_MAP = {
     2: "Paya Indah & Putra Mosque",
     3: "Monkeys Canopy",
     4: "GAMEON The Mines (whole day)",
-    5: "Putrajaya bikes & horse-side brunch",
+    5: "Bikes, Glasshopper & horse-side lunch",
     6: "Drive to JB (Seremban, Yong Peng)",
     7: "Car return → home"
   },
   // Areas / districts: approximate circles to show where each area is (toggle "Areas / districts")
   areas: [
     { name: "KL city centre", note: "Not on this trip: the ETS city trip covers it", center: [3.1500, 101.7050], km: 3.0 },
-    { name: "Putrajaya", note: "The base: lakes, bridges, Putra Mosque, botanical garden (bike hire)", center: [2.9300, 101.6900], km: 3.0 },
+    { name: "Putrajaya", note: "The base: lakes, bridges, Putra Mosque, Taman Botani (bike hire), The Glasshopper, Equestrian Park", center: [2.9300, 101.6900], km: 3.0 },
     { name: "Cyberjaya", note: "Next to Putrajaya; alternative hotel area", center: [2.9220, 101.6500], km: 2.0 },
     { name: "Dengkil", note: "Paya Indah Wetlands", center: [2.8700, 101.6400], km: 2.5 },
     { name: "Putrajaya south-east (IOI City)", note: "IOI City Mall: District 21, Icescape ice rink", center: [2.9700, 101.7130], km: 1.0 },
@@ -25,12 +25,13 @@ window.TRIP_MAP = {
     { name: "Cheras / Sungai Long", note: "Monkeys Canopy Resort", center: [3.0500, 101.7900], km: 3.0 },
   ],
   pois: [
-    { name: "Putrajaya (hotel area)", type: "hotel", note: "Nights 1–5: hotel with car park and pool", query: "Putrajaya", lat: 2.9260, lng: 101.6960 },
+    { name: "Putrajaya (hotel area)", type: "hotel", note: "Nights 1–5: hotel with car park (pool optional)", query: "Putrajaya", lat: 2.9260, lng: 101.6960 },
     { name: "JB (hotel area)", type: "hotel", fit: false, note: "Night 6 (Christmas): near the car-return office; book early", query: "JB Sentral Johor Bahru", lat: 1.4630, lng: 103.7645 },
     { day: 2, name: "Paya Indah Wetlands", time: "2–2.5 h", type: "animals", note: "Hippos, crocodiles, birds; opens 8am, go first thing", query: "Paya Indah Wetlands Dengkil", lat: 2.8700, lng: 101.6180 },
     { day: 3, name: "Monkeys Canopy Resort", time: "4–6 h", type: "theme-park", note: "Splash Zone, Dino Desert, Enchanted Forest, Playland; Splash Zone closed Mondays", query: "Monkeys Canopy Resort Sungai Long", lat: 3.0460, lng: 101.8030 },
-    { day: 5, name: "Taman Botani Putrajaya", time: "1–2 h", type: "sight", note: "Bike hire on the lakeside paths; ride early", query: "Taman Botani Putrajaya", lat: 2.9440, lng: 101.6720 },
-    { day: 5, name: "Ekues Cabin Cafe (Equestrian Park)", time: "1–1.5 h", type: "food", note: "Brunch watching the horses; 8am–7pm, closed Mondays; pony rides at the park; location approximate", query: "Ekues Cabin Cafe Putrajaya", lat: 2.9175, lng: 101.6790 },
+    { day: 5, name: "Taman Botani Putrajaya", time: "1–2 h", type: "sight", note: "Bike hire on the lakeside paths; ride early", query: "Taman Botani Putrajaya", lat: 2.9450, lng: 101.6970 },
+    { day: 5, name: "The Glasshopper", time: "45–60 min", type: "food", note: "Breakfast next to Taman Botani after the bikes; daily 8:30am–7pm; location approximate", query: "The Glasshopper Putrajaya", lat: 2.9445, lng: 101.6985 },
+    { day: 5, name: "Ekues Cabin Cafe (Equestrian Park)", time: "1–1.5 h", type: "food", note: "Late lunch watching the horses; 8am–7pm, closed Mondays; pony rides at the park; location approximate", query: "Ekues Cabin Cafe Putrajaya", lat: 2.9175, lng: 101.6790 },
     { day: 2, name: "Putra Mosque", time: "30–45 min", type: "sight", note: "The pink mosque; closed to visitors on Friday mornings", query: "Putra Mosque Putrajaya", lat: 2.9360, lng: 101.6897 },
     { day: 2, name: "Cruise Tasik Putrajaya", time: "45 min", type: "sight", note: "Lake cruise from the jetty by Putra Mosque", query: "Cruise Tasik Putrajaya", lat: 2.9352, lng: 101.6918 },
     { day: 4, name: "GAMEON Themepark, The Mines", time: "whole day", type: "theme-park", note: "Indoor: playland, splash lagoon, bowling, climbing; 10am–10pm; 15–20 min from Putrajaya", query: "GAMEON Themepark The Mines Seri Kembangan", lat: 3.0300, lng: 101.7180 },

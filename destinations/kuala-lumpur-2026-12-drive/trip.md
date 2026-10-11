@@ -38,7 +38,7 @@ The **car trip**: rent a car in JB and base in **Putrajaya**, south of KL, for t
 
 | Nights | Where | Area | Notes |
 |--------|-------|------|-------|
-| Nights 1–5 (Sun 20 – Fri 25) | TBD | **Putrajaya** (or Cyberjaya next door) | Hotel with its own car park (check the cost and height limit) and **a pool** for the afternoon breaks {verify}. 10–45 minutes to every stop |
+| Nights 1–5 (Sun 20 – Fri 25) | TBD | **Putrajaya** (or Cyberjaya next door) | Hotel with its own car park (check the cost and height limit) and, if possible, a pool for the afternoon breaks (nice to have, not essential) {verify}. 10–45 minutes to every stop |
 | Night 6 (Fri 25 – Sat 26) | TBD | **JB**, near the car-return office or the Causeway | Christmas Day and the start of the long weekend: JB is busy with Singapore visitors and hotels are dearer, so **book early** {verify} |
 
 ### Where to stay: area comparison (car)
@@ -54,7 +54,7 @@ Travel times are rough and outside rush hour {verify}.
 | Evenings & food | Waterfront, IOI City Mall nearby {verify} | Malls and cafés | Suburban malls | Big malls |
 | Watch out | Quiet at night | Quieter still | Morning traffic into KL | City traffic both ways |
 
-**Recommendation:** **Putrajaya**; Cyberjaya if a good hotel with a pool is cheaper there.
+**Recommendation:** **Putrajaya**; Cyberjaya if a good hotel is cheaper there.
 
 ### Rush-hour direction
 KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and **out in the evening** (about 5–8pm) {verify}. From Putrajaya, most drives on this trip go **south or west, away from KL**; Monkeys Canopy (north-east) and The Mines (north) head towards the commuter belt, so both are timed around the rush: out after about 9:15am, back after 8pm. Check Google Maps' typical traffic ("Depart at") before each drive.
@@ -75,7 +75,7 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 - **Luggage:** Carry it across the Causeway to the rental pickup in JB; after that it stays in the car.
 - **Morning:** Cross early (about 7am): it's a school-holiday weekend {verify}. Collect the car and load a Touch 'n Go card.
 - **Midday:** Lunch at a highway rest stop (R&R) on the way {verify}.
-- **Afternoon:** Check in at Putrajaya by about 3–4pm, then pool time.
+- **Afternoon:** Check in at Putrajaya by about 3–4pm, then rest (pool if the hotel has one).
 - **Evening:** An easy walk by the lake to see Putrajaya's lit bridges and buildings after dark {verify}; dinner nearby.
 
 ### Day 2 · Mon 21 Dec · Paya Indah Wetlands & Putra Mosque 🦛🕌
@@ -84,7 +84,7 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 - **Late morning:** Back to Putrajaya (about 15–20 minutes) and lunch.
 - **Then:** [Putra Mosque](map:Putra+Mosque+Putrajaya) (⏱ 30–45 min), the pink mosque: free; dress modestly (robes lent at the entrance) {verify}. Fine on a Monday; on **Fridays** it's closed to visitors until mid-afternoon {verify}.
 - **And:** [Cruise Tasik Putrajaya](map:Cruise+Tasik+Putrajaya) (⏱ 45 min) from the jetty by Putra Mosque: about RM50 per adult and RM35 per child, or a cheaper 25-minute cruise at 10am and 7pm {verify}.
-- **Afternoon:** Rest and pool at the hotel.
+- **Afternoon:** Rest at the hotel (pool if there is one).
 - **If it's stormy:** swap the cruise for **IOI City Mall / District 21** (indoor, see swap-ins).
 
 ### Day 3 · Tue 22 Dec · Monkeys Canopy Resort 🦕
@@ -103,11 +103,12 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 - **Socks:** check whether grip socks are required {verify}.
 - **Getting back:** About 15–20 minutes to Putrajaya; after 8pm the roads are clear.
 
-### Day 5 · Thu 24 Dec · Putrajaya, relaxed (Christmas Eve) 🚲
+### Day 5 · Thu 24 Dec · Putrajaya, relaxed (Christmas Eve) 🚲🐴
 - **Morning (8am):** [Taman Botani Putrajaya](map:Taman+Botani+Putrajaya) (⏱ 1–2 h): **rent bikes** for the flat lakeside paths, from about RM10 an hour; twin bikes about RM20 per 30 minutes {verify}. Hours vary by source; it may be closed on Tuesdays {verify}. No bikes on the canopy bridge. Ride early, before it's hot.
-- **Brunch (about 9:30–10:30):** [Ekues Cabin Cafe](map:Ekues+Cabin+Cafe+Putrajaya) (⏱ 1–1.5 h), an open-air café in the **Putrajaya Equestrian Park** (Presint 5), about 5–10 minutes' drive: brunch, coffee and matcha while **watching the horses** in the fields next to it. Open 8am–7pm, **closed on Mondays**; Fridays 8am–1pm and 3–7pm (from Google Maps, Oct 2026). Reviews say it's a bit pricey and service can be slow. Optional **pony/horse joy ride** at the park, about RM15 adult / RM10 child {verify}.
-- **Late morning:** Back to the hotel to cool off; the Putra Mosque and the lake cruise are on Day 2.
-- **Afternoon:** Rest and pool at the hotel, or **IOI City Mall** (shopping and District 21; see swap-ins) early in the afternoon, before the Christmas Eve crowds, if he has energy left.
+- **Breakfast (about 9:30):** [The Glasshopper](map:The+Glasshopper+Putrajaya) (⏱ 45–60 min), right next to Taman Botani: brunch-style menu (shakshouka, burgers), coffee that reviewers rate highly; order at the counter even when seated upstairs; free, easy parking. Open daily 8:30am–7pm (Google Maps, Oct 2026).
+- **Late morning:** Back to the hotel to rest (pool if there is one); the Putra Mosque and the lake cruise are on Day 2. Without a pool, a short air-conditioned stop at **IOI City Mall** (10–15 minutes; see swap-ins) works too.
+- **Late lunch (about 1:30–2:30):** [Ekues Cabin Cafe](map:Ekues+Cabin+Cafe+Putrajaya) (⏱ 1–1.5 h), an open-air café in the **Putrajaya Equestrian Park** (Presint 5), about 5–10 minutes' drive: lunch while **watching the horses** in the fields next to it. Open 8am–7pm, **closed on Mondays**; Fridays 8am–1pm and 3–7pm (Google Maps, Oct 2026). Reviews say it's a bit pricey and service can be slow. Optional **pony/horse joy ride** at the park, about RM15 adult / RM10 child {verify}. It's open-air: arrive by about 1:30, before the usual 3–6pm storms {verify}.
+- **Afternoon:** Rest at the hotel.
 - **Evening:** Christmas Eve dinner; malls will be busy {verify}.
 
 ### Day 6 · Fri 25 Dec · Drive to JB 🧳
@@ -134,7 +135,7 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 ## ✅ Bookings to make {#bookings}
 - [ ] JB car rental Sun 20 – Sat 26 Dec that allows driving to KL, with a child booster seat if needed; check the Saturday return hours {verify}
 - [ ] Touch 'n Go card with credit (tolls and parking)
-- [ ] Putrajaya (or Cyberjaya) hotel, 5 nights: family room, own car park (cost, height limit), pool
+- [ ] Putrajaya (or Cyberjaya) hotel, 5 nights: family room, own car park (cost, height limit); a pool is nice to have, not essential
 - [ ] JB hotel for Fri 25 Dec (Christmas: book early), near the car-return office
 - [ ] Monkeys Canopy tickets for Tue 22 Dec: which parks are included, and the height limits
 - [ ] GAMEON The Mines tickets for Wed 23 Dec (check online deals and the grip-sock rule) {verify}
