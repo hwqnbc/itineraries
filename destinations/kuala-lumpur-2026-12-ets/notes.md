@@ -37,7 +37,6 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 7 · Mon 7 Dec, school holidays: go at opening (closed Tuesdays in term time only) |
 | GAMEON Ninja Village (The Labs, BBCC) | Not found {verify} | About RM68 per person + grip socks; daily 12–8pm (you checked) | Day 3 · Thu 3 Dec ✅ term-time weekday |
 | Berjaya Times Square Theme Park (swap-in) | Not found; longer hours at weekends and in school holidays {verify} | Resellers list about RM90 adult / RM75 child for non-Malaysians; no re-entry, no outside food {verify} | Day 3 · Thu 3 Dec ✅ term-time weekday |
-| Immersify Kuala Lumpur | Not found {verify} | About RM88 adult / RM55 child (non-Malaysian) {verify} | Day 8 · Tue 8 Dec, school holidays |
 | White & Black Aquasports (Titiwangsa) | Not found; weekend hours differ {verify} | Paddle boat about RM15 adult / RM10 child per 30 min {verify} | Day 8 · Tue 8 Dec, school holidays (closed Mondays) |
 | ~~KidZania KL~~ | **Dynamic pricing**: cheaper the earlier you book (you found) | **Dropped**: adults pay with nothing to do, and no re-entry | — |
 | Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Car trip: Day 3 · Tue 22 Dec |
@@ -109,6 +108,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-10 | WINDLAB travel time corrected to about 1 h door to door; weekday only, Day 8 afternoon suggested instead of Sat Day 5 | You spotted the MRT takes nearly an hour; the earlier figure was train time only |
 | 2026-10-11 | Space & Time Cube removed; Day 3 is a whole afternoon at the Ninja Village with nothing after it | He prefers a whole day at one theme park and will be tired afterwards |
 | 2026-10-11 | Space & Time Cube back in the plan: Fri 4 Dec late afternoon, after the Planetarium (it had been removed by mistake) | You still want it, just not on the ninja-park day |
+| 2026-10-11 | Immersify dropped; Day 8 afternoon is free and easy. GAMEON Ninja Village marker moved to your pin (3.1400702, 101.7091040; the earlier position was an estimate about 500 m off) | Similar to the Space & Time Cube (Day 4) |
 
 ## Open questions
 - GAMEON Ninja Village: age/height rules per trial, waiver, re-entry and outside food {verify}.
@@ -120,7 +120,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 - KidZania Kuala Lumpur — general info (hours): https://www.kidzania.com.my/generalinfo
 - GAMEON Ninja Park: https://gameonthemepark.com/ninja-park/ (hours from your ticket check; price from a 2026 review)
 - Berjaya Times Square Theme Park — buy tickets: https://berjayatimessquarethemeparkkl.com/buy-online/ (hours, rules and reseller prices from search results; the site was not reachable from here)
-- Immersify Kuala Lumpur: https://immersifykl.com/ (hours and prices from search results)
+- Immersify Kuala Lumpur (dropped 2026-10-11, similar to the Space & Time Cube): https://immersifykl.com/
 - White & Black Aquasports (Titiwangsa): hours and prices from search results, e.g. airial.travel and malaysia-traveller.com/titiwangsa-lake-gardens.html
 - Space & Time Cube Malaysia — https://spaceandtimecube.com.my/
 - KTM ETS — official KTM Berhad website (check the timetable and JB Sentral services)

@@ -13,7 +13,7 @@ weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel ar
 currency: MYR
 updated: 2026-10-11
 ---
-The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **GAMEON Ninja Village**, the **Planetarium**, **Space & Time Cube**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip, Sun 20 – Sat 26 Dec**.
+The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **GAMEON Ninja Village**, the **Planetarium**, **Space & Time Cube**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), and **paddle boats at Titiwangsa Lake**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, GAMEON The Mines) are for a **separate car trip, Sun 20 – Sat 26 Dec**.
 
 > Planning: ETS times chosen. The later car trip is **[KL outskirts by car](../kuala-lumpur-2026-12-drive/trip.md)** (20–26 Dec); the comparison is in **[Drive vs ETS](notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
@@ -127,13 +127,13 @@ Travel times are rough and from general knowledge {verify}.
 - **Afternoon:** Back to the hotel to rest.
 - **Getting back:** Grab is easy in Seri Kembangan {verify}.
 
-### Day 8 · Tue 8 Dec · Titiwangsa paddle boats & Immersify 🚣🎨
-- **Why this order:** the last full day, in the school holidays, before an early start on Day 9. The outdoor lake goes first, while it's cool and before the usual 3–6pm storms; the indoor gallery goes after lunch.
+### Day 8 · Tue 8 Dec · Titiwangsa paddle boats, then free and easy 🚣
+- **Why this order:** the last full day, in the school holidays, before an early start on Day 9. The outdoor lake goes first, while it's cool and before the usual 3–6pm storms; the afternoon is left free.
 - **Getting there:** allow **about 1 hour door to door by train**: walk to the Bukit Bintang monorail station, the **KL Monorail** to **Titiwangsa** (the last stop, about 12–15 minutes on the train, plus waiting), then about 11 minutes to the lake and possibly 10–20 more around the park to the Aquasports jetty {verify}. Quicker: a **Grab straight to the jetty**, about 15–25 minutes {verify}, heading north out of the centre while the morning rush runs inwards. Leave about 9:00 for the 10am opening.
 - **Getting back:** Grab, or walk back to Titiwangsa station for the monorail (about 45–60 minutes to the hotel) {verify}.
 - **Morning (10am):** [White & Black Aquasports](map:White+N+Black+Aquasports+Titiwangsa) at [Titiwangsa Lake Gardens](map:Taman+Tasik+Titiwangsa) (⏱ 1–1.5 h): **paddle boats and kayaks** on the lake, with views of the KLCC skyline {verify}. Life jackets are provided {verify}. Paddle boat or tandem kayak about **RM15 per adult and RM10 per child** for 30 minutes, ages 3–6 free; single kayak about RM20 for 30 minutes {verify}. **Closed on Mondays**; Tue–Thu 10am–7:15pm {verify}. Boating stops if there's lightning. There's a playground and a lakeside path too.
 - **Lunch:** around Bukit Bintang once you're back.
-- **Afternoon:** [Immersify Kuala Lumpur](map:Immersify+Kuala+Lumpur+The+Labs+BBCC) (⏱ 1.5–2 h), a permanent digital media-art gallery with 11 immersive zones of projections, 3D spatial sound and installations, at **The Labs, Bukit Bintang City Centre (BBCC)** {verify}. About 10–15 minutes' walk from the hotel {verify}. Open daily 10am–10pm {verify}. Non-Malaysian tickets about RM88 per adult and RM55 per child aged 3–12 {verify}. Indoors, so it's fine if it storms. It's a similar idea to the Space & Time Cube (Day 4); if one was enough, or he's tired after the paddle boats, have a rest afternoon instead.
+- **Afternoon:** Free and easy: rest at the hotel, or a wander and snacks around Bukit Bintang (LaLaport BBCC, Pavilion), nothing booked.
 - **Evening:** Pack for tomorrow (check-out about 8:45am); a last dinner at Jalan Alor or Lot 10 Hutong. A last browse for Adult 2 at **Pavilion, Lot 10 or Fahrenheit88** {verify}.
 
 ### Day 9 · Wed 9 Dec · KL → Singapore by ETS 🧳
@@ -158,7 +158,7 @@ Travel times are rough and from general knowledge {verify}.
     - **When to go (options):** **Day 5** (Sat), the easy day: start at KLCC by about 9am and stop at Bukit Nanas or Masjid Jamek if it gets hot; or **Day 2** after Petrosains, ending at the River of Life at dusk (long after two attractions). Day 6 already covers Merdeka Square, Masjid Jamek and Central Market.
     - **Heat and pavements:** mostly unshaded except the forest; start by about 9am or go late afternoon, before or after the usual 3–6pm storms {verify}. Pavements are uneven in places and a few crossings are busy (Jalan Ampang, Jalan Raja Laut), so hold hands.
     - **Bail out any time:** Grab is easy along the route, and there are stations at Masjid Jamek (LRT) and Pasar Seni (MRT) back to Bukit Bintang {verify}.
-- **[WINDLAB Indoor Skydiving](map:WINDLAB+Indoor+Skydiving+1+Utama) (⏱ 1.5–2 h):** a vertical wind tunnel in **1 Utama** mall, Petaling Jaya, with an instructor beside each flyer; formerly AirRider {verify}. **Getting there (about 1 h door to door by MRT):** walk to Bukit Bintang MRT, take the Kajang line to Bandar Utama with no change (about 20–25 min on the train), then about 10–15 min through the link bridge and the mall {verify}. By Grab: about 25–35 min on a weekday 10am–4pm, but **45–75 min at rush hour** (7:30–9:30am, 5–8pm) or in rain; the LDP and Sprint around 1 Utama jam badly, and the mall car park queues on weekends and school holidays {verify}. Best plan: Grab there mid-morning, MRT back if it's after 4pm or raining. The session takes up to 1.5 h from check-in, including a briefing; each flight is about 50 seconds. About **RM99 for 2 flights**, RM35 per extra flight, and RM15 for a "high ride" {verify}. Open daily 10am–10pm, until 10:30pm on Fri and Sat {verify}. From about age 3, with weight limits {verify}. Suit, helmet and goggles are provided; **wear closed lace-up shoes** {verify}. Book a weekday slot. Go on a **weekday**: it fits the Day 8 (Tue) afternoon instead of Immersify; avoid Sat Day 5 (weekend traffic and full slots). About 2 h of travel for 1.5 h there, so it's worth it mainly if you also eat and play at the mall. 1 Utama itself is a big family mall with lots of food.
+- **[WINDLAB Indoor Skydiving](map:WINDLAB+Indoor+Skydiving+1+Utama) (⏱ 1.5–2 h):** a vertical wind tunnel in **1 Utama** mall, Petaling Jaya, with an instructor beside each flyer; formerly AirRider {verify}. **Getting there (about 1 h door to door by MRT):** walk to Bukit Bintang MRT, take the Kajang line to Bandar Utama with no change (about 20–25 min on the train), then about 10–15 min through the link bridge and the mall {verify}. By Grab: about 25–35 min on a weekday 10am–4pm, but **45–75 min at rush hour** (7:30–9:30am, 5–8pm) or in rain; the LDP and Sprint around 1 Utama jam badly, and the mall car park queues on weekends and school holidays {verify}. Best plan: Grab there mid-morning, MRT back if it's after 4pm or raining. The session takes up to 1.5 h from check-in, including a briefing; each flight is about 50 seconds. About **RM99 for 2 flights**, RM35 per extra flight, and RM15 for a "high ride" {verify}. Open daily 10am–10pm, until 10:30pm on Fri and Sat {verify}. From about age 3, with weight limits {verify}. Suit, helmet and goggles are provided; **wear closed lace-up shoes** {verify}. Book a weekday slot. Go on a **weekday**: it fits the free Day 8 (Tue) afternoon; avoid Sat Day 5 (weekend traffic and full slots). About 2 h of travel for 1.5 h there, so it's worth it mainly if you also eat and play at the mall. 1 Utama itself is a big family mall with lots of food.
 - **Car-only places** (Monkeys Canopy Resort, Paya Indah Wetlands, the Shah Alam day, Putrajaya) are in the **[drive version](../kuala-lumpur-2026-12-drive/trip.md)**.
 
 ## 🗺️ Map {#map}
@@ -169,7 +169,6 @@ Travel times are rough and from general knowledge {verify}.
 - [ ] Aquaria KLCC (off-peak, Wed 2 Dec) and Petrosains tickets
 - [ ] Planetarium Negara dome show (pay on the day; Fri 4 Dec) {verify}
 - [ ] Space & Time Cube tickets for Fri 4 Dec, late afternoon (Lot 10; book online)
-- [ ] Immersify tickets (Tue 8 Dec)
 - [ ] Titiwangsa paddle boats: pay on the spot (Tue 8 Dec; closed Mondays) {verify}
 - [ ] Farm In The City tickets
 - [ ] GAMEON Ninja Village tickets for Thu 3 Dec (about RM68 per person; grip socks at the counter) {verify}
@@ -187,7 +186,6 @@ Travel times are rough and from general knowledge {verify}.
 | Central Market batik painting | about RM10–40 {verify} | |
 | Farm In The City | TBD | |
 | Titiwangsa paddle boat (30 min) | about RM15 adult / RM10 child {verify} | |
-| Immersify Kuala Lumpur | about RM88 adult / RM55 child (non-Malaysian) {verify} | |
 | GAMEON Ninja Village | about RM68 per person + grip socks {verify} | |
 | Grab rides | TBD | |
 | Food | TBD | |
