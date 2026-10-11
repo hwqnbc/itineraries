@@ -13,7 +13,7 @@ weather: 3.147, 101.711            # forecast point: Bukit Bintang, the hotel ar
 currency: MYR
 updated: 2026-10-11
 ---
-The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **GAMEON Ninja Village**, the **Planetarium**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip, Sun 20 – Sat 26 Dec**.
+The **city trip**: ETS from JB to KL, a hotel in **Bukit Bintang**, and walking, trains or Grab for everything else. It covers the city-centre places, where a car is more trouble than help: **Aquaria KLCC**, **Petrosains**, **GAMEON Ninja Village**, the **Planetarium**, **Space & Time Cube**, **Merdeka Square** and **Central Market**, plus **Farm In The City** (by MRT or Grab), **paddle boats at Titiwangsa Lake** and **Immersify**. The outskirts (Monkeys Canopy, Paya Indah, Putrajaya, Shah Alam) are for a **separate car trip, Sun 20 – Sat 26 Dec**.
 
 > Planning: ETS times chosen. The later car trip is **[KL outskirts by car](../kuala-lumpur-2026-12-drive/trip.md)** (20–26 Dec); the comparison is in **[Drive vs ETS](notes.md)**. Anything marked {verify} must be checked before booking. December is Singapore's school holiday, so expect long Causeway queues.
 
@@ -47,6 +47,7 @@ Travel times are rough and from general knowledge {verify}.
 | Days 1 & 9: ETS with luggage | Grab or monorail, about 10–15 min | **Walk off the train** | LRT direct, or Grab | Grab about 15 min, or MRT with one change | KTM Komuter 1 stop, or Grab about 10 min | LRT or MRT 1 stop, or Grab |
 | Day 2: Aquaria, Petrosains | **Walk** the covered walkway | LRT direct, about 10 min | **Walk** | Short Grab | Grab 15–20 min | LRT direct |
 | Day 4: Planetarium | MRT 3 stops + 15 min walk uphill, or Grab 10–15 min | **Very close** | Grab about 15 min | Grab about 15 min | Grab about 10 min | **Close** |
+| Day 4: Space & Time Cube (Lot 10) | **Walk next door** | Monorail or MRT, a few stops | Walkway or short Grab | MRT 1 stop, or short Grab | Grab | MRT direct, 2 stops |
 | Day 7: Farm In The City | Grab 30–45 min | Grab 30–45 min | Grab 30–45 min | Grab; the MRT Putrajaya Line may also get close {verify} | Grab 25–40 min | Grab 30–45 min |
 | Day 3: GAMEON Ninja Village (The Labs, BBCC) | **Walk** 10–15 min, or monorail to Imbi | **Monorail direct** to Imbi {verify} | Walkway to Pavilion, then walk; or short Grab | Walk or short Grab | Grab, or KTM + monorail | MRT to Bukit Bintang, then walk |
 | Day 6: Merdeka Square, Central Market | MRT 2 stops to Pasar Seni, both ways | **Close**; LRT 1 stop | Grab 10–15 min | MRT direct | Grab 10–15 min | **Walk** |
@@ -60,7 +61,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Mid Valley**: worth a look if you want a mall-connected hotel for rainy December afternoons.
 
 ## 🗓️ Day-by-day {#days}
-**How the days are ordered:** the busiest, peak-priced places (Aquaria, Petrosains, the ninja park, the Planetarium) are on **Wed 2 – Fri 4 Dec**, the last term-time weekdays before Malaysia's school holidays. The weekend and the holiday days (Sat 5 – Tue 8) get sightseeing, the farm and the lake, where crowds matter less: they're outdoors and spread out, with no ride queues. Go at opening anyway. Which places have peak pricing: see [peak pricing by place](notes.md#peak-pricing).
+**How the days are ordered:** the busiest, peak-priced places (Aquaria, Petrosains, the ninja park, the Planetarium, Space & Time Cube) are on **Wed 2 – Fri 4 Dec**, the last term-time weekdays before Malaysia's school holidays. The weekend and the holiday days (Sat 5 – Tue 8) get sightseeing, the farm and the lake, where crowds matter less: they're outdoors and spread out, with no ride queues. Go at opening anyway. Which places have peak pricing: see [peak pricing by place](notes.md#peak-pricing).
 
 ### Day 1 · Tue 1 Dec · Singapore → KL by ETS 🧳
 - **Luggage:** It's with you across the Causeway and on the train; Grab from KL Sentral to the hotel.
@@ -91,13 +92,14 @@ Travel times are rough and from general knowledge {verify}.
 - **Food:** Dinner at **Lot 10 Hutong**, a food court of well-known hawker stalls in Lot 10's basement {verify}, or **Jalan Alor**.
 - **Shopping:** **LaLaport BBCC** after the ninja park; **Lot 10, Pavilion and Fahrenheit88** sit side by side in the evening {verify}.
 
-### Day 4 · Fri 4 Dec · Planetarium (half day) 🪐
+### Day 4 · Fri 4 Dec · Planetarium & Space & Time Cube 🪐🚀
 - **Getting there:** **MRT Kajang Line** from Bukit Bintang to **Muzium Negara** (3 stops), cross the highway on the overhead bridge, then walk about 15 minutes uphill through the Lake Gardens {verify}. Leave about 9:30am. If it's already hot or raining, take a Grab up instead (5–10 minutes) and walk down later.
 - **Morning:** [Planetarium Negara](map:Planetarium+Negara+Kuala+Lumpur) (National Planetarium; ⏱ 1.5–2 h, including a dome show) {verify}. Free gallery with space exhibits, plus a **dome show** every hour from 10am (last show 4pm) {verify}; aim for the 10 or 11am show. Shows cost about RM12 for adults and RM8 for children {verify}. **Closed on Mondays and public holidays** {verify}. Before the school holidays, so fewer families in the dome shows.
 - **Friday:** prayers around 12:15–2:45pm: the Planetarium has **no dome shows at 1pm and 2pm** {verify}, so take the 10 or 11am show and be done by noon. Small stalls around the Lake Gardens and Muzium Negara may close over lunch; eat back in Bukit Bintang (malls and Jalan Alor stay open) {verify}.
 - **Getting back:** Walk down about 15 minutes to **MRT Muzium Negara**, then 3 stops to Bukit Bintang {verify}. No traffic, and no Friday-evening Grab queues.
-- **Afternoon:** Free: lunch, then a rest at the hotel.
-- **Food:** An early dinner around Jalan Alor or Pavilion.
+- **Afternoon:** Lunch, then a rest at the hotel.
+- **Late afternoon (about 4–5pm):** [Space & Time Cube](map:Space+and+Time+Cube+Lot+10+Kuala+Lumpur) (⏱ 1–2 h) in **Lot 10**, a short walk from the hotel: an immersive, naked-eye 3D experience with themed zones on LED walls and floors. Open daily 10am–10pm {verify}. Book online; foreign tickets about RM95 in one reseller listing, with a cheaper MyKad price; no weekday/weekend difference found {verify}. A term-time weekday, so quieter.
+- **Food:** Dinner at **Lot 10 Hutong**, a food court of well-known hawker stalls in Lot 10's basement {verify}, or Jalan Alor.
 
 ### Day 5 · Sat 5 Dec · Easy day: shopping, Christmas lights ☀️
 - **Why:** after four busy days, a rest day with nothing booked. It's a Saturday, when the attractions are at their busiest.
@@ -131,7 +133,7 @@ Travel times are rough and from general knowledge {verify}.
 - **Getting back:** Grab, or walk back to Titiwangsa station for the monorail (about 45–60 minutes to the hotel) {verify}.
 - **Morning (10am):** [White & Black Aquasports](map:White+N+Black+Aquasports+Titiwangsa) at [Titiwangsa Lake Gardens](map:Taman+Tasik+Titiwangsa) (⏱ 1–1.5 h): **paddle boats and kayaks** on the lake, with views of the KLCC skyline {verify}. Life jackets are provided {verify}. Paddle boat or tandem kayak about **RM15 per adult and RM10 per child** for 30 minutes, ages 3–6 free; single kayak about RM20 for 30 minutes {verify}. **Closed on Mondays**; Tue–Thu 10am–7:15pm {verify}. Boating stops if there's lightning. There's a playground and a lakeside path too.
 - **Lunch:** around Bukit Bintang once you're back.
-- **Afternoon:** [Immersify Kuala Lumpur](map:Immersify+Kuala+Lumpur+The+Labs+BBCC) (⏱ 1.5–2 h), a permanent digital media-art gallery with 11 immersive zones of projections, 3D spatial sound and installations, at **The Labs, Bukit Bintang City Centre (BBCC)** {verify}. About 10–15 minutes' walk from the hotel {verify}. Open daily 10am–10pm {verify}. Non-Malaysian tickets about RM88 per adult and RM55 per child aged 3–12 {verify}. Indoors, so it's fine if it storms. If he's tired after the paddle boats, have a rest afternoon instead.
+- **Afternoon:** [Immersify Kuala Lumpur](map:Immersify+Kuala+Lumpur+The+Labs+BBCC) (⏱ 1.5–2 h), a permanent digital media-art gallery with 11 immersive zones of projections, 3D spatial sound and installations, at **The Labs, Bukit Bintang City Centre (BBCC)** {verify}. About 10–15 minutes' walk from the hotel {verify}. Open daily 10am–10pm {verify}. Non-Malaysian tickets about RM88 per adult and RM55 per child aged 3–12 {verify}. Indoors, so it's fine if it storms. It's a similar idea to the Space & Time Cube (Day 4); if one was enough, or he's tired after the paddle boats, have a rest afternoon instead.
 - **Evening:** Pack for tomorrow (check-out about 8:45am); a last dinner at Jalan Alor or Lot 10 Hutong. A last browse for Adult 2 at **Pavilion, Lot 10 or Fahrenheit88** {verify}.
 
 ### Day 9 · Wed 9 Dec · KL → Singapore by ETS 🧳
@@ -166,6 +168,7 @@ Travel times are rough and from general knowledge {verify}.
 - [ ] Star Mews Hotel Changkat Bukit Bintang, 8 nights: family or triple room for 3; ask for a high floor at the back (quiet) {verify}
 - [ ] Aquaria KLCC (off-peak, Wed 2 Dec) and Petrosains tickets
 - [ ] Planetarium Negara dome show (pay on the day; Fri 4 Dec) {verify}
+- [ ] Space & Time Cube tickets for Fri 4 Dec, late afternoon (Lot 10; book online)
 - [ ] Immersify tickets (Tue 8 Dec)
 - [ ] Titiwangsa paddle boats: pay on the spot (Tue 8 Dec; closed Mondays) {verify}
 - [ ] Farm In The City tickets
@@ -180,6 +183,7 @@ Travel times are rough and from general knowledge {verify}.
 | Accommodation (8 nights, Bukit Bintang) | TBD | |
 | Aquaria KLCC + Petrosains | TBD | |
 | Planetarium Negara show | about RM12 adult / RM8 child {verify} | |
+| Space & Time Cube | about RM95 foreign (one reseller listing) {verify} | |
 | Central Market batik painting | about RM10–40 {verify} | |
 | Farm In The City | TBD | |
 | Titiwangsa paddle boat (30 min) | about RM15 adult / RM10 child {verify} | |
