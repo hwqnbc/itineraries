@@ -46,6 +46,7 @@ The default group for trips unless a trip's `trip.md` names a different profile.
 - Put the most active day early in the trip, not the day after arriving.
 - Always have an indoor backup for each outdoor day (weather).
 - Keep long-transfer days to themselves; don't add major sights to them.
+- **Theme parks get the whole day.** He prefers one theme park for the day: arrive at opening and stay as long as he likes, no rushing. He'll likely be too tired to enjoy anything else, so plan nothing after it (food near the park is fine).
 - **Food and shopping ride along, they don't lead.** For each day, check whether a good café or eatery, or a clothes/accessories shopping spot, is at or near that day's stops. If so, add a short `- **Food:** …` or `- **Shopping:** …` line to the day. Don't add extra travel for them, and don't count them as one of the 2 big activities.
 
 ## Change log
@@ -53,3 +54,4 @@ The default group for trips unless a trip's `trip.md` names a different profile.
 |------|--------|
 | 2026-09-23 | Created: family of three, child aged 8, animals and theme parks |
 | 2026-09-28 | Adult 1: good food and cafés on the way; Adult 2: clothes and accessories shopping when nearby |
+| 2026-10-11 | Theme parks: a whole day at one park, nothing else that day (he'll be tired) |

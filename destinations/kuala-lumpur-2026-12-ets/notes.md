@@ -11,7 +11,7 @@ Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026
 |---|---|---|
 | Journey | Causeway bus/RTS, then ETS JB Sentral → KL Sentral, about 4.5–5 hours {verify} | Causeway bus/RTS, then drive from JB, about 3.5–4.5 hours without jams {verify} |
 | Causeway | Same crossing either way; the RTS Link (due around end-2026 {verify}) would help both | Same |
-| City days (Aquaria, Petrosains, Planetarium, Space & Time Cube) | **Walk** via the KLCC–Bukit Bintang walkway and to Lot 10; Grab to the Planetarium | Grab (car stays parked) |
+| City days (Aquaria, Petrosains, Planetarium) | **Walk** via the KLCC–Bukit Bintang walkway and to Lot 10; Grab to the Planetarium | Grab (car stays parked) |
 | Farm In The City | ✅ Day 7 (MRT or Grab) {verify} | Not on the car trip (done on the ETS trip) |
 | Theme-park day | **GAMEON Ninja Village** at The Labs, BBCC (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
 | Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 2 · Mon 21 Dec, at 8am |
@@ -33,7 +33,6 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | Aquaria KLCC | **Yes**: school and public holidays, festive seasons | Off-peak (weekday) vs peak tickets are sold separately {verify} | Day 2 · Wed 2 Dec ✅ off-peak |
 | Petrosains | Not found {verify} | Separate prices for non-Malaysians and MyKad holders | Day 2 · Wed 2 Dec (closed Mondays) |
 | Planetarium Negara | No: flat price | Shows about RM12 adult / RM8 child; the gallery is free {verify} | Day 4 · Fri 4 Dec (closed Mon & public holidays) |
-| Space & Time Cube | Not found {verify} | — | Day 3 · Thu 3 Dec |
 | Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 7 · Mon 7 Dec, school holidays: go at opening (closed Tuesdays in term time only) |
 | GAMEON Ninja Village (The Labs, BBCC) | Not found {verify} | About RM68 per person + grip socks; daily 12–8pm (you checked) | Day 3 · Thu 3 Dec ✅ term-time weekday |
 | Berjaya Times Square Theme Park (swap-in) | Not found; longer hours at weekends and in school holidays {verify} | Resellers list about RM90 adult / RM75 child for non-Malaysians; no re-entry, no outside food {verify} | Day 3 · Thu 3 Dec ✅ term-time weekday |
@@ -46,7 +45,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | SkyCity / i-City | Not found; longer hours at weekends {verify} | SkyCity about RM55 adult / RM45 child (international); i-City about RM15 adult / RM35 child {verify} | Car trip: Day 4 · Wed 23 Dec |
 | Hotels, ETS, car rental | Usually dearer at weekends and in school holidays {verify} | Nights Mon–Fri are the cheapest part of this window | ETS trip: 8 nights, Tue–Wed, including a Fri and Sat |
 
-**If prices turn out the same all through December** (e.g. the farm, Space & Time Cube), going after 5 Dec is fine for those places. What matters most is Aquaria (Wed 2 Dec) and the ninja park (Thu 3 Dec); check their date calendars when booking.
+**If prices turn out the same all through December** (e.g. the farm), going after 5 Dec is fine for those places. What matters most is Aquaria (Wed 2 Dec) and the ninja park (Thu 3 Dec); check their date calendars when booking.
 
 ## Research & options
 - **WINDLAB Indoor Skydiving** (1 Utama, PJ): wind tunnel with an instructor; about RM99 for 2 × 50-second flights, plus RM35 per extra flight and RM15 for a high ride; 10am–10pm (to 10:30pm Fri–Sat); from about age 3; closed lace-up shoes {verify}. Direct on the MRT Kajang line from Bukit Bintang, but about 1 h door to door (20–25 min on the train plus walks); Grab 25–35 min off-peak, 45–75 min at rush hour (LDP/Sprint jams, weekend mall queues). Still suits the ETS trip on a weekday; from Putrajaya it would mean driving into PJ traffic.
@@ -57,7 +56,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 - **Berjaya Times Square Theme Park** ([buy online](https://berjayatimessquarethemeparkkl.com/buy-online/)): a big indoor theme park inside Berjaya Times Square mall, Bukit Bintang (Imbi monorail). Galaxy Station (thrill rides) and Fantasy Garden (family rides). Weekdays 12–9pm; weekends, school and public holidays 11am–9pm. Many rides need 120 cm, some 140 cm. No re-entry and no outside food, but the mall has plenty of restaurants. Allow 2–4 hours {verify}.
 - **KidZania Kuala Lumpur (dropped):** Curve NX, Mutiara Damansara, Petaling Jaya, next to the MRT Kajang Line (direct from Bukit Bintang). Children try real jobs. Open daily, Mondays included (see [general info](https://www.kidzania.com.my/generalinfo)). **No re-entry and no outside food.**
 - **Planetarium Negara (National Planetarium):** Perdana Botanical Garden (Lake Gardens), next to KL Bird Park. Open 9am–4:30pm, **closed Mondays and public holidays**. The gallery is free; dome shows run hourly from 10am (last at 4pm), about RM12 adult / RM8 child {verify}.
-- **Space & Time Cube:** Lot 10 Shopping Centre, Bukit Bintang. Immersive, naked-eye 3D; allow 1–2 hours; open daily 10am–10pm {verify}.
+- **Space & Time Cube (dropped 2026-10-11):** Lot 10 Shopping Centre, Bukit Bintang. Immersive, naked-eye 3D; allow 1–2 hours; open daily 10am–10pm {verify}.
 
 ## Decisions log
 | Date | Decision | Why |
@@ -107,6 +106,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-10 | Car trip planned for Sun 20 – Sat 26 Dec (Putrajaya base; see its notes); Drive vs ETS table updated, and its Farm row fixed (car column had ETS text) | Car trip re-plan agreed |
 | 2026-10-10 | WINDLAB Indoor Skydiving (1 Utama) added as a swap-in, with a closed-shoes reminder | Requested; direct MRT from Bukit Bintang, so it goes on the ETS trip rather than the car trip |
 | 2026-10-10 | WINDLAB travel time corrected to about 1 h door to door; weekday only, Day 8 afternoon suggested instead of Sat Day 5 | You spotted the MRT takes nearly an hour; the earlier figure was train time only |
+| 2026-10-11 | Space & Time Cube removed; Day 3 is a whole afternoon at the Ninja Village with nothing after it | He prefers a whole day at one theme park and will be tired afterwards |
 
 ## Open questions
 - GAMEON Ninja Village: age/height rules per trial, waiver, re-entry and outside food {verify}.
