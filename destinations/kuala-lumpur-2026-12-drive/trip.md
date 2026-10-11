@@ -105,6 +105,7 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 
 ### Day 5 · Thu 24 Dec · Putrajaya, relaxed (Christmas Eve) 🚲
 - **Morning (8am):** [Taman Botani Putrajaya](map:Taman+Botani+Putrajaya) (⏱ 1–2 h): **rent bikes** for the flat lakeside paths, from about RM10 an hour; twin bikes about RM20 per 30 minutes {verify}. Hours vary by source; it may be closed on Tuesdays {verify}. No bikes on the canopy bridge. Ride early, before it's hot.
+- **Brunch (about 9:30–10:30):** [Ekues Cabin Cafe](map:Ekues+Cabin+Cafe+Putrajaya) (⏱ 1–1.5 h), an open-air café in the **Putrajaya Equestrian Park** (Presint 5), about 5–10 minutes' drive: brunch, coffee and matcha while **watching the horses** in the fields next to it. Open 8am–7pm, **closed on Mondays**; Fridays 8am–1pm and 3–7pm (from Google Maps, Oct 2026). Reviews say it's a bit pricey and service can be slow. Optional **pony/horse joy ride** at the park, about RM15 adult / RM10 child {verify}.
 - **Late morning:** Back to the hotel to cool off; the Putra Mosque and the lake cruise are on Day 2.
 - **Afternoon:** Rest and pool at the hotel, or **IOI City Mall** (shopping and District 21; see swap-ins) early in the afternoon, before the Christmas Eve crowds, if he has energy left.
 - **Evening:** Christmas Eve dinner; malls will be busy {verify}.

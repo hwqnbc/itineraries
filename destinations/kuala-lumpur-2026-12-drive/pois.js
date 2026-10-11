@@ -10,7 +10,7 @@ window.TRIP_MAP = {
     2: "Paya Indah & Putra Mosque",
     3: "Monkeys Canopy",
     4: "GAMEON The Mines (whole day)",
-    5: "Putrajaya bikes, relaxed",
+    5: "Putrajaya bikes & horse-side brunch",
     6: "Drive to JB (Seremban, Yong Peng)",
     7: "Car return → home"
   },
@@ -30,6 +30,7 @@ window.TRIP_MAP = {
     { day: 2, name: "Paya Indah Wetlands", time: "2–2.5 h", type: "animals", note: "Hippos, crocodiles, birds; opens 8am, go first thing", query: "Paya Indah Wetlands Dengkil", lat: 2.8700, lng: 101.6180 },
     { day: 3, name: "Monkeys Canopy Resort", time: "4–6 h", type: "theme-park", note: "Splash Zone, Dino Desert, Enchanted Forest, Playland; Splash Zone closed Mondays", query: "Monkeys Canopy Resort Sungai Long", lat: 3.0460, lng: 101.8030 },
     { day: 5, name: "Taman Botani Putrajaya", time: "1–2 h", type: "sight", note: "Bike hire on the lakeside paths; ride early", query: "Taman Botani Putrajaya", lat: 2.9440, lng: 101.6720 },
+    { day: 5, name: "Ekues Cabin Cafe (Equestrian Park)", time: "1–1.5 h", type: "food", note: "Brunch watching the horses; 8am–7pm, closed Mondays; pony rides at the park; location approximate", query: "Ekues Cabin Cafe Putrajaya", lat: 2.9175, lng: 101.6790 },
     { day: 2, name: "Putra Mosque", time: "30–45 min", type: "sight", note: "The pink mosque; closed to visitors on Friday mornings", query: "Putra Mosque Putrajaya", lat: 2.9360, lng: 101.6897 },
     { day: 2, name: "Cruise Tasik Putrajaya", time: "45 min", type: "sight", note: "Lake cruise from the jetty by Putra Mosque", query: "Cruise Tasik Putrajaya", lat: 2.9352, lng: 101.6918 },
     { day: 4, name: "GAMEON Themepark, The Mines", time: "whole day", type: "theme-park", note: "Indoor: playland, splash lagoon, bowling, climbing; 10am–10pm; 15–20 min from Putrajaya", query: "GAMEON Themepark The Mines Seri Kembangan", lat: 3.0300, lng: 101.7180 },
