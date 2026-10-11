@@ -10,7 +10,7 @@ window.TRIP_MAP = {
     2: "Paya Indah & Putra Mosque",
     3: "Monkeys Canopy",
     4: "GAMEON The Mines (whole day)",
-    5: "Bikes, Glasshopper & horse-side lunch",
+    5: "Bikes, Glasshopper, deer park & horse-side lunch",
     6: "Drive to JB (Seremban, Yong Peng)",
     7: "Car return → home"
   },
@@ -31,6 +31,7 @@ window.TRIP_MAP = {
     { day: 3, name: "Monkeys Canopy Resort", time: "4–6 h", type: "theme-park", note: "Splash Zone, Dino Desert, Enchanted Forest, Playland; Splash Zone closed Mondays", query: "Monkeys Canopy Resort Sungai Long", lat: 3.0460, lng: 101.8030 },
     { day: 5, name: "Taman Botani Putrajaya", time: "1–2 h", type: "sight", note: "Bike hire on the lakeside paths; ride early", query: "Taman Botani Putrajaya", lat: 2.9450, lng: 101.6970 },
     { day: 5, name: "The Glasshopper", time: "45–60 min", type: "food", note: "Breakfast next to Taman Botani after the bikes; daily 8:30am–7pm; pinned location", query: "The Glasshopper Putrajaya", lat: 2.9428276, lng: 101.6939314 },
+    { day: 5, name: "Laman Rusa (deer park)", time: "30–45 min", type: "animals", note: "Free; 7am–7pm daily; fenced walkway through the deer enclosure; next to The Glasshopper", query: "Laman Rusa Taman Botani Putrajaya", lat: 2.9426615, lng: 101.6922198 },
     { day: 5, name: "Ekues Cabin Cafe (Equestrian Park)", time: "1–1.5 h", type: "food", note: "Late lunch watching the horses; 8am–7pm, closed Mondays; pony rides at the park; pinned location", query: "Ekues Cabin Cafe Putrajaya", lat: 2.8950394, lng: 101.6870764 },
     { day: 2, name: "Putra Mosque", time: "30–45 min", type: "sight", note: "The pink mosque; closed to visitors on Friday mornings", query: "Putra Mosque Putrajaya", lat: 2.9360, lng: 101.6897 },
     { day: 2, name: "Cruise Tasik Putrajaya", time: "45 min", type: "sight", note: "Lake cruise from the jetty by Putra Mosque", query: "Cruise Tasik Putrajaya", lat: 2.9352, lng: 101.6918 },

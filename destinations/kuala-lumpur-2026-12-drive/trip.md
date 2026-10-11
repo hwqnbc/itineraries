@@ -103,9 +103,10 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 - **Socks:** check whether grip socks are required {verify}.
 - **Getting back:** About 15–20 minutes to Putrajaya; after 8pm the roads are clear.
 
-### Day 5 · Thu 24 Dec · Putrajaya, relaxed (Christmas Eve) 🚲🐴
+### Day 5 · Thu 24 Dec · Putrajaya, relaxed (Christmas Eve) 🚲🦌🐴
 - **Morning (8am):** [Taman Botani Putrajaya](map:Taman+Botani+Putrajaya) (⏱ 1–2 h): **rent bikes** for the flat lakeside paths, from about RM10 an hour; twin bikes about RM20 per 30 minutes {verify}. Hours vary by source; it may be closed on Tuesdays {verify}. No bikes on the canopy bridge. Ride early, before it's hot.
 - **Breakfast (about 9:30):** [The Glasshopper](map:The+Glasshopper+Putrajaya) (⏱ 45–60 min), right next to Taman Botani: brunch-style menu (shakshouka, burgers), coffee that reviewers rate highly; order at the counter even when seated upstairs; free, easy parking. Open daily 8:30am–7pm (Google Maps, Oct 2026).
+- **Deer park (about 10:30):** [Laman Rusa @ Taman Botani](map:Laman+Rusa+Taman+Botani+Putrajaya) (⏱ 30–45 min), a short walk from The Glasshopper: a fenced walkway through the deer enclosure to see them up close. **Free**, open **7am–7pm daily** (Places Malaysia, Nov 2025) {verify}. Feeding isn't mentioned: check on the day. It also opens early enough to go first, about 7:45, before the bikes.
 - **Late morning:** Back to the hotel to rest (pool if there is one); the Putra Mosque and the lake cruise are on Day 2. Without a pool, a short air-conditioned stop at **IOI City Mall** (10–15 minutes; see swap-ins) works too.
 - **Late lunch (about 1:30–2:30):** [Ekues Cabin Cafe](map:Ekues+Cabin+Cafe+Putrajaya) (⏱ 1–1.5 h), an open-air café in the **Putrajaya Equestrian Park** (Presint 5), about 5–10 minutes' drive: lunch while **watching the horses** in the fields next to it. Open 8am–7pm, **closed on Mondays**; Fridays 8am–1pm and 3–7pm (Google Maps, Oct 2026). Reviews say it's a bit pricey and service can be slow. Optional **pony/horse joy ride** at the park, about RM15 adult / RM10 child {verify}. It's open-air: arrive by about 1:30, before the usual 3–6pm storms {verify}.
 - **Afternoon:** Rest at the hotel.
