@@ -10,7 +10,8 @@ git pull origin main                 # whichever branch you're on, bring in the 
 If the pull conflicts, resolve it (keeping both sides' trip changes) before editing anything else. Pull again before pushing if the session has been open a long time.
 
 ## Discuss / clarify only
-If a message starts with `discuss:` or `clarify:`, only answer, discuss or ask questions. Don't edit files, commit or push until the user replies **"proceed"**. The same applies to the rest of that discussion and to any planning discussion (proposals, "what if", options): replies like "ok", "keep first", "decide later" or a choice between options are **not** approval. Only "proceed" is.
+If a message starts with `discuss:` or `clarify:`, only answer, discuss or ask questions. Don't edit files, write code, run commands that change anything, commit or push until the user replies **"proceed"** or explicitly asks for that specific action (e.g. "commit this"). The same applies to the rest of that discussion and to any planning discussion (proposals, "what if", options): replies like "ok", "keep first", "decide later" or a choice between options are **not** approval.
+**Read-only work is fine:** reading files and docs, searching, and running checks that change nothing (`build.py --check` counts: it only writes `_site/`, which is never committed).
 
 ## Structure
 ```
