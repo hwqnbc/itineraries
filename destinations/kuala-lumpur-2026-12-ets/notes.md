@@ -12,11 +12,10 @@ Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026
 | Journey | Causeway bus/RTS, then ETS JB Sentral → KL Sentral, about 4.5–5 hours {verify} | Causeway bus/RTS, then drive from JB, about 3.5–4.5 hours without jams {verify} |
 | Causeway | Same crossing either way; the RTS Link (due around end-2026 {verify}) would help both | Same |
 | City days (Aquaria, Petrosains, Planetarium) | **Walk** via the KLCC–Bukit Bintang walkway and to Lot 10; Grab to the Planetarium | Grab (car stays parked) |
-| Farm In The City | ✅ Day 7 (MRT or Grab) {verify} | Not on the car trip (done on the ETS trip) |
-| Theme-park day | **GAMEON Ninja Village** at The Labs, BBCC (indoor; walk from the hotel) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
+| Farm In The City | Moved to the car trip (Grab about 30–45 min each way for a 2–3 h visit) | ✅ Day 2 · Mon 21 Dec, after Paya Indah (15–20 min from Putrajaya) |
+| Theme-park days | **GAMEON Ninja Village** at The Labs, BBCC (indoor; walk from the hotel) and **Sunway Lagoon** (Grab; term-time Friday) | **Monkeys Canopy** (drive; no waiting for a Grab back) |
 | Paya Indah Wetlands | Not practical (Grab back unreliable) | ✅ Day 2 · Mon 21 Dec, at 8am |
-| Shah Alam (museum, SkyCity, i-City) | Car only (your choice): Grab is possible but long, with a late return | ✅ Day 4 · Wed 23 Dec |
-| Hotel | Bukit Bintang (Star Mews) | Putrajaya: car park and pool; last night in JB {verify} |
+| Hotel | Bukit Bintang (Star Mews) | Putrajaya (6 nights; pool optional), then Eco Botanic and JB City Square {verify} |
 | Stress | No driving, parking or traffic | Little: the Putrajaya base avoids the city; most drives go away from KL |
 | Costs to compare | ETS ×3 return + Grab | Rental + fuel + tolls + parking |
 
@@ -26,30 +25,31 @@ Two separate trips: **[KL city trip by ETS](trip.md)**, Tue 1 – Wed 9 Dec 2026
 
 ## Peak pricing & dates
 
-Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places charge more in school holidays, public holidays and at weekends. The ETS trip (Tue 1 – Wed 9 Dec) puts the busiest, peak-priced places on the last **term-time weekdays, Wed 2 – Fri 4**, and the farm and sightseeing in the holidays, where crowds matter less. Prices are for non-Malaysians and change often {verify}.
+Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places charge more in school holidays, public holidays and at weekends. The ETS trip (Tue 1 – Wed 9 Dec) puts the busiest, peak-priced places on the last **term-time weekdays, Wed 2 – Fri 4**, and sightseeing in the holidays, where crowds matter less. Prices are for non-Malaysians and change often {verify}.
 
 | Place | Peak pricing? | What we found | When |
 |---|---|---|---|
 | Aquaria KLCC | **Yes**: school and public holidays, festive seasons | Off-peak (weekday) vs peak tickets are sold separately {verify} | Day 2 · Wed 2 Dec ✅ off-peak |
 | Petrosains | Not found {verify} | Separate prices for non-Malaysians and MyKad holders | Day 2 · Wed 2 Dec (closed Mondays) |
-| Planetarium Negara | No: flat price | Shows about RM12 adult / RM8 child; the gallery is free {verify} | Day 4 · Fri 4 Dec (closed Mon & public holidays) |
-| Space & Time Cube | Not found: no weekday/weekend split in listings; MyKad vs foreign prices (about RM95 foreign in one reseller listing) {verify} | Check the official booking page | Day 4 · Fri 4 Dec ✅ term-time weekday |
-| Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Day 7 · Mon 7 Dec, school holidays: go at opening (closed Tuesdays in term time only) |
+| Planetarium Negara | No: flat price | Shows about RM12 adult / RM8 child; the gallery is free {verify} | Day 5 · Sat 5 Dec (closed Mon & public holidays) |
+| Sunway Lagoon | Likely: school-holiday pricing {verify} | About RM268 international adult in one guide; resellers about US$48–59; Klook ticket covers day and night (you found) {verify}; closed Tuesdays outside holidays | Day 4 · Fri 4 Dec ✅ term-time weekday |
+| Space & Time Cube | Not found: no weekday/weekend split in listings; MyKad vs foreign prices (about RM95 foreign in one reseller listing) {verify} | Check the official booking page | Day 5 · Sat 5 Dec (no weekend price found) |
+| Farm In The City | Not found in listings; check [the one-day pass page](https://farminthecity.my/ticket-packages-one-day-pass/) {verify} | Listings show about RM58 adult / RM48 child for foreigners; prices were raised in 2026 | Car trip: Day 2 · Mon 21 Dec, school holidays: go by about 2pm (closed Tuesdays in term time only) |
 | GAMEON Ninja Village (The Labs, BBCC) | Not found {verify} | About RM68 per person + grip socks; daily 12–8pm (you checked) | Day 3 · Thu 3 Dec ✅ term-time weekday |
 | Berjaya Times Square Theme Park (swap-in) | Not found; longer hours at weekends and in school holidays {verify} | Resellers list about RM90 adult / RM75 child for non-Malaysians; no re-entry, no outside food {verify} | Day 3 · Thu 3 Dec ✅ term-time weekday |
 | White & Black Aquasports (Titiwangsa) | Not found; weekend hours differ {verify} | Paddle boat about RM15 adult / RM10 child per 30 min {verify} | Day 8 · Tue 8 Dec, school holidays (closed Mondays) |
 | ~~KidZania KL~~ | **Dynamic pricing**: cheaper the earlier you book (you found) | **Dropped**: adults pay with nothing to do, and no re-entry | — |
 | Monkeys Canopy | Not found {verify} | About RM38 child / RM50 adult in one listing | Car trip: Day 3 · Tue 22 Dec |
 | Paya Indah Wetlands | Not found {verify} | Closed Tuesdays except school and public holidays | Car trip: Day 2 · Mon 21 Dec |
-| Sultan Alam Shah Museum | Not found {verify} | About RM15 for foreigners; closed Mondays, Friday break 12:30–2:45pm {verify} | Car trip: Day 4 · Wed 23 Dec |
-| SkyCity / i-City | Not found; longer hours at weekends {verify} | SkyCity about RM55 adult / RM45 child (international); i-City about RM15 adult / RM35 child {verify} | Car trip: Day 4 · Wed 23 Dec |
+| GAMEON Themepark, The Mines | Not found {verify} | About RM34 unlimited play in one listing | Car trip: Day 4 · Wed 23 Dec |
 | Hotels, ETS, car rental | Usually dearer at weekends and in school holidays {verify} | Nights Mon–Fri are the cheapest part of this window | ETS trip: 8 nights, Tue–Wed, including a Fri and Sat |
 
-**If prices turn out the same all through December** (e.g. the farm), going after 5 Dec is fine for those places. What matters most is Aquaria (Wed 2 Dec) and the ninja park (Thu 3 Dec); check their date calendars when booking.
+**If prices turn out the same all through December** (e.g. the Cube), going after 5 Dec is fine for those places. What matters most is Aquaria (Wed 2 Dec), the ninja park (Thu 3 Dec) and Sunway Lagoon (Fri 4 Dec); check their date calendars when booking.
 
 ## Research & options
+- **Sunway Lagoon** (Bandar Sunway): water park, amusement park, wildlife park and extreme park; day 10am–6pm, night park 6–11pm, closed Tuesdays outside school and public holidays {verify}. Grab from Bukit Bintang about 30–40 min; avoid 5–8:30pm on the Federal Highway (Friday evenings are the worst). Train backup: BRT Sunway Line (Sunway Lagoon station, about 300 m walk) → USJ 7 → LRT Kelana Jaya line → Pasar Seni → MRT Kajang line, about 1–1.25 h. Klook's ticket covers day and night (you found).
 - **WINDLAB Indoor Skydiving** (1 Utama, PJ): wind tunnel with an instructor; about RM99 for 2 × 50-second flights, plus RM35 per extra flight and RM15 for a high ride; 10am–10pm (to 10:30pm Fri–Sat); from about age 3; closed lace-up shoes {verify}. Direct on the MRT Kajang line from Bukit Bintang, but about 1 h door to door (20–25 min on the train plus walks); Grab 25–35 min off-peak, 45–75 min at rush hour (LDP/Sprint jams, weekend mall queues). Still suits the ETS trip on a weekday; from Putrajaya it would mean driving into PJ traffic.
-- **Shortlist (from you):** Aquaria KLCC, Petrosains Discovery Centre, Space & Time Cube (Lot 10, Bukit Bintang), Farm In The City, Monkeys Canopy Resort (Sungai Long, Cheras; **drive version only**), Berjaya Times Square Theme Park (**ETS version**). **Not going:** Genting, Sunway Lagoon, KidZania (dropped 29 Sep).
+- **Shortlist (from you):** Aquaria KLCC, Petrosains Discovery Centre, Space & Time Cube (Lot 10, Bukit Bintang), Farm In The City, Monkeys Canopy Resort (Sungai Long, Cheras; **drive version only**), Berjaya Times Square Theme Park (**ETS version**). **Not going:** Genting, KidZania (dropped 29 Sep).
 - **Grab rule:** a place is fine without a car as long as a Grab back to the hotel is easy to book. That's true in the city and suburbs; not at Paya Indah or the Monkeys Canopy hilltop, which is why the ETS plan uses Berjaya Times Square Theme Park instead.
 - **KLCC vs Bukit Bintang hotels:** Bukit Bintang generally costs less for a similar standard and has far more mid-range choice; KLCC is mostly upscale {verify}. The covered **KLCC–Bukit Bintang walkway** (about 1.2 km, Pavilion ↔ Convention Centre) links them, so a Bukit Bintang base loses little.
 - **Monkeys Canopy Resort** (monkeyscanopy.com): Monkeys Splash Zone (indoor water park), Dino Desert, Enchanted Forest, Safari Escape Playland, Conquer indoor extreme park, and go-karts. One listing shows about RM38 per child and RM50 per adult, with a 2+2 family deal {verify}, but check what it includes.
@@ -109,6 +109,7 @@ Malaysia's school holidays start **after 5 Dec 2026** (your note). Some places c
 | 2026-10-11 | Space & Time Cube removed; Day 3 is a whole afternoon at the Ninja Village with nothing after it | He prefers a whole day at one theme park and will be tired afterwards |
 | 2026-10-11 | Space & Time Cube back in the plan: Fri 4 Dec late afternoon, after the Planetarium (it had been removed by mistake) | You still want it, just not on the ninja-park day |
 | 2026-10-11 | Immersify dropped; Day 8 afternoon is free and easy. GAMEON Ninja Village marker moved to your pin (3.1400702, 101.7091040; the earlier position was an estimate about 500 m off) | Similar to the Space & Time Cube (Day 4) |
+| 2026-10-16 | Sunway Lagoon (day + night) added on Fri 4 Dec; Planetarium and Space & Time Cube moved to Sat 5; Farm In The City moved to the car trip (Mon 21 Dec); Mon 7 is free and easy | Term-time Friday is the quietest day for a big park; the farm is a short visit, easier by car from Putrajaya |
 
 ## Open questions
 - GAMEON Ninja Village: age/height rules per trial, waiver, re-entry and outside food {verify}.

@@ -5,15 +5,18 @@
 The **Drive vs ETS** comparison, the shortlist research and the shared decisions log are in the **[ETS version's notes](../kuala-lumpur-2026-12-ets/notes.md)**.
 
 ## Trip-specific overrides
-- Long drives (about 3–3.5 hours) are allowed on Days 1 and 6 only, because they're the transfer days.
+- Long drives (about 3–4 hours) are allowed on Days 1 and 7 only, because they're the transfer days.
 - The city sights are on the ETS city trip (1–9 Dec), so this trip never enters the KL city centre.
 
 ## Research & options (car-specific)
 - **Base: Putrajaya** (or Cyberjaya): just off the North–South Expressway, 10–45 minutes to every stop, easy parking, and most drives go away from KL. Mid Valley (the old draft base) would mean city traffic both ways.
 - **JB rental, last night in JB:** drive back the day before, stay in JB, return the car the next morning (your standing rule for JB rentals). A Singapore car would need a VEP and Malaysian insurance, and the 3/4-tank rule {verify}.
-- **Dates (Sun 20 – Sat 26 Dec):** compared with 21–25 and 26–30 Dec. This keeps every attraction day on a weekday before Christmas, and avoids driving on 24 Dec; the long drive is on Christmas Day, then the car goes back on Sat 26 morning.
+- **Dates (first chosen as Sun 20 – Sat 26 Dec; extended to Mon 28 on 2026-10-16):** compared with 21–25 and 26–30 Dec. This keeps every attraction day on a weekday before Christmas, and avoids driving on 24 Dec; the long drive is on Christmas Day, then the car goes back on Sat 26 morning. Extended: drive south on Sat 26 (Boxing Day, traffic mostly still heading north), two nights in JB, and cross on Mon 28 to avoid the Sunday-evening jam at the end of the Christmas long weekend {verify}.
 - **SplashMania (dropped):** outdoor water park at Gamuda Cove, about 10–20 minutes from Paya Indah; 10am–6pm, normally closed on Wednesdays; about RM112–125 adult / RM99–110 child {verify}. Dropped: dearer than Monkeys Canopy, whose indoor Splash Zone is the better choice. **Paya Indah** opens at 8am (you checked) and normally closes on Tuesdays {verify}, so it stays on Monday.
-- **Food on the drive to JB:** Empayar Seremban Siew Pow (near exit 218; baked char siew buns) and Kluang RailCoffee Yong Peng (about 1 min from exit 241; kaya toast, Hainanese coffee). Also passed: Ayer Keroh R&R, Pagoh R&R (southbound; clean, lots of food), Skudai R&R near JB {verify}.
+- **Food on the drive to JB (now Sat 26):** Empayar Seremban Siew Pow (near exit 218; baked char siew buns) and Kluang RailCoffee Yong Peng (about 1 min from exit 241; kaya toast, Hainanese coffee). Also passed: Ayer Keroh R&R, Pagoh R&R (southbound; clean, lots of food), Skudai R&R near JB {verify}.
+- **Farm In The City** (Seri Kembangan; moved from the ETS trip): a short visit, 2–3 h; about RM58 adult / RM48 child for foreigners in listings; closed Tuesdays in term time only {verify}. On Mon 21 after a relaxed Paya Indah morning: arrive by about 2pm.
+- **JB (nights 7–8):** Eco Botanic (Iskandar Puteri): Corgi's Talk dog café, Restoran Hua Mui (chicken chop), Ah Po Jia, Mall of Medini, Sunway Big Box; Sanrio Hello Kitty Town at Puteri Harbour (check it's open). JB city: Jalan Dhoby and Jalan Tan Hiok Nee cafés (Roost), Cult Classics photobooth, Slowspace (new, Jalan Ibrahim), DuDu Duck Cafe (ducks, R&F Princess Cove, new 2026), Capyba Café (capybaras; check location). From Seth Lui's Jul/Aug 2026 roundups, NST, Little Day Out, TheBeat {verify}. Sunday afternoon: Singapore-bound jams around City Square, so move there before about 1pm.
+- **Christmas Day (Fri 25) options:** IOI City / District 21 (holiday price), Kuala Selangor monkeys and fireflies (book the boat), Putrajaya Wetlands Park, Jelita Ostrich Farm (Seremban; skip rides), or Ekues (Friday 8am–1pm, 3–7pm).
 - **Ekues Cabin Cafe** (Putrajaya Equestrian Park, Presint 5): open-air café beside the horse fields; Google Maps (11 Oct 2026): Sun and Tue–Sat 8am–7pm, Fri 8am–1pm and 3–7pm, closed Mondays; live 'a little busy' on a Sunday afternoon, so open again (an older Tatler article said it was closed for renovation). Reviews: nice setting, a bit pricey, slow service. Park joy rides about RM15 adult / RM10 child {verify}. Map marker from your Google Maps pin.
 - **The Glasshopper** (next to Taman Botani, Presint 1): Google Maps (11 Oct 2026): daily 8:30am–7pm; free, easy parking; coffee highly recommended; order at the counter even when seated upstairs; very busy on Sunday afternoons. Menu includes shakshouka, burgers, truffle fries. Map marker from your Google Maps pin.
 - **Laman Rusa (deer park) @ Taman Botani** (Presint 1): free entry, 7am–7pm daily, per a Places Malaysia Facebook post (7 Nov 2025; 202K views). A fenced walkway through the deer enclosure; feeding not mentioned {verify}. Map marker from your Google Maps pin.
@@ -24,7 +27,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 - **Mitsui Outlet Park KLIA (dropped):** outlet shopping next to KLIA, open 10am–10pm; nearby **Anjung Spotter** plane-observation deck (free) {verify}. Sepang International Circuit and the National Automobile Museum are also nearby {verify}. Dropped on 2026-10-11: he isn't interested in plane spotting, and without it it's only an outlet mall.
 - **GAMEON Themepark, The Mines** (Seri Kembangan): big 3-storey indoor play park with a splash lagoon, bowling and climbing; about RM34 unlimited in one listing; 10am–10pm {verify}. Edge of the city, about 25–40 min by Grab from Bukit Bintang but 15–20 min by car from Putrajaya, so it's the car trip's **indoor rainy-day backup**. It overlaps with the Ninja Village on the ETS trip.
 - **IOI City Mall + District 21** (Putrajaya, about 10–15 min from the base): District 21 is an indoor adventure park (tube slide, ropes, go-pedal, maze); weekdays 12–8pm, weekends/PH 10am–8pm, last tickets 5:30pm; about RM64 weekdays / RM80 weekends and holidays, RM10 non-active pass {verify}. **Closed shoes are required to play** (no sandals). The mall also has the Icescape ice rink. Nearest indoor option to the base; overlaps with GAMEON The Mines, so pick one.
-- **Considered and left out:** Skytrex (Shah Alam; status unclear, possibly closed or weekend-only), Zoo Melaka, Farm In The City (on the ETS trip), the city sights (on the ETS trip). Kuala Selangor fireflies and A'Famosa Safari Wonderland are kept as swap-ins.
+- **Considered and left out:** Skytrex (Shah Alam; status unclear, possibly closed or weekend-only), Zoo Melaka, the city sights (on the ETS trip). Kuala Selangor fireflies and A'Famosa Safari Wonderland are kept as swap-ins.
 
 ## Decisions log
 | Date | Decision | Why |
@@ -58,11 +61,13 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-10-11 | Ekues Cabin Cafe added to Thu 24 as a brunch stop after the bikes | You asked; horses while eating, near the base, open Thursdays (closed Mondays) |
 | 2026-10-11 | Thu 24: The Glasshopper for breakfast after the bikes; Ekues moved to a late lunch (about 1:30). Hotel pool now optional. Taman Botani marker moved to the east side of the lake (it was about 2.5 km off) | The Glasshopper is next to Taman Botani; the hotel may not have a pool; your map screenshot showed Taman Botani's real position |
 | 2026-10-11 | Laman Rusa deer park added to Thu 24, about 10:30 after The Glasshopper | You found it; free, next to the café, and another animal stop for him |
+| 2026-10-16 | Extended to Mon 28: Fri 25 free (Christmas swap-ins); Sat 26 Ekues breakfast, then drive south (siew pau, Kluang RailCoffee) to Eco Botanic; Sun 27 JB city (City Square night); Mon 28 car return and Causeway. Farm In The City added to Mon 21 afternoon (from the ETS trip); Putra Mosque and cruise moved to Thu 24; Ekues moved to Sat 26 | Avoid the Sunday jam at the end of the long weekend; Sunway Lagoon took the ETS farm slot; the farm is easier by car |
 
 ## Open questions
 - Putrajaya or Cyberjaya hotel (car park, family room; pool nice to have)?
-- JB hotel near the rental's return office for Fri 25 Dec; rental's Saturday hours after Christmas {verify}.
+- JB hotels: Eco Botanic (Sat 26) and near City Square / the rental's return office (Sun 27); rental's Monday hours {verify}.
 - Monkeys Canopy: re-entry and outside-food rules {verify}.
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)
 - GAMEON The Mines: re-entry, outside food, grip socks {verify}.
-- Christmas Day opening hours: Empayar Seremban Siew Pow and Kluang RailCoffee Yong Peng {verify}.
+- Boxing Day (Sat 26) hours: Empayar Seremban Siew Pow and Kluang RailCoffee Yong Peng {verify}.
+- Farm In The City: closing and last-entry times {verify}.
