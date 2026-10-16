@@ -10,6 +10,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 
 ## Research & options (car-specific)
 - **Base: Putrajaya** (or Cyberjaya): just off the North–South Expressway, 10–45 minutes to every stop, easy parking, and most drives go away from KL. Mid Valley (the old draft base) would mean city traffic both ways.
+- **Hotel: Mercure Living Putrajaya** (chosen 2026-10-16, not booked): Menara Shaftsbury, Jalan Alamanda, Presint 1; 2-bedroom apartments (sleep 4) with kitchen; free basement self-parking (hotel's reply to a review); outdoor saltwater pool and children's pool; 8.8–9.0/10 on Hotels.com, some complaints about cleanliness and worn rooms; one snapshot about US$60–67/night (dates unknown) {verify}. Compared: Enclave Business Hotel (rooms sleep only 2), Urban Inn Cyberjaya (triple room), Coop Hotel, Seeds Hotel. Traffic out of Alamanda is easy: Putrajaya's own rush runs the opposite way to your drives.
 - **JB rental, last night in JB:** drive back the day before, stay in JB, return the car the next morning (your standing rule for JB rentals). A Singapore car would need a VEP and Malaysian insurance, and the 3/4-tank rule {verify}.
 - **Dates (first chosen as Sun 20 – Sat 26 Dec; extended to Mon 28 on 2026-10-16):** compared with 21–25 and 26–30 Dec. This keeps every attraction day on a weekday before Christmas, and avoids driving on 24 Dec; the long drive is on Christmas Day, then the car goes back on Sat 26 morning. Extended: drive south on Sat 26 (Boxing Day, traffic mostly still heading north), two nights in JB, and cross on Mon 28 to avoid the Sunday-evening jam at the end of the Christmas long weekend {verify}.
 - **SplashMania (dropped):** outdoor water park at Gamuda Cove, about 10–20 minutes from Paya Indah; 10am–6pm, normally closed on Wednesdays; about RM112–125 adult / RM99–110 child {verify}. Dropped: dearer than Monkeys Canopy, whose indoor Splash Zone is the better choice. **Paya Indah** opens at 8am (you checked) and normally closes on Tuesdays {verify}, so it stays on Monday.
@@ -27,7 +28,7 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 - **Mitsui Outlet Park KLIA (dropped):** outlet shopping next to KLIA, open 10am–10pm; nearby **Anjung Spotter** plane-observation deck (free) {verify}. Sepang International Circuit and the National Automobile Museum are also nearby {verify}. Dropped on 2026-10-11: he isn't interested in plane spotting, and without it it's only an outlet mall.
 - **GAMEON Themepark, The Mines** (Seri Kembangan): big 3-storey indoor play park with a splash lagoon, bowling and climbing; about RM34 unlimited in one listing; 10am–10pm {verify}. Edge of the city, about 25–40 min by Grab from Bukit Bintang but 15–20 min by car from Putrajaya, so it's the car trip's **indoor rainy-day backup**. It overlaps with the Ninja Village on the ETS trip.
 - **IOI City Mall + District 21** (Putrajaya, about 10–15 min from the base): District 21 is an indoor adventure park (tube slide, ropes, go-pedal, maze); weekdays 12–8pm, weekends/PH 10am–8pm, last tickets 5:30pm; about RM64 weekdays / RM80 weekends and holidays, RM10 non-active pass {verify}. **Closed shoes are required to play** (no sandals). The mall also has the Icescape ice rink. Nearest indoor option to the base; overlaps with GAMEON The Mines, so pick one.
-- **Considered and left out:** Skytrex (Shah Alam; status unclear, possibly closed or weekend-only), Zoo Melaka, the city sights (on the ETS trip). Kuala Selangor fireflies and A'Famosa Safari Wonderland are kept as swap-ins.
+- **Considered and left out:** Skytrex (Shah Alam; status unclear, possibly closed or weekend-only), Zoo Melaka, A'Famosa Safari Wonderland and UK Farm Agro Resort (all visited before), the city sights (on the ETS trip). Kuala Selangor (monkeys and fireflies) is kept as a swap-in.
 
 ## Decisions log
 | Date | Decision | Why |
@@ -62,9 +63,10 @@ The **Drive vs ETS** comparison, the shortlist research and the shared decisions
 | 2026-10-11 | Thu 24: The Glasshopper for breakfast after the bikes; Ekues moved to a late lunch (about 1:30). Hotel pool now optional. Taman Botani marker moved to the east side of the lake (it was about 2.5 km off) | The Glasshopper is next to Taman Botani; the hotel may not have a pool; your map screenshot showed Taman Botani's real position |
 | 2026-10-11 | Laman Rusa deer park added to Thu 24, about 10:30 after The Glasshopper | You found it; free, next to the café, and another animal stop for him |
 | 2026-10-16 | Extended to Mon 28: Fri 25 free (Christmas swap-ins); Sat 26 Ekues breakfast, then drive south (siew pau, Kluang RailCoffee) to Eco Botanic; Sun 27 JB city (City Square night); Mon 28 car return and Causeway. Farm In The City added to Mon 21 afternoon (from the ETS trip); Putra Mosque and cruise moved to Thu 24; Ekues moved to Sat 26 | Avoid the Sunday jam at the end of the long weekend; Sunway Lagoon took the ETS farm slot; the farm is easier by car |
+| 2026-10-16 | Hotel: Mercure Living Putrajaya (6 nights). A'Famosa Safari Wonderland removed from the swap-ins | You chose it; 2-bedroom apartment, free parking, by Alamanda. A'Famosa: visited before |
 
 ## Open questions
-- Putrajaya or Cyberjaya hotel (car park, family room; pool nice to have)?
+- Mercure Living: 2-bedroom price for 20–26 Dec, parking height limit, recent cleanliness reviews {verify}.
 - JB hotels: Eco Botanic (Sat 26) and near City Square / the rental's return office (Sun 27); rental's Monday hours {verify}.
 - Monkeys Canopy: re-entry and outside-food rules {verify}.
 - Does he still need a booster seat? (Check Malaysian child-seat rules {verify}.)

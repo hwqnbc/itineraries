@@ -29,7 +29,7 @@ window.TRIP_MAP = {
     { name: "JB city centre", note: "Night 8: City Square, Jalan Dhoby heritage cafés, the Causeway", center: [1.4605, 103.7630], km: 1.0 },
   ],
   pois: [
-    { name: "Putrajaya (hotel area)", type: "hotel", note: "Nights 1–6: hotel with car park (pool optional)", query: "Putrajaya", lat: 2.9260, lng: 101.6960 },
+    { name: "Mercure Living Putrajaya", type: "hotel", note: "Nights 1–6 (not booked yet): 2-bedroom apartment by Alamanda mall; free basement parking; location approximate", query: "Mercure Living Putrajaya", lat: 2.9420, lng: 101.7140 },
     { name: "Eco Botanic (hotel area)", type: "hotel", fit: false, note: "Night 7 (Sat 26); location approximate", query: "Eco Botanic Iskandar Puteri", lat: 1.4335, lng: 103.6455 },
     { name: "JB City Square (hotel area)", type: "hotel", fit: false, note: "Night 8 (Sun 27): near the car-return office", query: "JB City Square", lat: 1.4610, lng: 103.7640 },
     { day: 2, name: "Paya Indah Wetlands", time: "3–4 h, relaxed", type: "animals", note: "Hippos, crocodiles, birds; opens 8am; the whole morning", query: "Paya Indah Wetlands Dengkil", lat: 2.8700, lng: 101.6180 },
@@ -53,7 +53,6 @@ window.TRIP_MAP = {
     { day: "opt", name: "Jelita Ostrich Farm", time: "1.5–2 h", type: "animals", fit: false, note: "Christmas Day option, Seremban: petting zoo and feeding (skip the rides); location approximate", query: "Jelita Ostrich Farm Seremban", lat: 2.7700, lng: 102.0100 },
     { day: "opt", name: "IOI City Mall (Icescape ice rink)", time: "2–4 h", type: "food", note: "Huge mall 10–15 min from Putrajaya: food, Icescape ice rink, District 21 inside", query: "IOI City Mall Putrajaya", lat: 2.9700, lng: 101.7130 },
     { day: "opt", name: "District 21 (IOI City Mall)", time: "2–3 h", type: "theme-park", note: "Wear closed shoes (required). Indoor adventure park: tube slide, ropes, go-pedal, maze; weekdays 12–8pm, weekends 10am–8pm; last tickets 5:30pm", query: "District 21 IOI City Mall", lat: 2.9706, lng: 101.7122 },
-    { day: "opt", name: "A'Famosa Safari Wonderland", time: "full day", type: "animals", fit: false, note: "Melaka: truck safari, animal shows, evening carnival; on the way south (Day 7), if you skip the JB plans", query: "A Famosa Safari Wonderland", lat: 2.4030, lng: 102.2140 },
     { day: "opt", name: "Bukit Melawati (silver leaf monkeys)", time: "1–1.5 h", type: "animals", fit: false, note: "Kuala Selangor, late afternoon", query: "Bukit Melawati Kuala Selangor", lat: 3.3410, lng: 101.2450 },
     { day: "opt", name: "Kampung Kuantan fireflies", time: "30–45 min", type: "animals", fit: false, note: "Firefly boat after dark, 8–11pm; avoid full moon", query: "Kampung Kuantan Firefly Park", lat: 3.3610, lng: 101.3020 }
   ]

@@ -39,7 +39,7 @@ The **car trip**: rent a car in JB and base in **Putrajaya**, south of KL, for t
 
 | Nights | Where | Area | Notes |
 |--------|-------|------|-------|
-| Nights 1–6 (Sun 20 – Sat 26) | TBD | **Putrajaya** (or Cyberjaya next door) | Hotel with its own car park (check the cost and height limit) and room for 3 (some budget hotels sleep only 2); a pool is nice to have, not essential {verify}. 10–45 minutes to every stop |
+| Nights 1–6 (Sun 20 – Sat 26) | [Mercure Living Putrajaya](map:Mercure+Living+Putrajaya) (not booked yet) | **Putrajaya**, Presint 1: Menara Shaftsbury, next to **Alamanda mall** (food, groceries) | **2-bedroom apartment** with kitchen and living area (sleeps 4); **free basement parking** (check the height limit); outdoor pool and children's pool; reviews 8.8–9.0/10, with some comments on cleanliness and worn rooms {verify}. About 5 minutes to Taman Botani and Putra Mosque; 10–45 minutes to every stop |
 | Night 7 (Sat 26 – Sun 27) | TBD | **Eco Botanic**, Iskandar Puteri (JB) | Cafés and kopitiams in the township; Mall of Medini nearby. Christmas weekend: book early {verify} |
 | Night 8 (Sun 27 – Mon 28) | TBD | **Near JB City Square**, by the car-return office | Walk to Jalan Dhoby's cafés; car back in the morning, then the Causeway {verify} |
 
@@ -56,7 +56,7 @@ Travel times are rough and outside rush hour {verify}.
 | Evenings & food | Waterfront, IOI City Mall nearby {verify} | Malls and cafés | Suburban malls | Big malls |
 | Watch out | Quiet at night | Quieter still | Morning traffic into KL | City traffic both ways |
 
-**Recommendation:** **Putrajaya**; Cyberjaya if a good hotel is cheaper there.
+**Chosen:** **Putrajaya** (Mercure Living, by Alamanda).
 
 ### Rush-hour direction
 KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and **out in the evening** (about 5–8pm) {verify}. From Putrajaya, most drives on this trip go **south or west, away from KL**; Monkeys Canopy (north-east) and The Mines (north) head towards the commuter belt, so both are timed around the rush: out after about 9:15am, back after 8pm. Check Google Maps' typical traffic ("Depart at") before each drive.
@@ -147,15 +147,13 @@ KL's weekday jams flow **into the city in the morning** (about 7–9:30am) and *
 - **[Jelita Ostrich Farm](map:Jelita+Ostrich+Farm+Seremban)** (⏱ 1.5–2 h), Seremban, about 45 minutes: ostriches and a petting zoo, with feeding {verify}. Skip the ostrich rides (animal welfare). Check it's open on Christmas Day {verify}.
 - **Ekues Cabin Cafe and a horse ride** (see Day 7): Friday hours 8am–1pm and 3–7pm, if you'd rather do it on Christmas Day.
 
-**Other:**
-- **[A'Famosa Safari Wonderland](map:A+Famosa+Safari+Wonderland)** (⏱ full day), Alor Gajah, Melaka: a **truck drive through a safari park**, walk-through areas and animal shows, with an evening carnival and fireworks {verify}. About 30 minutes off the expressway {verify}.
 
 ## 🗺️ Map {#map}
 
 ## ✅ Bookings to make {#bookings}
 - [ ] JB car rental Sun 20 – Mon 28 Dec that allows driving to KL, with a child booster seat if needed; check the Monday return hours {verify}
 - [ ] Touch 'n Go card with credit (tolls and parking)
-- [ ] Putrajaya (or Cyberjaya) hotel, 6 nights (Sun 20 – Sat 26): room for 3, own car park (cost, height limit); a pool is nice to have, not essential
+- [ ] Mercure Living Putrajaya, 6 nights (Sun 20 – Sat 26): a **2-bedroom** apartment; confirm free parking and the height limit; read recent reviews on cleanliness {verify}
 - [ ] Eco Botanic hotel for Sat 26 Dec (Christmas weekend: book early)
 - [ ] JB hotel near City Square for Sun 27 Dec, near the car-return office
 - [ ] Farm In The City tickets for Mon 21 Dec ([one-day pass](https://farminthecity.my/ticket-packages-one-day-pass/)) {verify}
