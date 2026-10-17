@@ -94,6 +94,21 @@
       return;
     }
     map = L.map(osmPane, { scrollWheelZoom: false });
+    // Keep tiles and markers aligned when the map's box changes size after drawing
+    // (rotation, split screen, content above it loading late).
+    function refit() { if (map && !osmPane.hidden) map.invalidateSize(); }
+    if (window.ResizeObserver) new ResizeObserver(refit).observe(osmPane);
+    else window.addEventListener("resize", refit);
+    window.addEventListener("load", refit);
+    // If Leaflet's stylesheet didn't apply (slow or failed CDN load), tiles and markers
+    // are mispositioned: load it again and redraw once it arrives.
+    if (getComputedStyle(map.getPane("mapPane")).position !== "absolute") {
+      var css = document.createElement("link");
+      css.rel = "stylesheet";
+      css.href = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css?retry=1";
+      css.onload = refit;
+      document.head.appendChild(css);
+    }
     // While the Areas layer is on, the map background is faded (CSS on .areas-on) so the
     // area outlines stand out. Same OpenStreetMap tiles, no extra tile service or API key.
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
