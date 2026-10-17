@@ -29,7 +29,7 @@ window.TRIP_MAP = {
     { name: "JB city centre", note: "Night 8: City Square, Jalan Dhoby heritage cafés, the Causeway", center: [1.4605, 103.7630], km: 1.0 },
   ],
   pois: [
-    { name: "Mercure Living Putrajaya", type: "hotel", note: "Nights 1–6 (not booked yet): 2-bedroom apartment by Alamanda mall; free basement parking; location approximate", query: "Mercure Living Putrajaya", lat: 2.9420, lng: 101.7140 },
+    { name: "Mercure Living Putrajaya", type: "hotel", note: "Nights 1–6 (not booked yet): 2-bedroom apartment by Alamanda mall; free basement parking; pinned location", query: "Mercure Living Putrajaya", lat: 2.9394317, lng: 101.7137016 },
     { name: "Eco Botanic (hotel area)", type: "hotel", fit: false, note: "Night 7 (Sat 26); location approximate", query: "Eco Botanic Iskandar Puteri", lat: 1.4335, lng: 103.6455 },
     { name: "JB City Square (hotel area)", type: "hotel", fit: false, note: "Night 8 (Sun 27): near the car-return office", query: "JB City Square", lat: 1.4610, lng: 103.7640 },
     { day: 2, name: "Paya Indah Wetlands", time: "3–4 h, relaxed", type: "animals", note: "Hippos, crocodiles, birds; opens 8am; the whole morning", query: "Paya Indah Wetlands Dengkil", lat: 2.8700, lng: 101.6180 },

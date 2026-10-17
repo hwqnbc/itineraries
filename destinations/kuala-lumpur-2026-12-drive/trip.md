@@ -9,7 +9,7 @@ card: 20 – 28 Dec 2026 · 9 days · drive from JB, Putrajaya base, 2 nights in
 tagline: The outskirts by car: Paya Indah hippos, Farm In The City, Monkeys Canopy, GAMEON The Mines, Putrajaya, JB cafés
 participants: default-family
 country: malaysia
-weather: 2.926, 101.696            # forecast point: Putrajaya, the base
+weather: 2.939, 101.714            # forecast point: Mercure Living Putrajaya, the base
 currency: MYR
 updated: 2026-10-16
 ---
